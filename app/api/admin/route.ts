@@ -10,7 +10,7 @@ export async function GET(request: NextRequest) {
   const client = await clientPromise;
   const db = client.db();
   const adminUser = await db.collection("admins").findOne({ email: session?.user?.email });
-  return NextResponse.json({ isAdmin: !!adminUser });
+  return NextResponse.json({ isAdmin: !!adminUser, adminUser });
 }
 
 export async function POST(request: NextRequest) {
