@@ -1,4 +1,4 @@
-// app/server/page.tsx
+// app/routes/server/page.tsx
 "use server";
 import React from "react";
 import Link from "next/link";

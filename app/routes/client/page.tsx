@@ -1,4 +1,4 @@
-// app/client/page.tsx
+// app/routes/client/page.tsx
 "use client";
 import React from "react";
 import Link from "next/link";
