@@ -3,8 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import initialCategories from "./data";
-import Navbar from "@/pages/components/Navbar";
-import Footer from "@/pages/components/Footer";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 import { useCart } from "../context/CartContext";
 import { SiHandlebarsdotjs } from "react-icons/si";
 import type { Item, CartItem, Category } from "./data";
