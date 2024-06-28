@@ -13,28 +13,31 @@ export default function AdminProfile() {
   useEffect(() => {
     if (status === "loading") return;
     if (!session) router.push("/");
-
-    fetch("/api/check-admin")
+    fetch("/api/admin")
       .then((res) => res.json())
       .then((data) => {
         if (!data.isAdmin) router.push("/admin");
       });
   }, [session, status, router]);
+
   if (status === "loading") return null;
 
   return (
     <React.Fragment>
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
-        <div className="container mx-auto px-4 py-8">
-          <h1 className="mb-6 text-3xl font-bold text-[#172B25]">Client Profile</h1>
-          <div className="user-info mb-4">
-            <p className="text-lg text-[#172B25]">
-              Name: <span className="font-semibold">{session?.user?.name}</span>
-            </p>
-            <p className="text-lg text-[#172B25]">
-              Email: <span className="font-semibold">{session?.user?.email}</span>
-            </p>
+        <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
+          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Restaurant Partner</h1>
+          <div className="flex flex-col my-10 items-center justify-center text-center">
+            {session?.user?.image && <img src={session.user.image} alt={`${session.user.name}'s profile`} className="rounded-3xl" />}
+            <ul className="text-lg text-[#172B25]">
+              <li>
+                Username: <span className="font-semibold">{session?.user?.name}</span>
+              </li>
+              <li>
+                Email: <span className="font-semibold">{session?.user?.email}</span>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

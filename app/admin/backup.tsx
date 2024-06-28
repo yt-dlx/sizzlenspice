@@ -31,7 +31,7 @@ export default function AdminPage() {
   useEffect(() => {
     if (status === "loading") return;
     if (!session) router.push("/");
-    fetch("/api/check-admin")
+    fetch("/api/admin")
       .then((res) => res.json())
       .then((data) => {
         if (!data.isAdmin) router.push("/");

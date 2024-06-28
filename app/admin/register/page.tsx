@@ -16,7 +16,7 @@ export default function AdminRegister() {
   useEffect(() => {
     if (status === "loading") return;
     if (session) {
-      fetch("/api/check-admin")
+      fetch("/api/admin")
         .then((res) => res.json())
         .then((data) => {
           if (data.isAdmin) router.push("/admin/profile");
