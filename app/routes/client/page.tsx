@@ -47,13 +47,13 @@ export default function Client() {
           )}
           <div className="flex flex-col space-y-4">
             <Link href="/routes/client/profile">
-              <button className="button-style">Client-Profile</button>
+              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Client-Profile</button>
             </Link>
             <Link href="/routes/client/setting">
-              <button className="button-style">Client-Setting</button>
+              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Client-Setting</button>
             </Link>
             <Link href="/routes">
-              <button className="button-style">Back to Routes</button>
+              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Back to Routes</button>
             </Link>
           </div>
         </div>

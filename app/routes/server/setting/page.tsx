@@ -15,14 +15,16 @@ export default async function ServerSettings() {
     <React.Fragment>
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
-        <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server Settings</h1>
-        <div className="mb-6">
-          <p className="text-md text-[#172B25]">This is where you can manage your account setting.</p>
-        </div>
-        <div className="navigation">
-          <Link href="/routes/server">
-            <button className="button-style">Back to Server Page</button>
-          </Link>
+        <div className="container mx-auto px-4 py-8">
+          <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server Settings</h1>
+          <div className="mb-6">
+            <p className="text-md text-[#172B25]">This is where you can manage your account setting.</p>
+          </div>
+          <div className="navigation">
+            <Link href="/routes/server">
+              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Back to Server Page</button>
+            </Link>
+          </div>
         </div>
       </div>
       <Footer />
