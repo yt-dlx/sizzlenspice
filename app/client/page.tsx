@@ -50,8 +50,8 @@ export default function Client() {
         <Link href="/client/setting" className="block px-4 py-2 mb-2 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
           Client-Setting
         </Link>
-        <Link href="/server" className="block px-4 py-2 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
-          Go to Server Routes
+        <Link href="/admin" className="block px-4 py-2 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
+          Go to Admin Routes
         </Link>
       </div>
     </>
