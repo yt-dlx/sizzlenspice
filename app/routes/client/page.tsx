@@ -4,8 +4,8 @@ import React from "react";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { useSession } from "next-auth/react";
-import Navbar from "@/app/components/Navbar";
-import Footer from "@/app/components/Footer";
+import Navbar from "@/app/utils/components/Navbar";
+import Footer from "@/app/utils/components/Footer";
 import { useQuery } from "@tanstack/react-query";
 
 export default function Client() {

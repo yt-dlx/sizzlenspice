@@ -4,8 +4,8 @@ import React from "react";
 import Link from "next/link";
 import { auth } from "@/auth";
 import { redirect } from "next/navigation";
-import Navbar from "@/app/components/Navbar";
-import Footer from "@/app/components/Footer";
+import Navbar from "@/app/utils/components/Navbar";
+import Footer from "@/app/utils/components/Footer";
 
 export default async function ServerSettings() {
   const session = await auth();

@@ -4,7 +4,7 @@ import { useState } from "react";
 import { ThemeProvider } from "next-themes";
 import { AnimatePresence } from "framer-motion";
 import { SessionProvider } from "next-auth/react";
-import { CartProvider } from "./context/CartContext";
+import { CartProvider } from "./utils/context/CartContext";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 

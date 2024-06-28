@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { Providers } from "./providers";
 import { Roboto } from "next/font/google";
 import LocalFontLoader from "next/font/local";
-import AnimatedContentWrapper from "@/app/components/AnimatedContentWrapper";
+import AnimatedContentWrapper from "@/app/utils/components/AnimatedContentWrapper";
 
 const Brittany_Signature = LocalFontLoader({ variable: "--font-Brittany_Signature", src: "../pages/fonts/Brittany_Signature.otf" });
 const Helvetica_Rounded = LocalFontLoader({ variable: "--font-Helvetica_Rounded", src: "../pages/fonts/Helvetica_Rounded.otf" });

@@ -4,11 +4,11 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import { FaRupeeSign } from "react-icons/fa";
-import Navbar from "@/app/components/Navbar";
-import Footer from "@/app/components/Footer";
 import { GiDeliveryDrone } from "react-icons/gi";
 import React, { useEffect, useState } from "react";
-import { useCart } from "../../context/CartContext";
+import Navbar from "@/app/utils/components/Navbar";
+import Footer from "@/app/utils/components/Footer";
+import { useCart } from "../../utils/context/CartContext";
 
 async function fetchPreviousOrders(userId: string) {
   const response = await fetch(`/api/orders?userId=${userId}`);

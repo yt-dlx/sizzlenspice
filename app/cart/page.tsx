@@ -3,11 +3,11 @@
 import Link from "next/link";
 import Image from "next/image";
 import initialCategories from "./data";
-import Navbar from "@/app/components/Navbar";
-import Footer from "@/app/components/Footer";
-import { useCart } from "../context/CartContext";
+import Navbar from "@/app/utils/components/Navbar";
+import Footer from "@/app/utils/components/Footer";
 import { SiHandlebarsdotjs } from "react-icons/si";
 import type { Item, CartItem, Category } from "./data";
+import { useCart } from "../utils/context/CartContext";
 import React, { useEffect, useRef, useState } from "react";
 import { motion, useMotionValue, useTransform } from "framer-motion";
 import { FaPlus, FaMinus, FaRupeeSign, FaShoppingCart, FaTimes } from "react-icons/fa";
