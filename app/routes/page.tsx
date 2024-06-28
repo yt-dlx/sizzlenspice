@@ -3,11 +3,13 @@
 import React from "react";
 import Link from "next/link";
 import { auth } from "@/auth";
+import { redirect } from "next/navigation";
 import Navbar from "@/app/utils/components/Navbar";
 import Footer from "@/app/utils/components/Footer";
 
 export default async function RoutesPage() {
   const session = await auth();
+  if (!session) redirect("/");
 
   return (
     <React.Fragment>
