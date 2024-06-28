@@ -21,6 +21,7 @@ export default async function Client() {
 
   return (
     <React.Fragment>
+      <Navbar />
       <div className="header">
         <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server-side Protected Page</h1>
       </div>
@@ -50,6 +51,7 @@ export default async function Client() {
           Server-Setting
         </Link>
       </div>
+      <Footer />
     </React.Fragment>
   );
 }

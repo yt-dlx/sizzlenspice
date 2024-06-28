@@ -11,6 +11,7 @@ export default async function RoutesPage() {
 
   return (
     <React.Fragment>
+      <Navbar />
       <div className="container mx-auto px-4 py-8">
         <h1 className="mb-6 text-3xl font-bold text-[#172B25]">Routes Page</h1>
         {session ? (
@@ -29,6 +30,7 @@ export default async function RoutesPage() {
           </Link>
         </div>
       </div>
+      <Footer />
     </React.Fragment>
   );
 }

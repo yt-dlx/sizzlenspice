@@ -15,6 +15,7 @@ export default async function Settings() {
 
   return (
     <React.Fragment>
+      <Navbar />
       <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Settings</h1>
       <div className="mb-6">
         <p className="text-md text-[#172B25]">This is where you can manage your account settings.</p>
@@ -24,6 +25,7 @@ export default async function Settings() {
           Back to Server Page
         </Link>
       </div>
+      <Footer />
     </React.Fragment>
   );
 }

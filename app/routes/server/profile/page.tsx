@@ -15,6 +15,7 @@ export default async function Profile() {
 
   return (
     <React.Fragment>
+      <Navbar />
       <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Profile</h1>
       <div className="mb-6 user-info">
         <p className="mb-4 text-md text-[#172B25]">
@@ -29,6 +30,7 @@ export default async function Profile() {
           Back to Server Page
         </Link>
       </div>
+      <Footer />
     </React.Fragment>
   );
 }
