@@ -1,20 +1,35 @@
 // app/admin/register/page.tsx
 "use client";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Navbar from "@/app/utils/components/Navbar";
 import Footer from "@/app/utils/components/Footer";
+import { useSession } from "next-auth/react";
 
 export default function AdminRegister() {
   const router = useRouter();
+  const { data: session, status } = useSession();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+
+  useEffect(() => {
+    if (status === "loading") return;
+    if (session) {
+      fetch("/api/check-admin")
+        .then((res) => res.json())
+        .then((data) => {
+          if (data.isAdmin) router.push("/admin/profile");
+        });
+    }
+  }, [session, status, router]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     router.push("/admin");
   };
+
+  if (status === "loading") return <p>Loading...</p>;
 
   return (
     <React.Fragment>
