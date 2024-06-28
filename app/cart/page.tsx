@@ -13,8 +13,8 @@ import { motion, useMotionValue, useTransform } from "framer-motion";
 import { FaPlus, FaMinus, FaRupeeSign, FaShoppingCart, FaTimes } from "react-icons/fa";
 
 export default function Cart() {
-  const { cartItems, setCartItems } = useCart();
   const cartRef = useRef<HTMLDivElement>(null);
+  const { cartItems, setCartItems } = useCart();
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [categories, setCategories] = useState<Category[]>(initialCategories);
   const CategoryClick = (n: number) => setCategories(categories.map((category, i) => ({ ...category, active: i === n })));
