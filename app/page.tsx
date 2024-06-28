@@ -5,9 +5,9 @@ import Image from "next/image";
 import { auth, signIn } from "@/auth";
 import { ImLeaf } from "react-icons/im";
 import { redirect } from "next/navigation";
+import { RiEBike2Fill } from "react-icons/ri";
 import Navbar from "@/app/utils/components/Navbar";
 import Footer from "@/app/utils/components/Footer";
-import { RiEBike2Fill } from "react-icons/ri";
 import { VscGithubInverted } from "react-icons/vsc";
 import { AiFillGoogleCircle } from "react-icons/ai";
 
