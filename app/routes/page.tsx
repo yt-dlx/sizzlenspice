@@ -23,11 +23,11 @@ export default async function RoutesPage() {
             <p className="mb-4 text-lg text-[#172B25]">You are not signed in.</p>
           )}
           <div className="flex flex-col space-y-4">
-            <Link href="/routes/server" className="px-6 py-3 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
-              Go to Server Route
+            <Link href="/routes/server">
+              <button className="button-style">Go to Server Route</button>
             </Link>
-            <Link href="/routes/client" className="px-6 py-3 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
-              Go to Client Route
+            <Link href="/routes/client">
+              <button className="button-style">Go to Client Route</button>
             </Link>
           </div>
         </div>
