@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useSession, signOut } from "next-auth/react";
 
 const Navbar = () => {
-  const { data: session } = useSession();
+  const { data } = useSession();
 
   return (
     <nav className="sticky top-0 bg-[#FFF4E9]/60 backdrop-blur-lg border-b border-[#172B25]/10 p-4 z-10">
@@ -13,12 +13,12 @@ const Navbar = () => {
           Sizzle 'n Spice
         </Link>
         <div className="flex items-center space-x-2">
-          {session?.user?.image && (
+          {data?.user?.image && (
             <div className="flex items-center space-x-2 dropdown dropdown-end">
-              <span className="text-[#172B25]">{session.user.name}</span>
+              <span className="text-[#172B25]">{data.user.name}</span>
               <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
                 <div className="w-10 rounded-full">
-                  <img alt="User profile" src={session.user.image} />
+                  <img alt="User profile" src={data.user.image} />
                 </div>
               </div>
               <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content border-2 border-[#172B25] bg-[#FFF4E9]/60 backdrop-blur-lg rounded-3xl w-52">
