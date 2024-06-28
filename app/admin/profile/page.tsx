@@ -1,4 +1,4 @@
-// app/admin/login/page.tsx
+// app/admin/profile/page.tsx
 "use client";
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
