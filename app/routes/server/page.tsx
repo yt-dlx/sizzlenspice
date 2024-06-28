@@ -1,29 +1,26 @@
-// app/client/page.tsx
-"use client";
+// app/server/page.tsx
+"use server";
 import React from "react";
 import Link from "next/link";
-import { useSession } from "next-auth/react";
-import { useQuery } from "@tanstack/react-query";
+import { auth } from "@/auth";
 
-export default function Client() {
-  const { data: session } = useSession();
-  const { data: queryData, isLoading: queryLoading } = useQuery({
-    queryKey: ["repoData"],
-    queryFn: async () => {
-      const res = await fetch("https://api.github.com/repos/tannerlinsley/react-query");
-      return res.json();
-    },
-    enabled: !!session,
-  });
+async function getData() {
+  const res = await fetch("https://api.github.com/repos/tannerlinsley/react-query");
+  return res.json();
+}
 
-  if (queryLoading) {
-    return <div className="text-xl font-semibold text-[#172B25]">Loading data...</div>;
+export default async function Client() {
+  const session = await auth();
+  const queryData = await getData();
+
+  if (!session) {
+    return <div className="text-xl font-semibold text-[#172B25]">Not authenticated</div>;
   }
 
   return (
     <>
       <div className="header">
-        <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Client-side Protected Page</h1>
+        <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server-side Protected Page</h1>
       </div>
       <div className="user-info">
         {session?.user?.image && (
@@ -34,7 +31,7 @@ export default function Client() {
         <p className="mb-4 text-md text-[#172B25]">
           Welcome, <span className="font-semibold">{session?.user?.name}</span>!
         </p>
-        <p className="mb-6 text-sm text-[#172B25]/70">This page is protected on the client side.</p>
+        <p className="mb-6 text-sm text-[#172B25]/70">This page is protected on the server side.</p>
       </div>
       {queryData && (
         <div className="mb-6 text-[#172B25] repo-data">
@@ -45,10 +42,10 @@ export default function Client() {
       )}
       <div className="navigation">
         <Link href="/client/profile" className="block px-4 py-2 mb-2 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
-          Client-Profile
+          Server-Profile
         </Link>
         <Link href="/client/setting" className="block px-4 py-2 mb-2 font-bold text-center transition duration-300 ease-in-out bg-[#172B25] rounded-full hover:bg-[#172B25]/80 text-[#FFF4E9]">
-          Client-Setting
+          Server-Setting
         </Link>
       </div>
     </>
