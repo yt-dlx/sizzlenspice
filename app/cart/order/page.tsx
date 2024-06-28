@@ -11,14 +11,14 @@ import Footer from "@/app/utils/components/Footer";
 import { useCart } from "../../utils/context/CartContext";
 
 async function fetchPreviousOrders(userId: string) {
-  const response = await fetch(`/api/orders?userId=${userId}`);
+  const response = await fetch(`/api/cart?userId=${userId}`);
   if (!response.ok) throw new Error("Failed to fetch orders");
   const data = await response.json();
   return data.orders;
 }
 
 async function cancelOrder(orderId: string) {
-  const response = await fetch(`/api/orders?orderId=${orderId}`, {
+  const response = await fetch(`/api/cart?orderId=${orderId}`, {
     method: "DELETE",
   });
   if (!response.ok) throw new Error("Failed to cancel order");
@@ -98,7 +98,7 @@ export default function Order() {
       setIsLoading(true);
       setError(null);
       try {
-        const response = await fetch("/api/orders", {
+        const response = await fetch("/api/cart", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
