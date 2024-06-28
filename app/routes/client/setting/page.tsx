@@ -2,10 +2,12 @@
 "use client";
 import React from "react";
 import Link from "next/link";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 
 export default function Settings() {
   return (
-    <>
+    <React.Fragment>
       <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Settings</h1>
       <div className="mb-6">
         <p className="text-md text-[#172B25]">This is where you can manage your account settings.</p>
@@ -15,6 +17,6 @@ export default function Settings() {
           Back to Client Page
         </Link>
       </div>
-    </>
+    </React.Fragment>
   );
 }

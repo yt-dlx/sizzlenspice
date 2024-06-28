@@ -3,6 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import { auth } from "@/auth";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 
 export default async function Profile() {
   const session = await auth();
@@ -12,7 +14,7 @@ export default async function Profile() {
   }
 
   return (
-    <>
+    <React.Fragment>
       <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Profile</h1>
       <div className="mb-6 user-info">
         <p className="mb-4 text-md text-[#172B25]">
@@ -27,6 +29,6 @@ export default async function Profile() {
           Back to Server Page
         </Link>
       </div>
-    </>
+    </React.Fragment>
   );
 }

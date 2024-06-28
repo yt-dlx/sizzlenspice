@@ -3,6 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import { auth } from "@/auth";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 
 async function getData() {
   const res = await fetch("https://api.github.com/repos/tannerlinsley/react-query");
@@ -18,7 +20,7 @@ export default async function Client() {
   }
 
   return (
-    <>
+    <React.Fragment>
       <div className="header">
         <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server-side Protected Page</h1>
       </div>
@@ -48,6 +50,6 @@ export default async function Client() {
           Server-Setting
         </Link>
       </div>
-    </>
+    </React.Fragment>
   );
 }

@@ -3,12 +3,14 @@
 import React from "react";
 import Link from "next/link";
 import { useSession } from "next-auth/react";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 
 export default function Profile() {
   const { data: session } = useSession();
 
   return (
-    <>
+    <React.Fragment>
       <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Profile</h1>
       <div className="mb-6 user-info">
         <p className="mb-4 text-md text-[#172B25]">
@@ -23,6 +25,6 @@ export default function Profile() {
           Back to Client Page
         </Link>
       </div>
-    </>
+    </React.Fragment>
   );
 }

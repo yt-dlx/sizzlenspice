@@ -2,6 +2,8 @@
 "use client";
 import React from "react";
 import Link from "next/link";
+import Navbar from "@/app/components/Navbar";
+import Footer from "@/app/components/Footer";
 import { useSession } from "next-auth/react";
 import { useQuery } from "@tanstack/react-query";
 
@@ -21,7 +23,7 @@ export default function Client() {
   }
 
   return (
-    <>
+    <React.Fragment>
       <div className="header">
         <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Client-side Protected Page</h1>
       </div>
@@ -51,6 +53,6 @@ export default function Client() {
           Client-Setting
         </Link>
       </div>
-    </>
+    </React.Fragment>
   );
 }
