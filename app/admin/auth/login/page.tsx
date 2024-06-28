@@ -9,17 +9,13 @@ export default function AdminLogin() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // You'll need to implement the admin login logic here
-    // This might involve creating a custom credentials provider for admin login
     const result = await signIn("admin-credentials", {
       phone,
       password,
       redirect: false,
     });
     if (result?.error) {
-      // Handle error
     } else {
-      // Redirect to admin dashboard
     }
   };
 
