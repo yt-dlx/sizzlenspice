@@ -227,10 +227,17 @@ export default function Order() {
                 Confirm Your Culinary Journey
               </span>
               <div className="mt-2 space-y-2">
-                <button onClick={handlePayment} disabled={isLoading} className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2 disabled:opacity-50">
+                <button
+                  onClick={handlePayment}
+                  disabled={isLoading}
+                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2 disabled:opacity-50"
+                >
                   {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
-                <Link href={"/cart"} className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+                <Link
+                  href={"/cart"}
+                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                >
                   No, I want to add more!
                 </Link>
               </div>
@@ -246,7 +253,10 @@ export default function Order() {
                 Your Cart is Empty! Let's Fill it up.
               </span>
               <div className="mt-2 space-y-2">
-                <Link href={"/cart"} className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+                <Link
+                  href={"/cart"}
+                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                >
                   Go To Food Categories
                 </Link>
               </div>

@@ -20,7 +20,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full">
-      <body className={`${Helvetica.variable} ${Helvetica_Rounded.variable} ${Hatton_Bold.variable} ${Brittany_Signature.variable} ${Grenoble.variable} ${MaronRose.variable} font-Grenoble flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]`}>
+      <body
+        className={`${Helvetica.variable} ${Helvetica_Rounded.variable} ${Hatton_Bold.variable} ${Brittany_Signature.variable} ${Grenoble.variable} ${MaronRose.variable} font-Grenoble flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]`}
+      >
         <Providers>
           <AnimatedContentWrapper>{children}</AnimatedContentWrapper>
         </Providers>

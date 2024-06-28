@@ -56,7 +56,11 @@ export default async function Home() {
               </h1>
               <div className="grid grid-cols-2 gap-4 p-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4">
                 {categories.map((category, index) => (
-                  <a href="#HomeForm" key={index} className="flex flex-col rounded-2xl shadow-md shadow-[#172B25] border-2 border-[#172B25] overflow-hidden transition-all duration-500 hover:scale-105 h-full">
+                  <a
+                    href="#HomeForm"
+                    key={index}
+                    className="flex flex-col rounded-2xl shadow-md shadow-[#172B25] border-2 border-[#172B25] overflow-hidden transition-all duration-500 hover:scale-105 h-full"
+                  >
                     <Image src={category.image} width={200} height={200} alt={category.title} className="object-cover w-full h-48" />
                     <div className="flex flex-col justify-between p-3 bg-[#172B25] flex-grow">
                       <h2 className="text-xl text-[#E6DFD4] truncate font-MaronRose">{category.title}</h2>
@@ -82,13 +86,23 @@ export default async function Home() {
                 }}
               >
                 <div className="mb-4 github-signin">
-                  <button type="submit" name="provider" value="github" className="w-full px-4 py-2 font-bold ttransition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+                  <button
+                    type="submit"
+                    name="provider"
+                    value="github"
+                    className="w-full px-4 py-2 font-bold ttransition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                  >
                     <VscGithubInverted size={20} /> Sign in with Github
                   </button>
                 </div>
 
                 <div className="google-signin">
-                  <button type="submit" name="provider" value="google" className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+                  <button
+                    type="submit"
+                    name="provider"
+                    value="google"
+                    className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                  >
                     <AiFillGoogleCircle size={20} /> Sign in with Google
                   </button>
                 </div>

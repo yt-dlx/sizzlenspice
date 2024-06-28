@@ -20,7 +20,9 @@ export default function ClientSettings() {
           <p className="text-lg text-[#172B25]">Manage your account setting here.</p>
           <div className="flex flex-col space-y-4">
             <Link href="/routes/client">
-              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Back to Client Page</button>
+              <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+                Back to Client Page
+              </button>
             </Link>
           </div>
         </div>

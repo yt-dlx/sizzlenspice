@@ -26,7 +26,9 @@ export default async function ServerProfile() {
         </div>
         <div className="navigation">
           <Link href="/routes/server">
-            <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">Back to Server Page</button>
+            <button className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2">
+              Back to Server Page
+            </button>
           </Link>
         </div>
       </div>

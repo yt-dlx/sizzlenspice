@@ -65,8 +65,18 @@ export default function Cart() {
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Food Categories</h1>
           <ul className="grid grid-cols-3 gap-4 my-2 sm:grid-cols-5 py-8">
             {categories.map((category, index) => (
-              <li key={index} onClick={() => CategoryClick(index)} className={`p-1 items-center justify-center flex flex-col rounded-3xl border-4 border-double border-[#FFF4E9] shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}>
-                <Image width={80} height={80} src={category.image} alt={category.title} className={`w-20 h-20 object-cover rounded-full border-4 ${category.active ? "border-[#FFF4E9]" : "border-[#172B25]"}`} />
+              <li
+                key={index}
+                onClick={() => CategoryClick(index)}
+                className={`p-1 items-center justify-center flex flex-col rounded-3xl border-4 border-double border-[#FFF4E9] shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}
+              >
+                <Image
+                  width={80}
+                  height={80}
+                  src={category.image}
+                  alt={category.title}
+                  className={`w-20 h-20 object-cover rounded-full border-4 ${category.active ? "border-[#FFF4E9]" : "border-[#172B25]"}`}
+                />
                 <p className="flex flex-col justify-center mt-2 text-center">{category.title}</p>
               </li>
             ))}
@@ -84,7 +94,10 @@ export default function Cart() {
             <div className={`grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
               {Active &&
                 Active.items.map((item, index) => (
-                  <div key={index} className="flex flex-col rounded-3xl shadow-md hover:shadow-[#172B25] font-MaronRose border-8 border-double border-[#172B25] overflow-hidden transition-all duration-500 hover:-translate-y-1 relative">
+                  <div
+                    key={index}
+                    className="flex flex-col rounded-3xl shadow-md hover:shadow-[#172B25] font-MaronRose border-8 border-double border-[#172B25] overflow-hidden transition-all duration-500 hover:-translate-y-1 relative"
+                  >
                     <Image width={1080} height={720} alt={item.title} src={item.image} className="w-full h-48 object-cover border-b-8 border-double border-[#172B25]" />
                     <div className="flex flex-col justify-between p-2 bg-[#172B25] text-[#FFF4E9] flex-grow">
                       <h2 className="flex items-center justify-center gap-2 text-3xl">
@@ -144,7 +157,10 @@ export default function Cart() {
           style={{ y, opacity: useTransform(y, [-100, 0], [0, 1]) }}
         >
           <aside className="overflow-y-auto max-h-[80vh] relative">
-            <button className="absolute top-2 right-2 bg-[#172B25] text-[#FFF4E9] rounded-full p-2 shadow-lg flex items-center justify-center cursor-pointer hover:bg-[#FFF4E9] hover:text-[#172B25]" onClick={() => setIsCartOpen(false)}>
+            <button
+              className="absolute top-2 right-2 bg-[#172B25] text-[#FFF4E9] rounded-full p-2 shadow-lg flex items-center justify-center cursor-pointer hover:bg-[#FFF4E9] hover:text-[#172B25]"
+              onClick={() => setIsCartOpen(false)}
+            >
               <FaTimes size={20} />
             </button>
             <p className="m-2 text-6xl underline font-Hatton_Bold">Cart</p>
@@ -171,7 +187,10 @@ export default function Cart() {
             </p>
           </aside>
           {cartItems && cartItems.length > 0 && (
-            <Link href="/cart/order" className="inline-flex items-center justify-center w-full p-1 text-lg font-Grenoble text-[#FFF4E9] shadow-md shadow-[Y172B25] transition duration-500 whitespace-nowrap bg-[#468353] hover:bg-[#27493F] focus-visible:outline-none rounded-3xl">
+            <Link
+              href="/cart/order"
+              className="inline-flex items-center justify-center w-full p-1 text-lg font-Grenoble text-[#FFF4E9] shadow-md shadow-[Y172B25] transition duration-500 whitespace-nowrap bg-[#468353] hover:bg-[#27493F] focus-visible:outline-none rounded-3xl"
+            >
               Proceed To Checkout
             </Link>
           )}
