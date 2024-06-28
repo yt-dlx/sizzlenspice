@@ -1,7 +1,7 @@
 // app/admin/login/page.tsx
 "use client";
 import React, { useState } from "react";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import Navbar from "@/app/utils/components/Navbar";
 import Footer from "@/app/utils/components/Footer";
 
@@ -26,7 +26,7 @@ export default function AdminLogin() {
             <input type="password" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)} className="px-4 py-2 border rounded-md focus:outline-none" />
             <button
               type="submit"
-              className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+              className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
             >
               Login
             </button>
