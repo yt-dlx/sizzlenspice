@@ -20,8 +20,7 @@ export default function AdminProfile() {
         if (!data.isAdmin) router.push("/admin");
       });
   }, [session, status, router]);
-
-  if (status === "loading") return <p>Loading...</p>;
+  if (status === "loading") return null;
 
   return (
     <React.Fragment>

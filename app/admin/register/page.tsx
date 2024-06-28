@@ -28,8 +28,7 @@ export default function AdminRegister() {
     e.preventDefault();
     router.push("/admin");
   };
-
-  if (status === "loading") return <p>Loading...</p>;
+  if (status === "loading") return null;
 
   return (
     <React.Fragment>
