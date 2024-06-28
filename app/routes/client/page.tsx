@@ -46,10 +46,10 @@ export default function Client() {
             </div>
           )}
           <div className="flex flex-col space-y-4">
-            <Link href="/client/profile">
+            <Link href="/routes/client/profile">
               <button className="button-style">Client-Profile</button>
             </Link>
-            <Link href="/client/settings">
+            <Link href="/routes/client/setting">
               <button className="button-style">Client-Setting</button>
             </Link>
             <Link href="/routes">

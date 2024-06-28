@@ -1,4 +1,4 @@
-// app/routes/server/settings/page.tsx
+// app/routes/server/setting/page.tsx
 "use server";
 import React from "react";
 import Link from "next/link";
@@ -17,7 +17,7 @@ export default async function ServerSettings() {
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
         <h1 className="mb-4 text-2xl font-bold text-[#172B25]">Server Settings</h1>
         <div className="mb-6">
-          <p className="text-md text-[#172B25]">This is where you can manage your account settings.</p>
+          <p className="text-md text-[#172B25]">This is where you can manage your account setting.</p>
         </div>
         <div className="navigation">
           <Link href="/routes/server">

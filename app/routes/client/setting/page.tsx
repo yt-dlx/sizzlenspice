@@ -1,4 +1,4 @@
-// app/routes/client/settings/page.tsx
+// app/routes/client/setting/page.tsx
 "use client";
 import React from "react";
 import Link from "next/link";
@@ -17,9 +17,9 @@ export default function ClientSettings() {
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
         <div className="container mx-auto px-4 py-8">
           <h1 className="mb-6 text-3xl font-bold text-[#172B25]">Client Settings</h1>
-          <p className="text-lg text-[#172B25]">Manage your account settings here.</p>
+          <p className="text-lg text-[#172B25]">Manage your account setting here.</p>
           <div className="flex flex-col space-y-4">
-            <Link href="/client">
+            <Link href="/routes/client">
               <button className="button-style">Back to Client Page</button>
             </Link>
           </div>

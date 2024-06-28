@@ -39,10 +39,10 @@ export default async function Server() {
             </div>
           )}
           <div className="flex flex-col space-y-4">
-            <Link href="/server/profile">
+            <Link href="/routes/server/profile">
               <button className="button-style">Server-Profile</button>
             </Link>
-            <Link href="/server/settings">
+            <Link href="/routes/server/setting">
               <button className="button-style">Server-Setting</button>
             </Link>
             <Link href="/routes">

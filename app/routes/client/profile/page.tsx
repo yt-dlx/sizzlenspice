@@ -26,7 +26,7 @@ export default function ClientProfile() {
             </p>
           </div>
           <div className="flex flex-col space-y-4">
-            <Link href="/client">
+            <Link href="/routes/client">
               <button className="button-style">Back to Client Page</button>
             </Link>
           </div>
