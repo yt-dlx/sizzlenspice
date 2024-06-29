@@ -40,12 +40,7 @@ export default function User() {
           </div>
         </div>
 
-        <form
-          onSubmit={(e: React.FormEvent) => {
-            e.preventDefault();
-          }}
-          className="flex flex-col max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25] pb-10"
-        >
+        <div className="flex flex-col max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25] pb-10">
           <div className="space-y-4 mt-2">
             <label className="form-control w-full max-w-full">
               <div className="label">
@@ -108,13 +103,13 @@ export default function User() {
               />
             </label>
             <Link
-              href="/cart/location"
+              href="/cart/order"
               className="w-full h-10 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center text-center"
             >
               Confirm Data and Continue To Cart
             </Link>
           </div>
-        </form>
+        </div>
       </div>
       <Footer />
     </React.Fragment>
