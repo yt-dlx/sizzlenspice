@@ -154,7 +154,7 @@ export default function Order() {
     <React.Fragment>
       <Navbar />
       {showGif && (
-        <div className="fixed inset-0 flex flex-col items-center justify-center bg-[#FFF4E9]/60 backdrop-blur-2xl z-50">
+        <section className="fixed inset-0 flex flex-col items-center justify-center bg-[#FFF4E9]/60 backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
           <p className="mb-4 text-4xl md:text-8xl text-[#172B25]">
             Order Placed,
@@ -165,10 +165,10 @@ export default function Order() {
             <li>Please wait for confirmation from the Restaurant Owner.</li>
             <li>You'll receive notifications for every step until your order arrives.</li>
           </ul>
-        </div>
+        </section>
       )}
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
-        <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+        <section className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Order Summary</h1>
           <img src="/checkout.gif" alt="checkout.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />
           <p className="text-2xl md:text-6xl text-[#172B25]">
@@ -176,9 +176,9 @@ export default function Order() {
             <br /> <span className="font-semibold">{session?.user?.name}</span>!
           </p>
           <p className="text-lg md:xl text-[#172B25]/70">Review it and make changes if required!</p>
-        </div>
+        </section>
         {!orderPlaced && cartItems.length > 0 && (
-          <div className="text-[#172B25] p-4">
+          <section className="text-[#172B25] p-4">
             <h2 className="text-4xl font-semibold">Order Items:</h2>
             <div className="my-4 overflow-x-auto">
               <table className="table">
@@ -193,11 +193,11 @@ export default function Order() {
                   {cartItems.map((item, index) => (
                     <tr key={index}>
                       <td>
-                        <div className="avatar">
-                          <div className="w-16 h-16 rounded-full border-4 border-[#172B25] shadow-md">
+                        <section className="avatar">
+                          <section className="w-16 h-16 rounded-full border-4 border-[#172B25] shadow-md">
                             <img src={item.image} alt={item.title} />
-                          </div>
-                        </div>
+                          </section>
+                        </section>
                       </td>
                       <td>
                         {item.title}{" "}
@@ -234,11 +234,11 @@ export default function Order() {
                 <span className="font-bold">Longitude:</span> {locationData.longitude}
               </li>
             </ul>
-          </div>
+          </section>
         )}
         {!orderPlaced && cartItems.length > 0 && (
-          <div className="flex items-center justify-center">
-            <div className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
+          <section className="flex items-center justify-center">
+            <section className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
               <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
                 Confirm Your Culinary Journey
@@ -259,12 +259,12 @@ export default function Order() {
                 </Link>
               </div>
               {error && <p className="mt-2 text-red-500">{error}</p>}
-            </div>
-          </div>
+            </section>
+          </section>
         )}
         {!orderPlaced && cartItems.length === 0 && (
-          <div className="flex items-center justify-center">
-            <div className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
+          <section className="flex items-center justify-center">
+            <section className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
               <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
                 Your Cart is Empty! Let's Fill it up.
@@ -278,11 +278,11 @@ export default function Order() {
                 </Link>
               </div>
               {error && <p className="mt-2 text-red-500">{error}</p>}
-            </div>
-          </div>
+            </section>
+          </section>
         )}
         {prevOrders.length > 0 && (
-          <div className="m-2 mt-8 text-[#172B25]">
+          <section className="m-2 mt-8 text-[#172B25]">
             <h2 className="text-4xl font-semibold">Previous Orders:</h2>
             <div className="flex flex-col items-center justify-center overflow-x-auto">
               <table className="table">
@@ -316,9 +316,9 @@ export default function Order() {
                 </tbody>
               </table>
             </div>
-          </div>
+          </section>
         )}
-      </div>
+      </section>
       <Footer />
     </React.Fragment>
   );

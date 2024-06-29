@@ -60,8 +60,8 @@ export default function Cart() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
-        <div className="flex flex-col md:justify-center md:items-center">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+        <section className="flex flex-col md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Food Categories</h1>
           <ul className="grid grid-cols-4 sm:grid-cols-6 gap-4 my-2 py-8">
             {categories.map((category, index) => (
@@ -82,8 +82,8 @@ export default function Cart() {
               </li>
             ))}
           </ul>
-        </div>
-        <div>
+        </section>
+        <section>
           <h2 className="flex items-center justify-center gap-2 mb-4 text-2xl font-Grenoble">
             <FaShoppingCart /> Found <span className="text-4xl font-MaronRose">{Active ? Active.items.length : 0}</span> results
           </h2>
@@ -95,7 +95,7 @@ export default function Cart() {
             <div className={`grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
               {Active &&
                 Active.items.map((item, index) => (
-                  <div
+                  <section
                     key={index}
                     className="flex flex-col rounded-3xl shadow-md hover:shadow-[#172B25] font-MaronRose border-4 border-double border-[#172B25] overflow-hidden transition-all duration-500 hover:-translate-y-1 relative"
                   >
@@ -141,12 +141,12 @@ export default function Cart() {
                         </span>
                       </div>
                     </div>
-                  </div>
+                  </section>
                 ))}
             </div>
           )}
-        </div>
-        <motion.div
+        </section>
+        <motion.section
           ref={cartRef}
           className="fixed bottom-0 left-0 right-0 bg-[#FFF4E9]/80 backdrop-blur rounded-t-3xl border-[#172B25] border-4 border-double p-4 shadow-md"
           initial="closed"
@@ -195,17 +195,16 @@ export default function Cart() {
               Proceed To Checkout
             </Link>
           )}
-        </motion.div>
+        </motion.section>
         {!isCartOpen && (
           <button
-            className="fixed bottom-4 right-4 bg-[#FFF4E9] hover:bg-[#172B25] text-[#172B25] hover:text-[#FFF4E9] rounded-full p-4 shadow-lg flex items-center justify-center cursor-pointer 
-border-[#172B25] hover:border-[#FFF4E9] border-4"
+            className="fixed bottom-4 right-4 bg-[#FFF4E9] hover:bg-[#172B25] text-[#172B25] hover:text-[#FFF4E9] rounded-full p-4 shadow-lg flex items-center justify-center cursor-pointer border-[#172B25] hover:border-[#FFF4E9] border-4"
             onClick={() => setIsCartOpen(true)}
           >
             <FaShoppingCart size={24} />
           </button>
         )}
-      </div>
+      </section>
       <Footer />
     </React.Fragment>
   );

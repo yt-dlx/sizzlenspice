@@ -40,14 +40,14 @@ export default async function Home() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
-        <div className="flex flex-col items-center justify-center">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+        <section className="flex flex-col items-center justify-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">Sizzle 'n Spice</h1>
           <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Where Every Bite Sizzle With Flavours!</div>
           <img src="/sns.gif" className="object-cover h-80 sm:h-96 lg:112 saturate-100" />
-        </div>
-        <div className="py-8 sm:px-4 md:px-6">
-          <div className="flex flex-col items-center">
+        </section>
+        <section className="py-8 sm:px-4 md:px-6">
+          <section className="flex flex-col items-center">
             <h1 className="text-2xl font-black lg:text-5xl font-MaronRose m-2 p-2 rounded-full gap-2 text-[#172B25]">
               <Image unoptimized src="/svg/door.gif" alt="door" width={200} height={200} className="object-cover w-14 h-14" />
               Order delicious foods and get them at your doorsteps{" "}
@@ -63,10 +63,10 @@ export default async function Home() {
                 </a>
               ))}
             </div>
-          </div>
-        </div>
-        <div className="flex items-center justify-center">
-          <div className="flex flex-col max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
+          </section>
+        </section>
+        <section className="flex items-center justify-center">
+          <section className="flex flex-col max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
             <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
               <ImLeaf size={80} className="animate-pulse text-[#FFF4E9]" /> Feast Your Senses with, Spices and Freshness
             </span>
@@ -78,7 +78,7 @@ export default async function Home() {
                   await signIn(provider);
                 }}
               >
-                <div className="mb-4 github-signin">
+                <section className="mb-4 github-signin">
                   <button
                     type="submit"
                     name="provider"
@@ -87,9 +87,9 @@ export default async function Home() {
                   >
                     <VscGithubInverted size={20} /> Sign in with Github
                   </button>
-                </div>
+                </section>
 
-                <div className="google-signin">
+                <section className="google-signin">
                   <button
                     type="submit"
                     name="provider"
@@ -98,12 +98,12 @@ export default async function Home() {
                   >
                     <AiFillGoogleCircle size={20} /> Sign in with Google
                   </button>
-                </div>
+                </section>
               </form>
             </div>
-          </div>
-        </div>
-      </div>
+          </section>
+        </section>
+      </section>
       <Footer />
     </React.Fragment>
   );
