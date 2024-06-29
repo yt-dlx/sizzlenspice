@@ -252,7 +252,7 @@ export default function Order() {
                   {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
-                  href={"/cart"}
+                  href={"/cart/food"}
                   className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
                 >
                   No, I want to add more!
