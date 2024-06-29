@@ -1,28 +1,28 @@
 // app/user/page.tsx
 "use client";
 import Link from "next/link";
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import Navbar from "@/app/_utils/_components/Navbar";
 import Footer from "@/app/_utils/_components/Footer";
+import { useCart } from "@/app/_utils/_context/CartContext";
 
-export default function User() {
-  const [address, setAddress] = useState<string>("");
-  const [pincode, setPincode] = useState<string>("");
-  const [latitude, setLatitude] = useState<string | null>(null);
-  const [longitude, setLongitude] = useState<string | null>(null);
+export default function Location() {
+  const { locationData, setLocationData } = useCart();
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition(async (position) => {
       const lat = position.coords.latitude.toString();
       const lon = position.coords.longitude.toString();
-      setLatitude(lat);
-      setLongitude(lon);
+      setLocationData((prev) => ({ ...prev, latitude: lat, longitude: lon }));
       const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
       if (response.ok) {
         const data = await response.json();
         if (data.address) {
-          setAddress(data.display_name || "");
-          setPincode(data.address.postcode || "");
+          setLocationData((prev) => ({
+            ...prev,
+            address: data.display_name || "",
+            pincode: data.address.postcode || "",
+          }));
         }
       }
     });
@@ -52,8 +52,8 @@ export default function User() {
                 type="text"
                 id="address"
                 name="address"
-                value={address}
-                onChange={(e: React.ChangeEvent<HTMLInputElement>) => setAddress(e.target.value)}
+                value={locationData.address}
+                onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLocationData((prev) => ({ ...prev, address: e.target.value }))}
                 className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9]"
               />
             </label>
@@ -67,8 +67,8 @@ export default function User() {
                 type="text"
                 id="pincode"
                 name="pincode"
-                value={pincode}
-                onChange={(e: React.ChangeEvent<HTMLInputElement>) => setPincode(e.target.value)}
+                value={locationData.pincode}
+                onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLocationData((prev) => ({ ...prev, pincode: e.target.value }))}
                 className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9]"
               />
             </label>
@@ -83,7 +83,7 @@ export default function User() {
                 type="text"
                 id="latitude"
                 name="latitude"
-                value={latitude || ""}
+                value={locationData.latitude || ""}
                 className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] cursor-not-allowed"
               />
             </label>
@@ -98,7 +98,7 @@ export default function User() {
                 type="text"
                 id="longitude"
                 name="longitude"
-                value={longitude || ""}
+                value={locationData.longitude || ""}
                 className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] cursor-not-allowed"
               />
             </label>

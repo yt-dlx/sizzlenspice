@@ -28,7 +28,7 @@ async function cancelOrder(orderId: string) {
 export default function Order() {
   const router = useRouter();
   const { data: session } = useSession();
-  const { cartItems, clearCart } = useCart();
+  const { cartItems, clearCart, locationData } = useCart();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [prevOrders, setPreviousOrders] = useState([]);
@@ -107,6 +107,7 @@ export default function Order() {
             items: cartItems,
             userId: session.user.email,
             totalAmount: TotalCartPrice,
+            locationData: locationData,
           }),
         });
 
@@ -217,6 +218,12 @@ export default function Order() {
               Total: <FaRupeeSign className="inline" />
               {TotalCartPrice}
             </p>
+            <h2 className="text-4xl font-semibold mt-4">Delivery Location:</h2>
+            <p>Address: {locationData.address}</p>
+            <p>Pincode: {locationData.pincode}</p>
+            <p>
+              Coordinates: {locationData.latitude}, {locationData.longitude}
+            </p>
           </div>
         )}
         {!orderPlaced && cartItems.length > 0 && (
@@ -301,9 +308,8 @@ export default function Order() {
             </div>
           </div>
         )}
-
-        <Footer />
       </div>
+      <Footer />
     </React.Fragment>
   );
 }
