@@ -27,7 +27,7 @@ export default function AdminProfile() {
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
         <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Restaurant Partner</h1>
+          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Restaurant Partner</h1>
           <div className="flex flex-col my-10 items-center justify-center text-center">
             {profile && profile.image && <img src={profile.image} alt={`${profile.name}'s profile`} className="rounded-3xl mb-2" />}
             <ul className="text-lg text-[#172B25]">

@@ -62,7 +62,7 @@ export default function Cart() {
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div className="flex flex-col md:justify-center md:items-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Food Categories</h1>
+          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Food Categories</h1>
           <ul className="grid grid-cols-3 gap-4 my-2 sm:grid-cols-5 py-8">
             {categories.map((category, index) => (
               <li
@@ -83,7 +83,7 @@ export default function Cart() {
           </ul>
         </div>
         <div>
-          <h2 className="flex items-center justify-center gap-2 mb-4 text-2xl font-bold font-Grenoble">
+          <h2 className="flex items-center justify-center gap-2 mb-4 text-2xl font-Grenoble">
             <FaShoppingCart /> Found <span className="text-4xl font-MaronRose">{Active ? Active.items.length : 0}</span> results
           </h2>
           {Active && Active.items.length === 0 ? (

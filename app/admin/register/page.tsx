@@ -54,7 +54,7 @@ export default function AdminRegister() {
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
         <div className="container mx-auto px-4 py-8">
-          <h1 className="mb-6 text-3xl font-bold text-[#172B25]">Admin Register</h1>
+          <h1 className="mb-6 text-3xl text-[#172B25]">Admin Register</h1>
           {error && <p className="text-red-500">{error}</p>}
           <form onSubmit={handleSubmit} className="flex flex-col space-y-4">
             <input type="text" placeholder="Name" value={name} onChange={(e) => setName(e.target.value)} className="px-4 py-2 border rounded-md focus:outline-none" />
@@ -62,7 +62,7 @@ export default function AdminRegister() {
             <input type="password" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)} className="px-4 py-2 border rounded-md focus:outline-none" />
             <button
               type="submit"
-              className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+              className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#172B25] hover:bg-[#468353] text-[#FFF4E9] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
             >
               Register
             </button>

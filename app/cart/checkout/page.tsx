@@ -169,7 +169,7 @@ export default function Order() {
       )}
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Order Summary</h1>
+          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Order Summary</h1>
           <img src="/checkout.gif" alt="checkout.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />
           <p className="text-2xl md:text-6xl text-[#172B25]">
             Here's a summary of your order,
@@ -247,13 +247,13 @@ export default function Order() {
                 <button
                   onClick={handlePayment}
                   disabled={isLoading}
-                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2 disabled:opacity-50"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2 disabled:opacity-50"
                 >
                   {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
                   href={"/cart/food"}
-                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
                 >
                   No, I want to add more!
                 </Link>
@@ -272,7 +272,7 @@ export default function Order() {
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/cart"}
-                  className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
                 >
                   Go To Food Categories
                 </Link>
@@ -304,11 +304,11 @@ export default function Order() {
                       <td>
                         {order._id === latestOrderId &&
                           (cancelTimeRemaining !== null && cancelTimeRemaining > 0 ? (
-                            <button onClick={() => handleCancelOrder(order._id)} className="px-2 py-1 text-sm font-bold text-white bg-red-500 rounded hover:bg-red-600">
+                            <button onClick={() => handleCancelOrder(order._id)} className="px-2 py-1 text-sm text-white bg-red-500 rounded hover:bg-red-600">
                               Cancel ({cancelTimeRemaining}s)
                             </button>
                           ) : (
-                            <span className="px-2 py-1 text-sm font-bold text-white bg-gray-500 rounded cursor-not-allowed">Placed</span>
+                            <span className="px-2 py-1 text-sm text-white bg-gray-500 rounded cursor-not-allowed">Placed</span>
                           ))}
                       </td>
                     </tr>

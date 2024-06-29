@@ -44,7 +44,7 @@ export default async function Home() {
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div id="header">
           <div className="flex flex-col items-center justify-center">
-            <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 font-bold text-[#172B25]">Sizzle 'n Spice</h1>
+            <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">Sizzle 'n Spice</h1>
             <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Where Every Bite Sizzle With Flavours!</div>
             <img src="/sns.gif" className="object-contain h-72 sm:h-80 lg:h-96" />
           </div>
@@ -90,7 +90,7 @@ export default async function Home() {
                     type="submit"
                     name="provider"
                     value="github"
-                    className="w-full px-4 py-2 font-bold ttransition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                    className="w-full px-4 py-2 ttransition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
                   >
                     <VscGithubInverted size={20} /> Sign in with Github
                   </button>
@@ -101,7 +101,7 @@ export default async function Home() {
                     type="submit"
                     name="provider"
                     value="google"
-                    className="w-full px-4 py-2 font-bold transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
                   >
                     <AiFillGoogleCircle size={20} /> Sign in with Google
                   </button>
