@@ -168,14 +168,10 @@ export default function Order() {
         </section>
       )}
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
-        <section className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
-          <h1 className="mb-4 text-7xl sm:text-8xl font-Lora_Bold text-[#172B25]">Order Summary</h1>
-          <img src="/checkout.gif" alt="checkout.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />
-          <p className="text-2xl md:text-6xl text-[#172B25]">
-            Here's a summary of your order,
-            <br /> <span className="font-semibold">{session?.user?.name}</span>!
-          </p>
-          <p className="text-lg md:xl text-[#172B25]/70">Review it and make changes if required!</p>
+        <section className="flex flex-col items-center">
+          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Order Summary</h1>
+          <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-100 -hue-rotate-60" />
+          <p className="text-2xl md:text-6xl text-[#172B25] m-8 text-center">Here's a summary of your order, {session?.user?.name}! Review it and make changes if required!</p>
         </section>
         {!orderPlaced && cartItems.length > 0 && (
           <section className="text-[#172B25] p-4">

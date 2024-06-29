@@ -40,10 +40,10 @@ export default async function Home() {
     <React.Fragment>
       <Navbar />
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
-        <section className="flex flex-col items-center justify-center">
-          <h1 className="mb-4 text-7xl sm:text-8xl font-Lora_Bold text-[#172B25]">Sizzle 'n Spice</h1>
-          <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Where Every Bite Sizzle With Flavours!</div>
-          <img src="/sns.gif" className="object-cover h-80 sm:h-96 lg:112 saturate-100" />
+        <section className="flex flex-col items-center">
+          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Sizzle 'n Spice</h1>
+          <img src="/sns.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-100" />
+          <div className="text-xl font-black sm:text-2xl mt-4 text-[#172B25] text-center">Where Every Bite Sizzles With Flavours!</div>
         </section>
         <section className="py-8 sm:px-4 md:px-6">
           <section className="flex flex-col items-center">

@@ -61,8 +61,8 @@ export default function Cart() {
     <React.Fragment>
       <Navbar />
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
-        <section className="flex flex-col md:justify-center md:items-center">
-          <h1 className="mb-4 text-7xl sm:text-8xl font-Lora_Bold text-[#172B25]">Food Categories</h1>
+        <section className="flex flex-col items-center">
+          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Food Categories</h1>
           <ul className="grid grid-cols-4 sm:grid-cols-6 gap-4 my-2 py-8">
             {categories.map((category, index) => (
               <li
