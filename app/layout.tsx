@@ -14,19 +14,17 @@ const Grenoble = LocalFontLoader({ variable: "--font-Grenoble", src: "./utils/fo
 
 export const metadata: Metadata = { description: "Online Food Delivery and Order", title: "Sizzle & Spice" };
 export default function RootLayout({
-  children,
+    children,
 }: Readonly<{
-  children: React.ReactNode;
+    children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en" className="h-full">
-      <body
-        className={`${Helvetica.variable} ${Helvetica_Rounded.variable} ${Hatton_Bold.variable} ${Brittany_Signature.variable} ${Grenoble.variable} ${MaronRose.variable} font-Grenoble flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]`}
-      >
-        <Providers>
-          <AnimatedContentWrapper>{children}</AnimatedContentWrapper>
-        </Providers>
-      </body>
-    </html>
-  );
+    return (
+        <html lang="en" className="h-full">
+            <body className={`${Helvetica.variable} ${Helvetica_Rounded.variable} ${Hatton_Bold.variable} ${Brittany_Signature.variable} ${Grenoble.variable} ${MaronRose.variable} font-Grenoble flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]`}>
+                <Providers>
+                    <AnimatedContentWrapper>{children}</AnimatedContentWrapper>
+                </Providers>
+            </body>
+        </html>
+    );
 }
