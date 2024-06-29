@@ -73,3 +73,10 @@ export default function AdminRegister() {
     </React.Fragment>
   );
 }
+
+/**
+ *
+ * 111111 - restaurant partner
+ * 111111 - restaurant partner
+ *
+ */
