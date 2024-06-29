@@ -9,8 +9,9 @@ export async function GET(request: NextRequest) {
   if (!session) return NextResponse.json({ isAdmin: false });
   const client = await clientPromise;
   const db = client.db();
-  const adminUser = await db.collection("admins").findOne({ email: session?.user?.email });
-  return NextResponse.json({ isAdmin: !!adminUser, adminUser });
+  const gotUser = await db.collection("admins").findOne({ email: session?.user?.email });
+  if (gotUser) return NextResponse.json({ isAdmin: true, adminUser: gotUser });
+  else return NextResponse.json({ isAdmin: false, adminUser: null });
 }
 
 export async function POST(request: NextRequest) {
