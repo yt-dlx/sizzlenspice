@@ -167,7 +167,7 @@ export default function Order() {
           </ul>
         </div>
       )}
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Order Summary</h1>
           <img src="/checkout.gif" alt="checkout.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />

@@ -31,11 +31,11 @@ export default function Location() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div id="header">
           <div className="flex flex-col items-center justify-center">
             <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">User Location</h1>
-            <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Get your coordinates and enter delivery addresses</div>
+            <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Confirm Your Delivery Address Before Going To The Food Selection Menu</div>
             <img src="/Location.gif" className="object-contain -hue-rotate-90 h-72 sm:h-80 lg:h-96" alt="Location GIF" />
           </div>
         </div>
@@ -106,7 +106,7 @@ className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/
               href="/cart/food"
               className="w-full h-10 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center text-center"
             >
-              Confirm Data and Continue To Items
+              Confirm and Continue
             </Link>
           </div>
         </div>

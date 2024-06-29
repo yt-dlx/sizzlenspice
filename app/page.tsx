@@ -41,7 +41,7 @@ export default async function Home() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div id="header">
           <div className="flex flex-col items-center justify-center">
             <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">Sizzle 'n Spice</h1>

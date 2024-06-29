@@ -14,7 +14,7 @@ export default async function ServerProfile() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <h1 className="mb-4 text-2xl text-[#172B25]">Server Profile</h1>
         <div className="mb-6 user-info">
           <p className="mb-4 text-md text-[#172B25]">

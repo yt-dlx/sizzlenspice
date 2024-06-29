@@ -60,7 +60,7 @@ export default function Cart() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div className="flex flex-col md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Food Categories</h1>
           <ul className="grid grid-cols-3 gap-4 my-2 sm:grid-cols-5 py-8">
@@ -68,7 +68,7 @@ export default function Cart() {
               <li
                 key={index}
                 onClick={() => CategoryClick(index)}
-                className={`p-1 items-center justify-center flex flex-col rounded-3xl border-4 border-double border-[#FFF4E9] shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}
+                className={`p-2 sm:p-3 lg:p-4 items-center justify-center flex flex-col rounded-3xl border-4 border-double border-[#FFF4E9] shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}
               >
                 <Image
                   width={80}
@@ -91,7 +91,7 @@ export default function Cart() {
               <Image src="/cooking.png" width={1080} height={720} alt="Cooking" />
             </div>
           ) : (
-            <div className={`grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
+            <div className={`grid grid-cols-1 sm:grid-cols-2 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
               {Active &&
                 Active.items.map((item, index) => (
                   <div

@@ -14,7 +14,7 @@ export default function ClientSettings() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div className="container mx-auto px-4 py-8">
           <h1 className="mb-6 text-3xl text-[#172B25]">Client Settings</h1>
           <p className="text-lg text-[#172B25]">Manage your account setting here.</p>
