@@ -46,7 +46,7 @@ export default async function Home() {
           <div className="flex flex-col items-center justify-center">
             <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">Sizzle 'n Spice</h1>
             <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Where Every Bite Sizzle With Flavours!</div>
-            <img src="/sns.gif" className="object-contain h-72 sm:h-80 lg:h-96" />
+            <img src="/sns.png" className="object-contain h-72 sm:h-80 lg:h-96 saturate-100" />
           </div>
           <div className="py-8 sm:px-4 md:px-6">
             <div className="flex flex-col items-center">
