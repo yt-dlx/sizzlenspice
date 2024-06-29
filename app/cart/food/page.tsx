@@ -63,16 +63,17 @@ export default function Cart() {
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <div className="flex flex-col md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Food Categories</h1>
-          <ul className="grid grid-cols-3 gap-4 my-2 sm:grid-cols-5 py-8">
+          <ul className="grid grid-cols-4 sm:grid-cols-6 gap-4 my-2 py-8">
             {categories.map((category, index) => (
               <li
                 key={index}
                 onClick={() => CategoryClick(index)}
-                className={`p-2 sm:p-3 lg:p-4 items-center justify-center flex flex-col rounded-3xl border-4 border-double border-[#FFF4E9] shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}
+                className={`p-2 items-center justify-center flex flex-col pb-8 rounded-full shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/40 text-[#172B25] shadow-[#172B25]/40"}`}
               >
                 <Image
                   width={80}
                   height={80}
+                  unoptimized
                   src={category.image}
                   alt={category.title}
                   className={`w-20 h-20 object-cover rounded-full border-4 ${category.active ? "border-[#FFF4E9]" : "border-[#172B25]"}`}
@@ -91,12 +92,12 @@ export default function Cart() {
               <Image src="/cooking.png" width={1080} height={720} alt="Cooking" />
             </div>
           ) : (
-            <div className={`grid grid-cols-1 sm:grid-cols-2 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
+            <div className={`grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-4 ${Active?.items.length === 0 ? "h-screen" : ""}`}>
               {Active &&
                 Active.items.map((item, index) => (
                   <div
                     key={index}
-                    className="flex flex-col rounded-3xl shadow-md hover:shadow-[#172B25] font-MaronRose border-8 border-double border-[#172B25] overflow-hidden transition-all duration-500 hover:-translate-y-1 relative"
+                    className="flex flex-col rounded-3xl shadow-md hover:shadow-[#172B25] font-MaronRose border-4 border-double border-[#172B25] overflow-hidden transition-all duration-500 hover:-translate-y-1 relative"
                   >
                     <Image width={1080} height={720} alt={item.title} src={item.image} className="w-full h-48 object-cover border-b-8 border-double border-[#172B25]" />
                     <div className="flex flex-col justify-between p-2 bg-[#172B25] text-[#FFF4E9] flex-grow">

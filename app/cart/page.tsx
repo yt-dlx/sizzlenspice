@@ -72,36 +72,6 @@ export default function Location() {
                 className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9]"
               />
             </label>
-            {/* <label className="form-control w-full max-w-full">
-<div className="label">
-<span className="label-text">This is your current</span>
-<span className="label-text-alt">Latitude!</span>
-</div>
-<input
-readOnly
-required
-type="text"
-id="latitude"
-name="latitude"
-value={locationData.latitude || ""}
-className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] cursor-not-allowed"
-/>
-</label>
-<label className="form-control w-full max-w-full">
-<div className="label">
-<span className="label-text">This is your current</span>
-<span className="label-text-alt">Longitude!</span>
-</div>
-<input
-readOnly
-required
-type="text"
-id="longitude"
-name="longitude"
-value={locationData.longitude || ""}
-className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] cursor-not-allowed"
-/>
-</label> */}
             <Link
               href="/cart/food"
               className="w-full h-10 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center text-center"

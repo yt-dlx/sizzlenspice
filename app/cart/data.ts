@@ -205,7 +205,7 @@ const initialCategories: Category[] = [
   },
   {
     image: "/svg/coming-soon.gif",
-    title: "more foods",
+    title: "more",
     active: false,
     items: [],
   },
