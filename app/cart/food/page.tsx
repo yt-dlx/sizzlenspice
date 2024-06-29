@@ -60,15 +60,15 @@ export default function Cart() {
   return (
     <React.Fragment>
       <Navbar />
-      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
         <section className="flex flex-col md:justify-center md:items-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Food Categories</h1>
+          <h1 className="text-7xl sm:text-8xl font-LobsterTwo_Bold text-[#172B25]">Food Categories</h1>
           <ul className="grid grid-cols-4 sm:grid-cols-6 gap-4 my-2 py-8">
             {categories.map((category, index) => (
               <li
                 key={index}
                 onClick={() => CategoryClick(index)}
-                className={`p-2 items-center justify-center flex flex-col pb-8 rounded-full shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/40 text-[#172B25] shadow-[#172B25]/40"}`}
+                className={`p-2 items-center justify-center pb-2 flex flex-col rounded-full shadow-md cursor-pointer bg-[#172B25] ${category.active ? "font-bold font-MaronRose text-[#FFF4E9] shadow-[#172B25]" : "font-bold font-MaronRose bg-[#172B25]/20 text-[#172B25] shadow-[#172B25]/40"}`}
               >
                 <Image
                   width={80}

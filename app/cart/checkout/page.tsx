@@ -167,9 +167,9 @@ export default function Order() {
           </ul>
         </section>
       )}
-      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
         <section className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold text-[#172B25]">Order Summary</h1>
+          <h1 className="text-7xl sm:text-8xl font-LobsterTwo_Bold text-[#172B25]">Order Summary</h1>
           <img src="/checkout.gif" alt="checkout.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />
           <p className="text-2xl md:text-6xl text-[#172B25]">
             Here's a summary of your order,
@@ -283,7 +283,7 @@ export default function Order() {
         )}
         {prevOrders.length > 0 && (
           <section className="m-2 mt-8 text-[#172B25]">
-            <h2 className="text-4xl font-semibold">Previous Orders:</h2>
+            <h2 className="text-4xl font-semibold">Orders:</h2>
             <div className="flex flex-col items-center justify-center overflow-x-auto">
               <table className="table">
                 <thead>

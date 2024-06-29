@@ -31,9 +31,9 @@ export default function Location() {
   return (
     <React.Fragment>
       <Navbar />
-      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
+      <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
         <section className="flex flex-col items-center justify-center">
-          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">User Location</h1>
+          <h1 className="text-7xl sm:text-8xl font-LobsterTwo_Bold text-[#172B25]">User Location</h1>
           <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Confirm Your Delivery Address Before Going To The Food Selection Menu</div>
           <img src="/Location.gif" className="object-contain -hue-rotate-90 h-72 sm:h-80 lg:h-96" alt="Location GIF" />
         </section>
