@@ -237,7 +237,7 @@ export default function Order() {
           </div>
         )}
         {!orderPlaced && cartItems.length > 0 && (
-          <div id="Order" className="flex items-center justify-center">
+          <div className="flex items-center justify-center">
             <div className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
               <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
@@ -263,7 +263,7 @@ export default function Order() {
           </div>
         )}
         {!orderPlaced && cartItems.length === 0 && (
-          <div id="cart" className="flex items-center justify-center">
+          <div className="flex items-center justify-center">
             <div className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
               <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />

@@ -32,12 +32,10 @@ export default function Location() {
     <React.Fragment>
       <Navbar />
       <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
-        <div id="header">
-          <div className="flex flex-col items-center justify-center">
-            <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">User Location</h1>
-            <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Confirm Your Delivery Address Before Going To The Food Selection Menu</div>
-            <img src="/Location.gif" className="object-contain -hue-rotate-90 h-72 sm:h-80 lg:h-96" alt="Location GIF" />
-          </div>
+        <div className="flex flex-col items-center justify-center">
+          <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 text-[#172B25]">User Location</h1>
+          <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Confirm Your Delivery Address Before Going To The Food Selection Menu</div>
+          <img src="/Location.gif" className="object-contain -hue-rotate-90 h-72 sm:h-80 lg:h-96" alt="Location GIF" />
         </div>
 
         <div className="flex flex-col max-w-7xl bg-[#172B25] p-4 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25] pb-10">
