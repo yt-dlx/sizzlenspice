@@ -13,7 +13,6 @@ import { AiFillGoogleCircle } from "react-icons/ai";
 export default async function Home() {
   const session = await auth();
   if (session) redirect("/cart");
-
   const categories = [
     {
       image: "/Spicy_Chicken_Curry.jpg",
@@ -42,7 +41,7 @@ export default async function Home() {
       <Navbar />
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <section className="flex flex-col items-center justify-center">
-          <h1 className="text-7xl sm:text-8xl font-LobsterTwo_Bold text-[#172B25]">Sizzle 'n Spice</h1>
+          <h1 className="mb-4 text-7xl sm:text-8xl font-Lora_Bold text-[#172B25]">Sizzle 'n Spice</h1>
           <div className="text-xl font-black sm:text-2xl mb-8 text-[#172B25]">Where Every Bite Sizzle With Flavours!</div>
           <img src="/sns.gif" className="object-cover h-80 sm:h-96 lg:112 saturate-100" />
         </section>
