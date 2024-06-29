@@ -14,7 +14,7 @@ export default async function RoutesPage() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div className="container mx-auto px-4 py-8">
           <h1 className="mb-6 text-3xl font-bold text-[#172B25]">Routes Page</h1>
           {session ? (

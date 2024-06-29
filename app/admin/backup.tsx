@@ -52,7 +52,7 @@ export default function AdminPage() {
   return (
     <React.Fragment>
       <Navbar />
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div className="m-2">
           <div className="flex flex-col items-center justify-center">
             <h1 className="text-6xl sm:text-8xl font-Hatton_Bold mb-6 font-bold text-[#172B25]">Restaurant Partner Login</h1>

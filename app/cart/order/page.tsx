@@ -167,7 +167,7 @@ export default function Order() {
           </ul>
         </div>
       )}
-      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2">
+      <div className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4">
         <div className="flex flex-col mb-4 m-4 md:justify-center md:items-center">
           <h1 className="text-6xl sm:text-8xl font-Hatton_Bold font-bold text-[#172B25]">Order Summary</h1>
           <img src="/order-summary.gif" alt="order-summary.gif" className="object-contain h-80 sm:h-96 lg:h-112 hue-rotate-90" />
@@ -214,16 +214,26 @@ export default function Order() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 text-lg font-bold">
-              Total: <FaRupeeSign className="inline" />
-              {TotalCartPrice}
-            </p>
-            <h2 className="text-4xl font-semibold mt-4">Delivery Location:</h2>
-            <p>Address: {locationData.address}</p>
-            <p>Pincode: {locationData.pincode}</p>
-            <p>
-              Coordinates: {locationData.latitude}, {locationData.longitude}
-            </p>
+            <ul className="mt-4 text-lg font-bold">
+              <li>
+                Total: <FaRupeeSign className="inline" /> {TotalCartPrice}
+              </li>
+            </ul>
+            <ul>
+              <h2 className="text-4xl font-semibold mt-4 mb-2">Delivery Location:</h2>
+              <li>
+                <span className="font-bold">Address:</span> {locationData.address}
+              </li>
+              <li>
+                <span className="font-bold">Pincode:</span> {locationData.pincode}
+              </li>
+              <li>
+                <span className="font-bold">Latitude:</span> {locationData.latitude}
+              </li>
+              <li>
+                <span className="font-bold">Longitude:</span> {locationData.longitude}
+              </li>
+            </ul>
           </div>
         )}
         {!orderPlaced && cartItems.length > 0 && (
