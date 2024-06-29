@@ -3,8 +3,8 @@
 import { SiAuthelia } from "react-icons/si";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
-import Navbar from "@/app/utils/components/Navbar";
-import Footer from "@/app/utils/components/Footer";
+import Navbar from "@/app/_utils/_components/Navbar";
+import Footer from "@/app/_utils/_components/Footer";
 import React, { useState, useEffect } from "react";
 import { useMutation } from "@tanstack/react-query";
 

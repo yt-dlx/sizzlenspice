@@ -2,8 +2,8 @@
 "use client";
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
-import Navbar from "@/app/utils/components/Navbar";
-import Footer from "@/app/utils/components/Footer";
+import Navbar from "@/app/_utils/_components/Navbar";
+import Footer from "@/app/_utils/_components/Footer";
 
 export default function User() {
   const [address, setAddress] = useState<string>("");
