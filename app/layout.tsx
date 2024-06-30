@@ -48,7 +48,7 @@ export default function RootLayout({
           ${Lora_Regular.variable} 
           ${Lora_SemiBold.variable} 
           ${Lora_SemiBoldItalic.variable} 
-          font-Grenoble flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]
+          font-Lora_Regular flex flex-col h-screen bg-[#ddd4cc] text-[#172B25]
         `}
       >
         <Providers>

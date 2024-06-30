@@ -10,9 +10,11 @@ const Navbar = () => {
     <nav className="sticky top-0 z-10 navbar bg-[#172B25]/80 backdrop-blur-xl text-[#FFF4E9]">
       <div className="navbar-start">
         <div className="flex-1">
+          |
           <Link href="/" className="btn btn-ghost text-xl font-Brittany_Signature">
             Sizzle 'n Spice
           </Link>
+          |
         </div>
       </div>
       <div className="navbar-end">

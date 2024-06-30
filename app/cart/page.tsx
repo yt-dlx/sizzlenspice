@@ -32,17 +32,17 @@ export default function Location() {
     <React.Fragment>
       <Navbar />
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
-        <section className="flex flex-col items-center">
-          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">User Location</h1>
-          <img src="/Location.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-100 -hue-rotate-60" />
-          <div className="text-xl font-black sm:text-2xl mt-4 text-[#172B25] text-center">Confirm Your Delivery Address Before Going To The Food Selection Menu!</div>
+        <section className="flex flex-col items-center pb-6">
+          <h1 className="text-7xl sm:text-8xl font-Lora_BoldItalic mb-4 text-[#172B25] text-center">User Location</h1>
+          <img src="/svg/Location.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
+          <div className="text-xl font-Lora_MediumItalic sm:text-2xl mt-4 text-[#172B25] text-center">Confirm Your Delivery Address Before Going To The Food Selection Menu!</div>
         </section>
         <section className="flex flex-col max-w-7xl bg-[#172B25] p-4 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25] pb-10">
           <div className="space-y-4 mt-2">
             <label className="form-control w-full max-w-full">
               <div className="label">
-                <span className="label-text">What is your Address?</span>
-                <span className="label-text-alt">Change if needed!</span>
+                <span className="font-Lora_MediumItalic text-xs">What is your Address?</span>
+                <span className="font-Lora_MediumItalic text-xs">Change if needed!</span>
               </div>
               <input
                 required
@@ -51,13 +51,13 @@ export default function Location() {
                 name="address"
                 value={locationData.address}
                 onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLocationData((prev) => ({ ...prev, address: e.target.value }))}
-                className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9]"
+                className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] placeholder"
               />
             </label>
             <label className="form-control w-full max-w-full">
               <div className="label">
-                <span className="label-text">What is your Pin/Zip Code?</span>
-                <span className="label-text-alt">Change if needed!</span>
+                <span className="font-Lora_MediumItalic text-xs">What is your Pin/Zip Code?</span>
+                <span className="font-Lora_MediumItalic text-xs">Change if needed!</span>
               </div>
               <input
                 required
@@ -66,12 +66,12 @@ export default function Location() {
                 name="pincode"
                 value={locationData.pincode}
                 onChange={(e: React.ChangeEvent<HTMLInputElement>) => setLocationData((prev) => ({ ...prev, pincode: e.target.value }))}
-                className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9]"
+                className="input input-bordered w-full h-10 max-w-full rounded-3xl bg-[#468353]/60 hover:bg-[#468353] placeholder-[#FFF4E9] hover:placeholder-[#FFF4E9] placeholder"
               />
             </label>
             <Link
               href="/cart/food"
-              className="w-full h-10 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center text-center"
+              className="w-full h-10 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center text-center font-Lora_BoldItalic"
             >
               Confirm and Continue
             </Link>

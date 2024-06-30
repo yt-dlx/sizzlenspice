@@ -41,23 +41,23 @@ export default async function Home() {
       <Navbar />
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-4 m-4">
         <section className="flex flex-col items-center">
-          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Sizzle 'n Spice</h1>
+          <h1 className="text-7xl sm:text-8xl font-Lora_BoldItalic mb-4 text-[#172B25] text-center">Sizzle 'n Spice</h1>
           <img src="/sns.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-100" />
-          <div className="text-xl font-black sm:text-2xl mt-4 text-[#172B25] text-center">Where Every Bite Sizzles With Flavours!</div>
+          <div className="text-xl font-Lora_MediumItalic sm:text-2xl mt-4 text-[#172B25] text-center">Where Every Bite Sizzles With Flavours!</div>
         </section>
         <section className="py-8 sm:px-4 md:px-6">
           <section className="flex flex-col items-center">
-            <h1 className="text-2xl font-black lg:text-5xl font-MaronRose m-2 p-2 rounded-full gap-2 text-[#172B25]">
+            <h1 className="text-2xl lg:text-5xl font-Lora_SemiBold m-2 p-2 rounded-full gap-2 text-[#172B25]">
               <Image unoptimized src="/svg/door.gif" alt="door" width={200} height={200} className="object-cover w-14 h-14" />
               Order delicious foods and get them at your doorsteps{" "}
             </h1>
             <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-4 2xl:grid-cols-4 gap-4">
               {categories.map((category, index) => (
-                <a key={index} className="flex flex-col rounded-2xl shadow-md shadow-[#172B25] border-2 border-[#172B25] overflow-hidden transition-all duration-500 hover:scale-105 h-full">
+                <a key={index} className="flex flex-col rounded-2xl shadow-md shadow-[#172B25] overflow-hidden transition-all duration-500 hover:scale-105 h-full">
                   <Image src={category.image} width={200} height={200} alt={category.title} className="object-cover w-full h-48" />
-                  <div className="flex flex-col justify-between p-3 bg-[#172B25] flex-grow">
-                    <h2 className="text-xl text-[#E6DFD4] truncate font-MaronRose">{category.title}</h2>
-                    <p className="text-xs text-[#CAC4CE] mt-auto">{category.count} Items</p>
+                  <div className="flex flex-col justify-between p-3 bg-[#172B25] flex-grow text-xs">
+                    <h2 className="text-[#E6DFD4] truncate font-Lora_Medium">{category.title}</h2>
+                    <p className="text-[#CAC4CE] mt-auto">{category.count} Items</p>
                   </div>
                 </a>
               ))}
@@ -66,7 +66,7 @@ export default async function Home() {
         </section>
         <section className="flex items-center justify-center">
           <section className="flex flex-col max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
-            <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
+            <span className="flex items-center justify-center gap-2 text-xl font-Lora_BoldItalic xl:text-6xl">
               <ImLeaf size={80} className="animate-pulse text-[#FFF4E9]" /> Feast Your Senses with, Spices and Freshness
             </span>
             <div id="signin-form">

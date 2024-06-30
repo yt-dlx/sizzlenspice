@@ -158,7 +158,7 @@ export default function Order() {
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
           <p className="mb-4 text-4xl md:text-8xl text-[#172B25]">
             Order Placed,
-            <br /> <span className="font-semibold">{session?.user?.name}</span>!
+            <br /> <span className="font-Lora_SemiBoldItalic">{session?.user?.name}</span>!
           </p>
           <ul className="text-lg md:xl text-[#172B25] p-8 list-disc">
             <li>Thank you for your order!</li>
@@ -170,12 +170,12 @@ export default function Order() {
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
         <section className="flex flex-col items-center">
           <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Order Summary</h1>
-          <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-100 -hue-rotate-60" />
-          <p className="text-2xl md:text-6xl text-[#172B25] m-8 text-center">Here's a summary of your order, {session?.user?.name}! Review it and make changes if required!</p>
+          <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 -hue-rotate-180" />
+          <p className="text-2xl md:text-6xl text-[#172B25] m-8 text-center font-Lora_MediumItalic">Here's a summary of your order, {session?.user?.name}! Review it and make changes if required!</p>
         </section>
         {!orderPlaced && cartItems.length > 0 && (
           <section className="text-[#172B25] p-4">
-            <h2 className="text-4xl font-semibold">Order Items:</h2>
+            <h2 className="text-4xl font-Lora_SemiBoldItalic">Order Items:</h2>
             <div className="my-4 overflow-x-auto">
               <table className="table">
                 <thead>
@@ -197,7 +197,7 @@ export default function Order() {
                       </td>
                       <td>
                         {item.title}{" "}
-                        <span className="font-semibold">
+                        <span className="font-Lora_SemiBoldItalic">
                           ({item.plateSize}) - x{item.quantity}
                         </span>
                       </td>
@@ -210,24 +210,24 @@ export default function Order() {
                 </tbody>
               </table>
             </div>
-            <ul className="mt-4 text-lg font-bold">
+            <ul className="mt-4 text-lg font-Lora_MediumItalic">
               <li>
                 Total: <FaRupeeSign className="inline" /> {TotalCartPrice}
               </li>
             </ul>
             <ul>
-              <h2 className="text-4xl font-semibold mt-4 mb-2">Delivery Location:</h2>
+              <h2 className="text-4xl font-Lora_SemiBoldItalic mt-4 mb-2">Delivery Location:</h2>
               <li>
-                <span className="font-bold">Address:</span> {locationData.address}
+                <span className="font-Lora_MediumItalic">Address:</span> {locationData.address}
               </li>
               <li>
-                <span className="font-bold">Pincode:</span> {locationData.pincode}
+                <span className="font-Lora_MediumItalic">Pincode:</span> {locationData.pincode}
               </li>
               <li>
-                <span className="font-bold">Latitude:</span> {locationData.latitude}
+                <span className="font-Lora_MediumItalic">Latitude:</span> {locationData.latitude}
               </li>
               <li>
-                <span className="font-bold">Longitude:</span> {locationData.longitude}
+                <span className="font-Lora_MediumItalic">Longitude:</span> {locationData.longitude}
               </li>
             </ul>
           </section>
@@ -235,7 +235,7 @@ export default function Order() {
         {!orderPlaced && cartItems.length > 0 && (
           <section className="flex items-center justify-center">
             <section className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-3xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
-              <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
+              <span className="flex items-center justify-center gap-2 text-xl font-Lora_BoldItalic xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
                 Confirm Your Culinary Journey
               </span>
@@ -261,14 +261,14 @@ export default function Order() {
         {!orderPlaced && cartItems.length === 0 && (
           <section className="flex items-center justify-center">
             <section className="flex flex-col m-2 max-w-7xl bg-[#172B25] p-8 rounded-2xl text-[#E6DFD4] shadow-md shadow-[#172B25]">
-              <span className="flex items-center justify-center gap-2 text-xl font-black xl:text-6xl">
+              <span className="flex items-center justify-center gap-2 text-xl font-Lora_BoldItalic xl:text-6xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
                 Your Cart is Empty! Let's Fill it up.
               </span>
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/cart"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#FFF4E9] hover:bg-[#468353] text-[#172B25] hover:text-[#FFF4E9] flex items-center justify-center gap-2 font-Lora_BoldItalic"
                 >
                   Go To Food Categories
                 </Link>
@@ -279,7 +279,7 @@ export default function Order() {
         )}
         {prevOrders.length > 0 && (
           <section className="m-2 mt-8 text-[#172B25]">
-            <h2 className="text-4xl font-semibold">Orders:</h2>
+            <h2 className="text-4xl font-Lora_SemiBoldItalic">Orders:</h2>
             <div className="flex flex-col items-center justify-center overflow-x-auto">
               <table className="table">
                 <thead>
@@ -300,7 +300,7 @@ export default function Order() {
                       <td>
                         {order._id === latestOrderId &&
                           (cancelTimeRemaining !== null && cancelTimeRemaining > 0 ? (
-                            <button onClick={() => handleCancelOrder(order._id)} className="px-2 py-1 text-sm text-white bg-red-500 rounded hover:bg-red-600">
+                            <button onClick={() => handleCancelOrder(order._id)} className="px-2 py-1 text-xs text-[#FFF4E9] bg-red-500 rounded hover:bg-red-600">
                               Cancel ({cancelTimeRemaining}s)
                             </button>
                           ) : (
