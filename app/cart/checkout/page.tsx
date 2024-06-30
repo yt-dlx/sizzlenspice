@@ -160,16 +160,15 @@ export default function Order() {
             Order Placed,
             <br /> <span className="font-Lora_SemiBoldItalic">{session?.user?.name}</span>!
           </p>
-          <ul className="text-lg md:xl text-[#172B25] p-8 list-disc">
+          <ul className="text-lg md:xl text-[#172B25] p-8 list-disc font-Lora_SemiBoldItalic">
             <li>Thank you for your order!</li>
-            <li>Please wait for confirmation from the Restaurant Owner.</li>
-            <li>You'll receive notifications for every step until your order arrives.</li>
+            <li>Auto Redirect in 6s.</li>
           </ul>
         </section>
       )}
       <section className="mx-auto overflow-hidden bg-[#FFF4E9] max-w-6xl p-2 m-2">
         <section className="flex flex-col items-center">
-          <h1 className="text-7xl sm:text-8xl font-Lora_Bold mb-4 text-[#172B25] text-center">Order Summary</h1>
+          <h1 className="text-7xl sm:text-8xl font-Lora_BoldItalic mb-4 text-[#172B25] text-center">Order Summary</h1>
           <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 -hue-rotate-180" />
           <p className="text-2xl md:text-6xl text-[#172B25] m-8 text-center font-Lora_MediumItalic">Here's a summary of your order, {session?.user?.name}! Review it and make changes if required!</p>
         </section>
