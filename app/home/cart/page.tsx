@@ -2,11 +2,13 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
+import { LuBike } from "react-icons/lu";
+import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
 import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
-import { FaRupeeSign, FaPlus, FaMinus } from "react-icons/fa";
+import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
 export default function Home() {
   const { data: session } = useSession();
@@ -38,6 +40,7 @@ export default function Home() {
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
+        window.location.reload();
       }, 4000);
       return () => clearTimeout(timer);
     }
@@ -105,13 +108,18 @@ export default function Home() {
   };
 
   const handlePlaceOrder = async () => {
-    setIsLoading(true);
     setError(null);
+    setShowGif(true);
+    setIsLoading(true);
     try {
       const response = await fetch("/api/cart", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ cart, userId: session?.user?.email }),
+        body: JSON.stringify({
+          cart,
+          userId: session?.user?.email,
+          totalAmount: getCartTotal(),
+        }),
       });
       if (!response.ok) throw new Error("Failed to place order");
       const { orderId } = await response.json();
@@ -129,6 +137,11 @@ export default function Home() {
     }
   };
 
+  const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
+  const toggleVisualize = (orderId: string) => {
+    setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+  };
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
@@ -139,8 +152,8 @@ export default function Home() {
             <br /> <span className="font-Lora_SemiBoldItalic">{session?.user?.name}</span>!
           </p>
           <ul className="text-lg md:xl text-[#E9F0CD] p-8 list-disc font-Lora_SemiBoldItalic">
-            <li>Thank you for your order!</li>
-            <li>Auto CLosing in 4s.</li>
+            <li>Thank you for ordering!</li>
+            <li>Auto Closing in 4s.</li>
           </ul>
         </section>
       )}
@@ -160,12 +173,14 @@ export default function Home() {
         />
       </section>
 
-      <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-        <h3 className="text-3xl font-Kurale font-bold text-[#E9F0CD]">
-          Total: <FaRupeeSign className="inline" />
-          {getCartTotal().toFixed(2)}
-        </h3>
-      </section>
+      {getCartTotal() > 0 && (
+        <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
+          <h3 className="text-3xl font-Kurale font-bold text-[#E9F0CD]">
+            Total: <FaRupeeSign className="inline" />
+            {getCartTotal().toFixed(2)}
+          </h3>
+        </section>
+      )}
 
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
@@ -217,64 +232,52 @@ export default function Home() {
         ))}
       </section>
 
-      {!orderPlaced && cart.length > 0 && (
-        <section className="flex items-center justify-center">
-          <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#FFF4E9] shadow-md shadow-[#1C2924]">
-            <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
-              <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
-              Confirm Your Culinary Journey and Place Your Orders
-            </span>
-            <div className="mt-2 space-y-2">
-              <button
-                disabled={isLoading}
-                onClick={handlePlaceOrder}
-                className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
-              >
-                {isLoading ? "Processing..." : "Confirm Order!"}
-              </button>
-              <Link
-                href={"/home"}
-                className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
-              >
-                No, I want to add more!
-              </Link>
-            </div>
-            {error && <p className="mt-2 text-red-500">{error}</p>}
+      {!orderPlaced ? (
+        cart.length > 0 ? (
+          <section className="flex items-center justify-center">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
+              <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
+                <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
+                Confirm Your Culinary Journey and Place Your Orders
+              </span>
+              <div className="mt-2 space-y-2">
+                <button
+                  disabled={isLoading}
+                  onClick={handlePlaceOrder}
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                >
+                  <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
+                </button>
+                <Link
+                  href={"/home"}
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                >
+                  <MdFastfood size={20} /> No, I want to add more!
+                </Link>
+              </div>
+              {error && <p className="mt-2 text-red-500">{error}</p>}
+            </section>
           </section>
-        </section>
-      )}
-
-      {!orderPlaced && cart.length === 0 && (
-        <section className="flex items-center justify-center">
-          <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#FFF4E9] shadow-md shadow-[#1C2924]">
-            <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
-              <GiDeliveryDrone size={80} className="animate-pulse text-[#FFF4E9]" />
-              Your Cart is Empty! Let's Fill it up.
-            </span>
-            <div className="mt-2 space-y-2">
-              <Link
-                href={"/home"}
-                className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
-              >
-                Go To Food Items
-              </Link>
-            </div>
-            {error && <p className="mt-2 text-red-500">{error}</p>}
+        ) : (
+          <section className="flex items-center justify-center">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
+              <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
+                <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
+                Your Cart is Empty! Let's Fill it up.
+              </span>
+              <div className="mt-2 space-y-2">
+                <Link
+                  href={"/home"}
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                >
+                  <MdFastfood size={20} /> Go To Food Items
+                </Link>
+              </div>
+              {error && <p className="mt-2 text-red-500">{error}</p>}
+            </section>
           </section>
-        </section>
-      )}
-
-      {/* <section id="place-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
-<button
-onClick={handlePlaceOrder}
-disabled={isLoading || cart.length === 0}
-className="bg-[#E9F0CD] text-[#1C2924] px-6 py-2 rounded-full font-bold disabled:opacity-50"
->
-{isLoading ? "Placing Order..." : "Place Order"}
-</button>
-{error && <p className="text-red-500 mt-2">{error}</p>}
-{orderPlaced && <p className="text-green-500 mt-2">Order placed successfully!</p>}
-</section> */}
+        )
+      ) : null}
 
       {cancelTimeRemaining !== null && (
         <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
@@ -283,7 +286,7 @@ className="bg-[#E9F0CD] text-[#1C2924] px-6 py-2 rounded-full font-bold disabled
           </p>
           <button
             onClick={() => handleCancelOrder(latestOrderId!)}
-            className="bg-red-500 text-[#FFF4E9] px-4 py-2 rounded mt-2"
+            className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2"
           >
             Cancel Order
           </button>
@@ -292,15 +295,91 @@ className="bg-[#E9F0CD] text-[#1C2924] px-6 py-2 rounded-full font-bold disabled
 
       {prevOrders && prevOrders.length > 0 && (
         <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
-          <h3 className="text-2xl font-bold text-[#E9F0CD] mb-4">Previous Orders</h3>
+          <h3 className="text-2xl font-bold text-[#E9F0CD] mb-4">Orders</h3>
           {prevOrders.map((order: any, index: number) => (
             <div key={index} className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4">
-              <p className="text-[#E9F0CD]">Order ID: {order.id}</p>
+              <div className="flex justify-between items-center">
+                <p className="text-[#E9F0CD]">Order ID: {order._id}</p>
+                <button
+                  onClick={() => toggleVisualize(order._id)}
+                  className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-Kurale font-bold text-xs"
+                >
+                  {visualizedOrders[order._id] ? (
+                    <>
+                      <FaEyeSlash className="mr-2" /> Hide
+                    </>
+                  ) : (
+                    <>
+                      <FaEye className="mr-2" /> Visualise
+                    </>
+                  )}
+                </button>
+              </div>
               <p className="text-[#E9F0CD]">
                 Total: <FaRupeeSign className="inline" />
-                {order.total}
+                {typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}
               </p>
-              <p className="text-[#E9F0CD]">Date: {new Date(order.createdAt).toLocaleString()}</p>
+              <p className="text-[#E9F0CD]">
+                Date: {order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}
+              </p>
+              <p className="text-[#E9F0CD]">
+                Items: {order.items && order.items.length > 0 ? order.items.length : "No items"}
+              </p>
+              {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
+                <div className="mt-4 font-Kurale">
+                  <table className="w-full text-[#E9F0CD]">
+                    <thead>
+                      <tr className="border-b border-[#E9F0CD]/30">
+                        <th className="text-left p-2">Item</th>
+                        <th className="text-left p-2">Size</th>
+                        <th className="text-right p-2">Quantity</th>
+                        <th className="text-right p-2">Price</th>
+                        <th className="text-right p-2">Subtotal</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {order.items.map((item: any, itemIndex: number) => {
+                        const price =
+                          typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
+                        const quantity =
+                          typeof item.quantity === "number"
+                            ? item.quantity
+                            : parseInt(item.quantity, 10) || 0;
+                        const subtotal = price * quantity;
+
+                        return (
+                          <tr key={itemIndex} className="border-b border-[#E9F0CD]/10">
+                            <td className="p-2">{item.title}</td>
+                            <td className="p-2">{item.selectedSize}</td>
+                            <td className="text-right p-2">{quantity}</td>
+                            <td className="text-right p-2">
+                              <FaRupeeSign className="inline mr-1" />
+                              {price.toFixed(2)}
+                            </td>
+                            <td className="text-right p-2">
+                              <FaRupeeSign className="inline mr-1" />
+                              {subtotal.toFixed(2)}
+                            </td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                    <tfoot>
+                      <tr className="font-bold">
+                        <td colSpan={4} className="text-right p-2">
+                          Total:
+                        </td>
+                        <td className="text-right p-2">
+                          <FaRupeeSign className="inline mr-1" />
+                          {typeof order.total === "number"
+                            ? order.total.toFixed(2)
+                            : (parseFloat(order.total) || 0).toFixed(2)}
+                        </td>
+                      </tr>
+                    </tfoot>
+                  </table>
+                </div>
+              )}
             </div>
           ))}
         </section>
