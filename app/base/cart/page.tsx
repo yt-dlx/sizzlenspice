@@ -3,8 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useSession } from "next-auth/react";
-import { useStore } from "@/app/_others/store";
 import { GiDeliveryDrone } from "react-icons/gi";
+import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus } from "react-icons/fa";
 
@@ -145,13 +145,19 @@ export default function Home() {
         </section>
       )}
 
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
+      <section
+        id="header"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair"
+      >
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
           Here's a summary of your order, {session?.user?.name}! <br />
           Review it and make changes if required!
         </h2>
-        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
+        <img
+          src="/checkout.gif"
+          className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90"
+        />
       </section>
 
       <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
@@ -163,9 +169,18 @@ export default function Home() {
 
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
+          <div
+            key={index}
+            className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg"
+          >
             <div className="flex items-center gap-2">
-              <Image width={50} height={50} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#111111] border-2 border-[#111111]" />
+              <Image
+                width={50}
+                height={50}
+                alt={item.title}
+                src={item.image}
+                className="object-cover w-14 h-14 rounded-full shadow shadow-[#111111] border-2 border-[#111111]"
+              />
               <div>
                 <h3 className="font-bold text-[#E9F0CD]">{item.title}</h3>
                 <p className="text-sm text-[#E9F0CD]/70 font-Kurale">{item.selectedSize} plate</p>
@@ -263,8 +278,13 @@ className="bg-[#E9F0CD] text-[#1C2924] px-6 py-2 rounded-full font-bold disabled
 
       {cancelTimeRemaining !== null && (
         <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
-          <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
-          <button onClick={() => handleCancelOrder(latestOrderId!)} className="bg-red-500 text-[#FFF4E9] px-4 py-2 rounded mt-2">
+          <p className="text-[#E9F0CD]">
+            You can cancel your order within the next {cancelTimeRemaining} seconds.
+          </p>
+          <button
+            onClick={() => handleCancelOrder(latestOrderId!)}
+            className="bg-red-500 text-[#FFF4E9] px-4 py-2 rounded mt-2"
+          >
             Cancel Order
           </button>
         </section>

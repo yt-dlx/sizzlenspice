@@ -16,7 +16,11 @@ export default async function Server() {
         <section className="mb-6 user-info">
           {session.user?.image && (
             <div className="mb-4">
-              <img src={session.user.image} alt={`${session.user.name}'s profile picture`} className="w-24 h-24 rounded-full" />
+              <img
+                src={session.user.image}
+                alt={`${session.user.name}'s profile picture`}
+                className="w-24 h-24 rounded-full"
+              />
             </div>
           )}
           <p className="mb-4 text-md text-[#E9F0CD]">
@@ -25,7 +29,10 @@ export default async function Server() {
           <p className="text-sm text-[#E9F0CD]">This page is protected on the server side.</p>
         </section>
         <section className="navigation">
-          <Link href="/" className="block px-4 py-2 font-bold text-center transition duration-300 ease-in-out bg-blue-500 rounded-full hover:bg-blue-600 text-[#E9F0CD]">
+          <Link
+            href="/"
+            className="block px-4 py-2 font-bold text-center transition duration-300 ease-in-out bg-blue-500 rounded-full hover:bg-blue-600 text-[#E9F0CD]"
+          >
             Back to Home
           </Link>
         </section>

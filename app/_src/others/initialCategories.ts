@@ -1,5 +1,5 @@
 // app/_others/initialCategories.ts
-import { Category } from "../_types/cart";
+import { Category } from "../types/cart";
 
 const initialCategories: Category[] = [
   {
@@ -33,7 +33,8 @@ const initialCategories: Category[] = [
       },
       {
         title: "Chicken Biryani",
-        description: "Flavorful chicken biryani cooked to perfection with rich spices and fragrant rice.",
+        description:
+          "Flavorful chicken biryani cooked to perfection with rich spices and fragrant rice.",
         image: "/biryani/Chicken_Biryani.jpg",
         price: { small: "50", medium: "75", full: "100" },
         forTwo: 200,
@@ -85,7 +86,8 @@ const initialCategories: Category[] = [
       },
       {
         title: "Chickpea Kebab",
-        description: "Vegetarian kebab made with chickpeas and exotic spices for a delightful taste.",
+        description:
+          "Vegetarian kebab made with chickpeas and exotic spices for a delightful taste.",
         image: "/kebab/Chickpea_Kebab.jpg",
         price: { small: "50", medium: "75", full: "100" },
         forTwo: 200,
