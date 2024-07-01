@@ -16,7 +16,7 @@ const Navbar = () => {
           {session?.user?.image && (
             <div className="dropdown dropdown-end">
               <div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
-                <div className="w-auto h-auto shadow shadow-[#111111] rounded-full">
+                <div className="w-auto h-auto shadow shadow-[#131313] rounded-full">
                   <img alt="User profile" src={session.user.image} />
                 </div>
               </div>

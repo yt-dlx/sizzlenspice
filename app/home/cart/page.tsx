@@ -130,9 +130,9 @@ export default function Home() {
   };
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#111111] to-50% p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
-        <section className="fixed inset-0 flex flex-col items-center justify-center bg-[#111111]/60 backdrop-blur-2xl z-50">
+        <section className="fixed inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
           <p className="mb-4 text-4xl md:text-8xl text-[#E9F0CD]">
             Order Placed,
@@ -179,7 +179,7 @@ export default function Home() {
                 height={50}
                 alt={item.title}
                 src={item.image}
-                className="object-cover w-14 h-14 rounded-full shadow shadow-[#111111] border-2 border-[#111111]"
+                className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]"
               />
               <div>
                 <h3 className="font-bold text-[#E9F0CD]">{item.title}</h3>
