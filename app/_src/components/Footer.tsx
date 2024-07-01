@@ -1,12 +1,13 @@
 // components/Footer.tsx
 const Footer = () => {
   return (
-    <footer className="p-4 mt-auto shadow-md bg-[#111111]/30 backdrop-blur-md">
-      <div className="flex items-center justify-between mx-auto max-w-full">
-        <p className="text-sm text-[#E9F0CD] font-Kurale">
-          Copyright © {new Date().getFullYear()} All rights reserved.
+    <footer className="footer footer-center bg-[#111111] text-[#E9F0CD] p-10">
+      <aside>
+        <p className="font-Brittany text-4xl font-bold">Sizzle 'n Spice</p>
+        <p className="font-Kurale m-2">
+          Copyright © {new Date().getFullYear()} - All right reserved
         </p>
-      </div>
+      </aside>
     </footer>
   );
 };

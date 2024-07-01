@@ -7,7 +7,7 @@ const Navbar = () => {
   const { data: session } = useSession();
 
   return (
-    <nav className="sticky top-0 bg-[#1c3029]/30 backdrop-blur-md p-4 z-50">
+    <nav className="sticky top-0 bg-[#1c3029]/30 backdrop-blur-md p-2 z-50">
       <div className="flex items-center justify-between mx-auto max-w-full">
         <Link href={"/"} className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">
           Sizzle 'n Spice
