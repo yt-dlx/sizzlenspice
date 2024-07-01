@@ -123,17 +123,23 @@ export default function HomePage() {
                   {selectedItem.description}
                 </p>
                 <p className="mb-2 text-center font-Kurale text-xl font-bold">Select Plate Size:</p>
-                <div className="flex justify-center items-center text-center flex-row gap-2">
-                  {Object.entries(selectedItem.price).map(([size, price]) => (
-                    <button
-                      key={size}
-                      onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                      className="flex text-center items-center justify-center font-bold text-xs bg-[#E9F0CD] text-[#172B25] hover:bg-[#8C9A68] font-Kurale px-4 p-2 rounded-3xl transition duration-300 gap-1"
-                    >
-                      {size.charAt(0).toUpperCase() + size.slice(1)} : <FaRupeeSign />
-                      {price}
-                    </button>
-                  ))}
+                <div className="flex justify-center items-center text-center flex-col gap-2 mb-4">
+                  {Object.entries(selectedItem.price).map(([size, price]) => {
+                    const cartItem = cart.find(
+                      (item) => item.title === selectedItem.title && item.selectedSize === size
+                    );
+                    const quantity = cartItem ? cartItem.quantity : 0;
+                    return (
+                      <button
+                        key={size}
+                        onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
+                        className="flex w-full text-center items-center justify-center font-bold text-xs bg-[#E9F0CD] text-[#172B25] hover:bg-[#8C9A68] font-Kurale px-4 p-2 rounded-3xl transition duration-300 gap-1"
+                      >
+                        {size.charAt(0).toUpperCase() + size.slice(1)} : <FaRupeeSign />
+                        {price} {quantity > 0 && `| Added: x${quantity}`}
+                      </button>
+                    );
+                  })}
                 </div>
                 <button
                   onClick={() => setIsModalOpen(false)}
@@ -146,7 +152,7 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       )}
-
+      {/* =========================================================================================== */}
       <section
         id="header"
         className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair"
@@ -156,7 +162,7 @@ export default function HomePage() {
           Where Every Bite Sizzles With Flavour and Love!
         </h2>
       </section>
-
+      {/* =========================================================================================== */}
       <section
         id="search-location"
         className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4"
@@ -228,7 +234,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-
+      {/* =========================================================================================== */}
       <section
         id="items"
         className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4"
@@ -280,6 +286,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+      {/* =========================================================================================== */}
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2">
           <button

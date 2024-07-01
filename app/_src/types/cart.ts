@@ -1,4 +1,4 @@
-// app/_Types/cart.tsx
+// app/_src/types/cart.tsx
 export interface Price {
   [key: string]: string;
   small: string;
