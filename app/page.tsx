@@ -81,21 +81,21 @@ export default async function HomePage() {
             <div className="space-y-2 flex flex-col text-sm font-Kurale font-bold">
               <button
                 type="submit"
-                value="github"
-                name="provider"
-                className="shadow shadow-[#172825] w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2"
-              >
-                <VscGithubInverted size={20} />
-                Sign Up or Log in with "GitHub.com"
-              </button>
-              <button
-                type="submit"
                 value="google"
                 name="provider"
                 className="shadow shadow-[#172825] w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2"
               >
                 <AiFillGoogleCircle size={20} />
                 Sign Up or Log in with "Google.com"
+              </button>
+              <button
+                type="submit"
+                value="github"
+                name="provider"
+                className="shadow shadow-[#172825] w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2"
+              >
+                <VscGithubInverted size={20} />
+                Sign Up or Log in with "GitHub.com"
               </button>
             </div>
           </form>
