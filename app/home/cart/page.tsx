@@ -233,7 +233,7 @@ export default function Home() {
                 {isLoading ? "Processing..." : "Confirm Order!"}
               </button>
               <Link
-                href={"/base"}
+                href={"/home"}
                 className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
               >
                 No, I want to add more!
@@ -253,7 +253,7 @@ export default function Home() {
             </span>
             <div className="mt-2 space-y-2">
               <Link
-                href={"/base"}
+                href={"/home"}
                 className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
               >
                 Go To Food Items

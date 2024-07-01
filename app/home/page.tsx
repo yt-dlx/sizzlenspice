@@ -1,4 +1,4 @@
-// app/base/page.tsx
+// app/home/page.tsx
 "use client";
 import Link from "next/link";
 import Image from "next/image";
@@ -10,7 +10,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { MdAlternateEmail, MdClose } from "react-icons/md";
 import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
 
-export default function BasePage() {
+export default function HomePage() {
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
@@ -103,7 +103,7 @@ export default function BasePage() {
                 </span>
               </div>
               <Link
-                href="/base/cart"
+                href="/home/cart"
                 className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-[#E9F0CD] hover:bg-[#8C9A68]/60 text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-bold font-Kurale"
               >
                 Proceed To Checkout
