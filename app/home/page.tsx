@@ -145,7 +145,7 @@ export default function HomePage() {
                   onClick={() => setIsModalOpen(false)}
                   className="w-full bg-[#E9F0CD] text-[#172B25] hover:bg-[#8C9A68] py-2 mb-2 rounded-3xl mt-4 transition duration-300 font-Kurale font-bold"
                 >
-                  Close Modal
+                  Close 
                 </button>
               </div>
             </motion.div>

@@ -36,12 +36,15 @@ export async function POST(request: NextRequest) {
   const orderDate = new Date();
   const orderDocument = {
     _id: orderId,
-    items: cart.map((item) => ({
-      title: item.title,
-      quantity: item.quantity,
-      selectedSize: item.selectedSize,
-      price: item.price,
-    })),
+    items: cart.map((item) => {
+      const selectedPrice = item.price[item.selectedSize];
+      return {
+        title: item.title,
+        quantity: item.quantity,
+        selectedSize: item.selectedSize,
+        price: selectedPrice,
+      };
+    }),
     total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
     userId: userId,
     createdAt: orderDate,

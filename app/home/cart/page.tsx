@@ -280,7 +280,10 @@ export default function Home() {
       ) : null}
 
       {cancelTimeRemaining !== null && (
-        <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
+        <section
+          id="cancel-order"
+          className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold"
+        >
           <p className="text-[#E9F0CD]">
             You can cancel your order within the next {cancelTimeRemaining} seconds.
           </p>
@@ -294,94 +297,106 @@ export default function Home() {
       )}
 
       {prevOrders && prevOrders.length > 0 && (
-        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8">
-          <h3 className="text-2xl font-bold text-[#E9F0CD] mb-4">Orders</h3>
-          {prevOrders.map((order: any, index: number) => (
-            <div key={index} className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4">
-              <div className="flex justify-between items-center">
-                <p className="text-[#E9F0CD]">Order ID: {order._id}</p>
-                <button
-                  onClick={() => toggleVisualize(order._id)}
-                  className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-Kurale font-bold text-xs"
-                >
-                  {visualizedOrders[order._id] ? (
-                    <>
-                      <FaEyeSlash className="mr-2" /> Hide
-                    </>
-                  ) : (
-                    <>
-                      <FaEye className="mr-2" /> Visualise
-                    </>
-                  )}
-                </button>
-              </div>
-              <p className="text-[#E9F0CD]">
-                Total: <FaRupeeSign className="inline" />
-                {typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}
-              </p>
-              <p className="text-[#E9F0CD]">
-                Date: {order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}
-              </p>
-              <p className="text-[#E9F0CD]">
-                Items: {order.items && order.items.length > 0 ? order.items.length : "No items"}
-              </p>
-              {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
-                <div className="mt-4 font-Kurale">
-                  <table className="w-full text-[#E9F0CD]">
-                    <thead>
-                      <tr className="border-b border-[#E9F0CD]/30">
-                        <th className="text-left p-2">Item</th>
-                        <th className="text-left p-2">Size</th>
-                        <th className="text-right p-2">Quantity</th>
-                        <th className="text-right p-2">Price</th>
-                        <th className="text-right p-2">Subtotal</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {order.items.map((item: any, itemIndex: number) => {
-                        const price =
-                          typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
-                        const quantity =
-                          typeof item.quantity === "number"
-                            ? item.quantity
-                            : parseInt(item.quantity, 10) || 0;
-                        const subtotal = price * quantity;
-
-                        return (
-                          <tr key={itemIndex} className="border-b border-[#E9F0CD]/10">
-                            <td className="p-2">{item.title}</td>
-                            <td className="p-2">{item.selectedSize}</td>
-                            <td className="text-right p-2">{quantity}</td>
-                            <td className="text-right p-2">
-                              <FaRupeeSign className="inline mr-1" />
-                              {price.toFixed(2)}
-                            </td>
-                            <td className="text-right p-2">
-                              <FaRupeeSign className="inline mr-1" />
-                              {subtotal.toFixed(2)}
-                            </td>
-                          </tr>
-                        );
-                      })}
-                    </tbody>
-                    <tfoot>
-                      <tr className="font-bold">
-                        <td colSpan={4} className="text-right p-2">
-                          Total:
-                        </td>
-                        <td className="text-right p-2">
-                          <FaRupeeSign className="inline mr-1" />
-                          {typeof order.total === "number"
-                            ? order.total.toFixed(2)
-                            : (parseFloat(order.total) || 0).toFixed(2)}
-                        </td>
-                      </tr>
-                    </tfoot>
-                  </table>
+        <section
+          id="previous-orders"
+          className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]"
+        >
+          <h3 className="text-4xl font-bold mb-4">Orders</h3>
+          {prevOrders
+            .sort(
+              (a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
+            )
+            .map((order: any, index: number) => (
+              <div
+                key={index}
+                className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4 font-bold font-Kurale"
+              >
+                <div className="flex justify-between items-center">
+                  <p>
+                    Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
+                  </p>
+                  <button
+                    onClick={() => toggleVisualize(order._id)}
+                    className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs"
+                  >
+                    {visualizedOrders[order._id] ? (
+                      <React.Fragment>
+                        <FaEyeSlash className="mr-2" /> Hide
+                      </React.Fragment>
+                    ) : (
+                      <React.Fragment>
+                        <FaEye className="mr-2" /> Show
+                      </React.Fragment>
+                    )}
+                  </button>
                 </div>
-              )}
-            </div>
-          ))}
+                <p>
+                  Date:{" "}
+                  <span className="font-light text-xs">
+                    {order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}
+                  </span>
+                </p>
+                <p>
+                  Total:{" "}
+                  <span className="font-light text-xs">
+                    {typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}
+                  </span>
+                </p>
+                <p>
+                  Items:{" "}
+                  <span className="font-light text-xs">
+                    {order.items && order.items.length > 0 ? order.items.length : "No items"}
+                  </span>
+                </p>
+                {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
+                  <div className="mt-4">
+                    <table className="w-full">
+                      <thead>
+                        <tr className="border-b border-[#E9F0CD]/30">
+                          <th className="text-left p-2">Item</th>
+                          <th className="text-left p-2">Size</th>
+                          <th className="text-right p-2">Price</th>
+                        </tr>
+                      </thead>
+                      <tbody className="text-xs">
+                        {order.items.map((item: any, itemIndex: number) => {
+                          const price =
+                            typeof item.price === "number"
+                              ? item.price
+                              : parseFloat(item.price) || 0;
+                          const quantity =
+                            typeof item.quantity === "number"
+                              ? item.quantity
+                              : parseInt(item.quantity, 10) || 0;
+                          return (
+                            <tr key={itemIndex} className="border-b border-[#E9F0CD]/10">
+                              <td className="p-2 font-light">{item.title}</td>
+                              <td className="p-2 font-light">
+                                {item.selectedSize} x{quantity}
+                              </td>
+                              <td className="text-right p-2 font-light">{price.toFixed(2)}</td>
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                      <tfoot>
+                        <tr className="font-bold">
+                          <td colSpan={2} className="text-right p-2">
+                            Total:
+                          </td>
+                          <td className="text-right p-2 inline-flex items-center">
+                            <FaRupeeSign className="inline mr-1" />
+                            {typeof order.total === "number"
+                              ? order.total.toFixed(2)
+                              : (parseFloat(order.total) || 0).toFixed(2)}
+                          </td>
+                        </tr>
+                      </tfoot>
+                    </table>
+                  </div>
+                )}
+              </div>
+            ))}
         </section>
       )}
     </main>
