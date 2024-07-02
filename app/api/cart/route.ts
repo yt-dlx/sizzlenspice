@@ -72,11 +72,10 @@ export async function DELETE(request: NextRequest) {
   const db = client.db();
   try {
     const result = await db.collection("orders").deleteOne({ _id: new ObjectId(orderId) });
-    if (result.deletedCount === 1)
+    if (result.deletedCount === 1) {
       return NextResponse.json({ message: "Order cancelled successfully" }, { status: 200 });
-    else return NextResponse.json({ error: "Order not found" }, { status: 404 });
+    } else return NextResponse.json({ error: "Order not found" }, { status: 404 });
   } catch (error) {
-    console.error("Error cancelling order:", error);
     return NextResponse.json({ error: "Failed to cancel order" }, { status: 500 });
   }
 }
