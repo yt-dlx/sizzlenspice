@@ -2,12 +2,12 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
+import { MdClose } from "react-icons/md";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { MdAlternateEmail, MdClose } from "react-icons/md";
 import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
 
 export default function HomePage() {
