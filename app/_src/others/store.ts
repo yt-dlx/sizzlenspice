@@ -1,4 +1,4 @@
-// app/s_src/others/store.ts
+// app/_src/others/store.ts
 import { create } from "zustand";
 import initialCategories from "./initialCategories";
 import { StoreState, FoodItem, Price } from "../types/cart";

@@ -21,10 +21,11 @@ export async function GET(request: NextRequest) {
   const formattedOrders = orders.map((order) => ({
     ...order,
     _id: order._id.toString(),
-    total: typeof order.total === "number" ? order.total : parseFloat(order.total) || 0,
     items: order.items || [],
-    createdAt: order.createdAt ? new Date(order.createdAt).toISOString() : null,
     status: order.status || "Pending",
+    locationData: order.locationData || {},
+    createdAt: order.createdAt ? new Date(order.createdAt).toISOString() : null,
+    total: typeof order.total === "number" ? order.total : parseFloat(order.total) || 0,
   }));
   return NextResponse.json({ orders: formattedOrders });
 }
@@ -32,7 +33,7 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { userId, cart, totalAmount } = await request.json();
+  const { userId, cart, totalAmount, locationData } = await request.json();
   if (!Array.isArray(cart) || cart.length === 0) {
     return NextResponse.json({ error: "Invalid cart data" }, { status: 400 });
   }
@@ -50,8 +51,9 @@ export async function POST(request: NextRequest) {
     })),
     total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
     userId: userId,
-    createdAt: orderDate,
     status: "Pending",
+    createdAt: orderDate,
+    locationData: locationData,
   };
   if (isNaN(orderDocument.total)) {
     return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });

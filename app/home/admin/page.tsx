@@ -9,6 +9,12 @@ interface Order {
   createdAt: string;
   total: number;
   status: string;
+  locationData?: {
+    latitude: string;
+    longitude: string;
+    address: string;
+    pincode: string;
+  };
 }
 
 export default function AdminPage() {
@@ -50,6 +56,7 @@ export default function AdminPage() {
       setError(err.message);
     }
   };
+
   if (!session) return <p>Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p>Loading...</p>;
   if (error) return <p>Error: {error}</p>;
@@ -62,17 +69,31 @@ export default function AdminPage() {
           key={order._id}
           className="bg-[#E9F0CD]/10 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924] font-Kurale p-4 mb-4"
         >
-          <p>Order ID: {order._id}</p>
-          <p>Date: {new Date(order.createdAt).toLocaleString()}</p>
-          <p>
-            Total: <FaRupeeSign className="inline" />
-            {order.total.toFixed(2)}
-          </p>
-          <p>Current Status: {order.status}</p>
+          <ul className="list-none">
+            <li>Order ID: {order._id}</li>
+            <li>Date: {new Date(order.createdAt).toLocaleString()}</li>
+            <li>
+              Total: <FaRupeeSign className="inline" />
+              {order.total.toFixed(2)}
+            </li>
+            <li>Current Status: {order.status}</li>
+          </ul>
 
-          <div className="dropdown">
+          {order.locationData && (
+            <div className="mt-2">
+              <h3 className="font-bold">Delivery Location:</h3>
+              <ul className="list-none">
+                <li>Address: {order.locationData.address}</li>
+                <li>Pincode: {order.locationData.pincode}</li>
+                <li>Latitude: {order.locationData.latitude}</li>
+                <li>Longitude: {order.locationData.longitude}</li>
+              </ul>
+            </div>
+          )}
+
+          <div className="dropdown mt-2">
             <div tabIndex={0} role="button" className="btn m-1">
-              Click
+              Update Status
             </div>
             <ul
               tabIndex={0}

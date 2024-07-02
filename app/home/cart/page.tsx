@@ -19,7 +19,8 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [latestOrderId, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
-  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
+  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } =
+    useStore();
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch(`/api/orders?userId=${userId}`);
@@ -117,6 +118,7 @@ export default function Home() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           cart,
+          locationData,
           totalAmount: getCartTotal(),
           userId: session?.user?.email,
         }),
