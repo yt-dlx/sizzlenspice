@@ -25,12 +25,6 @@ export async function GET(request: NextRequest) {
     items: order.items || [],
     createdAt: order.createdAt ? new Date(order.createdAt).toISOString() : null,
     status: order.status || "Pending",
-    deliveryAddress: order.deliveryAddress || {
-      address: "Not available",
-      pincode: "Not available",
-      latitude: "Not available",
-      longitude: "Not available",
-    },
   }));
   return NextResponse.json({ orders: formattedOrders });
 }
@@ -38,7 +32,7 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { userId, cart, totalAmount, locationData } = await request.json();
+  const { userId, cart, totalAmount } = await request.json();
   if (!Array.isArray(cart) || cart.length === 0) {
     return NextResponse.json({ error: "Invalid cart data" }, { status: 400 });
   }
@@ -58,12 +52,6 @@ export async function POST(request: NextRequest) {
     userId: userId,
     createdAt: orderDate,
     status: "Pending",
-    deliveryAddress: {
-      address: locationData.address,
-      pincode: locationData.pincode,
-      latitude: locationData.latitude,
-      longitude: locationData.longitude,
-    },
   };
   if (isNaN(orderDocument.total)) {
     return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });

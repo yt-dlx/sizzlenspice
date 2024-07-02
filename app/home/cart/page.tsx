@@ -19,8 +19,7 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [latestOrderId, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
-  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } =
-    useStore();
+  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch(`/api/orders?userId=${userId}`);
@@ -113,19 +112,13 @@ export default function Home() {
     setShowGif(true);
     setIsLoading(true);
     try {
-      const response = await fetch("/api/cart", {
+      const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           cart,
           totalAmount: getCartTotal(),
           userId: session?.user?.email,
-          locationData: {
-            address: locationData.address,
-            pincode: locationData.pincode,
-            latitude: locationData.latitude,
-            longitude: locationData.longitude,
-          },
         }),
       });
       if (!response.ok) throw new Error("Failed to place order");
@@ -178,17 +171,6 @@ export default function Home() {
           src="/checkout.gif"
           className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90"
         />
-      </section>
-
-      <section
-        id="location-info"
-        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-4 text-center"
-      >
-        <h3 className="text-2xl font-Kurale font-bold text-[#E9F0CD]">Delivery Location</h3>
-        <p className="text-[#E9F0CD] font-Kurale">{locationData.address || "Loading address..."}</p>
-        <p className="text-[#E9F0CD] font-Kurale">
-          Pincode: {locationData.pincode || "Loading pincode..."}
-        </p>
       </section>
 
       {getCartTotal() > 0 && (

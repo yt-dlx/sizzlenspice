@@ -9,12 +9,6 @@ interface Order {
   createdAt: string;
   total: number;
   status: string;
-  deliveryAddress: {
-    address: string;
-    pincode: string;
-    latitude: string;
-    longitude: string;
-  };
 }
 
 export default function AdminPage() {
@@ -56,7 +50,6 @@ export default function AdminPage() {
       setError(err.message);
     }
   };
-
   if (!session) return <p>Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p>Loading...</p>;
   if (error) return <p>Error: {error}</p>;
@@ -76,15 +69,10 @@ export default function AdminPage() {
             {order.total.toFixed(2)}
           </p>
           <p>Current Status: {order.status}</p>
-          <div className="mt-2">
-            <p>Delivery Address: {order.deliveryAddress?.address || "Not available"}</p>
-            <p>Pincode: {order.deliveryAddress?.pincode || "Not available"}</p>
-            <p>Latitude: {order.deliveryAddress?.latitude || "Not available"}</p>
-            <p>Longitude: {order.deliveryAddress?.longitude || "Not available"}</p>
-          </div>
-          <div className="dropdown mt-2">
+
+          <div className="dropdown">
             <div tabIndex={0} role="button" className="btn m-1">
-              Update Status
+              Click
             </div>
             <ul
               tabIndex={0}
