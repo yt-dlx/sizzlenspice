@@ -1,7 +1,6 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import Image from "next/image";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -191,9 +190,7 @@ export default function Home() {
             className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg"
           >
             <div className="flex items-center gap-2">
-              <Image
-                width={50}
-                height={50}
+              <img
                 alt={item.title}
                 src={item.image}
                 className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]"

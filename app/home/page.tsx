@@ -1,7 +1,6 @@
 // app/home/page.tsx
 "use client";
 import Link from "next/link";
-import Image from "next/image";
 import { MdClose } from "react-icons/md";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
@@ -99,9 +98,7 @@ export default function HomePage() {
               }}
               className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
             >
-              <Image
-                width={1080}
-                height={1080}
+              <img
                 src={selectedItem.image}
                 alt={selectedItem.title}
                 className="object-cover w-full h-60 rounded-t-3xl mb-4"
@@ -221,9 +218,7 @@ export default function HomePage() {
               className={`flex flex-col items-center shadow shadow-black p-1 rounded-lg w-24 text-[#172B25] ${activeCategory === category.title ? "bg-[#E9F0CD]/80" : "bg-[#E9F0CD]/20 text-[#E9F0CD]"}`}
             >
               <div className="w-20 h-20 rounded-lg shadow shadow-black flex items-center justify-center overflow-hidden">
-                <Image
-                  width={80}
-                  height={80}
+                <img
                   src={category.image}
                   alt={category.title}
                   className="object-cover w-full h-full rounded"
@@ -245,10 +240,8 @@ export default function HomePage() {
               key={index}
               className="flex flex-col rounded-lg shadow border-2 border-[#E9F0CD]/20 overflow-hidden h-full"
             >
-              <Image
+              <img
                 src={item.image}
-                width={300}
-                height={200}
                 alt={item.title}
                 className="object-cover w-full h-48 border-b-2 border-[#1C2924]"
               />
@@ -323,9 +316,7 @@ export default function HomePage() {
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center font-Kurale">
-                    <Image
-                      width={720}
-                      height={720}
+                    <img
                       src={item.image}
                       alt={item.title}
                       className="rounded-full object-cover w-12 h-12 mr-2"
