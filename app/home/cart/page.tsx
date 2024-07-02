@@ -348,6 +348,9 @@ export default function Home() {
                     {order.items && order.items.length > 0 ? order.items.length : "No items"}
                   </span>
                 </p>
+                <p>
+                  Status: <span className="font-light text-xs">{order.status}</span>
+                </p>
                 {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
                   <div className="mt-4">
                     <table className="w-full">
