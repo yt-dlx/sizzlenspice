@@ -24,7 +24,7 @@ export default function AdminPage() {
   const fetchOrders = async () => {
     setIsLoading(true);
     try {
-      const response = await fetch("/api/admin/orders");
+      const response = await fetch("/api/orders");
       if (!response.ok) throw new Error("Failed to fetch orders");
       const data = await response.json();
       setOrders(data.orders);
@@ -37,13 +37,12 @@ export default function AdminPage() {
 
   const updateOrderStatus = async (orderId: string, newStatus: string) => {
     try {
-      const response = await fetch("/api/admin/orders", {
+      const response = await fetch("/api/orders", {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ orderId, status: newStatus }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
-
       setOrders((prevOrders) =>
         prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order))
       );
@@ -51,7 +50,6 @@ export default function AdminPage() {
       setError(err.message);
     }
   };
-
   if (!session) return <p>Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p>Loading...</p>;
   if (error) return <p>Error: {error}</p>;

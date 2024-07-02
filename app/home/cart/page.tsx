@@ -22,14 +22,14 @@ export default function Home() {
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
 
   async function fetchPreviousOrders(userId: string) {
-    const response = await fetch(`/api/cart?userId=${userId}`);
+    const response = await fetch(`/api/orders?userId=${userId}`);
     if (!response.ok) throw new Error("Failed to fetch orders");
     const data = await response.json();
     return data.orders;
   }
 
   async function cancelOrder(orderId: string) {
-    const response = await fetch(`/api/cart?orderId=${orderId}`, {
+    const response = await fetch(`/api/orders?orderId=${orderId}`, {
       method: "DELETE",
     });
     if (!response.ok) throw new Error("Failed to cancel order");
@@ -112,7 +112,7 @@ export default function Home() {
     setShowGif(true);
     setIsLoading(true);
     try {
-      const response = await fetch("/api/cart", {
+      const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
