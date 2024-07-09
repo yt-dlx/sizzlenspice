@@ -22,9 +22,7 @@ export const useStore = create<StoreState>((set, get) => ({
     })),
   addToCart: (item: FoodItem & { selectedSize: string }) =>
     set((state) => {
-      const existingItemIndex = state.cart.findIndex(
-        (cartItem) => cartItem.title === item.title && cartItem.selectedSize === item.selectedSize
-      );
+      const existingItemIndex = state.cart.findIndex((cartItem) => cartItem.title === item.title && cartItem.selectedSize === item.selectedSize);
 
       if (existingItemIndex > -1) {
         const updatedCart = [...state.cart];
@@ -34,18 +32,12 @@ export const useStore = create<StoreState>((set, get) => ({
     }),
   removeFromCart: (itemTitle: string, selectedSize: string) =>
     set((state) => ({
-      cart: state.cart.filter(
-        (item) => !(item.title === itemTitle && item.selectedSize === selectedSize)
-      ),
+      cart: state.cart.filter((item) => !(item.title === itemTitle && item.selectedSize === selectedSize)),
     })),
   updateCartItemQuantity: (itemTitle: string, selectedSize: string, quantity: number) =>
     set((state) => {
       const updatedCart = state.cart
-        .map((item) =>
-          item.title === itemTitle && item.selectedSize === selectedSize
-            ? { ...item, quantity: Math.max(0, quantity) }
-            : item
-        )
+        .map((item) => (item.title === itemTitle && item.selectedSize === selectedSize ? { ...item, quantity: Math.max(0, quantity) } : item))
         .filter((item) => item.quantity > 0);
       return { cart: updatedCart };
     }),

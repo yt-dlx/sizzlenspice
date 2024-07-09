@@ -20,10 +20,7 @@ const Navbar = () => {
                   <img alt="User profile" src={session.user.image} />
                 </div>
               </div>
-              <ul
-                tabIndex={0}
-                className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-[#1c3029]/30 backdrop-blur-md rounded-box w-52 font-Kurale font-bold"
-              >
+              <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-[#1c3029]/30 backdrop-blur-md rounded-box w-52 font-Kurale font-bold">
                 <li>
                   <a className="text-[#E9F0CD] hover:bg-[#171717]/50">{session.user.name}</a>
                 </li>

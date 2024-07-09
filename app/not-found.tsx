@@ -22,9 +22,7 @@ export default function NotFound() {
           </section>
 
           <section className="not-found-description">
-            <p className="mb-4 text-[#E9F0CD]">
-              The page you&apos;re looking for doesn&apos;t exist or has been moved.
-            </p>
+            <p className="mb-4 text-[#E9F0CD]">The page you&apos;re looking for doesn&apos;t exist or has been moved.</p>
           </section>
 
           <section className="redirect-info">

@@ -79,9 +79,7 @@ export async function PUT(request: NextRequest) {
   const client = await clientPromise;
   const db = client.db();
   try {
-    const result = await db
-      .collection("orders")
-      .updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
+    const result = await db.collection("orders").updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
 
     if (result.matchedCount === 0) {
       return NextResponse.json({ error: "Order not found" }, { status: 404 });

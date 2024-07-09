@@ -16,10 +16,9 @@ export default function Home() {
   const [prevOrders, setPreviousOrders] = useState([]);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [latestOrderId, setLatestOrderId] = useState<string | null>(null);
+  const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
-  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } =
-    useStore();
+  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch(`/api/orders?userId=${userId}`);
@@ -37,6 +36,10 @@ export default function Home() {
   }
 
   useEffect(() => {
+    if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+  }, [session]);
+
+  useEffect(() => {
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -47,16 +50,8 @@ export default function Home() {
   }, [showGif]);
 
   useEffect(() => {
-    if (session?.user?.email) {
-      fetchPreviousOrders(session.user.email)
-        .then((orders) => setPreviousOrders(orders))
-        .catch((error) => console.error("Error fetching orders:", error));
-    }
-  }, [session]);
-
-  useEffect(() => {
-    const storedOrderId = localStorage.getItem("latestOrderId");
-    const storedOrderTime = localStorage.getItem("orderPlacedTime");
+    const storedOrderId = localStorage.getItem("LatestOrderID");
+    const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
       const orderTime = parseInt(storedOrderTime, 10);
       const currentTime = Date.now();
@@ -65,8 +60,8 @@ export default function Home() {
         setLatestOrderId(storedOrderId);
         setCancelTimeRemaining(60 - elapsedTime);
       } else {
-        localStorage.removeItem("latestOrderId");
-        localStorage.removeItem("orderPlacedTime");
+        localStorage.removeItem("LatestOrderID");
+        localStorage.removeItem("OrderPlacedTime");
       }
     }
   }, []);
@@ -75,12 +70,11 @@ export default function Home() {
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
-          if (prev !== null && prev > 1) {
-            return prev - 1;
-          } else {
+          if (prev !== null && prev > 1) return prev - 1;
+          else {
             clearInterval(timer);
-            localStorage.removeItem("latestOrderId");
-            localStorage.removeItem("orderPlacedTime");
+            localStorage.removeItem("LatestOrderID");
+            localStorage.removeItem("OrderPlacedTime");
             return null;
           }
         });
@@ -94,16 +88,15 @@ export default function Home() {
       await cancelOrder(orderId);
       const updatedOrders = await fetchPreviousOrders(session?.user?.email || "");
       setPreviousOrders(updatedOrders);
-      if (orderId === latestOrderId) {
+      if (orderId === LatestOrderID) {
         setLatestOrderId(null);
         setCancelTimeRemaining(null);
-        localStorage.removeItem("latestOrderId");
-        localStorage.removeItem("orderPlacedTime");
+        localStorage.removeItem("LatestOrderID");
+        localStorage.removeItem("OrderPlacedTime");
       }
       alert("Order cancelled successfully");
-    } catch (error) {
-      console.error("Error cancelling order:", error);
-      alert("Failed to cancel order. Please try again.");
+    } catch {
+      alert("Failed to cancel order. Please try again!");
     }
   };
 
@@ -125,13 +118,12 @@ export default function Home() {
       if (!response.ok) throw new Error("Failed to place order");
       const { orderId } = await response.json();
       setLatestOrderId(orderId);
-      localStorage.setItem("latestOrderId", orderId);
-      localStorage.setItem("orderPlacedTime", Date.now().toString());
+      localStorage.setItem("LatestOrderID", orderId);
+      localStorage.setItem("OrderPlacedTime", Date.now().toString());
       setCancelTimeRemaining(60);
       setOrderPlaced(true);
       clearCart();
-    } catch (error) {
-      console.error("Error placing order:", error);
+    } catch {
       setError("Failed to place order. Please try again.");
     } finally {
       setIsLoading(false);
@@ -139,9 +131,7 @@ export default function Home() {
   };
 
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
-  const toggleVisualize = (orderId: string) => {
-    setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-  };
+  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
@@ -159,19 +149,13 @@ export default function Home() {
         </section>
       )}
 
-      <section
-        id="header"
-        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair"
-      >
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
           Here's a summary of your order, {session?.user?.name}! <br />
           Review it and make changes if required!
         </h2>
-        <img
-          src="/checkout.gif"
-          className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90"
-        />
+        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
       </section>
 
       {getCartTotal() > 0 && (
@@ -185,16 +169,9 @@ export default function Home() {
 
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div
-            key={index}
-            className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg"
-          >
+          <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
             <div className="flex items-center gap-2">
-              <img
-                alt={item.title}
-                src={item.image}
-                className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]"
-              />
+              <img alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]" />
               <div>
                 <h3 className="font-bold text-[#E9F0CD]">{item.title}</h3>
                 <p className="text-sm text-[#E9F0CD]/70 font-Kurale">{item.selectedSize} plate</p>
@@ -279,45 +256,26 @@ export default function Home() {
       ) : null}
 
       {cancelTimeRemaining !== null && (
-        <section
-          id="cancel-order"
-          className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold"
-        >
-          <p className="text-[#E9F0CD]">
-            You can cancel your order within the next {cancelTimeRemaining} seconds.
-          </p>
-          <button
-            onClick={() => handleCancelOrder(latestOrderId!)}
-            className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2"
-          >
+        <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold">
+          <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
+          <button onClick={() => handleCancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
             Cancel Order
           </button>
         </section>
       )}
 
       {prevOrders && prevOrders.length > 0 && (
-        <section
-          id="previous-orders"
-          className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]"
-        >
+        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]">
           <h3 className="text-4xl font-bold mb-4">Orders</h3>
           {prevOrders
-            .sort(
-              (a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
-            )
+            .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
             .map((order: any, index: number) => (
-              <div
-                key={index}
-                className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4 font-bold font-Kurale"
-              >
+              <div key={index} className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4 font-bold font-Kurale">
                 <div className="flex justify-between items-center">
                   <p>
                     Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
                   </p>
-                  <button
-                    onClick={() => toggleVisualize(order._id)}
-                    className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs"
-                  >
+                  <button onClick={() => toggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
                       <React.Fragment>
                         <FaEyeSlash className="mr-2" /> Hide
@@ -330,22 +288,13 @@ export default function Home() {
                   </button>
                 </div>
                 <p>
-                  Date:{" "}
-                  <span className="font-light text-xs">
-                    {order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}
-                  </span>
+                  Date: <span className="font-light text-xs">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
                 </p>
                 <p>
-                  Total:{" "}
-                  <span className="font-light text-xs">
-                    {typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}
-                  </span>
+                  Total: <span className="font-light text-xs">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
                 </p>
                 <p>
-                  Items:{" "}
-                  <span className="font-light text-xs">
-                    {order.items && order.items.length > 0 ? order.items.length : "No items"}
-                  </span>
+                  Items: <span className="font-light text-xs">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
                 </p>
                 <p>
                   Status: <span className="font-light text-xs">{order.status}</span>
@@ -362,14 +311,8 @@ export default function Home() {
                       </thead>
                       <tbody className="text-xs">
                         {order.items.map((item: any, itemIndex: number) => {
-                          const price =
-                            typeof item.price === "number"
-                              ? item.price
-                              : parseFloat(item.price) || 0;
-                          const quantity =
-                            typeof item.quantity === "number"
-                              ? item.quantity
-                              : parseInt(item.quantity, 10) || 0;
+                          const price = typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
+                          const quantity = typeof item.quantity === "number" ? item.quantity : parseInt(item.quantity, 10) || 0;
                           return (
                             <tr key={itemIndex} className="border-b border-[#E9F0CD]/10">
                               <td className="p-2 font-light">{item.title}</td>
@@ -388,9 +331,7 @@ export default function Home() {
                           </td>
                           <td className="text-right p-2 inline-flex items-center">
                             <FaRupeeSign className="inline mr-1" />
-                            {typeof order.total === "number"
-                              ? order.total.toFixed(2)
-                              : (parseFloat(order.total) || 0).toFixed(2)}
+                            {typeof order.total === "number" ? order.total.toFixed(2) : (parseFloat(order.total) || 0).toFixed(2)}
                           </td>
                         </tr>
                       </tfoot>

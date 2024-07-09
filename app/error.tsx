@@ -3,13 +3,7 @@
 import React, { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
-export default function Error({
-  error,
-  reset,
-}: {
-  error: Error & { digest?: string };
-  reset: () => void;
-}) {
+export default function Error({ error, reset }: { error: Error & { digest?: string }; reset: () => void }) {
   const router = useRouter();
 
   useEffect(() => {
@@ -29,9 +23,7 @@ export default function Error({
           </section>
 
           <section className="error-description">
-            <p className="mb-4 text-[#E9F0CD]">
-              We&apos;re sorry, but an error occurred while processing your request.
-            </p>
+            <p className="mb-4 text-[#E9F0CD]">We&apos;re sorry, but an error occurred while processing your request.</p>
             <p className="mb-4 text-[#E9F0CD]">Error: {error.message || "Unknown error"}</p>
           </section>
 
@@ -40,10 +32,7 @@ export default function Error({
           </section>
 
           <section className="error-action">
-            <button
-              onClick={reset}
-              className="px-4 py-2 mt-4 font-bold transition duration-300 ease-in-out bg-blue-500 rounded-full hover:bg-blue-600 text-[#E9F0CD]"
-            >
+            <button onClick={reset} className="px-4 py-2 mt-4 font-bold transition duration-300 ease-in-out bg-blue-500 rounded-full hover:bg-blue-600 text-[#E9F0CD]">
               Try again
             </button>
           </section>

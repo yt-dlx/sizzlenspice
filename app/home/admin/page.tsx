@@ -56,9 +56,7 @@ export default function AdminPage() {
         body: JSON.stringify({ orderId, status: newStatus }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
-      setOrders((prevOrders) =>
-        prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order))
-      );
+      setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
       if (selectedOrder && selectedOrder._id === orderId) {
         setSelectedOrder({ ...selectedOrder, status: newStatus });
       }
@@ -103,11 +101,7 @@ export default function AdminPage() {
             <div className="space-y-4">
               {selectedOrder.items.map((item, index) => (
                 <div key={index} className="flex items-center">
-                  <img
-                    alt={item.title}
-                    src={item.image}
-                    className="w-16 h-16 object-cover rounded-md mr-4"
-                  />
+                  <img alt={item.title} src={item.image} className="w-16 h-16 object-cover rounded-md mr-4" />
                   <div className="flex-1">
                     <div className="flex justify-between">
                       <span>x{item.quantity}</span>
@@ -118,16 +112,10 @@ export default function AdminPage() {
               ))}
             </div>
 
-            <div className="text-right text-xl font-bold mt-4">
-              Total: {selectedOrder.total.toFixed(2)}
-            </div>
+            <div className="text-right text-xl font-bold mt-4">Total: {selectedOrder.total.toFixed(2)}</div>
 
             <div className="mt-4">
-              <select
-                value={selectedOrder.status}
-                onChange={(e) => updateOrderStatus(selectedOrder._id, e.target.value)}
-                className="bg-[#1C2924] border border-[#E9F0CD] rounded px-2 py-1"
-              >
+              <select value={selectedOrder.status} onChange={(e) => updateOrderStatus(selectedOrder._id, e.target.value)} className="bg-[#1C2924] border border-[#E9F0CD] rounded px-2 py-1">
                 <option value="Accepted">Accepted</option>
                 <option value="Preparing">Preparing</option>
                 <option value="Delivering">Delivering</option>
@@ -135,10 +123,7 @@ export default function AdminPage() {
               </select>
             </div>
 
-            <button
-              className="w-full bg-orange-500 text-[#E9F0CD] py-2 rounded-lg mt-4"
-              onClick={() => updateOrderStatus(selectedOrder._id, "Accepted")}
-            >
+            <button className="w-full bg-orange-500 text-[#E9F0CD] py-2 rounded-lg mt-4" onClick={() => updateOrderStatus(selectedOrder._id, "Accepted")}>
               Accept order
             </button>
           </div>

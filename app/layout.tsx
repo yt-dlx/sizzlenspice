@@ -26,10 +26,7 @@ export const metadata: Metadata = {
 };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html
-      lang="en"
-      className={`h-full ${Kurale.variable} ${Playfair.variable} ${Grenoble.variable} ${Brittany.variable} ${Merriweather.variable} ${RobotoCondensed.variable}`}
-    >
+    <html lang="en" className={`h-full ${Kurale.variable} ${Playfair.variable} ${Grenoble.variable} ${Brittany.variable} ${Merriweather.variable} ${RobotoCondensed.variable}`}>
       <body className="flex h-screen">
         <Providers>
           <AnimatedContentWrapper>

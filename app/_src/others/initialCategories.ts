@@ -37,8 +37,7 @@ const initialCategories: Category[] = [
       },
       {
         title: "Chicken Biryani",
-        description:
-          "Flavorful chicken biryani cooked to perfection with rich spices and fragrant rice.",
+        description: "Flavorful chicken biryani cooked to perfection with rich spices and fragrant rice.",
         image:
           "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fchicken-biriyani-using-jeera-rice-arranged-earthenware-with-raitha-grey-background_527904-8.jpg%3Fw%3D826&f=1&nofb=1&ipt=5fb3278b71a517f755381196794d73771e264fc90cafd938dce7107dcc1b5fe2&ipo=images",
         price: { small: "50", medium: "75", full: "100" },
@@ -96,8 +95,7 @@ const initialCategories: Category[] = [
       },
       {
         title: "Chickpea Kebab",
-        description:
-          "Vegetarian kebab made with chickpeas and exotic spices for a delightful taste.",
+        description: "Vegetarian kebab made with chickpeas and exotic spices for a delightful taste.",
         image:
           "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faplateofhappiness.files.wordpress.com%2F2020%2F06%2Fimg_6722.jpg%3Fw%3D1200&f=1&nofb=1&ipt=c6fedd72c9018895ff0f291a1392e8f8e9da766c2de147b68aa234e62cece57a&ipo=images",
         price: { small: "50", medium: "75", full: "100" },
@@ -337,8 +335,7 @@ const initialCategories: Category[] = [
       },
       {
         title: "Steamed Veggie Momo",
-        description:
-          "Delicate steamed momos filled with a delicious mix of vegetables and authentic spices.",
+        description: "Delicate steamed momos filled with a delicious mix of vegetables and authentic spices.",
         image:
           "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thespruceeats.com%2Fthmb%2F4huBB1KXP_3SYzF_a_otWhSEQRM%3D%2F1280x860%2Ffilters%3Afill(auto%2C1)%2F4271692448_68e0f951f6_o-56a510453df78cf772862aff.jpg&f=1&nofb=1&ipt=58ea14ced39daa19dfcdf7007143dcfd3129c66afbbd8bee2fee20e0c0bde160&ipo=images",
         price: { small: "50", medium: "75", full: "100" },
