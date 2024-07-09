@@ -9,20 +9,13 @@ const SocketHandler = (req: NextApiRequest, res: NextApiResponseServerIO) => {
     const io = new SocketIOServer(res.socket.server as any);
     res.socket.server.io = io;
     io.on("connection", (socket) => {
-      console.log("New client connected");
-      socket.on("join-room", (userId) => {
-        socket.join(userId);
-        console.log(`User ${userId} joined their room`);
-      });
+      socket.on("join-room", (userId) => socket.join(userId));
       socket.on("update-order", ({ userId, orderId, status }) => {
         io.to(userId).emit("order-updated", { orderId, status });
       });
-      socket.on("disconnect", () => {
-        console.log("Client disconnected");
-      });
+      socket.on("disconnect", () => {});
     });
-  } else console.log("Socket is already initialized");
+  }
   res.end();
 };
-
 export default SocketHandler;
