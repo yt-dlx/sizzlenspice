@@ -18,22 +18,25 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
+  const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
 
   async function fetchPreviousOrders(userId: string) {
-    const response = await fetch(`/api/orders?userId=${userId}`);
-    if (!response.ok) throw new Error("Failed to fetch orders");
+    const response = await fetch("/api/orders?userId=" + userId);
+    if (!response.ok) setError("Failed to fetch order!");
     const data = await response.json();
     return data.orders;
   }
 
   async function cancelOrder(orderId: string) {
-    const response = await fetch(`/api/orders?orderId=${orderId}`, {
+    const response = await fetch("/api/orders?orderId=" + orderId, {
       method: "DELETE",
     });
-    if (!response.ok) throw new Error("Failed to cancel order");
+    if (!response.ok) setError("Failed to cancle order!");
     return await response.json();
   }
+
+  const TggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
     const storedOrderId = localStorage.getItem("LatestOrderID");
@@ -74,7 +77,7 @@ export default function Home() {
     }
   }, [session, showGif, cancelTimeRemaining]);
 
-  const handleCancelOrder = async (orderId: string) => {
+  const CancelOrder = async (orderId: string) => {
     try {
       await cancelOrder(orderId);
       const updatedOrders = await fetchPreviousOrders(session?.user?.email || "");
@@ -87,15 +90,15 @@ export default function Home() {
       }
       alert("Order cancelled successfully");
     } catch {
-      alert("Failed to cancel order. Please try again!");
+      alert("Failed to cancel order!");
     }
   };
 
-  const handlePlaceOrder = async () => {
-    setError(null);
-    setShowGif(true);
-    setIsLoading(true);
+  const PlaceOrder = async () => {
     try {
+      setError(null);
+      setShowGif(true);
+      setIsLoading(true);
       const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -106,7 +109,7 @@ export default function Home() {
           userId: session?.user?.email,
         }),
       });
-      if (!response.ok) throw new Error("Failed to place order");
+      if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
       setLatestOrderId(orderId);
       localStorage.setItem("LatestOrderID", orderId);
@@ -115,14 +118,11 @@ export default function Home() {
       setOrderPlaced(true);
       clearCart();
     } catch {
-      setError("Failed to place order. Please try again.");
+      setError("Failed to place order!");
     } finally {
       setIsLoading(false);
     }
   };
-
-  const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
-  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
@@ -210,7 +210,7 @@ export default function Home() {
               <div className="mt-2 space-y-2">
                 <button
                   disabled={isLoading}
-                  onClick={handlePlaceOrder}
+                  onClick={PlaceOrder}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
@@ -249,7 +249,7 @@ export default function Home() {
       {cancelTimeRemaining !== null && (
         <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold">
           <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
-          <button onClick={() => handleCancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
+          <button onClick={() => CancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
             Cancel Order
           </button>
         </section>
@@ -266,7 +266,7 @@ export default function Home() {
                   <p>
                     Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
                   </p>
-                  <button onClick={() => toggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
+                  <button onClick={() => TggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
                       <React.Fragment>
                         <FaEyeSlash className="mr-2" /> Hide
