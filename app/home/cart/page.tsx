@@ -36,20 +36,6 @@ export default function Home() {
   }
 
   useEffect(() => {
-    if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
-  }, [session]);
-
-  useEffect(() => {
-    if (showGif) {
-      const timer = setTimeout(() => {
-        setShowGif(false);
-        window.location.reload();
-      }, 4000);
-      return () => clearTimeout(timer);
-    }
-  }, [showGif]);
-
-  useEffect(() => {
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -64,9 +50,14 @@ export default function Home() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
-  }, []);
-
-  useEffect(() => {
+    if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+    if (showGif) {
+      const timer = setTimeout(() => {
+        setShowGif(false);
+        window.location.reload();
+      }, 4000);
+      return () => clearTimeout(timer);
+    }
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
@@ -81,7 +72,7 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-  }, [cancelTimeRemaining]);
+  }, [session, showGif, cancelTimeRemaining]);
 
   const handleCancelOrder = async (orderId: string) => {
     try {
