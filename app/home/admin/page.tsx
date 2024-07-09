@@ -3,26 +3,7 @@
 import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
-
-interface Order {
-  _id: string;
-  userId: string;
-  createdAt: string;
-  total: number;
-  status: string;
-  phoneNumber: string;
-  customerName: string;
-  items: Array<{
-    title: string;
-    price: number;
-    image: string;
-    quantity: number;
-  }>;
-  locationData?: {
-    address: string;
-    pincode: string;
-  };
-}
+import type Order from "@/app/_src/types/Order";
 
 export default function AdminPage() {
   const { data: session } = useSession();

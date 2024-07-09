@@ -5,31 +5,11 @@ import io from "socket.io-client";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
+import type Order from "@/app/_src/types/Order";
 import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
-
-interface Order {
-  _id: string;
-  userId: string;
-  createdAt: string;
-  total: number;
-  status: string;
-  phoneNumber: string;
-  customerName: string;
-  items: Array<{
-    title: string;
-    price: number;
-    image: string;
-    quantity: number;
-    selectedSize: string;
-  }>;
-  locationData?: {
-    address: string;
-    pincode: string;
-  };
-}
 
 export default function Home() {
   const { data: session } = useSession();
