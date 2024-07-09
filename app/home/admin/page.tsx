@@ -1,10 +1,12 @@
 // app/gome/admin/page.tsx
 "use client";
+import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 
 interface Order {
   _id: string;
+  userId: string;
   createdAt: string;
   total: number;
   status: string;
@@ -24,14 +26,30 @@ interface Order {
 
 export default function AdminPage() {
   const { data: session } = useSession();
-  const [error, setError] = useState<string | null>(null);
-  const [orders, setOrders] = useState<Order[]>([]);
-  const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
+  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [orders, setOrders] = useState<Order[]>([]);
+  const [error, setError] = useState<string | null>(null);
+  const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
 
   useEffect(() => {
+    const socketInitializer = async () => {
+      await fetch("/api/websocket");
+      const newSocket = io();
+      setSocket(newSocket);
+      if (session?.user?.email) newSocket.emit("join-room", session.user.email);
+      newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
+        setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+        if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
+      });
+    };
+    socketInitializer();
     fetchOrders();
-  }, []);
+
+    return () => {
+      if (socket) socket.disconnect();
+    };
+  }, [session]);
 
   const fetchOrders = async () => {
     setIsLoading(true);
@@ -48,7 +66,7 @@ export default function AdminPage() {
     }
   };
 
-  const updateOrderStatus = async (orderId: string, newStatus: string) => {
+  const updateOrderStatus = async (orderId: string, newStatus: string, userId: string) => {
     try {
       const response = await fetch("/api/orders", {
         method: "PUT",
@@ -56,10 +74,9 @@ export default function AdminPage() {
         body: JSON.stringify({ orderId, status: newStatus }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
+      if (socket) socket.emit("update-order", { userId, orderId, status: newStatus });
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
-      if (selectedOrder && selectedOrder._id === orderId) {
-        setSelectedOrder({ ...selectedOrder, status: newStatus });
-      }
+      if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
     } catch (err: any) {
       setError(err.message);
     }
@@ -86,6 +103,7 @@ export default function AdminPage() {
                 <span>{order.total.toFixed(2)}</span>
               </div>
               <div>Status: {order.status}</div>
+              <div>Customer: {order.customerName}</div>
             </div>
           ))}
         </div>
@@ -104,6 +122,7 @@ export default function AdminPage() {
                   <img alt={item.title} src={item.image} className="w-16 h-16 object-cover rounded-md mr-4" />
                   <div className="flex-1">
                     <div className="flex justify-between">
+                      <span>{item.title}</span>
                       <span>x{item.quantity}</span>
                     </div>
                   </div>
@@ -115,7 +134,11 @@ export default function AdminPage() {
             <div className="text-right text-xl font-bold mt-4">Total: {selectedOrder.total.toFixed(2)}</div>
 
             <div className="mt-4">
-              <select value={selectedOrder.status} onChange={(e) => updateOrderStatus(selectedOrder._id, e.target.value)} className="bg-[#1C2924] border border-[#E9F0CD] rounded px-2 py-1">
+              <select
+                value={selectedOrder.status}
+                onChange={(e) => updateOrderStatus(selectedOrder._id, e.target.value, selectedOrder.userId)}
+                className="bg-[#1C2924] border border-[#E9F0CD] rounded px-2 py-1"
+              >
                 <option value="Accepted">Accepted</option>
                 <option value="Preparing">Preparing</option>
                 <option value="Delivering">Delivering</option>
@@ -123,7 +146,7 @@ export default function AdminPage() {
               </select>
             </div>
 
-            <button className="w-full bg-orange-500 text-[#E9F0CD] py-2 rounded-lg mt-4" onClick={() => updateOrderStatus(selectedOrder._id, "Accepted")}>
+            <button className="w-full bg-orange-500 text-[#E9F0CD] py-2 rounded-lg mt-4" onClick={() => updateOrderStatus(selectedOrder._id, "Accepted", selectedOrder.userId)}>
               Accept order
             </button>
           </div>
