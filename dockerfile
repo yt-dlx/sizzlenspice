@@ -1,7 +1,11 @@
-FROM node:18-alpine
+FROM node:20-alpine
+RUN apk add --no-cache curl unzip && \
+    curl -fsSL https://bun.sh/install | bash && \
+    mv /root/.bun/bin/bun /usr/local/bin/bun && \
+    rm -rf /root/.bun
 WORKDIR /app
 COPY package*.json ./
-RUN npm install
+RUN bun install
 COPY . .
 EXPOSE 3000
-CMD npm run dev
+CMD bun run dev
