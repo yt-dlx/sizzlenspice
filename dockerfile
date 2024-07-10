@@ -2,7 +2,7 @@
 FROM ubuntu:20.04
 
 RUN apt-get update && apt-get install -y curl unzip \
-    && curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash - \
+    && curl -sL https://deb.nodesource.com/setup_20.x | bash - \
     && apt-get update && apt-get install -y nodejs npm \
     && npm i -g yarn
 
