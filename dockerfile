@@ -1,19 +1,11 @@
-FROM node:20-alpine
-
-RUN apk add --no-cache curl unzip bash && \
+FROM ubuntu:20.04
+RUN apt-get update && apt-get install -y curl unzip bash && \
     curl -fsSL https://bun.sh/install | bash && \
     mv /root/.bun/bin/bun /usr/local/bin/bun && \
-    export BUN_INSTALL="/root/.bun" && \
-    export PATH="$BUN_INSTALL/bin:$PATH"
-
+    rm -rf /root/.bun
 WORKDIR /app
-
-COPY package*.json ./
-RUN /root/.bun/bin/bun install
-RUN /root/.bun/bin/bun run build
-
 COPY . .
-
+RUN /usr/local/bin/bun install
+RUN /usr/local/bin/bun run build
 EXPOSE 3000
-
-CMD ["/root/.bun/bin/bun", "run", "start"]
+CMD ["bun", "run", "start"]
