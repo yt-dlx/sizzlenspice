@@ -1,7 +1,7 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import * as Ably from "ably";
+import Ably from "ably";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";

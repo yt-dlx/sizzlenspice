@@ -1,6 +1,6 @@
 // app/home/admin/page.tsx
 "use client";
-import * as Ably from "ably";
+import Ably from "ably";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";

@@ -1,5 +1,5 @@
 // app/api/orders/route.ts
-import * as Ably from "ably";
+import Ably from "ably";
 import { auth } from "@/auth";
 import { ObjectId } from "mongodb";
 import clientPromise from "@/lib/mongodb";
