@@ -1,9 +1,11 @@
-// app/gome/admin/page.tsx
+// app/home/admin/page.tsx
 "use client";
 import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
+import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
+import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
 export default function AdminPage() {
   const { data: session } = useSession();
@@ -12,6 +14,7 @@ export default function AdminPage() {
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
+  const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
 
   useEffect(() => {
     const socketInitializer = async () => {
@@ -26,7 +29,6 @@ export default function AdminPage() {
     };
     socketInitializer();
     fetchOrders();
-
     return () => {
       if (socket) socket.disconnect();
     };
@@ -38,8 +40,9 @@ export default function AdminPage() {
       const response = await fetch("/api/orders");
       if (!response.ok) throw new Error("Failed to fetch orders");
       const data = await response.json();
-      setOrders(data.orders);
-      if (data.orders.length > 0) setSelectedOrder(data.orders[0]);
+      const reversedOrders = data.orders.reverse();
+      setOrders(reversedOrders);
+      if (reversedOrders.length > 0) setSelectedOrder(reversedOrders[0]);
     } catch (err: any) {
       setError(err.message);
     } finally {
@@ -63,59 +66,57 @@ export default function AdminPage() {
     }
   };
 
+  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
   if (!session) return <p className="text-[#E9F0CD]">Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p className="text-[#E9F0CD]">Loading...</p>;
   if (error) return <p className="text-[#E9F0CD]">Error: {error}</p>;
 
   return (
-    <div className="flex bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% text-[#E9F0CD] min-h-screen">
-      <div className="max-w-7xl mx-auto flex-1 p-4">
-        <header className="mb-8">
-          <h1 className="text-4xl font-bold">Admin Dashboard</h1>
-        </header>
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-[#E9F0CD]">
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair mb-8">
+        <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Admin Dashboard</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Manage orders and update their statuses</h2>
+      </section>
 
+      <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
         <DashboardSummary orders={orders} />
-
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-8">
           <div className="lg:col-span-1">
-            <OrderList orders={orders} selectedOrderId={selectedOrder?._id} onSelectOrder={setSelectedOrder} />
+            <OrderList orders={orders} selectedOrderId={selectedOrder?._id} onSelectOrder={setSelectedOrder} visualizedOrders={visualizedOrders} toggleVisualize={toggleVisualize} />
           </div>
           <div className="lg:col-span-2">
-            {selectedOrder ? <OrderDetails order={selectedOrder} onUpdateStatus={updateOrderStatus} /> : <p className="p-4 rounded-lg bg-[#E9F0CD]/10">Select an order to view details</p>}
+            {selectedOrder ? (
+              <OrderDetails
+                order={selectedOrder}
+                onUpdateStatus={updateOrderStatus}
+                isVisualized={visualizedOrders[selectedOrder._id] || false}
+                toggleVisualize={() => toggleVisualize(selectedOrder._id)}
+              />
+            ) : (
+              <p className="p-4 rounded-lg bg-[#E9F0CD]/10 font-Kurale text-[#E9F0CD]">Select an order to view details</p>
+            )}
           </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }
 
 const DashboardSummary: React.FC<{ orders: Order[] }> = ({ orders }) => {
   const totalOrders = orders.length;
   const totalRevenue = orders.reduce((sum, order) => sum + order.total, 0);
-  const ordersByStatus = orders.reduce(
-    (acc, order) => {
-      acc[order.status] = (acc[order.status] || 0) + 1;
-      return acc;
-    },
-    {} as Record<string, number>
-  );
-
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-      <div className="bg-[#E9F0CD]/10 p-4 rounded-lg">
-        <h3 className="text-lg font-semibold">Total Orders</h3>
-        <p className="text-3xl font-bold">{totalOrders}</p>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+      <div className="bg-[#E9F0CD]/10 p-4 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-[#E9F0CD]">
+        <h3 className="text-xl font-bold font-Kurale">Total Orders</h3>
+        <p className="text-4xl font-semibold font-Playfair">{totalOrders}</p>
       </div>
-      <div className="bg-[#E9F0CD]/10 p-4 rounded-lg">
-        <h3 className="text-lg font-semibold">Total Revenue</h3>
-        <p className="text-3xl font-bold">${totalRevenue.toFixed(2)}</p>
+      <div className="bg-[#E9F0CD]/10 p-4 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-[#E9F0CD]">
+        <h3 className="text-xl font-bold font-Kurale">Total Revenue</h3>
+        <p className="text-4xl font-semibold font-Playfair flex items-center">
+          <FaRupeeSign size={20} className="mr-1" /> {totalRevenue.toFixed(2)}
+        </p>
       </div>
-      {Object.entries(ordersByStatus).map(([status, count]) => (
-        <div key={status} className="bg-[#E9F0CD]/10 p-4 rounded-lg">
-          <h3 className="text-lg font-semibold">{status} Orders</h3>
-          <p className="text-3xl font-bold">{count}</p>
-        </div>
-      ))}
     </div>
   );
 };
@@ -124,20 +125,51 @@ const OrderList: React.FC<{
   orders: Order[];
   selectedOrderId: string | undefined;
   onSelectOrder: (order: Order) => void;
-}> = ({ orders, selectedOrderId, onSelectOrder }) => {
+  visualizedOrders: { [key: string]: boolean };
+  toggleVisualize: (orderId: string) => void;
+}> = ({ orders, selectedOrderId, onSelectOrder, visualizedOrders, toggleVisualize }) => {
   return (
-    <div className="bg-[#E9F0CD]/10 rounded-lg shadow-md p-4">
-      <h2 className="text-2xl font-semibold mb-4">Orders</h2>
-      <input type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-[#E9F0CD]" />
+    <div className="bg-[#E9F0CD]/10 rounded-lg shadow-md p-4 text-[#E9F0CD]">
+      <h2 className="text-4xl font-bold mb-4 font-Playfair">Orders</h2>
+      <input type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-[#E9F0CD] font-Kurale" />
       <div className="space-y-4">
         {orders.map((order) => (
-          <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrderId === order._id ? "bg-[#1C2924]" : "bg-[#E9F0CD]/10"}`} onClick={() => onSelectOrder(order)}>
-            <div className="flex justify-between">
-              <span>Task #{order._id}</span>
-              <span>{order.total.toFixed(2)}</span>
+          <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrderId === order._id ? "bg-[#1C2924]" : "bg-[#E9F0CD]/10"}`}>
+            <div className="flex justify-between items-center">
+              <div className="font-bold font-Kurale" onClick={() => onSelectOrder(order)}>
+                <ul className="list-disc ml-4">
+                  <li>
+                    Customer: <span className="font-RobotoCondensed">{order.customerName}</span>
+                  </li>
+                  <li>
+                    Status: <span className="font-RobotoCondensed">#{order.status}</span>
+                  </li>
+                  <li>
+                    OrderID: <span className="font-RobotoCondensed">#{order._id}</span>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <div>Status: {order.status}</div>
-            <div>Customer: {order.customerName}</div>
+            <div className="flex justify-between items-center mt-4">
+              <div className="flex flex-col items-end">
+                <span className="font-bold font-Playfair flex items-center">
+                  <FaRupeeSign className="mr-1" /> {order.total.toFixed(2)}
+                </span>
+              </div>
+              <div>
+                <button onClick={() => toggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs font-Kurale">
+                  {visualizedOrders[order._id] ? (
+                    <>
+                      <FaEyeSlash className="mr-2" /> Hide
+                    </>
+                  ) : (
+                    <>
+                      <FaEye className="mr-2" /> Show
+                    </>
+                  )}
+                </button>
+              </div>
+            </div>
           </div>
         ))}
       </div>
@@ -148,46 +180,78 @@ const OrderList: React.FC<{
 const OrderDetails: React.FC<{
   order: Order;
   onUpdateStatus: (orderId: string, newStatus: string, userId: string) => void;
-}> = ({ order, onUpdateStatus }) => {
+  isVisualized: boolean;
+  toggleVisualize: () => void;
+}> = ({ order, onUpdateStatus, isVisualized, toggleVisualize }) => {
   const statusOptions = ["Accepted", "Preparing", "Delivering", "Completed"];
-
+  const statusIcons = {
+    Accepted: <MdDashboard />,
+    Preparing: <MdShoppingCart />,
+    Delivering: <MdLocalShipping />,
+    Completed: <MdDoneAll />,
+  };
   return (
-    <div className="bg-[#1C2924] rounded-lg shadow-md p-4">
-      <h2 className="text-2xl font-semibold mb-4">Order Details</h2>
-      <div className="mb-4">
+    <div className="bg-[#E9F0CD]/10 rounded-lg shadow-md p-4 text-[#E9F0CD]">
+      <div className="flex justify-between items-center mb-4">
+        <h2 className="text-4xl font-bold font-Playfair">Order Details</h2>
+        <button onClick={toggleVisualize} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs font-Kurale">
+          {isVisualized ? (
+            <>
+              <FaEyeSlash className="mr-2" /> Hide
+            </>
+          ) : (
+            <>
+              <FaEye className="mr-2" /> Show
+            </>
+          )}
+        </button>
+      </div>
+      <div className="mb-4 font-Kurale">
         <h3 className="font-bold">Task info</h3>
         <div>Address: {order.locationData?.address}</div>
         <div>Phone: {order.phoneNumber}</div>
       </div>
-      <div className="space-y-4 mb-4">
-        {order.items.map((item, index) => (
-          <div key={index} className="flex items-center">
-            <img alt={item.title} src={item.image} className="w-16 h-16 object-cover rounded-md mr-4" />
-            <div className="flex-1">
-              <div className="flex justify-between">
-                <span>{item.title}</span>
-                <span>x{item.quantity}</span>
+      {isVisualized && (
+        <div className="space-y-4 mb-4">
+          {order.items.map((item, index) => (
+            <div key={index} className="flex items-center bg-[#E9F0CD]/10 p-4 rounded-lg">
+              <img alt={item.title} src={item.image} className="w-16 h-16 object-cover rounded-md mr-4" />
+              <div className="flex-1">
+                <div className="flex justify-between font-Kurale">
+                  <span>{item.title}</span>
+                  <span>x{item.quantity}</span>
+                </div>
+              </div>
+              <div className="font-bold font-Playfair flex items-center">
+                <FaRupeeSign className="mr-1" />
+                {(item.price * item.quantity).toFixed(2)}
               </div>
             </div>
-            <div>{(item.price * item.quantity).toFixed(2)}</div>
-          </div>
-        ))}
+          ))}
+        </div>
+      )}
+      <div className="text-right text-xl font-bold mt-4 font-Playfair flex items-center justify-end">
+        Total: <FaRupeeSign className="mx-1" /> {order.total.toFixed(2)}
       </div>
-      <div className="text-right text-xl font-bold mt-4">Total: {order.total.toFixed(2)}</div>
-      <div className="mt-4 flex justify-between items-center">
-        <span>Current Status: {order.status}</span>
-        <div className="flex space-x-2">
+      <div className="mt-4 flex flex-col sm:flex-row justify-between items-center">
+        <div className="flex flex-wrap justify-center sm:justify-end space-x-2">
           {statusOptions.map((status) => (
             <button
               key={status}
               onClick={() => onUpdateStatus(order._id, status, order.userId)}
-              className={`px-4 py-2 rounded-md ${order.status === status ? "bg-orange-500 text-[#E9F0CD]" : "bg-[#E9F0CD]/10 text-[#E9F0CD]"}`}
+              className={`px-4 py-2 mb-2 transition duration-700 ease-in-out transform rounded-full ${
+                order.status === status ? "bg-[#A8B67C] text-[#172B25]" : "bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25]"
+              } font-Kurale font-bold flex items-center`}
             >
-              {status}
+              {statusIcons[status as keyof typeof statusIcons]}
+              <span className="ml-2">{status}</span>
             </button>
           ))}
         </div>
       </div>
+      <p className="font-bold font-Kurale m-2 text-2xl underline">
+        Current Status: <span className="font-RobotoCondensed text-lg">{order.status}</span>
+      </p>
     </div>
   );
 };
