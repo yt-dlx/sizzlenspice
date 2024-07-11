@@ -1,10 +1,12 @@
 // app/api/orders/route.ts
+import * as Ably from "ably";
 import { auth } from "@/auth";
 import { ObjectId } from "mongodb";
 import clientPromise from "@/lib/mongodb";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
+const ably = new Ably.Realtime(process.env.ABLY_API_KEY as string);
 
 export async function GET(request: NextRequest) {
   const session = await auth();
@@ -53,6 +55,12 @@ export async function POST(request: NextRequest) {
   };
   if (isNaN(orderDocument.total)) return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });
   await db.collection("orders").insertOne(orderDocument);
+  const channel = ably.channels.get(`orders:${userId}`);
+  await channel.publish("new-order", {
+    orderId: orderId.toString(),
+    total: orderDocument.total,
+    createdAt: orderDate,
+  });
   return NextResponse.json(
     {
       orderId: orderId.toString(),
@@ -66,13 +74,15 @@ export async function POST(request: NextRequest) {
 export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { orderId, status } = await request.json();
+  const { orderId, status, userId } = await request.json();
   if (!orderId || !status) return NextResponse.json({ error: "Order ID and status are required" }, { status: 400 });
   const client = await clientPromise;
   const db = client.db();
   try {
     const result = await db.collection("orders").updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
     if (result.matchedCount === 0) return NextResponse.json({ error: "Order not found" }, { status: 404 });
+    const channel = ably.channels.get(`orders:${userId}`);
+    await channel.publish("order-updated", { orderId, status });
     return NextResponse.json({ message: "Order status updated successfully" }, { status: 200 });
   } catch (error) {
     return NextResponse.json({ error: "Failed to update order status" }, { status: 500 });
