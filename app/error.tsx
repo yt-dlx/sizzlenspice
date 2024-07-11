@@ -8,7 +8,7 @@ export default function Error({ error, reset }: { error: Error & { digest?: stri
   useEffect(() => {
     console.error(error);
     const redirectTimer = setTimeout(() => {
-      router.push("/home");
+      router.push("/");
     }, 3000);
     return () => clearTimeout(redirectTimer);
   }, [router]);
