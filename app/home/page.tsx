@@ -89,7 +89,7 @@ export default function HomePage() {
                     <span className="ml-1 text-sm">{selectedItem.rating.toFixed(1)}</span>
                   </div>
                 </div>
-                <p className="text-sm mb-8 text-center font-RobotoCondensed">{selectedItem.description}</p>
+                <p className="text-sm mb-8 text-center font-Playfair">{selectedItem.description}</p>
                 <p className="mb-2 text-center font-Kurale text-xl font-bold">Select Plate Size:</p>
                 <div className="flex justify-center items-center text-center flex-col gap-2 mb-4">
                   {Object.entries(selectedItem.price).map(([size, price]) => {
@@ -194,7 +194,7 @@ export default function HomePage() {
                     <span className="ml-1 text-sm">{item.rating.toFixed(1)}</span>
                   </div>
                 </div>
-                <p className="text-sm mt-2 font-RobotoCondensed">{item.description}</p>
+                <p className="text-sm mt-2 font-Playfair">{item.description}</p>
                 <div className="flex justify-between items-center mt-4">
                   <span className="font-bold font-Kurale items-center inline-flex">
                     <FaRupeeSign />
@@ -258,7 +258,7 @@ export default function HomePage() {
                     >
                       <FaMinus />
                     </button>
-                    <span className="font-RobotoCondensed font-bold">{item.quantity}</span>
+                    <span className="font-Playfair font-bold">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
                       className="text-sm bg-[#E9F0CD]/60 hover:bg-[#E9F0CD] text-[#1C3029] font-Kurale p-1 rounded-full transition duration-300"

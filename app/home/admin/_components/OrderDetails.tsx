@@ -76,7 +76,7 @@ const OrderDetails: React.FC<{
         </div>
       </div>
       <p className="font-bold font-Kurale m-2 text-2xl underline">
-        Current Status: <span className="font-RobotoCondensed text-lg">{order.status}</span>
+        Current Status: <span className="font-Playfair text-lg">{order.status}</span>
       </p>
     </div>
   );
