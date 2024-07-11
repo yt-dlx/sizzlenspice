@@ -6,8 +6,7 @@ RUN apt-get update && \
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs && \
     apt-get clean
-RUN apt-get install -y npm && \
-    npm install -g yarn && \
+RUN npm install -g yarn && \
     apt-get clean
 WORKDIR /app
 COPY . .
