@@ -1,17 +1,17 @@
 {
   "private": true,
   "version": "0.1.0",
-  "name": "nextjs_authjs_tanstack-query_framer-motion_typescript",
+  "name": "sizzlenspice.in",
   "author": {
     "name": "shovit dutta",
     "email": "shovitdutta1@gmail.com"
   },
   "scripts": {
-    "build": "next build && npm run format",
+    "build": "npm run format && next build",
     "format": "prettier --write .",
-    "start": "next start",
-    "lint": "next lint",
-    "dev": "next dev"
+    "start": "next start -p 8000",
+    "dev": "next dev -p 8000",
+    "lint": "next lint"
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
