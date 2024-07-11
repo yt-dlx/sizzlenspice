@@ -1,16 +1,12 @@
 // app/page.tsx
 "use server";
 import React from "react";
-import { auth } from "@/auth";
 import Image from "next/image";
 import { signIn } from "@/auth";
-import { redirect } from "next/navigation";
 import { VscGithubInverted } from "react-icons/vsc";
 import { AiFillGoogleCircle } from "react-icons/ai";
 
 export default async function HomePage() {
-  const session = await auth();
-  if (session) redirect("/");
   const categories = [
     {
       title: "Palak Paneer",
