@@ -1,11 +1,11 @@
-# Development Stage
-FROM node:18-alpine AS development
-WORKDIR /app
-COPY package*.json yarn.lock ./
-RUN yarn install
-COPY . .
-EXPOSE 8000
-CMD ["yarn", "dev", "--port", "8000"]
+# # Development Stage
+# FROM node:18-alpine AS development
+# WORKDIR /app
+# COPY package*.json yarn.lock ./
+# RUN yarn install
+# COPY . .
+# EXPOSE 8000
+# CMD ["yarn", "dev", "--port", "8000"]
 
 # Builder Stage
 FROM node:18-alpine AS builder
