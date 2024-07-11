@@ -41,9 +41,9 @@ const OrderDetails: React.FC<{
         <div className="space-y-4 mb-4">
           {order.items.map((item, index) => (
             <div key={index} className="flex items-center bg-[#E9F0CD]/10 p-4 rounded-lg">
-              <img alt={item.title} src={item.image} className="w-16 h-16 object-cover rounded-md mr-4" />
+              <img alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313] mr-4" />
               <div className="flex-1">
-                <div className="flex justify-between font-Kurale">
+                <div className="flex justify-between font-bold font-Kurale">
                   <span>{item.title}</span>
                   <span>x{item.quantity}</span>
                 </div>

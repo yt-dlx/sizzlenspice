@@ -82,7 +82,7 @@ export default function AdminPage() {
         <DashboardSummary orders={orders} />
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-8">
           <div className="lg:col-span-1">
-            <OrderList orders={orders} selectedOrderId={selectedOrder?._id} onSelectOrder={setSelectedOrder} visualizedOrders={visualizedOrders} toggleVisualize={toggleVisualize} />
+            <OrderList orders={orders} selectedOrderId={selectedOrder?._id} onSelectOrder={setSelectedOrder} />
           </div>
           <div className="lg:col-span-2">
             {selectedOrder ? (
