@@ -1,11 +1,9 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import io from "socket.io-client";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
-import type Order from "@/app/_src/types/Order";
 import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
@@ -14,11 +12,10 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
+  const [prevOrders, setPreviousOrders] = useState([]);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
@@ -35,26 +32,13 @@ export default function Home() {
     const response = await fetch("/api/orders?orderId=" + orderId, {
       method: "DELETE",
     });
-    if (!response.ok) setError("Failed to cancel order!");
+    if (!response.ok) setError("Failed to cancle order!");
     return await response.json();
   }
 
-  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+  const TggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const socketInitializer = async () => {
-      await fetch("/api/websocket");
-      const newSocket = io();
-      setSocket(newSocket);
-      if (session?.user?.email) {
-        newSocket.emit("join-room", session.user.email);
-        newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
-          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-        });
-      }
-    };
-    socketInitializer();
-
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -91,10 +75,6 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-
-    return () => {
-      if (socket) socket.disconnect();
-    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
@@ -137,9 +117,6 @@ export default function Home() {
       setCancelTimeRemaining(60);
       setOrderPlaced(true);
       clearCart();
-      if (socket && session?.user?.email) {
-        socket.emit("update-order", { userId: session.user.email, orderId, status: "Placed" });
-      }
     } catch {
       setError("Failed to place order!");
     } finally {
@@ -289,7 +266,7 @@ export default function Home() {
                   <p>
                     Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
                   </p>
-                  <button onClick={() => ToggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
+                  <button onClick={() => TggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
                       <React.Fragment>
                         <FaEyeSlash className="mr-2" /> Hide
