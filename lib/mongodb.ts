@@ -10,12 +10,12 @@ if (process.env.NODE_ENV === "development") {
     _mongoClientPromise?: Promise<MongoClient>;
   };
   if (!globalWithMongo._mongoClientPromise) {
-    client = new MongoClient(process.env.MONGODB as string, options);
+    client = new MongoClient(process.env.DATABASE_URL as string, options);
     globalWithMongo._mongoClientPromise = client.connect();
   }
   clientPromise = globalWithMongo._mongoClientPromise;
 } else {
-  client = new MongoClient(process.env.MONGODB as string, options);
+  client = new MongoClient(process.env.DATABASE_URL as string, options);
   clientPromise = client.connect();
 }
 
