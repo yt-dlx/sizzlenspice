@@ -50,7 +50,7 @@ export default async function HomePage() {
                 <Image src={category.image} width={200} height={200} alt={category.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
                 <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow text-center">
                   <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
-                  <p className="text-xs mt-2 font-Playfair">{category.description}</p>
+                  <p className="text-xs mt-2 font-RobotoCondensed">{category.description}</p>
                 </div>
               </a>
             ))}

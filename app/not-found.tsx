@@ -5,9 +5,10 @@ import { useRouter } from "next/navigation";
 
 export default function NotFound() {
   const router = useRouter();
+
   useEffect(() => {
     const redirectTimer = setTimeout(() => {
-      router.push("/home");
+      router.back();
     }, 3000);
     return () => clearTimeout(redirectTimer);
   }, [router]);

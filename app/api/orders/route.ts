@@ -40,16 +40,15 @@ export async function POST(request: NextRequest) {
     _id: orderId,
     items: cart.map((item) => ({
       title: item.title,
-      image: item.image,
       quantity: item.quantity,
       selectedSize: item.selectedSize,
       price: item.price[item.selectedSize],
     })),
+    total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
     userId: userId,
     status: "Pending",
     createdAt: orderDate,
     locationData: locationData,
-    total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
   };
   if (isNaN(orderDocument.total)) return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });
   await db.collection("orders").insertOne(orderDocument);
@@ -66,7 +65,7 @@ export async function POST(request: NextRequest) {
 export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { orderId, status, userId } = await request.json();
+  const { orderId, status } = await request.json();
   if (!orderId || !status) return NextResponse.json({ error: "Order ID and status are required" }, { status: 400 });
   const client = await clientPromise;
   const db = client.db();
@@ -88,8 +87,9 @@ export async function DELETE(request: NextRequest) {
   const db = client.db();
   try {
     const result = await db.collection("orders").deleteOne({ _id: new ObjectId(orderId) });
-    if (result.deletedCount === 1) return NextResponse.json({ message: "Order cancelled successfully" }, { status: 200 });
-    else return NextResponse.json({ error: "Order not found" }, { status: 404 });
+    if (result.deletedCount === 1) {
+      return NextResponse.json({ message: "Order cancelled successfully" }, { status: 200 });
+    } else return NextResponse.json({ error: "Order not found" }, { status: 404 });
   } catch (error) {
     return NextResponse.json({ error: "Failed to cancel order" }, { status: 500 });
   }
