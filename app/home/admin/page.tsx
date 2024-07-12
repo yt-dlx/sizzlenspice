@@ -32,9 +32,6 @@ export default function AdminPage() {
     };
     initAbly();
     fetchOrders();
-    return () => {
-      if (ably) ably.close();
-    };
   }, [session]);
 
   const fetchOrders = async () => {

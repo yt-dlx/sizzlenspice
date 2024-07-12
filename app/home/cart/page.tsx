@@ -56,7 +56,6 @@ export default function Home() {
     };
 
     initAbly();
-
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -93,10 +92,6 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-
-    return () => {
-      if (ably) ably.close();
-    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
