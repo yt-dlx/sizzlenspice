@@ -9,7 +9,6 @@ import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-i
 
 export default function AdminPage() {
   const { data: session } = useSession();
-  const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
@@ -18,17 +17,11 @@ export default function AdminPage() {
 
   useEffect(() => {
     const channel = pusherClient.subscribe("admin-channel");
-    setPusherChannel(channel);
-
     channel.bind("order-updated", (data: { orderId: string; status: string }) => {
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-      if (selectedOrder && selectedOrder._id === data.orderId) {
-        setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
-      }
+      if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
     });
-
     fetchOrders();
-
     return () => {
       channel.unbind_all();
       channel.unsubscribe();
