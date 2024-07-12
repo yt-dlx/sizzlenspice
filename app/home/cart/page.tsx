@@ -14,10 +14,10 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
