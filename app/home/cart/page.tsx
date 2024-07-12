@@ -23,6 +23,7 @@ export default function Home() {
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
+  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch("/api/orders?userId=" + userId);
@@ -32,14 +33,10 @@ export default function Home() {
   }
 
   async function cancelOrder(orderId: string) {
-    const response = await fetch("/api/orders?orderId=" + orderId, {
-      method: "DELETE",
-    });
+    const response = await fetch("/api/orders?orderId=" + orderId, { method: "DELETE" });
     if (!response.ok) setError("Failed to cancel order!");
     return await response.json();
   }
-
-  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
     if (session?.user?.email) {
@@ -50,7 +47,6 @@ export default function Home() {
       });
       fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
     }
-
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -65,7 +61,6 @@ export default function Home() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
-
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -73,7 +68,6 @@ export default function Home() {
       }, 4000);
       return () => clearTimeout(timer);
     }
-
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
@@ -88,7 +82,6 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-
     return () => {
       if (pusherChannel) {
         pusherChannel.unbind_all();
@@ -176,7 +169,6 @@ export default function Home() {
           </ul>
         </section>
       )}
-
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
@@ -185,7 +177,6 @@ export default function Home() {
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
       </section>
-
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
           <h3 className="text-3xl font-Kurale font-bold text-[#E9F0CD]">
@@ -194,7 +185,6 @@ export default function Home() {
           </h3>
         </section>
       )}
-
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
           <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
@@ -235,7 +225,6 @@ export default function Home() {
           </div>
         ))}
       </section>
-
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
@@ -282,7 +271,6 @@ export default function Home() {
           </section>
         )
       ) : null}
-
       {cancelTimeRemaining !== null && (
         <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold">
           <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
@@ -291,7 +279,6 @@ export default function Home() {
           </button>
         </section>
       )}
-
       {prevOrders && prevOrders.length > 0 && (
         <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]">
           <h3 className="text-4xl font-bold mb-4">Orders</h3>

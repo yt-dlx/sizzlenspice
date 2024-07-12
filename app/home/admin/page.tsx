@@ -1,9 +1,9 @@
 // app/home/admin/page.tsx
 "use client";
 import { pusherClient } from "@/lib/pusher";
-import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
+import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
@@ -14,6 +14,7 @@ export default function AdminPage() {
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
+  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
     const channel = pusherClient.subscribe("admin-channel");
@@ -32,7 +33,7 @@ export default function AdminPage() {
     setIsLoading(true);
     try {
       const response = await fetch("/api/orders");
-      if (!response.ok) throw new Error("Failed to fetch orders");
+      if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
       const reversedOrders = data.orders.reverse();
       setOrders(reversedOrders);
@@ -51,39 +52,24 @@ export default function AdminPage() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ orderId, status: newStatus }),
       });
-      if (!response.ok) throw new Error("Failed to update order status");
+      if (!response.ok) setError("Failed to update order status");
       await fetch("/api/pusher", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          channel: `user-${userId}`,
-          event: "order-updated",
-          data: { orderId, status: newStatus },
-        }),
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ channel: `user-${userId}`, event: "order-updated", data: { orderId, status: newStatus } }),
       });
       await fetch("/api/pusher", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          channel: "admin-channel",
-          event: "order-updated",
-          data: { orderId, status: newStatus },
-        }),
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ channel: "admin-channel", event: "order-updated", data: { orderId, status: newStatus } }),
       });
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
-      if (selectedOrder && selectedOrder._id === orderId) {
-        setSelectedOrder({ ...selectedOrder, status: newStatus });
-      }
+      if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
     } catch (err: any) {
       setError(err.message);
     }
   };
 
-  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
   if (!session) return <p className="text-[#E9F0CD]">Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p className="text-[#E9F0CD]">Loading...</p>;
   if (error) return <p className="text-[#E9F0CD]">Error: {error}</p>;
@@ -156,13 +142,13 @@ const OrderDetails: React.FC<{
         <h2 className="text-4xl font-bold font-Playfair">Order Details</h2>
         <button onClick={toggleVisualize} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs font-Kurale">
           {isVisualized ? (
-            <>
+            <React.Fragment>
               <FaEyeSlash className="mr-2" /> Hide
-            </>
+            </React.Fragment>
           ) : (
-            <>
+            <React.Fragment>
               <FaEye className="mr-2" /> Show
-            </>
+            </React.Fragment>
           )}
         </button>
       </div>
