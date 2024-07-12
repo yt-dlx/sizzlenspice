@@ -11,19 +11,10 @@ const Kurale = LocalFontLoader({ variable: "--font-Kurale", src: "./_src/fonts/K
 const Playfair = LocalFontLoader({ variable: "--font-Playfair", src: "./_src/fonts/Playfair.ttf" });
 const Grenoble = LocalFontLoader({ variable: "--font-Grenoble", src: "./_src/fonts/Grenoble.ttf" });
 const Brittany = LocalFontLoader({ variable: "--font-Brittany", src: "./_src/fonts/Brittany.otf" });
-const Merriweather = LocalFontLoader({
-  variable: "--font-Merriweather",
-  src: "./_src/fonts/Merriweather.ttf",
-});
-const RobotoCondensed = LocalFontLoader({
-  variable: "--font-RobotoCondensed",
-  src: "./_src/fonts/RobotoCondensed.ttf",
-});
+const Merriweather = LocalFontLoader({ variable: "--font-Merriweather", src: "./_src/fonts/Merriweather.ttf" });
+const RobotoCondensed = LocalFontLoader({ variable: "--font-RobotoCondensed", src: "./_src/fonts/RobotoCondensed.ttf" });
 
-export const metadata: Metadata = {
-  description: "Online Food Delivery and Order",
-  title: "Sizzle & Spice",
-};
+export const metadata: Metadata = { description: "Online Food Delivery and Order", title: "Sizzle & Spice" };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`h-full ${Kurale.variable} ${Playfair.variable} ${Grenoble.variable} ${Brittany.variable} ${Merriweather.variable} ${RobotoCondensed.variable}`}>

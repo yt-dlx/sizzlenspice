@@ -4,6 +4,7 @@ import Link from "next/link";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
+import type Order from "@/app/_src/types/Order";
 import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
@@ -12,10 +13,11 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
+  const [ws, setWs] = useState<WebSocket | null>(null);
   const [isLoading, setIsLoading] = useState(false);
-  const [prevOrders, setPreviousOrders] = useState([]);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
@@ -32,13 +34,24 @@ export default function Home() {
     const response = await fetch("/api/orders?orderId=" + orderId, {
       method: "DELETE",
     });
-    if (!response.ok) setError("Failed to cancle order!");
+    if (!response.ok) setError("Failed to cancel order!");
     return await response.json();
   }
 
-  const TggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
+    const socket = new WebSocket(process.env.WS_HOST as string);
+    setWs(socket);
+    socket.onopen = () => console.log("WebSocket connected");
+    socket.onmessage = (event) => {
+      const data = JSON.parse(event.data);
+      if (data.type === "order-updated") {
+        const { orderId, status } = data;
+        setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
+      }
+    };
+
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -53,7 +66,9 @@ export default function Home() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
+
     if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -61,6 +76,7 @@ export default function Home() {
       }, 4000);
       return () => clearTimeout(timer);
     }
+
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
@@ -75,6 +91,10 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
+
+    return () => {
+      socket.close();
+    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
@@ -99,18 +119,16 @@ export default function Home() {
       setError(null);
       setShowGif(true);
       setIsLoading(true);
-      const response = await fetch("/api/orders", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          cart,
-          locationData,
-          totalAmount: getCartTotal(),
-          userId: session?.user?.email,
-        }),
-      });
-      if (!response.ok) setError("Failed to place order!");
-      const { orderId } = await response.json();
+      const orderData = {
+        type: "new-order",
+        cart,
+        locationData,
+        totalAmount: getCartTotal(),
+        userId: session?.user?.email,
+      };
+      ws?.send(JSON.stringify(orderData));
+      // Simulate a response for now. In a real scenario, you'd wait for a confirmation from the server.
+      const orderId = Date.now().toString(); // Temporary ID generation
       setLatestOrderId(orderId);
       localStorage.setItem("LatestOrderID", orderId);
       localStorage.setItem("OrderPlacedTime", Date.now().toString());
@@ -266,7 +284,7 @@ export default function Home() {
                   <p>
                     Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
                   </p>
-                  <button onClick={() => TggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
+                  <button onClick={() => ToggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
                       <React.Fragment>
                         <FaEyeSlash className="mr-2" /> Hide
