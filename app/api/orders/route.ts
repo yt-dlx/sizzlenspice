@@ -2,6 +2,7 @@
 import { auth } from "@/auth";
 import { ObjectId } from "mongodb";
 import clientPromise from "@/lib/mongodb";
+import { pusherServer } from "@/lib/pusher";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
@@ -66,13 +67,15 @@ export async function POST(request: NextRequest) {
 export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { orderId, status } = await request.json();
+  const { orderId, status, userId } = await request.json();
   if (!orderId || !status) return NextResponse.json({ error: "Order ID and status are required" }, { status: 400 });
   const client = await clientPromise;
   const db = client.db();
   try {
     const result = await db.collection("orders").updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
     if (result.matchedCount === 0) return NextResponse.json({ error: "Order not found" }, { status: 404 });
+    await pusherServer.trigger(`user-${userId}`, "order-updated", { orderId, status });
+    await pusherServer.trigger("admin-channel", "order-updated", { orderId, status });
     return NextResponse.json({ message: "Order status updated successfully" }, { status: 200 });
   } catch (error) {
     return NextResponse.json({ error: "Failed to update order status" }, { status: 500 });
