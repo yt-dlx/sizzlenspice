@@ -7,17 +7,18 @@
     "email": "shovitdutta1@gmail.com"
   },
   "scripts": {
-    "build": "npm run format && next build",
-    "format": "prettier --write .",
-    "start": "next start",
     "lint": "next lint",
-    "dev": "next dev"
+    "format": "prettier --write .",
+    "build": "npm run format && next build",
+    "dev": "concurrently \"next dev\" \"node lib/ngrok.mjs\"",
+    "start": "concurrently \"next start\" \"node lib/ngrok.mjs\""
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.13",
     "@tanstack/react-query": "^5.48.0",
     "daisyui": "^4.12.10",
+    "dotenv": "^16.4.5",
     "flowbite": "^2.3.0",
     "framer-motion": "^11.2.12",
     "mongodb": "^6.8.0",
@@ -37,6 +38,7 @@
     "zustand": "^4.5.4"
   },
   "devDependencies": {
+    "@ngrok/ngrok": "^1.3.0",
     "@tanstack/react-query-devtools": "^5.48.0",
     "@types/node": "^20.14.9",
     "@types/react": "^18.3.3",
