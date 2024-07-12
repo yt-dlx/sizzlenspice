@@ -24,7 +24,7 @@ export default function CartPage() {
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
-  const { channel } = useChannel(`orders:${session?.user?.email}`, (message) => {
+  const { channel } = useChannel("orders", (message) => {
     if (message.name === "order-updated" && message.data.userId === session?.user?.email) {
       setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === message.data.orderId ? { ...order, status: message.data.status } : order)));
     }
@@ -86,7 +86,6 @@ export default function CartPage() {
       channel.unsubscribe();
     };
   }, [session, showGif, cancelTimeRemaining]);
-  
 
   const CancelOrder = async (orderId: string) => {
     try {

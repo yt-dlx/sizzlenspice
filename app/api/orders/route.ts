@@ -76,8 +76,7 @@ export async function PUT(request: NextRequest) {
   try {
     const result = await db.collection("orders").updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
     if (result.matchedCount === 0) return NextResponse.json({ error: "Order not found" }, { status: 404 });
-    const userChannel = ably.channels.get(`orders:${userId}`);
-    userChannel.publish("order-updated", { orderId, status, userId });
+    channel.publish("order-updated", { orderId, status, userId });
     return NextResponse.json({ message: "Order status updated successfully" }, { status: 200 });
   } catch (error) {
     return NextResponse.json({ error: "Failed to update order status" }, { status: 500 });

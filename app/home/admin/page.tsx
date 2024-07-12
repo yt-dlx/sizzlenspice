@@ -16,7 +16,7 @@ export default function AdminPage() {
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
-  const { channel } = useChannel(`orders:${session?.user?.email}`, (message) => {
+  const { channel } = useChannel("orders", (message) => {
     if (message.name === "order-updated") {
       const { orderId, status } = message.data;
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
