@@ -9,5 +9,3 @@ export async function GET(request: NextRequest) {
   const tokenRequestData = await client.auth.createTokenRequest({ clientId: randomName });
   return NextResponse.json(tokenRequestData);
 }
-
-
