@@ -1,34 +1,25 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import { useChannel } from "ably/react";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
-import type Order from "@/app/_src/types/Order";
 import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
-export default function CartPage() {
+export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [prevOrders, setPreviousOrders] = useState([]);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
-  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-
-  const { channel } = useChannel("orders", (message) => {
-    if (message.name === "order-updated" && message.data.userId === session?.user?.email) {
-      setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === message.data.orderId ? { ...order, status: message.data.status } : order)));
-    }
-  });
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch("/api/orders?userId=" + userId);
@@ -41,9 +32,11 @@ export default function CartPage() {
     const response = await fetch("/api/orders?orderId=" + orderId, {
       method: "DELETE",
     });
-    if (!response.ok) setError("Failed to cancel order!");
+    if (!response.ok) setError("Failed to cancle order!");
     return await response.json();
   }
+
+  const TggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
     const storedOrderId = localStorage.getItem("LatestOrderID");
@@ -82,9 +75,6 @@ export default function CartPage() {
       }, 1000);
       return () => clearInterval(timer);
     }
-    return () => {
-      channel.unsubscribe();
-    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
@@ -276,7 +266,7 @@ export default function CartPage() {
                   <p>
                     Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
                   </p>
-                  <button onClick={() => ToggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
+                  <button onClick={() => TggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
                       <React.Fragment>
                         <FaEyeSlash className="mr-2" /> Hide
