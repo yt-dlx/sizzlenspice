@@ -1,7 +1,7 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import Ably from "ably";
+import io from "socket.io-client";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -14,7 +14,7 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [ably, setAbly] = useState<Ably.Realtime | null>(null);
+  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -42,20 +42,19 @@ export default function Home() {
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const initAbly = async () => {
-      const ablyInstance = new Ably.Realtime({ authUrl: "/api/token" });
-      setAbly(ablyInstance);
-
+    const socketInitializer = async () => {
+      await fetch("/api/websocket");
+      const newSocket = io();
+      setSocket(newSocket);
       if (session?.user?.email) {
-        const channel = ablyInstance.channels.get(`orders:${session.user.email}`);
-        channel.subscribe("order-updated", (message) => {
-          const { orderId, status } = message.data;
-          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
+        newSocket.emit("join-room", session.user.email);
+        newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
+          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
         });
       }
     };
+    socketInitializer();
 
-    initAbly();
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -92,6 +91,10 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
+
+    return () => {
+      if (socket) socket.disconnect();
+    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
@@ -134,6 +137,9 @@ export default function Home() {
       setCancelTimeRemaining(60);
       setOrderPlaced(true);
       clearCart();
+      if (socket && session?.user?.email) {
+        socket.emit("update-order", { userId: session.user.email, orderId, status: "Placed" });
+      }
     } catch {
       setError("Failed to place order!");
     } finally {

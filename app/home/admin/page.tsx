@@ -1,6 +1,6 @@
 // app/home/admin/page.tsx
 "use client";
-import Ably from "ably";
+import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
@@ -9,29 +9,29 @@ import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-i
 
 export default function AdminPage() {
   const { data: session } = useSession();
+  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
-  const [ably, setAbly] = useState<Ably.Realtime | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
 
   useEffect(() => {
-    const initAbly = async () => {
-      const ablyInstance = new Ably.Realtime({ authUrl: "/api/token" });
-      setAbly(ablyInstance);
-
-      if (session?.user?.email) {
-        const channel = ablyInstance.channels.get(`orders:${session.user.email}`);
-        channel.subscribe("order-updated", (message) => {
-          const { orderId, status } = message.data;
-          setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
-          if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder((prev) => (prev ? { ...prev, status } : null));
-        });
-      }
+    const socketInitializer = async () => {
+      await fetch("/api/websocket");
+      const newSocket = io();
+      setSocket(newSocket);
+      if (session?.user?.email) newSocket.emit("join-room", session.user.email);
+      newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
+        setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+        if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
+      });
     };
-    initAbly();
+    socketInitializer();
     fetchOrders();
+    return () => {
+      if (socket) socket.disconnect();
+    };
   }, [session]);
 
   const fetchOrders = async () => {
@@ -55,9 +55,10 @@ export default function AdminPage() {
       const response = await fetch("/api/orders", {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ orderId, status: newStatus, userId }),
+        body: JSON.stringify({ orderId, status: newStatus }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
+      if (socket) socket.emit("update-order", { userId, orderId, status: newStatus });
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
       if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
     } catch (err: any) {
