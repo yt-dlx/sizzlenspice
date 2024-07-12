@@ -1,0 +1,50 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "name": "sizzlenspice.in",
+  "author": {
+    "name": "shovit dutta",
+    "email": "shovitdutta1@gmail.com"
+  },
+  "scripts": {
+    "build": "npm run format && next build",
+    "format": "prettier --write .",
+    "start": "next start -p 8000",
+    "dev": "next dev -p 8000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.13",
+    "@tanstack/react-query": "^5.48.0",
+    "daisyui": "^4.12.10",
+    "flowbite": "^2.3.0",
+    "framer-motion": "^11.2.12",
+    "mongodb": "^6.8.0",
+    "next": "14.2.4",
+    "next-auth": "^5.0.0-beta.19",
+    "next-themes": "^0.3.0",
+    "preline": "^2.3.0",
+    "prettier": "^3.3.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "sharp": "^0.33.4",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "tailwind-scrollbar": "^3.1.0",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "zustand": "^4.5.4"
+  },
+  "devDependencies": {
+    "@tanstack/react-query-devtools": "^5.48.0",
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^9.5.0",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.5.2"
+  }
+}

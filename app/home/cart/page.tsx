@@ -1,6 +1,7 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
+import Ably from "ably";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -13,7 +14,7 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function Home() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [ws, setWs] = useState<WebSocket | null>(null);
+  const [ably, setAbly] = useState<Ably.Realtime | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -41,17 +42,20 @@ export default function Home() {
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const socket = new WebSocket(process.env.WS_HOST as string);
-    setWs(socket);
-    socket.onopen = () => console.log("WebSocket connected");
-    socket.onmessage = (event) => {
-      const data = JSON.parse(event.data);
-      if (data.type === "order-updated") {
-        const { orderId, status } = data;
-        setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
+    const initAbly = async () => {
+      const ablyInstance = new Ably.Realtime({ authUrl: "/api/token" });
+      setAbly(ablyInstance);
+
+      if (session?.user?.email) {
+        const channel = ablyInstance.channels.get(`orders:${session.user.email}`);
+        channel.subscribe("order-updated", (message) => {
+          const { orderId, status } = message.data;
+          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
+        });
       }
     };
 
+    initAbly();
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -66,9 +70,7 @@ export default function Home() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
-
     if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
-
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -76,7 +78,6 @@ export default function Home() {
       }, 4000);
       return () => clearTimeout(timer);
     }
-
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
@@ -91,10 +92,6 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-
-    return () => {
-      socket.close();
-    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
@@ -119,16 +116,18 @@ export default function Home() {
       setError(null);
       setShowGif(true);
       setIsLoading(true);
-      const orderData = {
-        type: "new-order",
-        cart,
-        locationData,
-        totalAmount: getCartTotal(),
-        userId: session?.user?.email,
-      };
-      ws?.send(JSON.stringify(orderData));
-      // Simulate a response for now. In a real scenario, you'd wait for a confirmation from the server.
-      const orderId = Date.now().toString(); // Temporary ID generation
+      const response = await fetch("/api/orders", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          cart,
+          locationData,
+          totalAmount: getCartTotal(),
+          userId: session?.user?.email,
+        }),
+      });
+      if (!response.ok) setError("Failed to place order!");
+      const { orderId } = await response.json();
       setLatestOrderId(orderId);
       localStorage.setItem("LatestOrderID", orderId);
       localStorage.setItem("OrderPlacedTime", Date.now().toString());

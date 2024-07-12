@@ -1,6 +1,5 @@
 // app/providers.tsx
 "use client";
-import { SWRConfig } from "swr";
 import { useState } from "react";
 import { AnimatePresence } from "framer-motion";
 import { SessionProvider } from "next-auth/react";
@@ -13,9 +12,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
   return (
     <SessionProvider>
       <QueryClientProvider client={queryClient}>
-        <AnimatePresence mode="wait">
-          <SWRConfig>{children}</SWRConfig>
-        </AnimatePresence>
+        <AnimatePresence mode="wait">{children}</AnimatePresence>
         <ReactQueryDevtools initialIsOpen={false} />
       </QueryClientProvider>
     </SessionProvider>
