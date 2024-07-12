@@ -7,14 +7,25 @@ import { NextRequest, NextResponse } from "next/server";
 export const runtime = "nodejs";
 
 export async function GET(request: NextRequest) {
+  console.log("GET request received");
   const session = await auth();
-  if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  console.log("Session:", session);
+  if (!session) {
+    console.log("Unauthorized request");
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
   const client = await clientPromise;
   const db = client.db();
   const userEmail = request.nextUrl.searchParams.get("userId");
-  let orders;
-  if (userEmail) orders = await db.collection("orders").find({ userId: userEmail }).toArray();
-  else orders = await db.collection("orders").find().toArray();
+  console.log("Fetching orders for user:", userEmail);
+  let orders: any[];
+  if (userEmail) {
+    orders = await db.collection("orders").find({ userId: userEmail }).toArray();
+  } else {
+    console.log("No userId provided, returning empty array");
+    orders = [];
+  }
+  console.log("Found orders:", orders);
   const formattedOrders = orders.map((order) => ({
     ...order,
     _id: order._id.toString(),
@@ -24,6 +35,7 @@ export async function GET(request: NextRequest) {
     createdAt: order.createdAt ? new Date(order.createdAt).toISOString() : null,
     total: typeof order.total === "number" ? order.total : parseFloat(order.total) || 0,
   }));
+  console.log("Formatted orders:", formattedOrders);
   return NextResponse.json({ orders: formattedOrders });
 }
 

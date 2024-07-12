@@ -1,33 +1,36 @@
 // app/home/admin/page.tsx
 "use client";
-import Ably from "ably";
+import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
-const ably = new Ably.Realtime({ authUrl: "/api/token" });
-
 export default function AdminPage() {
   const { data: session } = useSession();
+  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
-  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const channel = ably.channels.get("order-status");
-    channel.subscribe("status-update", (message) => {
-      const { orderId, status } = message.data;
-      setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
-      if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder((prev) => (prev ? { ...prev, status } : null));
-    });
+    const socketInitializer = async () => {
+      await fetch("/api/websocket");
+      const newSocket = io();
+      setSocket(newSocket);
+      if (session?.user?.email) newSocket.emit("join-room", session.user.email);
+      newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
+        setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+        if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
+      });
+    };
+    socketInitializer();
     fetchOrders();
     return () => {
-      channel.unsubscribe();
+      if (socket) socket.disconnect();
     };
   }, [session]);
 
@@ -47,7 +50,7 @@ export default function AdminPage() {
     }
   };
 
-  const updateOrderStatus = async (orderId: string, newStatus: string) => {
+  const updateOrderStatus = async (orderId: string, newStatus: string, userId: string) => {
     try {
       const response = await fetch("/api/orders", {
         method: "PUT",
@@ -55,10 +58,15 @@ export default function AdminPage() {
         body: JSON.stringify({ orderId, status: newStatus }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
+      if (socket) socket.emit("update-order", { userId, orderId, status: newStatus });
+      setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
+      if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
     } catch (err: any) {
       setError(err.message);
     }
   };
+
+  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
   if (!session) return <p className="text-[#E9F0CD]">Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p className="text-[#E9F0CD]">Loading...</p>;
   if (error) return <p className="text-[#E9F0CD]">Error: {error}</p>;
