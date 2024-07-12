@@ -1,7 +1,7 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import Ably from "ably";
+import io from "socket.io-client";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -11,11 +11,10 @@ import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
-const ably = new Ably.Realtime({ authUrl: "/api/token" });
-
 export default function CartPage() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
+  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -24,14 +23,38 @@ export default function CartPage() {
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
+
+  async function fetchPreviousOrders(userId: string) {
+    const response = await fetch("/api/orders?userId=" + userId);
+    if (!response.ok) setError("Failed to fetch order!");
+    const data = await response.json();
+    return data.orders;
+  }
+
+  async function cancelOrder(orderId: string) {
+    const response = await fetch("/api/orders?orderId=" + orderId, {
+      method: "DELETE",
+    });
+    if (!response.ok) setError("Failed to cancel order!");
+    return await response.json();
+  }
+
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const channel = ably.channels.get("order-status");
-    channel.subscribe("status-update", (message) => {
-      const { orderId, status } = message.data;
-      setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
-    });
+    const socketInitializer = async () => {
+      await fetch("/api/websocket");
+      const newSocket = io();
+      setSocket(newSocket);
+      if (session?.user?.email) {
+        newSocket.emit("join-room", session.user.email);
+        newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
+          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+        });
+      }
+    };
+    socketInitializer();
+
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -46,7 +69,7 @@ export default function CartPage() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
-    if (session?.user?.email) fetchPreviousOrders(session.user.email);
+    if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -68,33 +91,17 @@ export default function CartPage() {
       }, 1000);
       return () => clearInterval(timer);
     }
+
     return () => {
-      channel.unsubscribe();
+      if (socket) socket.disconnect();
     };
   }, [session, showGif, cancelTimeRemaining]);
 
-  async function fetchPreviousOrders(userId: string): Promise<Order[]> {
+  const CancelOrder = async (orderId: string) => {
     try {
-      const response = await fetch("/api/orders?userId=" + userId);
-      if (!response.ok) throw new Error("Failed to fetch orders!");
-      const data = await response.json();
-      return data.orders;
-    } catch (err) {
-      setError("Failed to fetch orders!");
-      return [];
-    }
-  }
-
-  async function cancelOrder(orderId: string) {
-    try {
-      const response = await fetch("/api/orders?orderId=" + orderId, {
-        method: "DELETE",
-      });
-      if (!response.ok) throw new Error("Failed to cancel order!");
-      if (session?.user?.email) {
-        const updatedOrders = await fetchPreviousOrders(session.user.email);
-        setPreviousOrders(updatedOrders);
-      }
+      await cancelOrder(orderId);
+      const updatedOrders = await fetchPreviousOrders(session?.user?.email || "");
+      setPreviousOrders(updatedOrders);
       if (orderId === LatestOrderID) {
         setLatestOrderId(null);
         setCancelTimeRemaining(null);
@@ -102,10 +109,10 @@ export default function CartPage() {
         localStorage.removeItem("OrderPlacedTime");
       }
       alert("Order cancelled successfully");
-    } catch (err) {
+    } catch {
       alert("Failed to cancel order!");
     }
-  }
+  };
 
   const PlaceOrder = async () => {
     try {
@@ -122,7 +129,7 @@ export default function CartPage() {
           userId: session?.user?.email,
         }),
       });
-      if (!response.ok) throw new Error("Failed to place order!");
+      if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
       setLatestOrderId(orderId);
       localStorage.setItem("LatestOrderID", orderId);
@@ -130,7 +137,10 @@ export default function CartPage() {
       setCancelTimeRemaining(60);
       setOrderPlaced(true);
       clearCart();
-    } catch (err) {
+      if (socket && session?.user?.email) {
+        socket.emit("update-order", { userId: session.user.email, orderId, status: "Placed" });
+      }
+    } catch {
       setError("Failed to place order!");
     } finally {
       setIsLoading(false);
@@ -262,7 +272,7 @@ export default function CartPage() {
       {cancelTimeRemaining !== null && (
         <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold">
           <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
-          <button onClick={() => cancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
+          <button onClick={() => CancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
             Cancel Order
           </button>
         </section>
