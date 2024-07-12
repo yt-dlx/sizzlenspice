@@ -1,6 +1,6 @@
 // app/home/admin/page.tsx
 "use client";
-import io from "socket.io-client";
+import { useChannel } from "ably/react";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
@@ -9,28 +9,27 @@ import { MdDashboard, MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-i
 
 export default function AdminPage() {
   const { data: session } = useSession();
-  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
+  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+
+  const { channel } = useChannel(`orders:${session?.user?.email}`, (message) => {
+    if (message.name === "order-updated") {
+      const { orderId, status } = message.data;
+      setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
+      if (selectedOrder && selectedOrder._id === orderId) {
+        setSelectedOrder((prev) => (prev ? { ...prev, status } : null));
+      }
+    }
+  });
 
   useEffect(() => {
-    const socketInitializer = async () => {
-      await fetch("/api/websocket");
-      const newSocket = io();
-      setSocket(newSocket);
-      if (session?.user?.email) newSocket.emit("join-room", session.user.email);
-      newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
-        setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-        if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
-      });
-    };
-    socketInitializer();
     fetchOrders();
     return () => {
-      if (socket) socket.disconnect();
+      channel.unsubscribe();
     };
   }, [session]);
 
@@ -55,18 +54,15 @@ export default function AdminPage() {
       const response = await fetch("/api/orders", {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ orderId, status: newStatus }),
+        body: JSON.stringify({ orderId, status: newStatus, userId }),
       });
       if (!response.ok) throw new Error("Failed to update order status");
-      if (socket) socket.emit("update-order", { userId, orderId, status: newStatus });
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
       if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
     } catch (err: any) {
       setError(err.message);
     }
   };
-
-  const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
   if (!session) return <p className="text-[#E9F0CD]">Access denied. Please log in as an admin.</p>;
   if (isLoading) return <p className="text-[#E9F0CD]">Loading...</p>;
   if (error) return <p className="text-[#E9F0CD]">Error: {error}</p>;

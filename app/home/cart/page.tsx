@@ -1,7 +1,7 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import io from "socket.io-client";
+import { useChannel } from "ably/react";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -14,7 +14,6 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 export default function CartPage() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [socket, setSocket] = useState<any>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -23,6 +22,13 @@ export default function CartPage() {
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
+  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+
+  const { channel } = useChannel(`orders:${session?.user?.email}`, (message) => {
+    if (message.name === "order-updated" && message.data.userId === session?.user?.email) {
+      setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === message.data.orderId ? { ...order, status: message.data.status } : order)));
+    }
+  });
 
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch("/api/orders?userId=" + userId);
@@ -39,22 +45,7 @@ export default function CartPage() {
     return await response.json();
   }
 
-  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-
   useEffect(() => {
-    const socketInitializer = async () => {
-      await fetch("/api/websocket");
-      const newSocket = io();
-      setSocket(newSocket);
-      if (session?.user?.email) {
-        newSocket.emit("join-room", session.user.email);
-        newSocket.on("order-updated", (data: { orderId: string; status: string }) => {
-          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-        });
-      }
-    };
-    socketInitializer();
-
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -91,11 +82,11 @@ export default function CartPage() {
       }, 1000);
       return () => clearInterval(timer);
     }
-
     return () => {
-      if (socket) socket.disconnect();
+      channel.unsubscribe();
     };
   }, [session, showGif, cancelTimeRemaining]);
+  
 
   const CancelOrder = async (orderId: string) => {
     try {
@@ -137,9 +128,6 @@ export default function CartPage() {
       setCancelTimeRemaining(60);
       setOrderPlaced(true);
       clearCart();
-      if (socket && session?.user?.email) {
-        socket.emit("update-order", { userId: session.user.email, orderId, status: "Placed" });
-      }
     } catch {
       setError("Failed to place order!");
     } finally {
