@@ -16,7 +16,7 @@ export default function AdminPage() {
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
 
   useEffect(() => {
-    const socket = new WebSocket(`ws://${process.env.NEXT_PUBLIC_WS_HOST || window.location.host}/ws`);
+    const socket = new WebSocket(process.env.WS_HOST as string);
     setWs(socket);
     socket.onopen = () => console.log("WebSocket connected");
     socket.onmessage = (event) => {
@@ -28,7 +28,9 @@ export default function AdminPage() {
       }
     };
     fetchOrders();
-    return () => socket.close();
+    return () => {
+      socket.close();
+    };
   }, [session]);
 
   const fetchOrders = async () => {

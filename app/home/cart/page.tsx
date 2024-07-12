@@ -41,7 +41,7 @@ export default function Home() {
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   useEffect(() => {
-    const socket = new WebSocket(`ws://${process.env.NEXT_PUBLIC_WS_HOST || window.location.host}/ws`);
+    const socket = new WebSocket(process.env.WS_HOST as string);
     setWs(socket);
     socket.onopen = () => console.log("WebSocket connected");
     socket.onmessage = (event) => {
@@ -51,6 +51,7 @@ export default function Home() {
         setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status } : order)));
       }
     };
+
     const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
     if (storedOrderId && storedOrderTime) {
@@ -65,7 +66,9 @@ export default function Home() {
         localStorage.removeItem("OrderPlacedTime");
       }
     }
+
     if (session?.user?.email) fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+
     if (showGif) {
       const timer = setTimeout(() => {
         setShowGif(false);
@@ -73,6 +76,7 @@ export default function Home() {
       }, 4000);
       return () => clearTimeout(timer);
     }
+
     if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
       const timer = setInterval(() => {
         setCancelTimeRemaining((prev) => {
@@ -87,7 +91,10 @@ export default function Home() {
       }, 1000);
       return () => clearInterval(timer);
     }
-    return () => socket.close();
+
+    return () => {
+      socket.close();
+    };
   }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {

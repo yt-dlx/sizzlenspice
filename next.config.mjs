@@ -2,14 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   images: { domains: ["static.ably.dev", "res.cloudinary.com"] },
-  async rewrites() {
-    return [
-      {
-        source: "/ws",
-        destination: `http://${process.env.NEXT_PUBLIC_WS_HOST}`,
-      },
-    ];
-  },
   async headers() {
     return [
       {
