@@ -10,8 +10,8 @@
     "lint": "next lint",
     "format": "prettier --write .",
     "build": "npm run format && next build",
-    "dev": "concurrently \"next dev\" \"node lib/ngrok.mjs\"",
-    "start": "concurrently \"next start\" \"node lib/ngrok.mjs\""
+    "dev": "concurrently -n \"NEXT,NGROK\" -c \"blue,green\" \"next dev\" \"node lib/ngrok.mjs\"",
+    "start": "concurrently -n \"NEXT,NGROK\" -c \"blue,green\" \"next start\" \"node lib/ngrok.mjs\""
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.5.7",
