@@ -1,4 +1,4 @@
-// app/home/admin/page.tsx
+// app/gome/admin/page.tsx
 "use client";
 import { useEffect, useState } from "react";
 import { useSession } from "next-auth/react";
