@@ -10,9 +10,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
 export function Providers({ children }: { children: React.ReactNode }) {
   const [queryClient] = useState(() => new QueryClient());
-  const AblyClient = new Ably.Realtime({ authUrl: "/api/token", authMethod: "POST" });
-  AblyClient.connection.on("connected", () => console.log("Ably connected successfully!"));
-  AblyClient.connection.on("disconnected", (err) => console.error("Ably disconnected", err));
+  const AblyClient = new Ably.Realtime({ authUrl: `${process.env.NEXT_PUBLIC_API_BASE_URL}/api/token`, authMethod: "POST" });
 
   return (
     <AblyProvider client={AblyClient}>
