@@ -4,8 +4,6 @@ export default interface Order {
   createdAt: string;
   total: number;
   status: string;
-  phoneNumber: string;
-  customerName: string;
   items: Array<{
     title: string;
     price: number;
@@ -17,4 +15,6 @@ export default interface Order {
     address: string;
     pincode: string;
   };
+  phoneNumber: string;
+  customerEmail: string;
 }

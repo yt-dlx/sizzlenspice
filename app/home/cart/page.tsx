@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { LuBike } from "react-icons/lu";
 import { pusherClient } from "@/lib/pusher";
-import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
@@ -13,7 +12,6 @@ import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
 export default function CartPage() {
-  const router = useRouter();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -177,7 +175,7 @@ export default function CartPage() {
 
   useEffect(() => {
     if (!isContactInfoComplete) throw new Error("Your Phone Number Or Email Is Missing!");
-  }, [isContactInfoComplete, router]);
+  }, [isContactInfoComplete]);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">

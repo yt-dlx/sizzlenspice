@@ -1,28 +1,22 @@
 // app/home/page.tsx
 "use client";
 import Link from "next/link";
-import debounce from "@/lib/debouce";
 import { MdClose } from "react-icons/md";
-import { useSession } from "next-auth/react";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
+import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
 
 export default function HomePage() {
-  const { data: session } = useSession();
-  const [phoneNumber, setPhoneNumber] = useState("");
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [customerEmail, setCustomerEmail] = useState("");
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
-  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const { updateCartItemQuantity, setActiveCategory, setLocationData, removeFromCart, activeCategory, setSearchTerm, locationData, searchTerm, categories, addToCart, cart } = useStore();
 
-  const totalCost = cart.reduce((total: number, item: any) => {
+  const totalCost = cart.reduce((total: any, item: any) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
@@ -55,38 +49,6 @@ export default function HomePage() {
     });
   }, [setLocationData]);
 
-  useEffect(() => {
-    const fetchUserData = async () => {
-      const response = await fetch("/api/user");
-      if (response.ok) {
-        const data = await response.json();
-        setPhoneNumber(data.phoneNumber || "");
-        setCustomerEmail(session?.user?.email || data.customerEmail || "");
-        setIsContactInfoComplete(!!data.phoneNumber && (!!session?.user?.email || !!data.customerEmail));
-      }
-    };
-    fetchUserData();
-  }, [session]);
-
-  const handleContactInfoChange = async (field: string, value: string) => {
-    if (field === "phoneNumber") setPhoneNumber(value);
-    else if (field === "customerEmail") if (customerEmail !== value) setCustomerEmail(value);
-    const debouncedUpdate = debounce(async (field: string, value: string) => {
-      const response = await fetch("/api/user", {
-        method: "POST",
-        body: JSON.stringify({ [field]: value }),
-        headers: { "Content-Type": "application/json" },
-      });
-      if (response.ok) {
-        const data = await response.json();
-        setPhoneNumber(data.phoneNumber || "");
-        setCustomerEmail(session?.user?.email || data.customerEmail || "");
-        setIsContactInfoComplete(!!data.phoneNumber && (!!session?.user?.email || !!data.customerEmail));
-      }
-    }, 2000);
-    debouncedUpdate(field, value);
-  };
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {isModalOpen && selectedItem && (
@@ -94,11 +56,25 @@ export default function HomePage() {
           <motion.div
             initial="hidden"
             animate="visible"
-            variants={{ hidden: { opacity: 0 }, visible: { opacity: 1, transition: { duration: 0.1 } } }}
+            variants={{
+              hidden: { opacity: 0 },
+              visible: { opacity: 1, transition: { duration: 0.1 } },
+            }}
             className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-[#E9F0CD] shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
           >
             <motion.div
-              variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.1, duration: 0.1, ease: "easeInOut" } } }}
+              variants={{
+                hidden: { scale: 0, opacity: 0 },
+                visible: {
+                  scale: 1,
+                  opacity: 1,
+                  transition: {
+                    delay: 0.1,
+                    duration: 0.1,
+                    ease: "easeInOut",
+                  },
+                },
+              }}
               className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
             >
               <img src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
@@ -180,28 +156,6 @@ export default function HomePage() {
               />
             </div>
           </div>
-          <div className="flex flex-row gap-2 w-full">
-            <div className="relative flex-grow">
-              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="tel"
-                value={phoneNumber}
-                onChange={(e) => handleContactInfoChange("phoneNumber", e.target.value)}
-                placeholder="Phone Number"
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
-            <div className="relative flex-grow">
-              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="email"
-                value={customerEmail}
-                onChange={(e) => handleContactInfoChange("customerEmail", e.target.value)}
-                placeholder="Email"
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
-          </div>
         </div>
       </section>
 
@@ -221,6 +175,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+      {/* =========================================================================================== */}
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (

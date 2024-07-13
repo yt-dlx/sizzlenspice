@@ -14,6 +14,10 @@ export const useStore = create<StoreState>((set, get) => ({
     address: "",
     pincode: "",
   },
+  phoneNumber: "",
+  customerEmail: "",
+  setPhoneNumber: (phoneNumber) => set({ phoneNumber }),
+  setCustomerEmail: (customerEmail) => set({ customerEmail }),
   setSearchTerm: (term) => set({ searchTerm: term }),
   setActiveCategory: (category) => set({ activeCategory: category }),
   setLocationData: (data) =>

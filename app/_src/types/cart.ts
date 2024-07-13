@@ -32,6 +32,10 @@ export interface Category {
 export interface StoreState {
   cart: CartItem[];
   searchTerm: string;
+  phoneNumber: string;
+  customerEmail: string;
+  setPhoneNumber: (phoneNumber: string) => void;
+  setCustomerEmail: (customerEmail: string) => void;
   clearCart: () => void;
   categories: Category[];
   activeCategory: string;
