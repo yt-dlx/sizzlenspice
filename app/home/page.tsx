@@ -7,11 +7,9 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin, FaPhone, FaUserCircle } from "react-icons/fa";
+import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
 
 export default function HomePage() {
-  const [phoneNumber, setPhoneNumber] = useState("");
-  const [customerName, setCustomerName] = useState("");
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
@@ -58,11 +56,25 @@ export default function HomePage() {
           <motion.div
             initial="hidden"
             animate="visible"
-            variants={{ hidden: { opacity: 0 }, visible: { opacity: 1, transition: { duration: 0.1 } } }}
+            variants={{
+              hidden: { opacity: 0 },
+              visible: { opacity: 1, transition: { duration: 0.1 } },
+            }}
             className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-[#E9F0CD] shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
           >
             <motion.div
-              variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.1, duration: 0.1, ease: "easeInOut" } } }}
+              variants={{
+                hidden: { scale: 0, opacity: 0 },
+                visible: {
+                  scale: 1,
+                  opacity: 1,
+                  transition: {
+                    delay: 0.1,
+                    duration: 0.1,
+                    ease: "easeInOut",
+                  },
+                },
+              }}
               className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
             >
               <img src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
@@ -106,10 +118,12 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       )}
+      {/* =========================================================================================== */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
+      {/* =========================================================================================== */}
       <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
@@ -122,44 +136,24 @@ export default function HomePage() {
               className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
             />
           </div>
-          <div className="grid grid-cols-2 gap-2 w-full">
-            <div className="relative">
+          <div className="flex flex-row gap-2 w-full">
+            <div className="relative flex-grow">
               <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="text"
                 value={locationData.address}
-                placeholder="Fetching Address..."
                 onChange={(e) => setLocationData({ ...locationData, address: e.target.value })}
+                placeholder="Fetching Address..."
                 className="w-full py-2 pl-10 pr-4 truncate rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
             </div>
-            <div className="relative">
+            <div className="relative flex-grow">
               <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="text"
                 value={locationData.pincode}
-                placeholder="Fetching Pincode..."
                 onChange={(e) => setLocationData({ ...locationData, pincode: e.target.value })}
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
-            <div className="relative">
-              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="text"
-                value={phoneNumber}
-                placeholder="Phone Number"
-                onChange={(e) => setPhoneNumber(e.target.value)}
-                className="w-full py-2 pl-10 pr-4 truncate rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
-            <div className="relative">
-              <FaUserCircle size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="text"
-                value={customerName}
-                placeholder="Customer Name"
-                onChange={(e) => setCustomerName(e.target.value)}
+                placeholder="Fetching Pincode..."
                 className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
             </div>
