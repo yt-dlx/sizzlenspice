@@ -9,18 +9,17 @@ export async function GET(request: NextRequest) {
   const client = await clientPromise;
   const db = client.db();
   const user = await db.collection("users").findOne({ email: session.user?.email });
-  return NextResponse.json({
-    phoneNumber: user?.phoneNumber || "",
-    customerEmail: user?.customerEmail || "",
-  });
+  if (!user) return NextResponse.json({ error: "User not found" }, { status: 404 });
+  return NextResponse.json({ phoneNumber: user.phoneNumber || "", email: user.email || "" });
 }
 
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { phoneNumber, customerEmail } = await request.json();
+  const { phoneNumber, email } = await request.json();
   const client = await clientPromise;
   const db = client.db();
-  await db.collection("users").updateOne({ email: session.user?.email }, { $set: { phoneNumber, customerEmail } }, { upsert: true });
-  return NextResponse.json({ message: "User data updated successfully" });
+  const result = await db.collection("users").updateOne({ email: session.user?.email }, { $set: { phoneNumber, email } }, { upsert: true });
+  if (result.modifiedCount === 0 && result.upsertedCount === 0) return NextResponse.json({ error: "Failed to update user information" }, { status: 500 });
+  return NextResponse.json({ message: "User data updated successfully", phoneNumber, email });
 }

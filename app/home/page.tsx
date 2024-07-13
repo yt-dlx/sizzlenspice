@@ -2,6 +2,7 @@
 "use client";
 import Link from "next/link";
 import { MdClose } from "react-icons/md";
+import { useSession } from "next-auth/react";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
@@ -10,13 +11,13 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
 
 export default function HomePage() {
+  const { data: session } = useSession();
+  const [email, setEmail] = useState("");
   const [phoneNumber, setPhoneNumber] = useState("");
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [customerEmail, setCustomerEmail] = useState("");
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
-  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const { updateCartItemQuantity, setActiveCategory, setLocationData, removeFromCart, activeCategory, setSearchTerm, locationData, searchTerm, categories, addToCart, cart } = useStore();
 
   const totalCost = cart.reduce((total: number, item: any) => {
@@ -42,12 +43,7 @@ export default function HomePage() {
       const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
       if (response.ok) {
         const data = await response.json();
-        if (data.address) {
-          setLocationData({
-            address: data.display_name || "",
-            pincode: data.address.postcode || "",
-          });
-        }
+        if (data.address) setLocationData({ address: data.display_name || "", pincode: data.address.postcode || "" });
       }
     });
   }, [setLocationData]);
@@ -58,22 +54,25 @@ export default function HomePage() {
       if (response.ok) {
         const data = await response.json();
         setPhoneNumber(data.phoneNumber || "");
-        setCustomerEmail(data.customerEmail || "");
-        setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
+        setEmail(session?.user?.email || data.email || "");
       }
     };
     fetchUserData();
-  }, []);
+  }, [session]);
 
   const handleContactInfoChange = async (field: string, value: string) => {
     if (field === "phoneNumber") setPhoneNumber(value);
-    else if (field === "customerEmail") setCustomerEmail(value);
+    else if (field === "email") if (email !== value) setEmail(value);
     const response = await fetch("/api/user", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ [field]: value }),
+      headers: { "Content-Type": "application/json" },
     });
-    if (response.ok) setIsContactInfoComplete(!!phoneNumber && !!customerEmail);
+    if (response.ok) {
+      const data = await response.json();
+      setPhoneNumber(data.phoneNumber || "");
+      setEmail(session?.user?.email || data.email || "");
+    }
   };
 
   return (
@@ -184,8 +183,8 @@ export default function HomePage() {
               <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="email"
-                value={customerEmail}
-                onChange={(e) => handleContactInfoChange("customerEmail", e.target.value)}
+                value={email}
+                onChange={(e) => handleContactInfoChange("email", e.target.value)}
                 placeholder="Email"
                 className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
