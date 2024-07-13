@@ -1,8 +1,9 @@
 // app/home/cart/page.tsx
 "use client";
 import Link from "next/link";
-import { pusherClient } from "@/lib/pusher";
 import { LuBike } from "react-icons/lu";
+import { pusherClient } from "@/lib/pusher";
+import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
@@ -12,14 +13,18 @@ import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
 export default function CartPage() {
+  const router = useRouter();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [phoneNumber, setPhoneNumber] = useState<string>("");
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
+  const [customerEmail, setCustomerEmail] = useState<string>("");
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
+  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
@@ -37,58 +42,6 @@ export default function CartPage() {
     if (!response.ok) setError("Failed to cancel order!");
     return await response.json();
   }
-
-  useEffect(() => {
-    if (session?.user?.email) {
-      const channel = pusherClient.subscribe(`user-${session.user.email}`);
-      setPusherChannel(channel);
-      channel.bind("order-updated", (data: { orderId: string; status: string }) => {
-        setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-      });
-      fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
-    }
-    const storedOrderId = localStorage.getItem("LatestOrderID");
-    const storedOrderTime = localStorage.getItem("OrderPlacedTime");
-    if (storedOrderId && storedOrderTime) {
-      const orderTime = parseInt(storedOrderTime, 10);
-      const currentTime = Date.now();
-      const elapsedTime = Math.floor((currentTime - orderTime) / 1000);
-      if (elapsedTime < 60) {
-        setLatestOrderId(storedOrderId);
-        setCancelTimeRemaining(60 - elapsedTime);
-      } else {
-        localStorage.removeItem("LatestOrderID");
-        localStorage.removeItem("OrderPlacedTime");
-      }
-    }
-    if (showGif) {
-      const timer = setTimeout(() => {
-        setShowGif(false);
-        window.location.reload();
-      }, 4000);
-      return () => clearTimeout(timer);
-    }
-    if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
-      const timer = setInterval(() => {
-        setCancelTimeRemaining((prev) => {
-          if (prev !== null && prev > 1) return prev - 1;
-          else {
-            clearInterval(timer);
-            localStorage.removeItem("LatestOrderID");
-            localStorage.removeItem("OrderPlacedTime");
-            return null;
-          }
-        });
-      }, 1000);
-      return () => clearInterval(timer);
-    }
-    return () => {
-      if (pusherChannel) {
-        pusherChannel.unbind_all();
-        pusherChannel.unsubscribe();
-      }
-    };
-  }, [session, showGif, cancelTimeRemaining]);
 
   const CancelOrder = async (orderId: string) => {
     try {
@@ -154,6 +107,78 @@ export default function CartPage() {
     }
   };
 
+  useEffect(() => {
+    if (session?.user?.email) {
+      const channel = pusherClient.subscribe(`user-${session.user.email}`);
+      setPusherChannel(channel);
+      channel.bind("order-updated", (data: { orderId: string; status: string }) => {
+        setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+      });
+      fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+    }
+    return () => {
+      if (pusherChannel) {
+        pusherChannel.unbind_all();
+        pusherChannel.unsubscribe();
+      }
+    };
+  }, [session]);
+
+  useEffect(() => {
+    const storedOrderId = localStorage.getItem("LatestOrderID");
+    const storedOrderTime = localStorage.getItem("OrderPlacedTime");
+    if (storedOrderId && storedOrderTime) {
+      const orderTime = parseInt(storedOrderTime, 10);
+      const currentTime = Date.now();
+      const elapsedTime = Math.floor((currentTime - orderTime) / 1000);
+      if (elapsedTime < 60) {
+        setLatestOrderId(storedOrderId);
+        setCancelTimeRemaining(60 - elapsedTime);
+      } else {
+        localStorage.removeItem("LatestOrderID");
+        localStorage.removeItem("OrderPlacedTime");
+      }
+    }
+    if (showGif) {
+      const timer = setTimeout(() => {
+        setShowGif(false);
+        window.location.reload();
+      }, 4000);
+      return () => clearTimeout(timer);
+    }
+    if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
+      const timer = setInterval(() => {
+        setCancelTimeRemaining((prev) => {
+          if (prev !== null && prev > 1) return prev - 1;
+          else {
+            clearInterval(timer);
+            localStorage.removeItem("LatestOrderID");
+            localStorage.removeItem("OrderPlacedTime");
+            return null;
+          }
+        });
+      }, 1000);
+      return () => clearInterval(timer);
+    }
+  }, [showGif, cancelTimeRemaining]);
+
+  useEffect(() => {
+    const fetchUserData = async () => {
+      const response = await fetch("/api/user");
+      if (response.ok) {
+        const data = await response.json();
+        setPhoneNumber(data.phoneNumber || "");
+        setCustomerEmail(data.customerEmail || "");
+        setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
+      }
+    };
+    fetchUserData();
+  }, []);
+
+  useEffect(() => {
+    if (!isContactInfoComplete) throw new Error("Your Phone Number Or Email Is Missing!");
+  }, [isContactInfoComplete, router]);
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
@@ -172,7 +197,7 @@ export default function CartPage() {
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
-          Here's a summary of your order, {session?.user?.name}! <br />
+          Here's a summary of your order, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
@@ -292,28 +317,30 @@ export default function CartPage() {
                   </p>
                   <button onClick={() => ToggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
                     {visualizedOrders[order._id] ? (
-                      <React.Fragment>
+                      <>
                         <FaEyeSlash className="mr-2" /> Hide
-                      </React.Fragment>
+                      </>
                     ) : (
-                      <React.Fragment>
+                      <>
                         <FaEye className="mr-2" /> Show
-                      </React.Fragment>
+                      </>
                     )}
                   </button>
                 </div>
-                <p>
-                  Date: <span className="font-light text-xs">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
-                </p>
-                <p>
-                  Total: <span className="font-light text-xs">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
-                </p>
-                <p>
-                  Items: <span className="font-light text-xs">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
-                </p>
-                <p>
-                  Status: <span className="font-light text-xs">{order.status}</span>
-                </p>
+                <ul>
+                  <li>
+                    Date: <span className="font-light text-xs">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
+                  </li>
+                  <li>
+                    Total: <span className="font-light text-xs">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
+                  </li>
+                  <li>
+                    Items: <span className="font-light text-xs">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
+                  </li>
+                  <li>
+                    Status: <span className="font-light text-xs">{order.status}</span>
+                  </li>
+                </ul>
                 {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
                   <div className="mt-4">
                     <table className="w-full">

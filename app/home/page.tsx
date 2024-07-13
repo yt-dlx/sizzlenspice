@@ -2,26 +2,24 @@
 "use client";
 import Link from "next/link";
 import { MdClose } from "react-icons/md";
-import { useRouter } from "next/navigation";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
+import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
 
 export default function HomePage() {
+  const [phoneNumber, setPhoneNumber] = useState("");
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [customerEmail, setCustomerEmail] = useState("");
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
+  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const { updateCartItemQuantity, setActiveCategory, setLocationData, removeFromCart, activeCategory, setSearchTerm, locationData, searchTerm, categories, addToCart, cart } = useStore();
-  const [phoneNumber, setPhoneNumber] = useState("");
-  const [customerEmail, setCustomerEmail] = useState("");
-  const [showContactInfo, setShowContactInfo] = useState(false);
-  const router = useRouter();
 
-  const totalCost = cart.reduce((total: any, item: any) => {
+  const totalCost = cart.reduce((total: number, item: any) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
@@ -61,20 +59,21 @@ export default function HomePage() {
         const data = await response.json();
         setPhoneNumber(data.phoneNumber || "");
         setCustomerEmail(data.customerEmail || "");
-        setShowContactInfo(!!data.phoneNumber && !!data.customerEmail);
+        setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
       }
     };
     fetchUserData();
   }, []);
 
-  const handleContactInfoSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const handleContactInfoChange = async (field: string, value: string) => {
+    if (field === "phoneNumber") setPhoneNumber(value);
+    else if (field === "customerEmail") setCustomerEmail(value);
     const response = await fetch("/api/user", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ phoneNumber, customerEmail }),
+      body: JSON.stringify({ [field]: value }),
     });
-    if (response.ok) setShowContactInfo(true);
+    if (response.ok) setIsContactInfoComplete(!!phoneNumber && !!customerEmail);
   };
 
   return (
@@ -170,46 +169,28 @@ export default function HomePage() {
               />
             </div>
           </div>
-          {showContactInfo ? (
-            <div className="flex flex-row gap-2 w-full">
+          <div className="flex flex-row gap-2 w-full">
+            <div className="relative flex-grow">
+              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="tel"
                 value={phoneNumber}
-                onChange={(e) => setPhoneNumber(e.target.value)}
+                onChange={(e) => handleContactInfoChange("phoneNumber", e.target.value)}
                 placeholder="Phone Number"
                 className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
+            </div>
+            <div className="relative flex-grow">
+              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="email"
                 value={customerEmail}
-                onChange={(e) => setCustomerEmail(e.target.value)}
+                onChange={(e) => handleContactInfoChange("customerEmail", e.target.value)}
                 placeholder="Email"
                 className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
             </div>
-          ) : (
-            <form onSubmit={handleContactInfoSubmit} className="flex flex-col gap-2">
-              <input
-                type="tel"
-                value={phoneNumber}
-                onChange={(e) => setPhoneNumber(e.target.value)}
-                placeholder="Phone Number"
-                required
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-              <input
-                type="email"
-                value={customerEmail}
-                onChange={(e) => setCustomerEmail(e.target.value)}
-                placeholder="Email"
-                required
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-              <button type="submit" className="bg-[#E9F0CD] text-[#172B25] px-4 py-2 rounded-lg font-bold">
-                Save Contact Info
-              </button>
-            </form>
-          )}
+          </div>
         </div>
       </section>
 
