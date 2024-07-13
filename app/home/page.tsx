@@ -118,12 +118,10 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       )}
-      {/* =========================================================================================== */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
-      {/* =========================================================================================== */}
       <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
