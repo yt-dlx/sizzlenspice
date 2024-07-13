@@ -50,6 +50,8 @@ export async function POST(request: NextRequest) {
     status: "Pending",
     createdAt: orderDate,
     locationData: locationData,
+    phoneNumber: locationData.phoneNumber,
+    customerEmail: locationData.customerEmail,
     total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
   };
   if (isNaN(orderDocument.total)) return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });
