@@ -11,7 +11,7 @@ import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 
-export default function Home() {
+export default function CartPage() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
