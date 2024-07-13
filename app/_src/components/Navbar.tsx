@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 bg-[#1c3029]/30 backdrop-blur-md p-2 z-50">
       <div className="flex items-center justify-between mx-auto max-w-full">
-        <Link href={"/"} className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">
+        <Link href={"/routes/user"} className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">
           Sizzle 'n Spice
         </Link>
         <div className="flex items-center space-x-2">
@@ -25,7 +25,7 @@ const Navbar = () => {
                   <a className="text-[#E9F0CD] hover:bg-[#171717]/50">{session.user.name}</a>
                 </li>
                 <li>
-                  <a href="/home/cart" className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <a href="/routes/cart" className="text-[#E9F0CD] hover:bg-[#171717]/50">
                     My Orders
                   </a>
                 </li>
