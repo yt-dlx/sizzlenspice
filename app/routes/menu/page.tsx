@@ -1,4 +1,4 @@
-// app/routes/home/page.tsx
+// app/routes/menu/page.tsx
 "use client";
 import Link from "next/link";
 import { MdClose } from "react-icons/md";
@@ -87,12 +87,12 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       )}
-      {/* =========================================================================================== */}
+      {/* ======================================================================================================================================================================= */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
-      {/* =========================================================================================== */}
+      {/* ======================================================================================================================================================================= */}
       <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
@@ -107,7 +107,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-      {/* =========================================================================================== */}
+      {/* ======================================================================================================================================================================= */}
       <section id="categories" className="max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-[#E9F0CD] scrollbar-track-[#1C3029] overflow-x-auto space-x-2 pb-4">
           {categories.map((category: any, index: any) => (
@@ -124,7 +124,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      {/* =========================================================================================== */}
+      {/* ======================================================================================================================================================================= */}
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (
@@ -163,7 +163,7 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      {/* =========================================================================================== */}
+      {/* ======================================================================================================================================================================= */}
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2">
           <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-[#E9F0CD] text-[#172B25] p-2 rounded-lg shadow shadow-[#131313] flex items-center">

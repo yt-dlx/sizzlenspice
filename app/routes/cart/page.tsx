@@ -33,35 +33,17 @@ export default function CartPage() {
     return data.orders;
   }
 
-  const PlaceOrder = async () => {
-    try {
-      setError(null);
-      setShowGif(true);
-      setIsLoading(true);
-      const response = await fetch("/api/orders", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ cart, locationData, totalAmount: getCartTotal(), userId: session?.user?.email }),
-      });
-      if (!response.ok) setError("Failed to place order!");
-      const { orderId } = await response.json();
-      localStorage.setItem("OrderPlacedTime", Date.now().toString());
-      localStorage.setItem("LatestOrderID", orderId);
-      setOrderPlaced(true);
-      clearCart();
-      if (session?.user?.email) {
-        await fetch("/api/pusher", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ channel: `user-${session.user.email}`, event: "update-order", data: { userId: session.user.email, orderId, status: "Placed" } }),
-        });
-      }
-    } catch {
-      setError("Failed to place order!");
-    } finally {
-      setIsLoading(false);
-    }
-  };
+  useEffect(() => {
+    if (!locationData) router.push("/routes/user");
+    const fetchUserData = async () => {
+      const response = await fetch("/api/user");
+      if (response.ok) {
+        const data = await response.json();
+        if (!data.phoneNumber || !data.customerEmail || !locationData) router.push("/routes/user");
+      } else router.push("/routes/user");
+    };
+    fetchUserData();
+  }, [router, locationData]);
 
   useEffect(() => {
     if (session?.user?.email) {
@@ -96,16 +78,35 @@ export default function CartPage() {
     }
   }, [showGif]);
 
-  useEffect(() => {
-    const fetchUserData = async () => {
-      const response = await fetch("/api/user");
-      if (response.ok) {
-        const data = await response.json();
-        if (!data.phoneNumber || !data.customerEmail || !locationData) router.push("/routes/user");
-      } else router.push("/routes/user");
-    };
-    fetchUserData();
-  }, [router, locationData]);
+  const ConfirmOrder = async () => {
+    try {
+      setError(null);
+      setShowGif(true);
+      setIsLoading(true);
+      const response = await fetch("/api/orders", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ cart, locationData, totalAmount: getCartTotal(), userId: session?.user?.email }),
+      });
+      if (!response.ok) setError("Failed to place order!");
+      const { orderId } = await response.json();
+      localStorage.setItem("OrderPlacedTime", Date.now().toString());
+      localStorage.setItem("LatestOrderID", orderId);
+      setOrderPlaced(true);
+      clearCart();
+      if (session?.user?.email) {
+        await fetch("/api/pusher", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ channel: `user-${session.user.email}`, event: "update-order", data: { userId: session.user.email, orderId, status: "Placed" } }),
+        });
+      }
+    } catch {
+      setError("Failed to place order!");
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
@@ -122,6 +123,7 @@ export default function CartPage() {
           </ul>
         </section>
       )}
+      {/* ======================================================================================================================================================================= */}
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
@@ -130,6 +132,7 @@ export default function CartPage() {
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
       </section>
+      {/* ======================================================================================================================================================================= */}
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
           <h3 className="text-3xl font-Kurale font-bold text-[#E9F0CD]">
@@ -138,6 +141,7 @@ export default function CartPage() {
           </h3>
         </section>
       )}
+      {/* ======================================================================================================================================================================= */}
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
           <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
@@ -178,6 +182,7 @@ export default function CartPage() {
           </div>
         ))}
       </section>
+      {/* ======================================================================================================================================================================= */}
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
@@ -187,7 +192,7 @@ export default function CartPage() {
                 Confirm Your Culinary Journey and Place Your Orders
               </span>
               <div className="mt-4 mb-4 bg-[#E9F0CD]/20 rounded-lg p-4 font-Kurale">
-                <h4 className="font-bold mb-3 text-lg border-b border-[#E9F0CD]/30 pb-2">Delivery Information</h4>
+                <h4 className="font-bold mb-3 text-3xl border-b border-[#E9F0CD]/30 pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
                     <HiLocationMarker className="w-5 h-5 mr-2" />
@@ -224,13 +229,13 @@ export default function CartPage() {
               <div className="mt-2 space-y-2">
                 <button
                   disabled={isLoading}
-                  onClick={PlaceOrder}
+                  onClick={ConfirmOrder}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
-                  href={"/routes/home"}
+                  href={"/routes/menu"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> No, I want to add more!
@@ -248,7 +253,7 @@ export default function CartPage() {
               </span>
               <div className="mt-2 space-y-2">
                 <Link
-                  href={"/routes/home"}
+                  href={"/routes/menu"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Go To Food Items
@@ -259,18 +264,22 @@ export default function CartPage() {
           </section>
         )
       ) : null}
+      {/* ======================================================================================================================================================================= */}
       {prevOrders && prevOrders.length > 0 && (
         <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]">
-          <h3 className="text-4xl font-bold mb-4">Orders</h3>
+          <h3 className="text-4xl font-bold font-Kurale bg-[#E9F0CD] text-[#172B25] px-3 py-2 rounded-t-lg flex items-center">My Orders</h3>
           {prevOrders
             .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
             .map((order: any, index: number) => (
               <div key={index} className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4 font-bold font-Kurale">
                 <div className="flex justify-between items-center">
-                  <p>
-                    Order ID: <span className="font-light text-xs">{order._id}</span>{" "}
+                  <p className="text-lg md:text-xl lg:text-2xl font-bold">
+                    Order ID: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order._id}</span>{" "}
                   </p>
-                  <button onClick={() => ToggleVisualize(order._id)} className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-full flex items-center font-bold text-xs">
+                  <button
+                    onClick={() => ToggleVisualize(order._id)}
+                    className="transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
+                  >
                     {visualizedOrders[order._id] ? (
                       <>
                         <FaEyeSlash className="mr-2" /> Hide
@@ -282,18 +291,18 @@ export default function CartPage() {
                     )}
                   </button>
                 </div>
-                <ul>
-                  <li>
-                    Date: <span className="font-light text-xs">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
+                <ul className="list-disc ml-8">
+                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                    Date: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
                   </li>
-                  <li>
-                    Total: <span className="font-light text-xs">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
+                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                    Total: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
                   </li>
-                  <li>
-                    Items: <span className="font-light text-xs">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
+                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                    Items: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
                   </li>
-                  <li>
-                    Status: <span className="font-light text-xs">{order.status}</span>
+                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                    Status: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed animate-pulse">{order.status}</span>
                   </li>
                 </ul>
                 {visualizedOrders[order._id] && order.items && order.items.length > 0 && (

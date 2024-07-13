@@ -1,4 +1,4 @@
-// app/routes/home/page.tsx
+// app/routes/user/page.tsx
 "use client";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
@@ -38,7 +38,7 @@ export default function UserPage() {
       body: JSON.stringify({ locationData, phoneNumber, customerEmail }),
     });
     if (!response.ok) setError("Failed to place order!");
-    else router.push("/routes/home");
+    else router.push("/routes/menu");
   };
 
   useEffect(() => {
@@ -61,6 +61,7 @@ export default function UserPage() {
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">User data encompasses persona data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
+      {/* ======================================================================================================================================================================= */}
       <form onSubmit={handleConfirm} id="user-data" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-2">
           <div className="relative flex-grow">

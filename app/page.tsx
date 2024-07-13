@@ -42,6 +42,7 @@ export default async function HomePage() {
           <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
           <img src="/sns.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-200" />
         </section>
+        {/* ======================================================================================================================================================================= */}
         <section className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
           <p className="text-2xl lg:text-5xl md:text-center font-Grenoble gap-2 py-4 text-[#E9F0CD]">Order delicious foods and get them at your doorsteps </p>
           <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
@@ -56,6 +57,7 @@ export default async function HomePage() {
             ))}
           </div>
         </section>
+        {/* ======================================================================================================================================================================= */}
         <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-[#E9F0CD] lg:max-w-7xl mx-auto">
           <form
             action={async (formData: FormData) => {
