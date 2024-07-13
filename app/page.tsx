@@ -10,7 +10,7 @@ import { AiFillGoogleCircle } from "react-icons/ai";
 
 export default async function HomePage() {
   const session = await auth();
-  if (session) redirect("/user");
+  if (session) redirect("/routes/user");
   const categories = [
     {
       title: "Palak Paneer",

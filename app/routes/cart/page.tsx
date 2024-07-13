@@ -1,4 +1,4 @@
-// app/home/cart/page.tsx
+// app/routes/cart/page.tsx
 "use client";
 import Link from "next/link";
 import { LuBike } from "react-icons/lu";
@@ -101,8 +101,8 @@ export default function CartPage() {
       const response = await fetch("/api/user");
       if (response.ok) {
         const data = await response.json();
-        if (!data.phoneNumber || !data.customerEmail || !locationData) router.push("/user");
-      } else router.push("/user");
+        if (!data.phoneNumber || !data.customerEmail || !locationData) router.push("/routes/user");
+      } else router.push("/routes/user");
     };
     fetchUserData();
   }, [router, locationData]);
@@ -230,7 +230,7 @@ export default function CartPage() {
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
-                  href={"/home"}
+                  href={"/routes/home"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> No, I want to add more!
@@ -248,7 +248,7 @@ export default function CartPage() {
               </span>
               <div className="mt-2 space-y-2">
                 <Link
-                  href={"/home"}
+                  href={"/routes/home"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Go To Food Items

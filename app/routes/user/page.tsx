@@ -1,3 +1,4 @@
+// app/routes/home/page.tsx
 "use client";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
@@ -37,7 +38,7 @@ export default function UserPage() {
       body: JSON.stringify({ locationData, phoneNumber, customerEmail }),
     });
     if (!response.ok) setError("Failed to place order!");
-    else router.push("/home");
+    else router.push("/routes/home");
   };
 
   useEffect(() => {

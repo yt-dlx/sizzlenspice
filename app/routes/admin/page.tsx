@@ -1,4 +1,4 @@
-// app/home/admin/page.tsx
+// app/routes/admin/page.tsx
 "use client";
 import { pusherClient } from "@/lib/pusher";
 import { useSession } from "next-auth/react";
