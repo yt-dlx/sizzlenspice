@@ -19,7 +19,6 @@ export default function CartPage() {
   const [error, setError] = useState<string | null>(null);
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
-  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
@@ -39,12 +38,7 @@ export default function CartPage() {
       const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          cart,
-          locationData,
-          totalAmount: getCartTotal(),
-          userId: session?.user?.email,
-        }),
+        body: JSON.stringify({ cart, locationData, totalAmount: getCartTotal(), userId: session?.user?.email }),
       });
       if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
@@ -55,18 +49,8 @@ export default function CartPage() {
       if (session?.user?.email) {
         await fetch("/api/pusher", {
           method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            channel: `user-${session.user.email}`,
-            event: "update-order",
-            data: {
-              userId: session.user.email,
-              orderId,
-              status: "Placed",
-            },
-          }),
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ channel: `user-${session.user.email}`, event: "update-order", data: { userId: session.user.email, orderId, status: "Placed" } }),
         });
       }
     } catch {
@@ -114,12 +98,11 @@ export default function CartPage() {
       const response = await fetch("/api/user");
       if (response.ok) {
         const data = await response.json();
-        setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
+        if (!data.phoneNumber && !data.customerEmail) throw new Error("Your Phone Number Or Email Is Missing!");
       }
     };
     fetchUserData();
-    if (!isContactInfoComplete) throw new Error("Your Phone Number Or Email Is Missing!");
-  }, [isContactInfoComplete]);
+  }, []);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
