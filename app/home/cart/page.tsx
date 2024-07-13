@@ -16,13 +16,13 @@ export default function CartPage() {
   const router = useRouter();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [email, setEmail] = useState<string>("");
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [phoneNumber, setPhoneNumber] = useState<string>("");
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
+  const [customerEmail, setCustomerEmail] = useState<string>("");
   const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
@@ -168,8 +168,8 @@ export default function CartPage() {
       if (response.ok) {
         const data = await response.json();
         setPhoneNumber(data.phoneNumber || "");
-        setEmail(data.email || "");
-        setIsContactInfoComplete(!!data.phoneNumber && !!data.email);
+        setCustomerEmail(data.customerEmail || "");
+        setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
       }
     };
     fetchUserData();

@@ -1,6 +1,7 @@
 // app/home/page.tsx
 "use client";
 import Link from "next/link";
+import debounce from "@/lib/debouce";
 import { MdClose } from "react-icons/md";
 import { useSession } from "next-auth/react";
 import { FoodItem } from "@/app/_src/types/cart";
@@ -12,12 +13,13 @@ import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin, FaPhon
 
 export default function HomePage() {
   const { data: session } = useSession();
-  const [email, setEmail] = useState("");
   const [phoneNumber, setPhoneNumber] = useState("");
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [customerEmail, setCustomerEmail] = useState("");
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
+  const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
   const { updateCartItemQuantity, setActiveCategory, setLocationData, removeFromCart, activeCategory, setSearchTerm, locationData, searchTerm, categories, addToCart, cart } = useStore();
 
   const totalCost = cart.reduce((total: number, item: any) => {
@@ -43,7 +45,12 @@ export default function HomePage() {
       const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
       if (response.ok) {
         const data = await response.json();
-        if (data.address) setLocationData({ address: data.display_name || "", pincode: data.address.postcode || "" });
+        if (data.address) {
+          setLocationData({
+            address: data.display_name || "",
+            pincode: data.address.postcode || "",
+          });
+        }
       }
     });
   }, [setLocationData]);
@@ -54,7 +61,8 @@ export default function HomePage() {
       if (response.ok) {
         const data = await response.json();
         setPhoneNumber(data.phoneNumber || "");
-        setEmail(session?.user?.email || data.email || "");
+        setCustomerEmail(session?.user?.email || data.customerEmail || "");
+        setIsContactInfoComplete(!!data.phoneNumber && (!!session?.user?.email || !!data.customerEmail));
       }
     };
     fetchUserData();
@@ -62,17 +70,21 @@ export default function HomePage() {
 
   const handleContactInfoChange = async (field: string, value: string) => {
     if (field === "phoneNumber") setPhoneNumber(value);
-    else if (field === "email") if (email !== value) setEmail(value);
-    const response = await fetch("/api/user", {
-      method: "POST",
-      body: JSON.stringify({ [field]: value }),
-      headers: { "Content-Type": "application/json" },
-    });
-    if (response.ok) {
-      const data = await response.json();
-      setPhoneNumber(data.phoneNumber || "");
-      setEmail(session?.user?.email || data.email || "");
-    }
+    else if (field === "customerEmail") if (customerEmail !== value) setCustomerEmail(value);
+    const debouncedUpdate = debounce(async (field: string, value: string) => {
+      const response = await fetch("/api/user", {
+        method: "POST",
+        body: JSON.stringify({ [field]: value }),
+        headers: { "Content-Type": "application/json" },
+      });
+      if (response.ok) {
+        const data = await response.json();
+        setPhoneNumber(data.phoneNumber || "");
+        setCustomerEmail(session?.user?.email || data.customerEmail || "");
+        setIsContactInfoComplete(!!data.phoneNumber && (!!session?.user?.email || !!data.customerEmail));
+      }
+    }, 2000);
+    debouncedUpdate(field, value);
   };
 
   return (
@@ -183,8 +195,8 @@ export default function HomePage() {
               <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
               <input
                 type="email"
-                value={email}
-                onChange={(e) => handleContactInfoChange("email", e.target.value)}
+                value={customerEmail}
+                onChange={(e) => handleContactInfoChange("customerEmail", e.target.value)}
                 placeholder="Email"
                 className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
               />
