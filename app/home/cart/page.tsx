@@ -17,13 +17,9 @@ export default function CartPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [phoneNumber, setPhoneNumber] = useState<string>("");
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
-  const [customerEmail, setCustomerEmail] = useState<string>("");
-  const [LatestOrderID, setLatestOrderId] = useState<string | null>(null);
   const [isContactInfoComplete, setIsContactInfoComplete] = useState(false);
-  const [cancelTimeRemaining, setCancelTimeRemaining] = useState<number | null>(null);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
@@ -34,29 +30,6 @@ export default function CartPage() {
     const data = await response.json();
     return data.orders;
   }
-
-  async function cancelOrder(orderId: string) {
-    const response = await fetch("/api/orders?orderId=" + orderId, { method: "DELETE" });
-    if (!response.ok) setError("Failed to cancel order!");
-    return await response.json();
-  }
-
-  const CancelOrder = async (orderId: string) => {
-    try {
-      await cancelOrder(orderId);
-      const updatedOrders = await fetchPreviousOrders(session?.user?.email || "");
-      setPreviousOrders(updatedOrders);
-      if (orderId === LatestOrderID) {
-        setLatestOrderId(null);
-        setCancelTimeRemaining(null);
-        localStorage.removeItem("LatestOrderID");
-        localStorage.removeItem("OrderPlacedTime");
-      }
-      alert("Order cancelled successfully");
-    } catch {
-      alert("Failed to cancel order!");
-    }
-  };
 
   const PlaceOrder = async () => {
     try {
@@ -75,10 +48,8 @@ export default function CartPage() {
       });
       if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
-      setLatestOrderId(orderId);
-      localStorage.setItem("LatestOrderID", orderId);
       localStorage.setItem("OrderPlacedTime", Date.now().toString());
-      setCancelTimeRemaining(60);
+      localStorage.setItem("LatestOrderID", orderId);
       setOrderPlaced(true);
       clearCart();
       if (session?.user?.email) {
@@ -123,19 +94,11 @@ export default function CartPage() {
   }, [session]);
 
   useEffect(() => {
-    const storedOrderId = localStorage.getItem("LatestOrderID");
     const storedOrderTime = localStorage.getItem("OrderPlacedTime");
+    const storedOrderId = localStorage.getItem("LatestOrderID");
     if (storedOrderId && storedOrderTime) {
-      const orderTime = parseInt(storedOrderTime, 10);
-      const currentTime = Date.now();
-      const elapsedTime = Math.floor((currentTime - orderTime) / 1000);
-      if (elapsedTime < 60) {
-        setLatestOrderId(storedOrderId);
-        setCancelTimeRemaining(60 - elapsedTime);
-      } else {
-        localStorage.removeItem("LatestOrderID");
-        localStorage.removeItem("OrderPlacedTime");
-      }
+      localStorage.removeItem("LatestOrderID");
+      localStorage.removeItem("OrderPlacedTime");
     }
     if (showGif) {
       const timer = setTimeout(() => {
@@ -144,36 +107,17 @@ export default function CartPage() {
       }, 4000);
       return () => clearTimeout(timer);
     }
-    if (cancelTimeRemaining !== null && cancelTimeRemaining > 0) {
-      const timer = setInterval(() => {
-        setCancelTimeRemaining((prev) => {
-          if (prev !== null && prev > 1) return prev - 1;
-          else {
-            clearInterval(timer);
-            localStorage.removeItem("LatestOrderID");
-            localStorage.removeItem("OrderPlacedTime");
-            return null;
-          }
-        });
-      }, 1000);
-      return () => clearInterval(timer);
-    }
-  }, [showGif, cancelTimeRemaining]);
+  }, [showGif]);
 
   useEffect(() => {
     const fetchUserData = async () => {
       const response = await fetch("/api/user");
       if (response.ok) {
         const data = await response.json();
-        setPhoneNumber(data.phoneNumber || "");
-        setCustomerEmail(data.customerEmail || "");
         setIsContactInfoComplete(!!data.phoneNumber && !!data.customerEmail);
       }
     };
     fetchUserData();
-  }, []);
-
-  useEffect(() => {
     if (!isContactInfoComplete) throw new Error("Your Phone Number Or Email Is Missing!");
   }, [isContactInfoComplete]);
 
@@ -294,14 +238,6 @@ export default function CartPage() {
           </section>
         )
       ) : null}
-      {cancelTimeRemaining !== null && (
-        <section id="cancel-order" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-center items-center justify-center font-Kurale font-bold">
-          <p className="text-[#E9F0CD]">You can cancel your order within the next {cancelTimeRemaining} seconds.</p>
-          <button onClick={() => CancelOrder(LatestOrderID!)} className="bg-red-500 text-[#E9F0CD] px-4 py-2 rounded mt-2">
-            Cancel Order
-          </button>
-        </section>
-      )}
       {prevOrders && prevOrders.length > 0 && (
         <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]">
           <h3 className="text-4xl font-bold mb-4">Orders</h3>
