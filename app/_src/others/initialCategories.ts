@@ -3,23 +3,20 @@ import { Category } from "../types/cart";
 
 const initialCategories: Category[] = [
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1844241.jpg&f=1&nofb=1&ipt=f8ddbfb3e969230142e5b39ac1b560098235d80194e8358e8384cc4f52650116&ipo=images",
+    image: "https://i.postimg.cc/Y08Wr36k/u-https-wallpaperaccess-com-full-1844241.jpgs",
     title: "All",
     active: true,
     items: [],
   },
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmutton-biryani-served-agolden-dish-isolated-dark-background-side-view-indian-food_629685-8550.jpg&f=1&nofb=1&ipt=f24a6e904405c39fb3180b94db014d807a0ce3ed0b41d3c55dada9653f53baad&ipo=images",
+    image: "https://i.postimg.cc/pXXj0wvd/u-https-img-freepik-com-premium-photo-mutton-biryani-served-agolden-dish-isolated-dark-background.jpg",
     title: "Biryani",
     active: false,
     items: [
       {
         title: "Biryani Special",
         description: "Delicious and spicy biryani with aromatic herbs and flavorful spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmutton-biryani-served-agolden-dish-isolated-dark-background-side-view-indian-food_629685-8550.jpg&f=1&nofb=1&ipt=f24a6e904405c39fb3180b94db014d807a0ce3ed0b41d3c55dada9653f53baad&ipo=images",
+        image: "https://i.postimg.cc/pXXj0wvd/u-https-img-freepik-com-premium-photo-mutton-biryani-served-agolden-dish-isolated-dark-background.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -28,8 +25,7 @@ const initialCategories: Category[] = [
       {
         title: "Herbal Biryani",
         description: "Aromatic biryani cooked with fresh herbs and tender meat pieces.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fvegetarian-paneer-biryani-black-background-traditional-veg-indian-cuisine-dish-cheese-basmati-rice-masala-chili-pepper-153218587.jpg&f=1&nofb=1&ipt=92efe8cfa284cdfaea685f91304668103b0a9fa18ffa0f65aaae66137e3eece0&ipo=images",
+        image: "https://i.postimg.cc/d1sQsK4k/u-https-thumbs-dreamstime-com-b-vegetarian-paneer-biryani-black-background-traditional-veg-indian.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -38,8 +34,7 @@ const initialCategories: Category[] = [
       {
         title: "Chicken Biryani",
         description: "Flavorful chicken biryani cooked to perfection with rich spices and fragrant rice.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fchicken-biriyani-using-jeera-rice-arranged-earthenware-with-raitha-grey-background_527904-8.jpg%3Fw%3D826&f=1&nofb=1&ipt=5fb3278b71a517f755381196794d73771e264fc90cafd938dce7107dcc1b5fe2&ipo=images",
+        image: "https://i.postimg.cc/3rbrTVpN/u-https-img-freepik-com-premium-photo-chicken-biriyani-using-jeera-rice-arranged-earthenware-with.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -48,8 +43,7 @@ const initialCategories: Category[] = [
       {
         title: "Vegetable Biryani",
         description: "Vegetarian biryani with assorted vegetables and aromatic basmati rice.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fveg-biryani-with-cottage-cheese-beans-vegetables-black-background_629685-8919.jpg&f=1&nofb=1&ipt=21362d3c0fbde4572fd2cdea45ed7b81efaee28acacc86ee970131fa048503ad&ipo=images",
+        image: "https://i.postimg.cc/cJmZ5b0s/u-https-img-freepik-com-premium-photo-veg-biryani-with-cottage-cheese-beans-vegetables-black-back.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -58,16 +52,14 @@ const initialCategories: Category[] = [
     ],
   },
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F03%2F05%2F94%2F1000_F_303059431_iPMyX5TBxuKpaKnXFG51OBdW0xOgaU99.jpg&f=1&nofb=1&ipt=5944d49eb2fd2ef3b857ab9c41049790ea11b86933a0229015d79d4aeb92eead&ipo=images",
+    image: "https://i.postimg.cc/c1jWjYy8/u-https-as1-ftcdn-net-v2-jpg-03-03-05-94-1000-F-303059431-i-PMy-X5-TBxu-Kpa-Kn-XFG51-OBd-W0x-Oga-U99.jpg",
     title: "Kebab",
     active: false,
     items: [
       {
         title: "Grilled Kebab",
         description: "Juicy and tender grilled kebab marinated in special spices and herbs.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F03%2F03%2F05%2F94%2F1000_F_303059431_iPMyX5TBxuKpaKnXFG51OBdW0xOgaU99.jpg&f=1&nofb=1&ipt=5944d49eb2fd2ef3b857ab9c41049790ea11b86933a0229015d79d4aeb92eead&ipo=images",
+        image: "https://i.postimg.cc/c1jWjYy8/u-https-as1-ftcdn-net-v2-jpg-03-03-05-94-1000-F-303059431-i-PMy-X5-TBxu-Kpa-Kn-XFG51-OBd-W0x-Oga-U99.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -76,8 +68,7 @@ const initialCategories: Category[] = [
       {
         title: "Spicy Mutton Kebab",
         description: "Spicy mutton kebab with a perfect blend of spices and tender meat.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F3f%2Fda%2F3e%2F3fda3e5cf7b10e00f1a387c2a8c95266.jpg&f=1&nofb=1&ipt=ad0b8e32e35899c8db38e84459e91753aa116d36eca290c3c8e7ee777b664f83&ipo=images",
+        image: "https://i.postimg.cc/MTHk3Z9D/u-https-i-pinimg-com-originals-3f-da-3e-3fda3e5cf7b10e00f1a387c2a8c95266.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -86,8 +77,7 @@ const initialCategories: Category[] = [
       {
         title: "Chicken Kebab",
         description: "Tender chicken kebab grilled to perfection and marinated in spicy sauce.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.licious.in%2Fblog%2Fwp-content%2Fuploads%2F2020%2F12%2FChicken-Kebab-750x750.jpg&f=1&nofb=1&ipt=3a9fb3fe34de575f3a3b9e9ff8299979c2ccc9dc78cf0be28131a188f21482b2&ipo=images",
+        image: "https://i.postimg.cc/K4XdYPxq/u-https-www-licious-in-blog-wp-content-uploads-2020-12-Chicken-Kebab-750x750.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -96,8 +86,7 @@ const initialCategories: Category[] = [
       {
         title: "Chickpea Kebab",
         description: "Vegetarian kebab made with chickpeas and exotic spices for a delightful taste.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faplateofhappiness.files.wordpress.com%2F2020%2F06%2Fimg_6722.jpg%3Fw%3D1200&f=1&nofb=1&ipt=c6fedd72c9018895ff0f291a1392e8f8e9da766c2de147b68aa234e62cece57a&ipo=images",
+        image: "https://i.postimg.cc/9f8XQnSL/u-https-aplateofhappiness-files-wordpress-com-2020-06-img-6722.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -106,8 +95,7 @@ const initialCategories: Category[] = [
     ],
   },
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fasian-noodles-with-prawns-vegetables-served-pan-dark-background_1220-5662.jpg&f=1&nofb=1&ipt=e91748818649e9a5e01fc6634969fef7e9506699eacea750acd998172008f0cd&ipo=images",
+    image: "https://i.postimg.cc/Gp2rVj2G/u-https-img-freepik-com-premium-photo-asian-noodles-with-prawns-vegetables-served-pan-dark-backgr.jpg",
     title: "Noodles",
     active: false,
     items: [
@@ -220,8 +208,7 @@ const initialCategories: Category[] = [
       {
         title: "Chicken Rice",
         description: "Savory chicken rice with rich flavors and tender chicken pieces.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fuploads%2F2019%2F09%2FChicken-Fried-Rice_9.jpg%3Fresize%3D85&f=1&nofb=1&ipt=7af17c57a286e06ed409726a867a689af27564a372d682e63f781d27587b2dde&ipo=images",
+        image: "https://i.postimg.cc/fW37D4Fg/u-https-www-recipetineats-com-wp-content-uploads-2019-09-Chicken-Fried-Rice-9.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "non-veg",
@@ -230,8 +217,7 @@ const initialCategories: Category[] = [
       {
         title: "Shrimp Rice",
         description: "Delicious shrimp rice with fresh seafood and flavorful spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.aspicyperspective.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fone-pot-shrimp-black-bean-rice-skillet-13.jpg&f=1&nofb=1&ipt=69d8b0eaabd8d2e2e7c1d3606f4c91437fbec61e0e3d7c377f1bebc864ba3cf5&ipo=images",
+        image: "https://i.postimg.cc/XJPvQzkr/u-https-www-aspicyperspective-com-wp-content-uploads-2018-04-one-pot-shrimp-black-bean-rice-skill.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 210,
         genre: "non-veg",
@@ -240,8 +226,7 @@ const initialCategories: Category[] = [
       {
         title: "Paneer Rice",
         description: "Flavorful paneer rice made with Indian cottage cheese and aromatic spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvaya.in%2Frecipes%2Fwp-content%2Fuploads%2F2018%2F03%2FPaneer-fried-rice.jpg&f=1&nofb=1&ipt=1b336a0d193292ae80cf9558492b984dac1f1adc91790d83f83203aca913ec5b&ipo=images",
+        image: "https://i.postimg.cc/wjY7Cn8J/u-https-vaya-in-recipes-wp-content-uploads-2018-03-Paneer-fried-rice.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 210,
         genre: "veg",
@@ -250,16 +235,14 @@ const initialCategories: Category[] = [
     ],
   },
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flaneandgreyfare.com%2Fwp-content%2Fuploads%2F2022%2F02%2FChocolate-Ice-Cream-1.jpg&f=1&nofb=1&ipt=e99d4132013b21758f528fbd9fd408f67a1b48e7a649a2d5bbcbe91cc6632c25&ipo=images",
+    image: "https://i.postimg.cc/KjVg3YHs/u-https-laneandgreyfare-com-wp-content-uploads-2022-02-Chocolate-Ice-Cream-1.jpg",
     title: "Ice-Cream",
     active: false,
     items: [
       {
         title: "Chocolate Ice Cream",
         description: "Rich and creamy chocolate ice cream for chocolate lovers.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flaneandgreyfare.com%2Fwp-content%2Fuploads%2F2022%2F02%2FChocolate-Ice-Cream-1.jpg&f=1&nofb=1&ipt=e99d4132013b21758f528fbd9fd408f67a1b48e7a649a2d5bbcbe91cc6632c25&ipo=images",
+        image: "https://i.postimg.cc/KjVg3YHs/u-https-laneandgreyfare-com-wp-content-uploads-2022-02-Chocolate-Ice-Cream-1.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -268,8 +251,7 @@ const initialCategories: Category[] = [
       {
         title: "Vanilla Ice Cream",
         description: "Creamy vanilla ice cream made with real vanilla beans.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fscoop-vanilla-ice-cream-vanilla-beans-high-angle-still-life-single-served-white-background-bean-pods-fresh-leaf-88887157.jpg&f=1&nofb=1&ipt=ce2d4594f4f58821f355ab28a8ae657dba1da3e34a7836dacbda59119ca1b8b5&ipo=images",
+        image: "https://i.postimg.cc/j2ky6cLc/u-https-thumbs-dreamstime-com-b-scoop-vanilla-ice-cream-vanilla-beans-high-angle-still-life-singl.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -278,8 +260,7 @@ const initialCategories: Category[] = [
       {
         title: "Strawberry Ice Cream",
         description: "Refreshing strawberry ice cream made with fresh strawberries.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgoodthingsbaking.com%2Fwp-content%2Fuploads%2F2022%2F05%2Fstrawberry-ice-cream-recipe-16.jpg&f=1&nofb=1&ipt=7be1413c96a7bec6b46cce778d5917dbf6910b1ba6afe9c37b8caa8c85276baf&ipo=images",
+        image: "https://i.postimg.cc/bvXHFmLF/u-https-goodthingsbaking-com-wp-content-uploads-2022-05-strawberry-ice-cream-recipe-16.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -288,8 +269,7 @@ const initialCategories: Category[] = [
       {
         title: "Mango Ice Cream",
         description: "Creamy mango ice cream made with ripe mangoes for a tropical taste.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.anncoojournal.com%2Fwp-content%2Fuploads%2F2021%2F04%2Fmango-ice-cream-002.jpg&f=1&nofb=1&ipt=7f9610335d3264be3de3dd1400bdfc27e945afaf0f8f8a5878e74b7272764dce&ipo=images",
+        image: "https://i.postimg.cc/dVh4fkFD/u-https-www-anncoojournal-com-wp-content-uploads-2021-04-mango-ice-cream-002.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 200,
         genre: "veg",
@@ -298,16 +278,14 @@ const initialCategories: Category[] = [
     ],
   },
   {
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtpsQksHbtAI%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=8a327859736c181fc269b5e713fa9fdf7775b852daff5e77866a1622128f0edf&ipo=images",
+    image: "https://i.postimg.cc/kgYL6PJR/u-https-i-ytimg-com-vi-tps-Qks-Hbt-AI-maxresdefault.jpg",
     title: "Momos",
     active: false,
     items: [
       {
         title: "Fried Chicken Momo",
         description: "Crispy fried momos filled with succulent chicken pieces and spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtpsQksHbtAI%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=8a327859736c181fc269b5e713fa9fdf7775b852daff5e77866a1622128f0edf&ipo=images",
+        image: "https://i.postimg.cc/kgYL6PJR/u-https-i-ytimg-com-vi-tps-Qks-Hbt-AI-maxresdefault.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 240,
         genre: "non-veg",
@@ -316,8 +294,7 @@ const initialCategories: Category[] = [
       {
         title: "Fried Veggie Momo",
         description: "Crispy fried momos filled with a mix of vegetables and spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-dlopd.nitrocdn.com%2FWvjGxjzkqpCRBAFiAQBxkifGOZsxmrbF%2Fassets%2Fstatic%2Foptimized%2Frev-3cf5128%2Fwp-content%2Fuploads%2F2021%2F09%2FFried-Momos-with-Veg-Cheese-Fillings-scaled.jpg&f=1&nofb=1&ipt=2051e68405aab654c3edbc2e36135e6af713e298783c978220ea74c2bd7e37d6&ipo=images",
+        image: "https://i.postimg.cc/6qVDy7qB/u-https-cdn-dlopd-nitrocdn-com-Wvj-Gxjzkqp-CRBAFi-AQBxkif-GOZsxmrb-F-assets-static-optimized-rev-3cf51.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 220,
         genre: "veg",
@@ -326,8 +303,7 @@ const initialCategories: Category[] = [
       {
         title: "Steamed Chicken Momo",
         description: "Delicate steamed momos filled with tender chicken and authentic spices.",
-        image:
-          "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fspicyworld.in%2Frecipeimages%2Fchicken-momo.jpg&f=1&nofb=1&ipt=91c52c3f3ba015ca4761dcc5409788c78c7f4622851be2df6659b08c278f7cf0&ipo=images",
+        image: "https://i.postimg.cc/mrJxqfKW/u-http-spicyworld-in-recipeimages-chicken-momo.jpg",
         price: { small: "50", medium: "100", full: "200" },
         forTwo: 220,
         genre: "non-veg",
