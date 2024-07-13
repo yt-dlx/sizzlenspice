@@ -7,14 +7,14 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_src/others/store";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch, FaMapMarkerAlt, FaMapPin } from "react-icons/fa";
+import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function HomePage() {
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [filteredItems, setFilteredItems] = useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
-  const { updateCartItemQuantity, setActiveCategory, setLocationData, removeFromCart, activeCategory, setSearchTerm, locationData, searchTerm, categories, addToCart, cart } = useStore();
+  const { updateCartItemQuantity, setActiveCategory, removeFromCart, activeCategory, setSearchTerm, searchTerm, categories, addToCart, cart } = useStore();
 
   const totalCost = cart.reduce((total: any, item: any) => {
     const itemPrice = Number(item.price[item.selectedSize]);
@@ -31,24 +31,6 @@ export default function HomePage() {
     setFilteredItems(filtered);
   }, [activeCategory, searchTerm, categories]);
 
-  useEffect(() => {
-    navigator.geolocation.getCurrentPosition(async (position) => {
-      const lat = position.coords.latitude.toString();
-      const lon = position.coords.longitude.toString();
-      setLocationData({ latitude: lat, longitude: lon });
-      const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
-      if (response.ok) {
-        const data = await response.json();
-        if (data.address) {
-          setLocationData({
-            address: data.display_name || "",
-            pincode: data.address.postcode || "",
-          });
-        }
-      }
-    });
-  }, [setLocationData]);
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {isModalOpen && selectedItem && (
@@ -56,25 +38,11 @@ export default function HomePage() {
           <motion.div
             initial="hidden"
             animate="visible"
-            variants={{
-              hidden: { opacity: 0 },
-              visible: { opacity: 1, transition: { duration: 0.1 } },
-            }}
+            variants={{ hidden: { opacity: 0 }, visible: { opacity: 1, transition: { duration: 0.25 } } }}
             className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-[#E9F0CD] shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
           >
             <motion.div
-              variants={{
-                hidden: { scale: 0, opacity: 0 },
-                visible: {
-                  scale: 1,
-                  opacity: 1,
-                  transition: {
-                    delay: 0.1,
-                    duration: 0.1,
-                    ease: "easeInOut",
-                  },
-                },
-              }}
+              variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.25, duration: 0.25, ease: "easeInOut" } } }}
               className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
             >
               <img src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
@@ -91,25 +59,26 @@ export default function HomePage() {
                 </div>
                 <p className="text-sm mb-8 text-center font-Playfair">{selectedItem.description}</p>
                 <p className="mb-2 text-center font-Kurale text-xl font-bold">Select Plate Size:</p>
-                <div className="flex justify-center items-center text-center flex-col gap-2 mb-4">
+                <div className="grid grid-cols-2 gap-2 justify-center items-center text-center flex-col">
                   {Object.entries(selectedItem.price).map(([size, price]) => {
                     const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
                     const quantity = cartItem ? cartItem.quantity : 0;
+                    const isFullSize = size.toLowerCase() === "full";
                     return (
-                      <button
-                        key={size}
-                        onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                        className="flex w-full text-center items-center justify-center font-bold text-xs bg-[#E9F0CD] text-[#172B25] hover:bg-[#8C9A68] font-Kurale px-4 p-2 rounded-3xl transition duration-300 gap-1"
-                      >
-                        {size.charAt(0).toUpperCase() + size.slice(1)} : <FaRupeeSign />
-                        {price} {quantity > 0 && `| Added: x${quantity}`}
-                      </button>
+                      <div key={size} className={isFullSize ? "col-span-2 w-full" : ""}>
+                        <button
+                          onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
+                          className={`flex w-full text-center items-center justify-center font-bold text-xs bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] transition duration-700 ease-in-out transform font-Kurale px-4 p-2 rounded-lg ${isFullSize ? "w-full" : ""}`}
+                        >
+                          <FaRupeeSign /> {size.charAt(0).toUpperCase() + size.slice(1)}: {price} {quantity > 0 && `- x${quantity}`}
+                        </button>
+                      </div>
                     );
                   })}
                 </div>
                 <button
                   onClick={() => setIsModalOpen(false)}
-                  className="w-full bg-[#E9F0CD] text-[#172B25] hover:bg-[#8C9A68] py-2 mb-2 rounded-3xl mt-4 transition duration-300 font-Kurale font-bold"
+                  className="w-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] transition duration-700 ease-in-out transform py-2 mb-2 rounded-2xl mt-4 font-Kurale font-bold"
                 >
                   Close
                 </button>
@@ -118,10 +87,12 @@ export default function HomePage() {
           </motion.div>
         </AnimatePresence>
       )}
+      {/* =========================================================================================== */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
         <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
+      {/* =========================================================================================== */}
       <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
@@ -131,34 +102,12 @@ export default function HomePage() {
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
+              className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] ring-2 ring-[#E9F0CD] focus:ring-[#131313]"
             />
-          </div>
-          <div className="flex flex-row gap-2 w-full">
-            <div className="relative flex-grow">
-              <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="text"
-                value={locationData.address}
-                onChange={(e) => setLocationData({ ...locationData, address: e.target.value })}
-                placeholder="Fetching Address..."
-                className="w-full py-2 pl-10 pr-4 truncate rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
-            <div className="relative flex-grow">
-              <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
-              <input
-                type="text"
-                value={locationData.pincode}
-                onChange={(e) => setLocationData({ ...locationData, pincode: e.target.value })}
-                placeholder="Fetching Pincode..."
-                className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] focus:outline-none"
-              />
-            </div>
           </div>
         </div>
       </section>
-
+      {/* =========================================================================================== */}
       <section id="categories" className="max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-[#E9F0CD] scrollbar-track-[#1C3029] overflow-x-auto space-x-2 pb-4">
           {categories.map((category: any, index: any) => (
@@ -184,12 +133,13 @@ export default function HomePage() {
               <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow p-2">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                    <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-4500" : "bg-red-600"}`} />
                     <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
                   </div>
-                  <div className="flex items-center">
-                    <span className="text-yellow-400 animate-spin text-xl">★</span>
-                    <span className="ml-1 text-sm">{item.rating.toFixed(1)}</span>
+                  <div className="inline-flex items-center justify-center">
+                    <span className="text-yellow-400 gap-1 text-sm font-bold font-RobotoCondensed flex items-center">
+                      <span className="animate-pulse">★</span> {item.rating.toFixed(1)}
+                    </span>
                   </div>
                 </div>
                 <p className="text-sm mt-2 font-Playfair">{item.description}</p>
