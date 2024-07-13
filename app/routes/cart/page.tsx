@@ -186,7 +186,7 @@ export default function CartPage() {
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD]">
               <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
                 Confirm Your Culinary Journey and Place Your Orders
@@ -246,7 +246,7 @@ export default function CartPage() {
           </section>
         ) : (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD]">
               <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
                 Your Cart is Empty! Let's Fill it up.

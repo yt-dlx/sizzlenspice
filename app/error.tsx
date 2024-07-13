@@ -18,7 +18,7 @@ export default function Error({ error, reset }: { error: Error & { digest?: stri
       </section>
       {/* ======================================================================================================================================================================= */}
       <section className="flex items-center justify-center">
-        <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 m-2 bg-[#E9F0CD]/10 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
+        <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 m-2 bg-[#E9F0CD]/10 rounded-lg text-[#E9F0CD]">
           <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
             <MdError size={80} className="animate-pulse text-[#E9F0CD]" />
             {error && <p className="text-red-500">{error.toString()}</p>}
