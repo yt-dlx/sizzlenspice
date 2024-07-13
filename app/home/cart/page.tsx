@@ -2,6 +2,7 @@
 "use client";
 import Link from "next/link";
 import { LuBike } from "react-icons/lu";
+import { useRouter } from "next/navigation";
 import { pusherClient } from "@/lib/pusher";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
@@ -10,8 +11,10 @@ import { GiDeliveryDrone } from "react-icons/gi";
 import { useStore } from "@/app/_src/others/store";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
+import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
 
 export default function CartPage() {
+  const router = useRouter();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -20,7 +23,7 @@ export default function CartPage() {
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
-  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData } = useStore();
+  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData, phoneNumber, customerEmail } = useStore();
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   async function fetchPreviousOrders(userId: string) {
@@ -98,11 +101,11 @@ export default function CartPage() {
       const response = await fetch("/api/user");
       if (response.ok) {
         const data = await response.json();
-        if (!data.phoneNumber && !data.customerEmail) throw new Error("Your Phone Number Or Email Is Missing!");
-      }
+        if (!data.phoneNumber || !data.customerEmail || !locationData) router.push("/user");
+      } else router.push("/user");
     };
     fetchUserData();
-  }, []);
+  }, [router, locationData]);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
@@ -179,10 +182,45 @@ export default function CartPage() {
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
             <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
-              <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
+              <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
                 Confirm Your Culinary Journey and Place Your Orders
               </span>
+              <div className="mt-4 mb-4 bg-[#E9F0CD]/20 rounded-lg p-4 font-Kurale">
+                <h4 className="font-bold mb-3 text-lg border-b border-[#E9F0CD]/30 pb-2">Delivery Information</h4>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div className="flex items-center">
+                    <HiLocationMarker className="w-5 h-5 mr-2" />
+                    <p>
+                      <span className="font-semibold">Address:</span> {locationData.address}
+                    </p>
+                  </div>
+                  <div className="flex items-center">
+                    <HiCreditCard className="w-5 h-5 mr-2" />
+                    <p>
+                      <span className="font-semibold">Pincode:</span> {locationData.pincode}
+                    </p>
+                  </div>
+                  <div className="flex items-center">
+                    <HiGlobe className="w-5 h-5 mr-2" />
+                    <p>
+                      <span className="font-semibold">Coordinates:</span> {locationData.latitude}, {locationData.longitude}
+                    </p>
+                  </div>
+                  <div className="flex items-center">
+                    <HiPhone className="w-5 h-5 mr-2" />
+                    <p>
+                      <span className="font-semibold">Phone:</span> {phoneNumber}
+                    </p>
+                  </div>
+                  <div className="flex items-center md:col-span-2">
+                    <HiMail className="w-5 h-5 mr-2" />
+                    <p>
+                      <span className="font-semibold">Email:</span> {customerEmail}
+                    </p>
+                  </div>
+                </div>
+              </div>
               <div className="mt-2 space-y-2">
                 <button
                   disabled={isLoading}
@@ -204,7 +242,7 @@ export default function CartPage() {
         ) : (
           <section className="flex items-center justify-center">
             <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD] shadow-md shadow-[#1C2924]">
-              <span className="flex items-center justify-center gap-2 text-xl font-bold font-Kurale xl:text-6xl">
+              <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
                 <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
                 Your Cart is Empty! Let's Fill it up.
               </span>

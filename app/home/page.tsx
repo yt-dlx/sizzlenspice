@@ -178,9 +178,9 @@ export default function HomePage() {
       <AnimatePresence>
         {isCartOpen && (
           <motion.div
-            exit={{ opacity: 0, y: 50 }}
-            animate={{ opacity: 1, y: 0 }}
             initial={{ opacity: 0, y: 50 }}
+            exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
+            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
             className="fixed bottom-0 right-0 w-full sm:w-96 bg-[#131313]/60 backdrop-blur-2xl border-2 border-[#E9F0CD]/20 text-[#E9F0CD] rounded-t-2xl shadow-lg flex justify-center max-h-[50vh]"
           >
             <div className="p-4 w-full overflow-y-auto">
