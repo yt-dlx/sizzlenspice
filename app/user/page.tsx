@@ -61,7 +61,7 @@ export default function UserPage() {
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
       </section>
       <form onSubmit={handleConfirm} id="user-data" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
-        <div className="grid grid-cols-1 gap-2 w-full mb-6">
+        <div className="grid grid-cols-1 gap-2 w-full mb-4">
           <div className="relative flex-grow">
             <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
             <input
@@ -109,7 +109,7 @@ export default function UserPage() {
         </div>
         <button
           type="submit"
-          className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+          className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
         >
           Confirm and Continue
         </button>

@@ -260,13 +260,13 @@ export default function CartPage() {
                 <button
                   disabled={isLoading}
                   onClick={PlaceOrder}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
                   href={"/home"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> No, I want to add more!
                 </Link>
@@ -284,7 +284,7 @@ export default function CartPage() {
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/home"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Go To Food Items
                 </Link>

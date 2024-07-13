@@ -218,7 +218,10 @@ const OrderList: React.FC<{
               <div className="font-bold font-Kurale" onClick={() => onSelectOrder(order)}>
                 <ul className="list-disc ml-4">
                   <li>
-                    Customer: <span className="text-semibold italic font-Playfair">{order.customerName}</span>
+                    Customer Email: <span className="text-semibold italic font-Playfair">{order.customerEmail}</span>
+                  </li>
+                  <li>
+                    Phone Number: <span className="text-semibold italic font-Playfair">{order.phoneNumber}</span>
                   </li>
                   <li>
                     Status: <span className="text-semibold italic font-Playfair animate-pulse">#{order.status}</span>

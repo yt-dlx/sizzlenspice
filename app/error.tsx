@@ -24,7 +24,7 @@ export default function Error({ error, reset }: { error: Error & { digest?: stri
           </span>
           <div className="mt-6 space-y-2">
             <Link
-              href={"/home"}
+              href={"/user"}
               className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#E9F0CD] hover:bg-[#A8B67C] text-[#172B25] flex items-center justify-center gap-2 font-Kurale font-bold"
             >
               <MdFastfood size={20} /> Go to Home
