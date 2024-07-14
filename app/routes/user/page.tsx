@@ -18,7 +18,6 @@ export default function UserPage() {
       const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
       if (!response.ok) setError("Failed to fetch user data");
       const userData = await response.json();
-      console.log("User data:", userData);
       if (userData.phoneNumber) setPhoneNumber(userData.phoneNumber);
       if (userData.customerEmail) setCustomerEmail(userData.customerEmail);
     };

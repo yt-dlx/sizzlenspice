@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { userId, cart, totalAmount, locationData } = await request.json();
+  const { userId, cart, totalAmount, locationData, phoneNumber, customerEmail } = await request.json();
   if (!Array.isArray(cart) || cart.length === 0) return NextResponse.json({ error: "Invalid cart data" }, { status: 400 });
   const client = await clientPromise;
   const db = client.db();
@@ -46,12 +46,12 @@ export async function POST(request: NextRequest) {
       selectedSize: item.selectedSize,
       price: item.price[item.selectedSize],
     })),
+    phoneNumber,
+    locationData,
+    customerEmail,
     userId: userId,
     status: "Pending",
     createdAt: orderDate,
-    locationData: locationData,
-    phoneNumber: locationData.phoneNumber,
-    customerEmail: locationData.customerEmail,
     total: typeof totalAmount === "number" ? totalAmount : parseFloat(totalAmount),
   };
   if (isNaN(orderDocument.total)) return NextResponse.json({ error: "Invalid total amount" }, { status: 400 });

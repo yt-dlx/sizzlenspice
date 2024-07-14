@@ -13,6 +13,7 @@ export default function AdminPage() {
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
+  const [orderTimers, setOrderTimers] = useState<{ [key: string]: number }>({});
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
@@ -23,23 +24,55 @@ export default function AdminPage() {
       if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
     });
     fetchOrders();
+    const timerInterval = setInterval(() => {
+      setOrderTimers((prevTimers) => {
+        const newTimers = { ...prevTimers };
+        orders.forEach((order) => {
+          if (order.status !== "Completed") newTimers[order._id] = (newTimers[order._id] || 0) + 1;
+        });
+        return newTimers;
+      });
+    }, 1000);
     return () => {
       channel.unbind_all();
       channel.unsubscribe();
+      clearInterval(timerInterval);
     };
   }, []);
 
+  const formatTime = (seconds: number) => {
+    const hours = Math.floor(seconds / 3600);
+    const minutes = Math.floor((seconds % 3600) / 60);
+    const remainingSeconds = seconds % 60;
+    return `${hours.toString().padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
+  };
+
+  const statusOptions = ["Preparing", "Delivering", "Completed"];
+  const statusIcons = { Preparing: <MdShoppingCart />, Delivering: <MdLocalShipping />, Completed: <MdDoneAll /> };
+  const formatCreatedAt = (createdAt: string | number | Date) => {
+    const formattedDate = new Date(createdAt).toLocaleString("en-IN", {
+      timeZone: "Asia/Kolkata",
+      second: "numeric",
+      minute: "numeric",
+      month: "numeric",
+      year: "numeric",
+      hour: "numeric",
+      day: "numeric",
+    });
+    return formattedDate;
+  };
+
   const fetchOrders = async () => {
-    setIsLoading(true);
     try {
+      setIsLoading(true);
       const response = await fetch("/api/orders");
       if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
       const reversedOrders = data.orders.reverse();
       setOrders(reversedOrders);
       if (reversedOrders.length > 0) setSelectedOrder(reversedOrders[0]);
-    } catch (err: any) {
-      setError(err.message);
+    } catch (error: any) {
+      setError(error.message);
     } finally {
       setIsLoading(false);
     }
@@ -63,36 +96,16 @@ export default function AdminPage() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ channel: "partner-channel", event: "order-updated", data: { orderId, status: newStatus } }),
       });
+      setOrderTimers((prevTimers) => ({ ...prevTimers, [orderId]: 0 }));
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === orderId ? { ...order, status: newStatus } : order)));
       if (selectedOrder && selectedOrder._id === orderId) setSelectedOrder({ ...selectedOrder, status: newStatus });
-    } catch (err: any) {
-      setError(err.message);
+    } catch (error: any) {
+      setError(error.message);
     }
   };
 
   if (isLoading) return <p className="text-[#E9F0CD]">Loading...</p>;
-  if (error) return <p className="text-[#E9F0CD]">Error: {error}</p>;
-
-  const statusOptions = ["Preparing", "Delivering", "Completed"];
-  const statusIcons = {
-    Preparing: <MdShoppingCart />,
-    Delivering: <MdLocalShipping />,
-    Completed: <MdDoneAll />,
-  };
-
-  const formatCreatedAt = (createdAt: string | number | Date) => {
-    const date = new Date(createdAt);
-    const formattedDate = date.toLocaleString("en-US", {
-      timeZone: "UTC",
-      year: "numeric",
-      month: "numeric",
-      day: "numeric",
-      hour: "numeric",
-      minute: "numeric",
-      second: "numeric",
-    });
-    return formattedDate;
-  };
+  if (error) throw new Error(error);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-[#E9F0CD]">
@@ -170,7 +183,15 @@ export default function AdminPage() {
                 <div className="mb-4 font-Kurale">
                   <ul className="list-disc m-4">
                     <li className="text-sm font-RobotoCondensed">
-                      <span className="font-bold text-lg mr-2 font-Kurale">CreatedAt:</span> {formatCreatedAt(selectedOrder.createdAt)}
+                      <span className="font-bold text-lg mr-2 font-Kurale">User:</span> {selectedOrder.userId.split("@")[0]}
+                    </li>
+                    <li className="text-sm font-RobotoCondensed">
+                      <span className="font-bold text-lg mr-2 font-Kurale">Status:</span>
+                      <span className="animate-pulse">{selectedOrder.status}</span>
+                      <span className="ml-2">({formatTime(orderTimers[selectedOrder._id] || 0)})</span>
+                    </li>
+                    <li className="text-sm font-RobotoCondensed">
+                      <span className="font-bold text-lg mr-2 font-Kurale">Date & Time:</span> {formatCreatedAt(selectedOrder.createdAt)}
                     </li>
                     <li className="text-sm font-RobotoCondensed">
                       <span className="font-bold text-lg mr-2 font-Kurale">Email:</span> {selectedOrder.customerEmail}
@@ -185,13 +206,7 @@ export default function AdminPage() {
                       <span className="font-bold text-lg mr-2 font-Kurale">Pincode:</span> {selectedOrder.locationData?.pincode}
                     </li>
                     <li className="text-sm font-RobotoCondensed">
-                      <span className="font-bold text-lg mr-2 font-Kurale">Status:</span> {selectedOrder.status}
-                    </li>
-                    <li className="text-sm font-RobotoCondensed">
                       <span className="font-bold text-lg mr-2 font-Kurale">Total:</span> {selectedOrder.total}
-                    </li>
-                    <li className="text-sm font-RobotoCondensed">
-                      <span className="font-bold text-lg mr-2 font-Kurale">UserId:</span> {selectedOrder.userId}
                     </li>
                   </ul>
                 </div>
@@ -214,9 +229,6 @@ export default function AdminPage() {
                     ))}
                   </div>
                 )}
-                <div className="text-right text-xl font-bold mt-4 font-Playfair flex items-center justify-end">
-                  Total: <FaRupeeSign className="mx-1" /> {selectedOrder.total.toFixed(2)}
-                </div>
                 <div className="mt-4 flex flex-col sm:flex-row justify-between items-center">
                   <div className="flex flex-wrap justify-center sm:justify-end space-x-2">
                     {statusOptions.map((status) => (

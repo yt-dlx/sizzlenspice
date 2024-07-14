@@ -1,9 +1,6 @@
+// app/_src/types/Order.ts
 export default interface Order {
   _id: string;
-  userId: string;
-  createdAt: string;
-  total: number;
-  status: string;
   items: Array<{
     title: string;
     price: number;
@@ -11,10 +8,16 @@ export default interface Order {
     quantity: number;
     selectedSize: string;
   }>;
+  phoneNumber: string;
   locationData?: {
     address: string;
     pincode: string;
+    latitude: string;
+    longitude: string;
   };
-  phoneNumber: string;
   customerEmail: string;
+  userId: string;
+  status: string;
+  createdAt: string;
+  total: number;
 }

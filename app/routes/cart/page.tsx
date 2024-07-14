@@ -86,7 +86,7 @@ export default function CartPage() {
       const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ cart, locationData, totalAmount: getCartTotal(), userId: session?.user?.email }),
+        body: JSON.stringify({ cart, phoneNumber, locationData, customerEmail, totalAmount: getCartTotal(), userId: session?.user?.email }),
       });
       if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
@@ -135,10 +135,10 @@ export default function CartPage() {
       {/* ======================================================================================================================================================================= */}
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-          <h3 className="text-3xl font-Kurale font-bold text-[#E9F0CD]">
+          <p className="text-4xl font-bold font-Kurale bg-[#E9F0CD] text-[#172B25] px-3 py-2 rounded-lg flex items-center">
             Total: <FaRupeeSign className="inline" />
             {getCartTotal().toFixed(2)}
-          </h3>
+          </p>
         </section>
       )}
       {/* ======================================================================================================================================================================= */}
