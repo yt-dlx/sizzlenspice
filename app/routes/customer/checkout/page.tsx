@@ -1,4 +1,4 @@
-// app/home/customer/checkout/page.tsx
+// app/routes/customer/checkout/page.tsx
 "use client";
 import Link from "next/link";
 import Image from "next/image";
@@ -223,7 +223,7 @@ export default function CartPage() {
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
-                  href={"/home/customer/menu"}
+                  href={"/routes/customer/menu"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> No, I want to add more!
@@ -241,7 +241,7 @@ export default function CartPage() {
               </span>
               <div className="mt-2 space-y-2">
                 <Link
-                  href={"/home/customer/menu"}
+                  href={"/routes/customer/menu"}
                   className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Go To Food Items

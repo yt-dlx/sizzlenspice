@@ -1,4 +1,4 @@
-// app/home/customer/menu/page.tsx
+// app/routes/customer/menu/page.tsx
 "use client";
 import React from "react";
 import Link from "next/link";
@@ -235,7 +235,7 @@ export default function HomePage() {
                   </span>
                 </div>
                 <Link
-                  href="/home/customer/checkout"
+                  href="/routes/customer/checkout"
                   className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-[#E9F0CD] hover:bg-[#8C9A68]/60 text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-bold font-Kurale"
                 >
                   Proceed To Checkout

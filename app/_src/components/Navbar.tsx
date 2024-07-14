@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 bg-[#1c3029]/30 backdrop-blur-md p-2 z-50">
       <div className="flex items-center justify-between mx-auto max-w-full">
-        <Link href={"/routes/user"} className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">
-          Sizzle 'n Spice
+        <Link href={"/routes"} passHref>
+          <a className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">Sizzle 'n Spice</a>
         </Link>
         <div className="flex items-center space-x-2">
           {session?.user?.image && (
@@ -22,17 +22,24 @@ const Navbar = () => {
               </div>
               <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-[#1c3029]/30 backdrop-blur-md rounded-box w-52 font-Kurale font-bold">
                 <li>
-                  <a className="text-[#E9F0CD] hover:bg-[#171717]/50">{session.user.name}</a>
+                  <Link href="/routes" passHref>
+                    <p className="text-[#E9F0CD] hover:bg-[#171717]/50 cursor-pointer">{session.user.name}</p>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/routes/cart" className="text-[#E9F0CD] hover:bg-[#171717]/50">
-                    My Orders
-                  </a>
+                  <Link href="/routes/customer/menu" passHref>
+                    <p className="text-[#E9F0CD] hover:bg-[#171717]/50 cursor-pointer">Menu</p>
+                  </Link>
                 </li>
                 <li>
-                  <a onClick={() => signOut()} className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <Link href="/routes/customer/checkout" passHref>
+                    <p className="text-[#E9F0CD] hover:bg-[#171717]/50 cursor-pointer">Orders</p>
+                  </Link>
+                </li>
+                <li>
+                  <p onClick={() => signOut()} className="text-[#E9F0CD] hover:bg-[#171717]/50 cursor-pointer">
                     Sign out
-                  </a>
+                  </p>
                 </li>
               </ul>
             </div>

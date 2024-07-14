@@ -1,15 +1,13 @@
-// app/routes/partner/page.tsx
+// app/routes/restaurant/orders/page.tsx
 "use client";
 import Image from "next/image";
 import { pusherClient } from "@/lib/pusher";
-import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
 export default function AdminPage() {
-  const { data: session } = useSession();
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [error, setError] = useState<string | null>(null);

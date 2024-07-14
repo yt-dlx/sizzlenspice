@@ -1,4 +1,4 @@
-// app/home/page.tsx
+// app/routes/page.tsx
 "use client";
 import React from "react";
 import { useRouter } from "next/navigation";
@@ -37,7 +37,7 @@ export default function UserPage() {
       body: JSON.stringify({ locationData, phoneNumber, customerEmail }),
     });
     if (!response.ok) setError("Failed to place order!");
-    else router.push("/home/customer/menu");
+    else router.push("/routes/customer/menu");
   };
 
   React.useEffect(() => {
