@@ -26,35 +26,16 @@ export default function UserPage() {
         const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
         if (!response.ok) throw new Error("Failed to fetch user data");
         const data = await response.json();
-        setUserData((prevData) => ({
-          ...prevData,
-          phoneNumber: data.phoneNumber || "",
-          customerEmail: data.customerEmail || session?.user?.email || "",
-        }));
+        setUserData((prevData) => ({ ...prevData, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
       } catch (err) {
         setError("Failed to fetch user data");
       }
     };
-
     if (session) fetchUserData();
   }, [session]);
 
-  const handleInputChange = (field: string, value: string) => {
-    setUserData((prevData) => ({
-      ...prevData,
-      [field]: value,
-    }));
-  };
-
-  const handleLocationChange = (field: string, value: string) => {
-    setUserData((prevData) => ({
-      ...prevData,
-      locationData: {
-        ...prevData.locationData,
-        [field]: value,
-      },
-    }));
-  };
+  const handleInputChange = (field: string, value: string) => setUserData((prevData) => ({ ...prevData, [field]: value }));
+  const handleLocationChange = (field: string, value: string) => setUserData((prevData) => ({ ...prevData, locationData: { ...prevData.locationData, [field]: value } }));
 
   const handleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
@@ -77,17 +58,13 @@ export default function UserPage() {
       const lon = position.coords.longitude.toString();
       handleLocationChange("latitude", lat);
       handleLocationChange("longitude", lon);
-      try {
-        const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
-        if (response.ok) {
-          const data = await response.json();
-          if (data.address) {
-            handleLocationChange("address", data.display_name || "");
-            handleLocationChange("pincode", data.address.postcode || "");
-          }
+      const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
+      if (response.ok) {
+        const data = await response.json();
+        if (data.address) {
+          handleLocationChange("address", data.display_name || "");
+          handleLocationChange("pincode", data.address.postcode || "");
         }
-      } catch (err) {
-        console.error("Failed to fetch address data", err);
       }
     });
   }, []);
