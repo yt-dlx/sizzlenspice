@@ -70,13 +70,14 @@ export default function CartPage() {
       localStorage.removeItem("OrderPlacedTime");
     }
     if (showGif) {
-      const timer = setTimeout(() => {
+      const timer = setTimeout(async () => {
         setShowGif(false);
-        window.location.reload();
+        const updatedOrders = await fetchPreviousOrders(session?.user?.email as string);
+        setPreviousOrders(updatedOrders);
       }, 4000);
       return () => clearTimeout(timer);
     }
-  }, [showGif]);
+  }, [showGif, session]);
 
   const ConfirmOrder = async () => {
     try {
@@ -111,15 +112,13 @@ export default function CartPage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
-        <section className="fixed inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
-          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
-          <p className="mb-4 text-4xl md:text-8xl text-[#E9F0CD]">
-            Order Placed,
-            <br /> <span className="font-Lora_SemiBoldItalic">{session?.user?.name}</span>!
-          </p>
-          <ul className="text-lg md:xl text-[#E9F0CD] p-8 list-disc font-Lora_SemiBoldItalic">
+        <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
+          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 hue-rotate-90" />
+          <p className="mb-4 text-4xl md:text-8xl text-[#E9F0CD]">Order Placed,</p>
+          <ul className="text-lg md:xl text-[#E9F0CD] p-8 list-disc font-Kurale">
             <li>Thank you for ordering!</li>
-            <li>Auto Closing in 4s.</li>
+            <li>Please keep an eye on your order status.</li>
+            <li>Closing in 4s.</li>
           </ul>
         </section>
       )}
