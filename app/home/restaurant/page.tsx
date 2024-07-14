@@ -15,8 +15,6 @@ const RestaurantPage = () => {
           Manage your restaurant page here. <br />
           Explore our tools and services.
         </h2>
-        {/* Replace with relevant content or image */}
-        <img src="/svg/restaurant.png" alt="Restaurant Image" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
       <section className="flex items-center justify-center">
         <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 m-2 bg-[#E9F0CD]/10 rounded-lg text-[#E9F0CD]">
