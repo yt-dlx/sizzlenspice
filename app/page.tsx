@@ -48,7 +48,7 @@ export default async function HomePage() {
           <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {categories.map((category, index) => (
               <a key={index} className="flex flex-col rounded-lg shadow border-2 border-[#1C2924] overflow-hidden h-full">
-                <Image src={category.image} width={200} height={200} alt={category.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
+                <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
                 <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow text-center">
                   <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
                   <p className="text-xs mt-2 font-Playfair">{category.description}</p>
@@ -66,7 +66,7 @@ export default async function HomePage() {
               await signIn(provider);
             }}
           >
-            <div className="space-y-2 flex flex-col text-sm font-Kurale font-bold">
+            <div className="gap-2 grid md:grid-cols-2 text-sm font-Kurale font-bold">
               <button
                 type="submit"
                 value="google"

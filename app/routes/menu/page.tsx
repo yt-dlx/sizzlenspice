@@ -1,6 +1,7 @@
 // app/routes/menu/page.tsx
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import { MdClose } from "react-icons/md";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
@@ -45,7 +46,7 @@ export default function HomePage() {
               variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.25, duration: 0.25, ease: "easeInOut" } } }}
               className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
             >
-              <img src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
+              <Image width={540} height={540} src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
               <div className="px-2">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
@@ -117,7 +118,7 @@ export default function HomePage() {
               className={`flex flex-col items-center shadow shadow-black p-1 rounded-lg w-24 text-[#172B25] ${activeCategory === category.title ? "bg-[#E9F0CD]/80" : "bg-[#E9F0CD]/20 text-[#E9F0CD]"}`}
             >
               <div className="w-20 h-20 rounded-lg shadow shadow-black flex items-center justify-center overflow-hidden">
-                <img src={category.image} alt={category.title} className="object-cover w-full h-full rounded" />
+                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full rounded" />
               </div>
               <span className="text-sm font-bold font-Kurale mt-4">{category.title}</span>
             </button>
@@ -129,7 +130,7 @@ export default function HomePage() {
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (
             <div key={index} className="flex flex-col rounded-lg shadow border-2 border-[#E9F0CD]/20 overflow-hidden h-full">
-              <img src={item.image} alt={item.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
+              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
               <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow p-2">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
@@ -193,7 +194,7 @@ export default function HomePage() {
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center font-Kurale">
-                    <img src={item.image} alt={item.title} className="rounded-full object-cover w-12 h-12 mr-2" />
+                    <Image width={540} height={540} src={item.image} alt={item.title} className="rounded-full object-cover w-12 h-12 mr-2" />
                     <div>
                       <h3 className="font-bold font-Kurale">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize} plate</p>

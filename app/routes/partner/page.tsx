@@ -1,5 +1,6 @@
 // app/routes/partner/page.tsx
 "use client";
+import Image from "next/image";
 import { pusherClient } from "@/lib/pusher";
 import { useSession } from "next-auth/react";
 import type Order from "@/app/_src/types/Order";
@@ -214,7 +215,7 @@ export default function AdminPage() {
                   <div className="space-y-4 mb-4">
                     {selectedOrder.items.map((item, index) => (
                       <div key={index} className="flex items-center bg-[#E9F0CD]/10 p-4 rounded-lg">
-                        <img alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313] mr-4" />
+                        <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313] mr-4" />
                         <div className="flex-1">
                           <div className="flex justify-between font-bold font-Kurale">
                             <span>{item.title}</span>

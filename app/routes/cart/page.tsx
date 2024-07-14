@@ -1,6 +1,7 @@
 // app/routes/cart/page.tsx
 "use client";
 import Link from "next/link";
+import Image from "next/image";
 import { LuBike } from "react-icons/lu";
 import { useRouter } from "next/navigation";
 import { pusherClient } from "@/lib/pusher";
@@ -145,7 +146,7 @@ export default function CartPage() {
         {cart.map((item: any, index: number) => (
           <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
             <div className="flex items-center gap-2">
-              <img alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]" />
+              <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]" />
               <div>
                 <h3 className="font-bold text-[#E9F0CD]">{item.title}</h3>
                 <p className="text-sm text-[#E9F0CD]/70 font-Kurale">{item.selectedSize} plate</p>
