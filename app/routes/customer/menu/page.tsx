@@ -34,60 +34,85 @@ export default function HomePage() {
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
-      {isModalOpen && selectedItem && (
-        <AnimatePresence>
+      <AnimatePresence>
+        {isModalOpen && selectedItem && (
           <motion.div
-            initial="hidden"
-            animate="visible"
-            variants={{ hidden: { opacity: 0 }, visible: { opacity: 1, transition: { duration: 0.25 } } }}
-            className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-secondary shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
+            initial={{ opacity: 0, y: "100%" }}
+            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
+            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
+            className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-[#131313]/60 backdrop-blur-2xl border-2 border-secondary/20 text-secondary rounded-t-2xl shadow-lg flex justify-center max-h-[80vh] z-50"
           >
-            <motion.div
-              variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.25, duration: 0.25, ease: "easeInOut" } } }}
-              className="bg-primary/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-secondary/20"
-            >
-              <Image width={540} height={540} src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
-              <div className="px-2">
-                <div className="flex justify-between items-center">
-                  <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-full ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <h2 className="font-bold font-Playfair text-3xl">{selectedItem.title}</h2>
-                  </div>
-                  <div className="flex items-center">
-                    <span className="text-yellow-400">★</span>
-                    <span className="ml-1 text-sm">{selectedItem.rating.toFixed(1)}</span>
+            <div className="p-2 w-full overflow-y-auto flex flex-col sm:flex-row">
+              <div className="sm:w-1/2 sm:pr-4">
+                <Image width={540} height={540} src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-full rounded-lg" />
+              </div>
+              <div className="sm:w-1/2 sm:pl-4">
+                <div className="flex justify-between items-center mb-4">
+                  <h2 className="text-4xl font-Playfair font-bold">{selectedItem.title}</h2>
+                  <button onClick={() => setIsModalOpen(false)}>
+                    <MdClose size={24} className="text-primary bg-secondary rounded-full font-bold" />
+                  </button>
+                </div>
+                <div className="flex items-center mb-4">
+                  <div className="flex flex-col">
+                    <div className="flex items-center space-x-2 mb-2">
+                      <div className={`w-4 h-4 rounded-full ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                      <span className="font-bold font-Kurale">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
+                    </div>
+                    <div className="flex items-center">
+                      <span className="text-yellow-400 mr-1">★</span>
+                      <span className="font-bold">{selectedItem.rating.toFixed(1)}</span>
+                    </div>
                   </div>
                 </div>
-                <p className="text-sm mb-8 text-center font-Playfair">{selectedItem.description}</p>
-                <p className="mb-2 text-center font-Kurale text-xl font-bold">Select Plate Size:</p>
-                <div className="grid grid-cols-2 gap-2 justify-center items-center text-center flex-col">
+                <p className="text-sm mb-4 font-Playfair">{selectedItem.description}</p>
+                <p className="mb-2 font-Kurale text-xl font-bold">Select Plate Size:</p>
+                <div className="space-y-2">
                   {Object.entries(selectedItem.price).map(([size, price]) => {
                     const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
                     const quantity = cartItem ? cartItem.quantity : 0;
-                    const isFullSize = size.toLowerCase() === "full";
                     return (
-                      <div key={size} className={isFullSize ? "col-span-2 w-full" : ""}>
-                        <button
-                          onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                          className={`flex w-full text-center items-center justify-center font-bold text-xs bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary transition duration-700 ease-in-out transform font-Kurale px-4 p-2 rounded-lg ${isFullSize ? "w-full" : ""}`}
-                        >
-                          <FaRupeeSign /> {size.charAt(0).toUpperCase() + size.slice(1)}: {price} {quantity > 0 && `- x${quantity}`}
-                        </button>
+                      <div key={size} className="flex items-center justify-between">
+                        <span className="font-Kurale">{size.charAt(0).toUpperCase() + size.slice(1)}</span>
+                        <div className="flex items-center">
+                          <span className="font-bold mr-2 inline-flex items-center">
+                            <FaRupeeSign size={12} />
+                            {price}
+                          </span>
+                          {quantity > 0 ? (
+                            <div className="flex items-center gap-2">
+                              <button
+                                onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
+                                className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
+                              >
+                                <FaMinus />
+                              </button>
+                              <span className="font-Playfair font-bold">{quantity}</span>
+                              <button
+                                onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
+                                className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
+                              >
+                                <FaPlus />
+                              </button>
+                            </div>
+                          ) : (
+                            <button
+                              onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
+                              className="bg-secondary text-primary px-3 py-1 rounded-full shadow shadow-primary text-sm font-bold font-Kurale hover:bg-[#A8B67C] transition duration-300"
+                            >
+                              Add
+                            </button>
+                          )}
+                        </div>
                       </div>
                     );
                   })}
                 </div>
-                <button
-                  onClick={() => setIsModalOpen(false)}
-                  className="w-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary transition duration-700 ease-in-out transform py-2 mb-2 rounded-2xl mt-4 font-Kurale font-bold"
-                >
-                  Close
-                </button>
               </div>
-            </motion.div>
+            </div>
           </motion.div>
-        </AnimatePresence>
-      )}
+        )}
+      </AnimatePresence>
       {/* ======================================================================================================================================================================= */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
@@ -166,7 +191,7 @@ export default function HomePage() {
       </section>
       {/* ======================================================================================================================================================================= */}
       {cart.length > 0 && !isCartOpen && (
-        <section id="cart-button" className="fixed bottom-14 right-2">
+        <section id="cart-button" className="fixed bottom-14 right-2 z-30">
           <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-lg shadow shadow-[#131313] flex items-center">
             <FaShoppingCart size={20} />
             <span className="ml-2 font-bold inline-flex items-center">
@@ -176,13 +201,14 @@ export default function HomePage() {
           </button>
         </section>
       )}
+      {/* ======================================================================================================================================================================= */}
       <AnimatePresence>
         {isCartOpen && (
           <motion.div
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 right-0 w-full sm:w-96 bg-[#131313]/60 backdrop-blur-2xl border-2 border-secondary/20 text-secondary rounded-t-2xl shadow-lg flex justify-center max-h-[50vh]"
+            className="fixed bottom-0 right-0 w-full sm:w-96 bg-[#131313]/60 backdrop-blur-2xl border-2 border-secondary/20 text-secondary rounded-t-2xl shadow-lg flex justify-center max-h-[50vh] z-40"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
