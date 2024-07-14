@@ -77,7 +77,7 @@ export async function PUT(request: NextRequest) {
     const result = await db.collection("orders").updateOne({ _id: new ObjectId(orderId) }, { $set: { status: status } });
     if (result.matchedCount === 0) return NextResponse.json({ error: "Order not found" }, { status: 404 });
     await pusherServer.trigger(`user-${userId}`, "order-updated", { orderId, status });
-    await pusherServer.trigger("admin-channel", "order-updated", { orderId, status });
+    await pusherServer.trigger("partner-channel", "order-updated", { orderId, status });
     return NextResponse.json({ message: "Order status updated successfully" }, { status: 200 });
   } catch (error) {
     return NextResponse.json({ error: "Failed to update order status" }, { status: 500 });
