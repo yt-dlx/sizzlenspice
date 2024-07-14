@@ -25,16 +25,7 @@ export default function CartPage() {
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
-  const [userData, setUserData] = useState({
-    phoneNumber: "",
-    customerEmail: "",
-    locationData: {
-      latitude: "",
-      longitude: "",
-      address: "",
-      pincode: "",
-    },
-  });
+  const [userData, setUserData] = useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   async function fetchPreviousOrders(userId: string) {
@@ -55,8 +46,8 @@ export default function CartPage() {
       fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
         .then((response) => response.json())
         .then((data) => {
-          setUserData((prevData) => ({
-            ...prevData,
+          setUserData((prev) => ({
+            ...prev,
             phoneNumber: data.phoneNumber || "",
             customerEmail: data.customerEmail || session.user?.email || "",
           }));

@@ -9,16 +9,7 @@ export default function UserPage() {
   const router = useRouter();
   const { data: session } = useSession();
   const [error, setError] = React.useState<string | null>(null);
-  const [userData, setUserData] = React.useState({
-    phoneNumber: "",
-    customerEmail: "",
-    locationData: {
-      latitude: "",
-      longitude: "",
-      address: "",
-      pincode: "",
-    },
-  });
+  const [userData, setUserData] = React.useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
 
   React.useEffect(() => {
     const fetchUserData = async () => {
@@ -26,7 +17,7 @@ export default function UserPage() {
         const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
         if (!response.ok) throw new Error("Failed to fetch user data");
         const data = await response.json();
-        setUserData((prevData) => ({ ...prevData, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
+        setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
       } catch (err) {
         setError("Failed to fetch user data");
       }
@@ -34,8 +25,8 @@ export default function UserPage() {
     if (session) fetchUserData();
   }, [session]);
 
-  const handleInputChange = (field: string, value: string) => setUserData((prevData) => ({ ...prevData, [field]: value }));
-  const handleLocationChange = (field: string, value: string) => setUserData((prevData) => ({ ...prevData, locationData: { ...prevData.locationData, [field]: value } }));
+  const handleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
+  const handleLocationChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
 
   const handleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
