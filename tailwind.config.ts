@@ -4,6 +4,10 @@ const config: Config = {
   content: ["./pages/**/*.{js,ts,jsx,tsx,mdx}", "./app/**/*.{js,ts,jsx,tsx,mdx}"],
   theme: {
     extend: {
+      colors: {
+        primary: "#1C3029",
+        secondary: "#E9F0CD",
+      },
       fontFamily: {
         Kurale: ["var(--font-Kurale)"],
         Brittany: ["var(--font-Brittany)"],

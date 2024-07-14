@@ -33,18 +33,18 @@ export default function HomePage() {
   }, [activeCategory, searchTerm, categories]);
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {isModalOpen && selectedItem && (
         <AnimatePresence>
           <motion.div
             initial="hidden"
             animate="visible"
             variants={{ hidden: { opacity: 0 }, visible: { opacity: 1, transition: { duration: 0.25 } } }}
-            className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-[#E9F0CD] shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
+            className="fixed inset-0 bg-[#131313]/80 backdrop-blur-xl text-secondary shadow-2xl shadow-[#131313] flex items-center justify-center z-50"
           >
             <motion.div
               variants={{ hidden: { scale: 0, opacity: 0 }, visible: { scale: 1, opacity: 1, transition: { delay: 0.25, duration: 0.25, ease: "easeInOut" } } }}
-              className="bg-[#1C3029]/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-[#E9F0CD]/20"
+              className="bg-primary/60 backdrop-blur-xl rounded-3xl max-w-sm w-full border-4 border-double border-secondary/20"
             >
               <Image width={540} height={540} src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-60 rounded-t-3xl mb-4" />
               <div className="px-2">
@@ -69,7 +69,7 @@ export default function HomePage() {
                       <div key={size} className={isFullSize ? "col-span-2 w-full" : ""}>
                         <button
                           onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                          className={`flex w-full text-center items-center justify-center font-bold text-xs bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] transition duration-700 ease-in-out transform font-Kurale px-4 p-2 rounded-lg ${isFullSize ? "w-full" : ""}`}
+                          className={`flex w-full text-center items-center justify-center font-bold text-xs bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary transition duration-700 ease-in-out transform font-Kurale px-4 p-2 rounded-lg ${isFullSize ? "w-full" : ""}`}
                         >
                           <FaRupeeSign /> {size.charAt(0).toUpperCase() + size.slice(1)}: {price} {quantity > 0 && `- x${quantity}`}
                         </button>
@@ -79,7 +79,7 @@ export default function HomePage() {
                 </div>
                 <button
                   onClick={() => setIsModalOpen(false)}
-                  className="w-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] transition duration-700 ease-in-out transform py-2 mb-2 rounded-2xl mt-4 font-Kurale font-bold"
+                  className="w-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary transition duration-700 ease-in-out transform py-2 mb-2 rounded-2xl mt-4 font-Kurale font-bold"
                 >
                   Close
                 </button>
@@ -89,33 +89,33 @@ export default function HomePage() {
         </AnimatePresence>
       )}
       {/* ======================================================================================================================================================================= */}
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
-        <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
+      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
+        <h1 className="text-8xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
       {/* ======================================================================================================================================================================= */}
       <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
-            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-[#172B25]" />
+            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
             <input
               type="text"
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full py-2 pl-10 pr-4 rounded-lg bg-[#E9F0CD] border-2 border-[#131313] shadow-md shadow-[#131313] text-[#172B25] placeholder-[#172B25] ring-2 ring-[#E9F0CD] focus:ring-[#131313]"
+              className="w-full py-2 pl-10 pr-4 rounded-lg bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary ring-2 ring-secondary focus:ring-[#131313]"
             />
           </div>
         </div>
       </section>
       {/* ======================================================================================================================================================================= */}
       <section id="categories" className="max-w-7xl flex items-center justify-center mx-auto py-2">
-        <div className="flex scrollbar-thin scrollbar-thumb-[#E9F0CD] scrollbar-track-[#1C3029] overflow-x-auto space-x-2 pb-4">
+        <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {categories.map((category: any, index: any) => (
             <button
               key={index}
               onClick={() => setActiveCategory(category.title)}
-              className={`flex flex-col items-center shadow shadow-black p-1 rounded-lg w-24 text-[#172B25] ${activeCategory === category.title ? "bg-[#E9F0CD]/80" : "bg-[#E9F0CD]/20 text-[#E9F0CD]"}`}
+              className={`flex flex-col items-center shadow shadow-black p-1 rounded-lg w-24 text-primary ${activeCategory === category.title ? "bg-secondary/80" : "bg-secondary/20 text-secondary"}`}
             >
               <div className="w-20 h-20 rounded-lg shadow shadow-black flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full rounded" />
@@ -129,9 +129,9 @@ export default function HomePage() {
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (
-            <div key={index} className="flex flex-col rounded-lg shadow border-2 border-[#E9F0CD]/20 overflow-hidden h-full">
+            <div key={index} className="flex flex-col rounded-lg shadow border-2 border-secondary/20 overflow-hidden h-full">
               <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48 border-b-2 border-[#1C2924]" />
-              <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow p-2">
+              <div className="text-secondary flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow p-2">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
                     <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
@@ -154,7 +154,7 @@ export default function HomePage() {
                       setSelectedItem(item);
                       setIsModalOpen(true);
                     }}
-                    className="bg-[#E9F0CD] text-[#172B25] px-3 py-1 rounded-l-3xl shadow shadow-[#172B25] text-sm font-bold font-Kurale hover:bg-[#A8B67C] transition duration-300"
+                    className="bg-secondary text-primary px-3 py-1 rounded-l-3xl shadow shadow-primary text-sm font-bold font-Kurale hover:bg-[#A8B67C] transition duration-300"
                   >
                     Add to Cart
                   </button>
@@ -167,7 +167,7 @@ export default function HomePage() {
       {/* ======================================================================================================================================================================= */}
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2">
-          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-[#E9F0CD] text-[#172B25] p-2 rounded-lg shadow shadow-[#131313] flex items-center">
+          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-lg shadow shadow-[#131313] flex items-center">
             <FaShoppingCart size={20} />
             <span className="ml-2 font-bold inline-flex items-center">
               Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
@@ -182,13 +182,13 @@ export default function HomePage() {
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 right-0 w-full sm:w-96 bg-[#131313]/60 backdrop-blur-2xl border-2 border-[#E9F0CD]/20 text-[#E9F0CD] rounded-t-2xl shadow-lg flex justify-center max-h-[50vh]"
+            className="fixed bottom-0 right-0 w-full sm:w-96 bg-[#131313]/60 backdrop-blur-2xl border-2 border-secondary/20 text-secondary rounded-t-2xl shadow-lg flex justify-center max-h-[50vh]"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-7xl font-Playfair font-bold">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={24} className="text-[#1C3029] bg-[#E9F0CD] rounded-full font-bold animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-full font-bold animate-spin" />
                 </button>
               </div>
               {cart.map((item: any, index: any) => (
@@ -203,20 +203,20 @@ export default function HomePage() {
                   <div className="flex items-center gap-2">
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-[#E9F0CD]/60 hover:bg-[#E9F0CD] text-[#1C3029] font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <FaMinus />
                     </button>
                     <span className="font-Playfair font-bold">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-[#E9F0CD]/60 hover:bg-[#E9F0CD] text-[#1C3029] font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <FaPlus />
                     </button>
                     <button
                       onClick={() => removeFromCart(item.title, item.selectedSize)}
-                      className="text-sm bg-red-700 hover:bg-red-500 text-[#1C3029] font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-red-700 hover:bg-red-500 text-primary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <MdClose size={16} />
                     </button>
@@ -236,7 +236,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-[#E9F0CD] hover:bg-[#8C9A68]/60 text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-bold font-Kurale"
+                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-secondary hover:bg-[#8C9A68]/60 text-primary hover:text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
                 >
                   Proceed To Checkout
                 </Link>

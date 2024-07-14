@@ -7,9 +7,9 @@ const Navbar = () => {
   const { data: session } = useSession();
 
   return (
-    <nav className="sticky top-0 bg-[#1C3029]/30 backdrop-blur-md p-2 z-50">
+    <nav className="sticky top-0 bg-primary/30 backdrop-blur-md p-2 z-50">
       <div className="flex items-center justify-between mx-auto max-w-full">
-        <Link href={"/routes"} className="text-xl font-bold cursor-pointer text-[#E9F0CD] font-Brittany">
+        <Link href={"/routes"} className="text-xl font-bold cursor-pointer text-secondary font-Brittany">
           Sizzle 'n Spice
         </Link>
         <div className="flex items-center space-x-2">
@@ -20,24 +20,24 @@ const Navbar = () => {
                   <img alt="User profile" src={session.user.image} />
                 </div>
               </div>
-              <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-[#1C3029]/60 backdrop-blur-md rounded-box w-52 font-Kurale font-bold">
+              <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-primary/60 backdrop-blur-md rounded-box w-52 font-Kurale font-bold">
                 <li>
-                  <a href="/routes" className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <a href="/routes" className="text-secondary hover:bg-[#171717]/50">
                     User Data
                   </a>
                 </li>
                 <li>
-                  <a href="/routes/customer/menu" className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <a href="/routes/customer/menu" className="text-secondary hover:bg-[#171717]/50">
                     Menu
                   </a>
                 </li>
                 <li>
-                  <a href="/routes/customer/checkout" className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <a href="/routes/customer/checkout" className="text-secondary hover:bg-[#171717]/50">
                     Orders
                   </a>
                 </li>
                 <li>
-                  <a onClick={() => signOut()} className="text-[#E9F0CD] hover:bg-[#171717]/50">
+                  <a onClick={() => signOut()} className="text-secondary hover:bg-[#171717]/50">
                     Sign out
                   </a>
                 </li>

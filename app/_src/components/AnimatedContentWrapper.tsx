@@ -13,7 +13,7 @@ const AnimatedContentWrapper = ({ children }: { children: React.ReactNode }) => 
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
       transition={{ duration: 1.5 }}
-      className="flex-grow overflow-y-auto bg-[#171717] scrollbar-thin scrollbar-thumb-[#E9F0CD] scrollbar-track-[#1c3029]/30"
+      className="flex-grow overflow-y-auto bg-[#171717] scrollbar-thin scrollbar-thumb-secondary scrollbar-track-[#1c3029]/30"
     >
       {children}
     </motion.div>

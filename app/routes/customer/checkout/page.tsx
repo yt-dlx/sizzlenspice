@@ -99,12 +99,12 @@ export default function CartPage() {
   };
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
         <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 hue-rotate-90" />
-          <p className="mb-4 text-4xl md:text-8xl text-[#E9F0CD]">Order Placed,</p>
-          <ul className="text-lg md:xl text-[#E9F0CD] p-8 list-disc font-Kurale">
+          <p className="mb-4 text-4xl md:text-8xl text-secondary">Order Placed,</p>
+          <ul className="text-lg md:xl text-secondary p-8 list-disc font-Kurale">
             <li>Thank you for ordering!</li>
             <li>Please keep an eye on your order status.</li>
             <li>Closing in 4s.</li>
@@ -112,8 +112,8 @@ export default function CartPage() {
         </section>
       )}
       {/* ======================================================================================================================================================================= */}
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
-        <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Order Summary</h1>
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
+        <h1 className="text-8xl sm:text-9xl font-bold text-secondary">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
           Here's a summary of your order, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
@@ -123,7 +123,7 @@ export default function CartPage() {
       {/* ======================================================================================================================================================================= */}
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-          <p className="text-4xl font-bold font-Kurale bg-[#E9F0CD] text-[#172B25] px-3 py-2 rounded-lg flex items-center">
+          <p className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-lg flex items-center">
             Total: <FaRupeeSign className="inline" />
             {getCartTotal().toFixed(2)}
           </p>
@@ -132,12 +132,12 @@ export default function CartPage() {
       {/* ======================================================================================================================================================================= */}
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div key={index} className="flex items-center justify-between mb-4 bg-[#E9F0CD]/10 p-4 rounded-lg">
+          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/10 p-4 rounded-lg">
             <div className="flex items-center gap-2">
               <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]" />
               <div>
-                <h3 className="font-bold text-[#E9F0CD]">{item.title}</h3>
-                <p className="text-sm text-[#E9F0CD]/70 font-Kurale">{item.selectedSize} plate</p>
+                <h3 className="font-bold text-secondary">{item.title}</h3>
+                <p className="text-sm text-secondary/70 font-Kurale">{item.selectedSize} plate</p>
               </div>
             </div>
             <div className="flex items-center">
@@ -145,16 +145,16 @@ export default function CartPage() {
                 onClick={() => {
                   updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1);
                 }}
-                className="text-[#E9F0CD] px-2"
+                className="text-secondary px-2"
               >
                 <FaMinus />
               </button>
-              <span className="mx-2 text-[#E9F0CD]">{item.quantity}</span>
+              <span className="mx-2 text-secondary">{item.quantity}</span>
               <button
                 onClick={() => {
                   updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1);
                 }}
-                className="text-[#E9F0CD] px-2"
+                className="text-secondary px-2"
               >
                 <FaPlus />
               </button>
@@ -174,13 +174,13 @@ export default function CartPage() {
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD]">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
               <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
-                <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
+                <GiDeliveryDrone size={80} className="animate-pulse text-secondary" />
                 Confirm Your Culinary Journey and Place Your Orders
               </span>
-              <div className="mt-4 mb-4 bg-[#E9F0CD]/20 rounded-lg p-4 font-Kurale">
-                <h4 className="font-bold mb-3 text-3xl border-b border-[#E9F0CD]/30 pb-2">Delivery Information</h4>
+              <div className="mt-4 mb-4 bg-secondary/20 rounded-lg p-4 font-Kurale">
+                <h4 className="font-bold mb-3 text-3xl border-b border-secondary/30 pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
                     <HiLocationMarker className="w-5 h-5 mr-2" />
@@ -218,13 +218,13 @@ export default function CartPage() {
                 <button
                   disabled={isLoading}
                   onClick={ConfirmOrder}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
                 </button>
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> No, I want to add more!
                 </Link>
@@ -234,15 +234,15 @@ export default function CartPage() {
           </section>
         ) : (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD]">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
               <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
-                <GiDeliveryDrone size={80} className="animate-pulse text-[#E9F0CD]" />
+                <GiDeliveryDrone size={80} className="animate-pulse text-secondary" />
                 Your Cart is Empty! Let's Fill it up.
               </span>
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Go To Food Items
                 </Link>
@@ -254,19 +254,19 @@ export default function CartPage() {
       ) : null}
       {/* ======================================================================================================================================================================= */}
       {prevOrders && prevOrders.length > 0 && (
-        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-[#E9F0CD]">
-          <h3 className="text-4xl font-bold font-Kurale bg-[#E9F0CD] text-[#172B25] px-3 py-2 rounded-t-lg flex items-center">My Orders</h3>
+        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
+          <h3 className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-t-lg flex items-center">My Orders</h3>
           {prevOrders
             .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
             .map((order: any, index: number) => (
-              <div key={index} className="bg-[#E9F0CD]/10 p-4 rounded-lg mb-4 font-bold font-Kurale">
+              <div key={index} className="bg-secondary/10 p-4 rounded-lg mb-4 font-bold font-Kurale">
                 <div className="flex justify-between items-center">
                   <p className="text-lg md:text-xl lg:text-2xl font-bold">
                     Order ID: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order._id}</span>{" "}
                   </p>
                   <button
                     onClick={() => ToggleVisualize(order._id)}
-                    className="transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-[#172B25] hover:text-[#E9F0CD] px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
+                    className="transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
                   >
                     {visualizedOrders[order._id] ? (
                       <>
@@ -297,7 +297,7 @@ export default function CartPage() {
                   <div className="mt-4">
                     <table className="w-full">
                       <thead>
-                        <tr className="border-b border-[#E9F0CD]/30">
+                        <tr className="border-b border-secondary/30">
                           <th className="text-left p-2">Item</th>
                           <th className="text-left p-2">Size</th>
                           <th className="text-right p-2">Price</th>
@@ -308,7 +308,7 @@ export default function CartPage() {
                           const price = typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
                           const quantity = typeof item.quantity === "number" ? item.quantity : parseInt(item.quantity, 10) || 0;
                           return (
-                            <tr key={itemIndex} className="border-b border-[#E9F0CD]/10">
+                            <tr key={itemIndex} className="border-b border-secondary/10">
                               <td className="p-2 font-light">{item.title}</td>
                               <td className="p-2 font-light">
                                 {item.selectedSize} x{quantity}
