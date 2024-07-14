@@ -134,7 +134,7 @@ export default function HomePage() {
               <div className="text-[#E9F0CD] flex flex-col justify-between rounded-b m-0.5 py-2 bg-[#2B4B40]/40 flex-grow p-2">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-4500" : "bg-red-600"}`} />
+                    <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
                     <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
                   </div>
                   <div className="inline-flex items-center justify-center">

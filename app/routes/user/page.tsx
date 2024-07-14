@@ -61,7 +61,6 @@ export default function UserPage() {
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
       {/* ======================================================================================================================================================================= */}
-
       <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-[#E9F0CD]/10 p-4 rounded-lg text-[#E9F0CD]">
         <form onSubmit={handleConfirm} id="user-data" className="space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-2">
