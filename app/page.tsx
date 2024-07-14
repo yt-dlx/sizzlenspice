@@ -36,7 +36,7 @@ export default async function HomePage() {
 
   return (
     <React.Fragment>
-      <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1c3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
+      <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-[#1C3029]/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
         <section className="flex flex-col md:justify-center md:items-center sm:text-center text-[#E9F0CD] font-Playfair">
           <h1 className="text-8xl sm:text-9xl font-bold text-[#E9F0CD]">Sizzle 'n Spice</h1>
           <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
