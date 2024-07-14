@@ -24,7 +24,17 @@ export default function CartPage() {
   const [pusherChannel, setPusherChannel] = useState<any>(null);
   const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
-  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal, locationData, phoneNumber, customerEmail } = useStore();
+  const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
+  const [userData, setUserData] = useState({
+    phoneNumber: "",
+    customerEmail: "",
+    locationData: {
+      latitude: "",
+      longitude: "",
+      address: "",
+      pincode: "",
+    },
+  });
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   async function fetchPreviousOrders(userId: string) {
@@ -42,6 +52,16 @@ export default function CartPage() {
         setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
       });
       fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+      fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
+        .then((response) => response.json())
+        .then((data) => {
+          setUserData((prevData) => ({
+            ...prevData,
+            phoneNumber: data.phoneNumber || "",
+            customerEmail: data.customerEmail || session.user?.email || "",
+          }));
+        })
+        .catch((err) => console.error("Failed to fetch user data", err));
     }
     return () => {
       if (pusherChannel) {
@@ -76,7 +96,7 @@ export default function CartPage() {
       const response = await fetch("/api/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ cart, phoneNumber, locationData, customerEmail, totalAmount: getCartTotal(), userId: session?.user?.email }),
+        body: JSON.stringify({ cart, ...userData, totalAmount: getCartTotal(), userId: session?.user?.email }),
       });
       if (!response.ok) setError("Failed to place order!");
       const { orderId } = await response.json();
@@ -185,31 +205,31 @@ export default function CartPage() {
                   <div className="flex items-center">
                     <HiLocationMarker className="w-5 h-5 mr-2" />
                     <p>
-                      <span className="font-semibold">Address:</span> {locationData.address}
+                      <span className="font-semibold">Address:</span> {userData.locationData.address}
                     </p>
                   </div>
                   <div className="flex items-center">
                     <HiCreditCard className="w-5 h-5 mr-2" />
                     <p>
-                      <span className="font-semibold">Pincode:</span> {locationData.pincode}
+                      <span className="font-semibold">Pincode:</span> {userData.locationData.pincode}
                     </p>
                   </div>
                   <div className="flex items-center">
                     <HiGlobe className="w-5 h-5 mr-2" />
                     <p>
-                      <span className="font-semibold">Coordinates:</span> {locationData.latitude}, {locationData.longitude}
+                      <span className="font-semibold">Coordinates:</span> {userData.locationData.latitude}, {userData.locationData.longitude}
                     </p>
                   </div>
                   <div className="flex items-center">
                     <HiPhone className="w-5 h-5 mr-2" />
                     <p>
-                      <span className="font-semibold">Phone:</span> {phoneNumber}
+                      <span className="font-semibold">Phone:</span> {userData.phoneNumber}
                     </p>
                   </div>
                   <div className="flex items-center md:col-span-2">
                     <HiMail className="w-5 h-5 mr-2" />
                     <p>
-                      <span className="font-semibold">Email:</span> {customerEmail}
+                      <span className="font-semibold">Email:</span> {userData.customerEmail}
                     </p>
                   </div>
                 </div>

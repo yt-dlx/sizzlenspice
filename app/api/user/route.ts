@@ -7,19 +7,20 @@ export async function GET(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const email = session.user?.email ?? "";
-  const user = await prisma.user.findUnique({ where: { email } });
-  return NextResponse.json({ phoneNumber: user?.phoneNumber || "", customerEmail: user?.customerEmail || "" });
+  const user = await prisma.user.findUnique({ where: { email }, include: { locationData: true } });
+  return NextResponse.json({ phoneNumber: user?.phoneNumber || "", customerEmail: user?.customerEmail || "", locationData: user?.locationData || {} });
 }
 
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { phoneNumber, customerEmail } = await request.json();
+  const { phoneNumber, customerEmail, locationData } = await request.json();
   const email = session.user?.email ?? "";
   await prisma.user.upsert({
     where: { email },
-    update: { phoneNumber, customerEmail },
-    create: { email, phoneNumber, customerEmail },
+    update: { phoneNumber, customerEmail, locationData: { upsert: { create: locationData, update: locationData } } },
+    create: { email, phoneNumber, customerEmail, locationData: { create: locationData } },
   });
+
   return NextResponse.json({ message: "User data updated successfully" });
 }

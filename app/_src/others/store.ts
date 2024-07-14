@@ -8,22 +8,8 @@ export const useStore = create<StoreState>((set, get) => ({
   searchTerm: "",
   activeCategory: "All",
   categories: initialCategories,
-  locationData: {
-    latitude: "",
-    longitude: "",
-    address: "",
-    pincode: "",
-  },
-  phoneNumber: "",
-  customerEmail: "",
-  setPhoneNumber: (phoneNumber) => set({ phoneNumber }),
-  setCustomerEmail: (customerEmail) => set({ customerEmail }),
   setSearchTerm: (term) => set({ searchTerm: term }),
   setActiveCategory: (category) => set({ activeCategory: category }),
-  setLocationData: (data) =>
-    set((state) => ({
-      locationData: { ...state.locationData, ...data },
-    })),
   addToCart: (item: FoodItem & { selectedSize: string }) =>
     set((state) => {
       const existingItemIndex = state.cart.findIndex((cartItem) => cartItem.title === item.title && cartItem.selectedSize === item.selectedSize);

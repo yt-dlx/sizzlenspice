@@ -9,10 +9,21 @@ generator client {
 }
 
 model User {
-  id            String  @id @default(auto()) @map("_id") @db.ObjectId
-  email         String  @unique
+  id            String        @id @default(auto()) @map("_id") @db.ObjectId
+  email         String        @unique
   phoneNumber   String?
   customerEmail String?
+  locationData  LocationData?
+}
+
+model LocationData {
+  id        String @id @default(auto()) @map("_id") @db.ObjectId
+  latitude  String
+  longitude String
+  address   String
+  pincode   String
+  user      User   @relation(fields: [userId], references: [id])
+  userId    String @unique @db.ObjectId
 }
 
 model Order {
