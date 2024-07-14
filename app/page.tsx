@@ -38,7 +38,7 @@ export default async function HomePage() {
     <React.Fragment>
       <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
         <section className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-          <h1 className="text-8xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
+          <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
           <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
           <img src="/sns.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-200" />
         </section>

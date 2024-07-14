@@ -45,13 +45,7 @@ export default function CartPage() {
       fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
       fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
         .then((response) => response.json())
-        .then((data) => {
-          setUserData((prev) => ({
-            ...prev,
-            phoneNumber: data.phoneNumber || "",
-            customerEmail: data.customerEmail || session.user?.email || "",
-          }));
-        })
+        .then((data) => setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || "", locationData: data.locationData || "" })))
         .catch((err) => console.error("Failed to fetch user data", err));
     }
     return () => {
@@ -113,7 +107,7 @@ export default function CartPage() {
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       {showGif && (
         <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
-          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 hue-rotate-90" />
+          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 saturate-0" />
           <p className="mb-4 text-4xl md:text-8xl text-secondary">Order Placed,</p>
           <ul className="text-lg md:xl text-secondary p-8 list-disc font-Kurale">
             <li>Thank you for ordering!</li>
@@ -124,18 +118,18 @@ export default function CartPage() {
       )}
       {/* ======================================================================================================================================================================= */}
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-8xl sm:text-9xl font-bold text-secondary">Order Summary</h1>
+        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
           Here's a summary of your order, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
         </h2>
-        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-90" />
+        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-0" />
       </section>
       {/* ======================================================================================================================================================================= */}
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-          <p className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-lg flex items-center">
-            Total: <FaRupeeSign className="inline" />
+          <p className="text-2xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-lg flex items-center">
+            Total: <FaRupeeSign size={20} className="inline-flex ml-2" />
             {getCartTotal().toFixed(2)}
           </p>
         </section>
@@ -186,39 +180,35 @@ export default function CartPage() {
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
             <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
-              <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
-                <GiDeliveryDrone size={80} className="animate-pulse text-secondary" />
-                Confirm Your Culinary Journey and Place Your Orders
-              </span>
               <div className="mt-4 mb-4 bg-secondary/20 rounded-lg p-4 font-Kurale">
                 <h4 className="font-bold mb-3 text-3xl border-b border-secondary/30 pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
-                    <HiLocationMarker className="w-5 h-5 mr-2" />
+                    <HiLocationMarker size={20} className="inline-flex mr-2" />
                     <p>
                       <span className="font-semibold">Address:</span> {userData.locationData.address}
                     </p>
                   </div>
                   <div className="flex items-center">
-                    <HiCreditCard className="w-5 h-5 mr-2" />
+                    <HiCreditCard size={20} className="inline-flex mr-2" />
                     <p>
                       <span className="font-semibold">Pincode:</span> {userData.locationData.pincode}
                     </p>
                   </div>
                   <div className="flex items-center">
-                    <HiGlobe className="w-5 h-5 mr-2" />
+                    <HiGlobe size={20} className="inline-flex mr-2" />
                     <p>
                       <span className="font-semibold">Coordinates:</span> {userData.locationData.latitude}, {userData.locationData.longitude}
                     </p>
                   </div>
                   <div className="flex items-center">
-                    <HiPhone className="w-5 h-5 mr-2" />
+                    <HiPhone size={20} className="inline-flex mr-2" />
                     <p>
                       <span className="font-semibold">Phone:</span> {userData.phoneNumber}
                     </p>
                   </div>
                   <div className="flex items-center md:col-span-2">
-                    <HiMail className="w-5 h-5 mr-2" />
+                    <HiMail size={20} className="inline-flex mr-2" />
                     <p>
                       <span className="font-semibold">Email:</span> {userData.customerEmail}
                     </p>
@@ -229,15 +219,15 @@ export default function CartPage() {
                 <button
                   disabled={isLoading}
                   onClick={ConfirmOrder}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
-                  <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Order!"}
+                  <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                 </button>
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
-                  <MdFastfood size={20} /> No, I want to add more!
+                  <MdFastfood size={20} /> I want to add more!
                 </Link>
               </div>
               {error && <p className="mt-2 text-red-500">{error}</p>}
@@ -253,9 +243,9 @@ export default function CartPage() {
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
-                  <MdFastfood size={20} /> Go To Food Items
+                  <MdFastfood size={20} /> Add Food Items
                 </Link>
               </div>
               {error && <p className="mt-2 text-red-500">{error}</p>}
@@ -291,16 +281,16 @@ export default function CartPage() {
                   </button>
                 </div>
                 <ul className="list-disc ml-8">
-                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
-                    Date: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
+                  <li className="md:text-lg lg:text-xl font-bold">
+                    Date & Time: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
                   </li>
-                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                  <li className="md:text-lg lg:text-xl font-bold">
                     Total: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
                   </li>
-                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                  <li className="md:text-lg lg:text-xl font-bold">
                     Items: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
                   </li>
-                  <li className="text-lg md:text-xl lg:text-2xl font-bold">
+                  <li className="md:text-lg lg:text-xl font-bold">
                     Status: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed animate-pulse">{order.status}</span>
                   </li>
                 </ul>
@@ -329,17 +319,6 @@ export default function CartPage() {
                           );
                         })}
                       </tbody>
-                      <tfoot>
-                        <tr className="font-bold">
-                          <td colSpan={2} className="text-right p-2">
-                            Total:
-                          </td>
-                          <td className="text-right p-2 inline-flex items-center">
-                            <FaRupeeSign className="inline mr-1" />
-                            {typeof order.total === "number" ? order.total.toFixed(2) : (parseFloat(order.total) || 0).toFixed(2)}
-                          </td>
-                        </tr>
-                      </tfoot>
                     </table>
                   </div>
                 )}

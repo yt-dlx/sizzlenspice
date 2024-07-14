@@ -63,9 +63,9 @@ export default function UserPage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-8xl sm:text-9xl font-bold text-secondary">User Data</h1>
+        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">User Data</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">User data encompasses personal data collected to understand and improve user experiences!</h2>
-        <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
+        <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-0" />
       </section>
       <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
         <form onSubmit={handleConfirm} className="space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">

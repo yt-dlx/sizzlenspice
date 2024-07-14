@@ -23,22 +23,27 @@ const Navbar = () => {
               <ul tabIndex={0} className="mt-3 z-[1] p-2 shadow-lg menu menu-sm dropdown-content bg-primary/60 backdrop-blur-md rounded-box w-52 font-Kurale font-bold">
                 <li>
                   <a href="/routes" className="text-secondary hover:bg-[#171717]/50">
-                    User Data
+                    profile
                   </a>
                 </li>
                 <li>
                   <a href="/routes/customer/menu" className="text-secondary hover:bg-[#171717]/50">
-                    Menu
+                    menu
                   </a>
                 </li>
                 <li>
                   <a href="/routes/customer/checkout" className="text-secondary hover:bg-[#171717]/50">
-                    Orders
+                    orders
+                  </a>
+                </li>
+                <li>
+                  <a href="/routes/restaurant/orders" className="text-secondary hover:bg-[#171717]/50">
+                    become-partner
                   </a>
                 </li>
                 <li>
                   <a onClick={() => signOut()} className="text-secondary hover:bg-[#171717]/50">
-                    Sign out
+                    sign-out
                   </a>
                 </li>
               </ul>

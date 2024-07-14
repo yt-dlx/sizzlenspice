@@ -90,7 +90,7 @@ export default function HomePage() {
       )}
       {/* ======================================================================================================================================================================= */}
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-8xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
+        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
       {/* ======================================================================================================================================================================= */}
