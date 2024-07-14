@@ -1,10 +1,10 @@
-// app/restaurant.tsx
+// app/home/restaurant/profile.tsx
 "use client";
 import Link from "next/link";
 import { useSession } from "next-auth/react";
 import { MdFastfood } from "react-icons/md";
 
-const RestaurantPage = () => {
+const RestaurantProfilePage = () => {
   const { data: session } = useSession();
 
   return (
@@ -32,4 +32,4 @@ const RestaurantPage = () => {
   );
 };
 
-export default RestaurantPage;
+export default RestaurantProfilePage;
