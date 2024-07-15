@@ -8,19 +8,14 @@ import { FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
 export default function UserPage() {
   const router = useRouter();
   const { data: session } = useSession();
-  const [error, setError] = React.useState<string | null>(null);
   const [userData, setUserData] = React.useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
 
   React.useEffect(() => {
     const fetchUserData = async () => {
-      try {
-        const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
-        if (!response.ok) throw new Error("Failed to fetch user data");
-        const data = await response.json();
-        setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
-      } catch (err) {
-        setError("Failed to fetch user data");
-      }
+      const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
+      if (!response.ok) throw new Error("Failed to fetch user data");
+      const data = await response.json();
+      setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
     };
     if (session) fetchUserData();
   }, [session]);
@@ -30,17 +25,13 @@ export default function UserPage() {
 
   const handleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
-    try {
-      const response = await fetch("/api/user", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(userData),
-      });
-      if (!response.ok) throw new Error("Failed to update user data");
-      router.push("/routes/customer/menu");
-    } catch (err) {
-      setError("Failed to update user data!");
-    }
+    const response = await fetch("/api/user", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(userData),
+    });
+    if (!response.ok) throw new Error("Failed to update user data");
+    router.push("/routes/customer/menu");
   };
 
   React.useEffect(() => {
@@ -121,7 +112,6 @@ export default function UserPage() {
           >
             Confirm and Continue
           </button>
-          {error && <p className="mt-2 text-red-500">{error}</p>}
         </form>
       </section>
     </main>
