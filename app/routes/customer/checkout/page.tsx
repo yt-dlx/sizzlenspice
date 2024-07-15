@@ -29,7 +29,7 @@ export default function CartPage() {
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   async function fetchPreviousOrders(userId: string) {
-    const response = await fetch("/api/orders?userId=" + userId);
+    const response = await fetch("/api/restaurant/orders?userId=" + userId);
     if (!response.ok) setError("Failed to fetch order!");
     const data = await response.json();
     return data.orders;
@@ -78,7 +78,7 @@ export default function CartPage() {
       setError(null);
       setShowGif(true);
       setIsLoading(true);
-      const response = await fetch("/api/orders", {
+      const response = await fetch("/api/restaurant/orders", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ cart, ...userData, totalAmount: getCartTotal(), userId: session?.user?.email }),

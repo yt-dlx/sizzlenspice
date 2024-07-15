@@ -1,4 +1,4 @@
-// app/api/login/route.ts
+// app/api/restaurant/login/route.ts
 import { auth } from "@/auth";
 import bcrypt from "bcryptjs";
 import prisma from "@/lib/prisma";

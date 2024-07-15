@@ -32,7 +32,7 @@ export default function RegisterPage() {
     e.preventDefault();
     console.clear();
     console.log(formData);
-    const response = await fetch("/api/registration", {
+    const response = await fetch("/api/restaurant/registration", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
@@ -44,7 +44,7 @@ export default function RegisterPage() {
 
   useEffect(() => {
     async function fetchRestaurants() {
-      const response = await fetch("/api/registration");
+      const response = await fetch("/api/restaurant/registration");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
       else window.location.reload();
     }
