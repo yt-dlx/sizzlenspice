@@ -49,7 +49,7 @@ export default function RegisterPage() {
       headers: { "Content-Type": "application/json" },
     });
     if (!response.ok) throw new Error("Failed to Register restaurant");
-    else router.push("/routes/restaurant/login");
+    else router.push("/routes/restaurant/profile");
   };
 
   return (

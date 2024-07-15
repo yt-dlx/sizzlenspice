@@ -6,11 +6,11 @@ import { LuBike } from "react-icons/lu";
 import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
-import { pusherClient } from "@/src/lib/pusher";
+import { pusherClient } from "@/lib/pusher";
 import { GiDeliveryDrone } from "react-icons/gi";
 import React, { useEffect, useState } from "react";
-import type Order from "@/src/app/_src/types/Order";
-import { useStore } from "@/src/app/_src/others/store";
+import type Order from "@/app/_src/types/Order";
+import { useStore } from "@/app/_src/others/store";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
 

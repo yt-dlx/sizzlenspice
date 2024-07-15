@@ -1,6 +1,6 @@
 // app/api/restaurant/signin/route.ts
 import { auth } from "@/auth";
-import prisma from "@/src/lib/prisma";
+import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
