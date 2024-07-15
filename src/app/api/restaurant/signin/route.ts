@@ -1,7 +1,7 @@
 // app/api/restaurant/signin/route.ts
 import { auth } from "@/auth";
 import bcrypt from "bcryptjs";
-import prisma from "@/lib/prisma";
+import prisma from "@/public/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
@@ -18,23 +18,20 @@ export async function POST(request: NextRequest) {
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const email = session.user?.email as string;
   const { phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
-  if (!phoneNumber || !address || !pincode || !password || !ownerName || !OperatingHoursStart || !OperatingHoursEnd) {
-    return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
-  }
+  if (!phoneNumber || !address || !pincode || !password || !ownerName || !OperatingHoursStart || !OperatingHoursEnd) return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
   const hashedPassword = await bcrypt.hash(password, 10);
-  const existingRestaurant = await prisma.restaurant.findFirst({
-    where: { OR: [{ email }, { phoneNumber }, { address }, { pincode }] },
-  });
+  const existingRestaurant = await prisma.restaurant.findFirst({ where: { OR: [{ email }, { phoneNumber }, { address }, { pincode }] } });
   if (existingRestaurant) return NextResponse.json({ error: "Restaurant with given details already exists" }, { status: 400 });
   const newRestaurant = await prisma.restaurant.create({
     data: {
       email,
-      phoneNumber,
       address,
       pincode,
       ownerName,
-      OperatingHoursStart,
+      phoneNumber,
+      verified: false,
       OperatingHoursEnd,
+      OperatingHoursStart,
       password: hashedPassword,
     },
   });
@@ -52,13 +49,13 @@ export async function PUT(request: NextRequest) {
     where: { id },
     data: {
       email,
-      phoneNumber,
       address,
       pincode,
-      password: hashedPassword,
       ownerName,
-      OperatingHoursStart,
+      phoneNumber,
       OperatingHoursEnd,
+      OperatingHoursStart,
+      password: hashedPassword,
     },
   });
   return NextResponse.json({ restaurant: updatedRestaurant });

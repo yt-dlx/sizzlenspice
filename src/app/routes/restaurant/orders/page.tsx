@@ -1,8 +1,8 @@
 // app/routes/restaurant/orders/page.tsx
 "use client";
 import Image from "next/image";
-import { pusherClient } from "@/lib/pusher";
-import type Order from "@/app/_src/types/Order";
+import { pusherClient } from "@/src/public/lib/pusher";
+import type Order from "@/src/app/_src/types/Order";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";

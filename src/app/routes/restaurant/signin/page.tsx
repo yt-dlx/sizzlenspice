@@ -34,7 +34,7 @@ export default function RegisterPage() {
       const response = await fetch("/api/restaurant/signin");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
       const data = await response.json();
-      if (data.restaurants.some((restaurant: { email: string }) => restaurant.email === session?.user?.email)) router.push("/routes/restaurant/login");
+      if (data.restaurants.some((restaurant: { email: string }) => restaurant.email === session?.user?.email)) router.push("/routes/restaurant/orders");
     }
     fetchRestaurants();
   }, [session?.user?.email, router]);
@@ -42,8 +42,6 @@ export default function RegisterPage() {
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.clear();
-    console.log(formData);
     const response = await fetch("/api/restaurant/signin", {
       method: "POST",
       body: JSON.stringify(formData),

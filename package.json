@@ -7,8 +7,9 @@
     "email": "shovitdutta1@gmail.com"
   },
   "scripts": {
-    "dev": "prisma generate && prisma db push && next dev",
+    "prisma": "prisma generate --schema=src/prisma/schema.prisma && prisma db push --schema=src/prisma/schema.prisma",
     "build": "bunx format && next build",
+    "dev": "bunx run prisma && next dev",
     "format": "prettier --write .",
     "start": "next start"
   },

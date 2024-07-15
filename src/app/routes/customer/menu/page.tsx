@@ -4,9 +4,9 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { MdClose } from "react-icons/md";
-import { FoodItem } from "@/app/_src/types/cart";
+import { FoodItem } from "@/src/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
-import { useStore } from "@/app/_src/others/store";
+import { useStore } from "@/src/app/_src/others/store";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
