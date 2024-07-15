@@ -112,8 +112,8 @@ export default function AdminPage() {
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Order Management</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Manage and track all incoming orders efficiently in one place, all in real-time!</h2>
       </section>
+      {/* ======================================================================================================================================================================= */}
       <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-        {/* ======================================================================================================================================================================= */}
         <section id="DashboardSummary">
           <header className="text-4xl font-bold mb-1 font-Kurale bg-secondary text-primary shadow shadow-[#131313] px-3 py-2 rounded-lg flex items-center justify-center">My Work Summary</header>
           <ul className="grid grid-cols-2 md:grid-cols-4 gap-2">

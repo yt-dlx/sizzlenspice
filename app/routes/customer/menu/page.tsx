@@ -128,7 +128,7 @@ export default function HomePage() {
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full py-2 pl-10 pr-4 rounded-lg bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary ring-2 ring-secondary focus:ring-[#131313]"
+              className="pl-10 block w-full rounded-lg border-primary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
             />
           </div>
         </div>
