@@ -1,7 +1,7 @@
 // app/routes/restaurant/orders/page.tsx
 "use client";
 import Image from "next/image";
-import { pusherClient } from "@/src/public/lib/pusher";
+import { pusherClient } from "@/src/lib/pusher";
 import type Order from "@/src/app/_src/types/Order";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";

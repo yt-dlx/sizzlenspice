@@ -1,7 +1,7 @@
 // app/api/orders/route.ts
 import { auth } from "@/auth";
-import prisma from "@/src/public/lib/prisma";
-import { pusherServer } from "@/src/public/lib/pusher";
+import prisma from "@/src/lib/prisma";
+import { pusherServer } from "@/src/lib/pusher";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";

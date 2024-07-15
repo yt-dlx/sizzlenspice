@@ -4,13 +4,13 @@ import Link from "next/link";
 import Image from "next/image";
 import { LuBike } from "react-icons/lu";
 import { useRouter } from "next/navigation";
-import { pusherClient } from "@/src/public/lib/pusher";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
-import type Order from "@/src/app/_src/types/Order";
+import { pusherClient } from "@/src/lib/pusher";
 import { GiDeliveryDrone } from "react-icons/gi";
-import { useStore } from "@/src/app/_src/others/store";
 import React, { useEffect, useState } from "react";
+import type Order from "@/src/app/_src/types/Order";
+import { useStore } from "@/src/app/_src/others/store";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
 

@@ -45,7 +45,6 @@ model Restaurant {
   phoneNumber         String   @unique
   address             String   @unique
   pincode             String   @unique
-  password            String
   ownerName           String
   OperatingHoursStart String
   OperatingHoursEnd   String

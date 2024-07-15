@@ -1,6 +1,6 @@
 // app/api/pusher/route.ts
 import { NextRequest, NextResponse } from "next/server";
-import { pusherServer } from "@/src/public/lib/pusher";
+import { pusherServer } from "@/src/lib/pusher";
 
 export async function POST(request: NextRequest) {
   const { channel, event, data } = await request.json();

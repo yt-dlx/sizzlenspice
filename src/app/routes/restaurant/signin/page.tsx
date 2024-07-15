@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import React, { useState, useEffect } from "react";
-import { MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
+import { MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -13,18 +13,14 @@ export default function RegisterPage() {
     verified: false,
     pincode: "",
     address: "",
-    password: "",
     ownerName: "",
     phoneNumber: "",
-    repeat_password: "",
     OperatingHoursEnd: "",
     OperatingHoursStart: "",
   });
 
   const formFields = [
     { name: "address", type: "text", label: "Address", icon: <MdLocationOn />, placeholder: "Enter your restaurant's address" },
-    { name: "password", type: "password", label: "Login Password", icon: <MdLock />, placeholder: "Enter a secure password" },
-    { name: "repeat_password", type: "password", label: "Confirm Password", icon: <MdLock />, placeholder: "Repeat your password" },
     { name: "ownerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
     { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
     { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
@@ -35,7 +31,11 @@ export default function RegisterPage() {
       const response = await fetch("/api/restaurant/signin");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
       const data = await response.json();
-      if (data.restaurants.some((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email && restaurant.verified)) router.push("/routes/restaurant/orders");
+      const restaurant = data.restaurants.find((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email);
+      if (restaurant) {
+        if (restaurant.verified) router.push("/routes/restaurant/orders");
+        else router.push("/routes/restaurant/profile");
+      }
     }
     fetchRestaurants();
   }, [session?.user?.email, router]);

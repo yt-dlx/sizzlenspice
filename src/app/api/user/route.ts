@@ -1,6 +1,6 @@
 // app/api/user/route.ts
 import { auth } from "@/auth";
-import prisma from "@/src/public/lib/prisma";
+import prisma from "@/src/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function GET(request: NextRequest) {
