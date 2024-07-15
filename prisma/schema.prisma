@@ -37,3 +37,16 @@ model Order {
   createdAt     DateTime @default(now())
   total         Float
 }
+
+model Restaurant {
+  id                  String   @id @default(auto()) @map("_id") @db.ObjectId
+  email               String   @unique
+  phoneNumber         String   @unique
+  address             String   @unique
+  pincode             String   @unique
+  password            String
+  ownerName           String
+  operatingHoursStart String
+  operatingHoursEnd   String
+  createdAt           DateTime @default(now())
+}

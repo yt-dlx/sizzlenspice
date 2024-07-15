@@ -1,8 +1,8 @@
 // app/routes/restaurant/register/page.tsx
 "use client";
 import Image from "next/image";
-import React, { useState } from "react";
-import { MdEmail, MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdLocalDining, MdPinDrop } from "react-icons/md";
+import React, { useState, useEffect } from "react";
+import { MdEmail, MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
 
 export default function RegisterPage() {
   const [formData, setFormData] = useState({
@@ -28,7 +28,23 @@ export default function RegisterPage() {
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
-  const handleSubmit = (e: React.FormEvent) => e.preventDefault();
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    const response = await fetch("/api/registration", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(formData),
+    });
+    if (!response.ok) throw new Error("Failed to register restaurant");
+  };
+
+  useEffect(() => {
+    async function fetchRestaurants() {
+      const response = await fetch("/api/registration");
+      if (!response.ok) throw new Error("Failed to fetch restaurants");
+    }
+    fetchRestaurants();
+  }, []);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-secondary">
