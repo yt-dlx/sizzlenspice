@@ -10,8 +10,9 @@ export default function RegisterPage() {
   const router = useRouter();
   const { data: session } = useSession();
   const [formData, setFormData] = useState({
-    address: "",
+    verified: false,
     pincode: "",
+    address: "",
     password: "",
     ownerName: "",
     phoneNumber: "",
@@ -34,7 +35,7 @@ export default function RegisterPage() {
       const response = await fetch("/api/restaurant/signin");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
       const data = await response.json();
-      if (data.restaurants.some((restaurant: { email: string }) => restaurant.email === session?.user?.email)) router.push("/routes/restaurant/orders");
+      if (data.restaurants.some((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email && restaurant.verified)) router.push("/routes/restaurant/orders");
     }
     fetchRestaurants();
   }, [session?.user?.email, router]);
@@ -80,8 +81,8 @@ export default function RegisterPage() {
                     type={field.type}
                     name={field.name}
                     onChange={handleChange}
-                    value={formData[field.name as keyof typeof formData]}
                     placeholder={field.placeholder}
+                    value={String(formData[field.name as keyof typeof formData])}
                     className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:font-RobotoCondensed placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
                   />
                 </div>
@@ -128,6 +129,7 @@ export default function RegisterPage() {
               </div>
             </div>
           </div>
+          <input type="hidden" name="verified" value="false" />
           <button
             type="submit"
             className="w-full bg-secondary text-primary py-2 px-4 rounded-lg hover:bg-[#a0b07e] focus:outline-none focus:ring-2 focus:ring-secondary focus:ring-offset-2 transition duration-150 ease-in-out"

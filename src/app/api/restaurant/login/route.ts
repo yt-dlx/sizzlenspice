@@ -1,7 +1,7 @@
 // app/api/restaurant/login/route.ts
 import { auth } from "@/auth";
 import bcrypt from "bcryptjs";
-import prisma from "@/public/lib/prisma";
+import prisma from "@/src/public/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";

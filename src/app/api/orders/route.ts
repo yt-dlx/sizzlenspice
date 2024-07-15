@@ -1,6 +1,6 @@
 // app/api/orders/route.ts
 import { auth } from "@/auth";
-import prisma from "@/public/lib/prisma";
+import prisma from "@/src/public/lib/prisma";
 import { pusherServer } from "@/src/public/lib/pusher";
 import { NextRequest, NextResponse } from "next/server";
 

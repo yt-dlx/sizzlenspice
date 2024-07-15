@@ -1,7 +1,7 @@
 // app/api/restaurant/signin/route.ts
 import { auth } from "@/auth";
 import bcrypt from "bcryptjs";
-import prisma from "@/public/lib/prisma";
+import prisma from "@/src/public/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
@@ -17,7 +17,7 @@ export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const email = session.user?.email as string;
-  const { phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
+  const { phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd, verified } = await request.json();
   if (!phoneNumber || !address || !pincode || !password || !ownerName || !OperatingHoursStart || !OperatingHoursEnd) return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
   const hashedPassword = await bcrypt.hash(password, 10);
   const existingRestaurant = await prisma.restaurant.findFirst({ where: { OR: [{ email }, { phoneNumber }, { address }, { pincode }] } });
@@ -29,10 +29,10 @@ export async function POST(request: NextRequest) {
       pincode,
       ownerName,
       phoneNumber,
-      verified: false,
       OperatingHoursEnd,
       OperatingHoursStart,
       password: hashedPassword,
+      verified: verified || false, // Use the verified field from the request body
     },
   });
   return NextResponse.json({ restaurant: newRestaurant }, { status: 201 });
