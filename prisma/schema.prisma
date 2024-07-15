@@ -46,7 +46,7 @@ model Restaurant {
   pincode             String   @unique
   password            String
   ownerName           String
-  operatingHoursStart String
-  operatingHoursEnd   String
+  OperatingHoursStart String
+  OperatingHoursEnd   String
   createdAt           DateTime @default(now())
 }

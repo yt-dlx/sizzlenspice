@@ -6,42 +6,47 @@ import { MdEmail, MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDr
 
 export default function RegisterPage() {
   const [formData, setFormData] = useState({
-    Email: "",
-    Number: "",
-    Address: "",
-    Pincode: "",
+    email: "",
+    address: "",
+    pincode: "",
     password: "",
-    OwnerName: "",
+    ownerName: "",
+    phoneNumber: "",
     repeat_password: "",
     OperatingHoursEnd: "",
     OperatingHoursStart: "",
   });
 
   const formFields = [
-    { name: "Address", type: "text", label: "Address", icon: <MdLocationOn />, placeholder: "Enter your restaurant's address" },
-    { name: "Email", type: "email", label: "Email Address", icon: <MdEmail />, placeholder: "Enter your restaurant's email" },
+    { name: "address", type: "text", label: "Address", icon: <MdLocationOn />, placeholder: "Enter your restaurant's address" },
+    { name: "email", type: "email", label: "Email Address", icon: <MdEmail />, placeholder: "Enter your restaurant's email" },
     { name: "password", type: "password", label: "Login Password", icon: <MdLock />, placeholder: "Enter a secure password" },
     { name: "repeat_password", type: "password", label: "Confirm Password", icon: <MdLock />, placeholder: "Repeat your password" },
-    { name: "OwnerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
-    { name: "Number", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
-    { name: "Pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
+    { name: "ownerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
+    { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
+    { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    console.clear();
+    console.log(formData);
     const response = await fetch("/api/registration", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
     });
     if (!response.ok) throw new Error("Failed to register restaurant");
+    else {
+    }
   };
 
   useEffect(() => {
     async function fetchRestaurants() {
       const response = await fetch("/api/registration");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
+      else window.location.reload();
     }
     fetchRestaurants();
   }, []);
