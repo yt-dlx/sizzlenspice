@@ -9,20 +9,17 @@ export default function LoginPage() {
     email: "",
     pincode: "",
     password: "",
-    ownerName: "",
     phoneNumber: "",
   });
 
   const formFields = [
+    { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter your pincode" },
     { name: "email", type: "email", label: "Email Address", icon: <MdEmail />, placeholder: "Enter your email" },
     { name: "password", type: "password", label: "Password", icon: <MdLock />, placeholder: "Enter your password" },
-    { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter your pincode" },
-    { name: "ownerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
     { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     console.clear();
