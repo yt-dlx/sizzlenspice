@@ -7,7 +7,8 @@
     "email": "shovitdutta1@gmail.com"
   },
   "scripts": {
-    "build": "npm run format && next build",
+    "prisma": "bunx prisma generate && bunx prisma db push && clear && bunx dev",
+    "build": "bunx format && next build",
     "format": "prettier --write .",
     "start": "next start",
     "dev": "next dev"
@@ -18,7 +19,6 @@
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.13",
     "@tanstack/react-query": "^5.48.0",
-    "@types/bcryptjs": "^2.4.6",
     "bcryptjs": "^2.4.3",
     "daisyui": "^4.12.10",
     "dotenv": "^16.4.5",
@@ -28,7 +28,6 @@
     "mongodb": "^6.8.0",
     "next": "14.2.4",
     "next-auth": "^5.0.0-beta.19",
-    "next-themes": "^0.3.0",
     "preline": "^2.3.0",
     "prettier": "^3.3.2",
     "prisma": "^5.16.2",
@@ -39,10 +38,10 @@
     "react-icons": "^5.2.1",
     "sharp": "0.32.6",
     "tailwind-scrollbar": "^3.1.0",
-    "tailwind-scrollbar-hide": "^1.1.7",
-    "zustand": "^4.5.4"
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
     "@tanstack/react-query-devtools": "^5.48.0",
     "@types/node": "^20.14.9",
     "@types/react": "^18.3.3",
