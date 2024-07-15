@@ -1,6 +1,7 @@
 // app/routes/page.tsx
 "use client";
 import React from "react";
+import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import { FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
@@ -8,14 +9,24 @@ import { FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
 export default function UserPage() {
   const router = useRouter();
   const { data: session } = useSession();
+  const [error, setError] = React.useState("");
+  const [loading, setLoading] = React.useState(false);
   const [userData, setUserData] = React.useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
 
   React.useEffect(() => {
     const fetchUserData = async () => {
-      const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
-      if (!response.ok) throw new Error("Failed to fetch user data");
-      const data = await response.json();
-      setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
+      setLoading(true);
+      setError("");
+      try {
+        const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
+        if (!response.ok) throw new Error("Failed to fetch user data");
+        const data = await response.json();
+        setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
+      } catch (error: any) {
+        setError(error.message);
+      } finally {
+        setLoading(false);
+      }
     };
     if (session) fetchUserData();
   }, [session]);
@@ -25,13 +36,21 @@ export default function UserPage() {
 
   const handleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
-    const response = await fetch("/api/user", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(userData),
-    });
-    if (!response.ok) throw new Error("Failed to update user data");
-    router.push("/routes/customer/menu");
+    setLoading(true);
+    setError("");
+    try {
+      const response = await fetch("/api/user", {
+        method: "POST",
+        body: JSON.stringify(userData),
+        headers: { "Content-Type": "application/json" },
+      });
+      if (!response.ok) throw new Error("Failed to update user data");
+      router.push("/routes/customer/menu");
+    } catch (error: any) {
+      setError(error.message);
+    } finally {
+      setLoading(false);
+    }
   };
 
   React.useEffect(() => {
@@ -50,6 +69,9 @@ export default function UserPage() {
       }
     });
   }, []);
+
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">

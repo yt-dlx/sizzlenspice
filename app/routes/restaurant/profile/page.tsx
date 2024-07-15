@@ -1,11 +1,18 @@
 // app/routes/restaurant/profile.tsx
 "use client";
+import React from "react";
 import Link from "next/link";
+import Loading from "./loading";
 import { MdFastfood } from "react-icons/md";
 import { useSession } from "next-auth/react";
 
 const RestaurantProfilePage = () => {
   const { data: session } = useSession();
+  const [error, setError] = React.useState("");
+  const [loading, setLoading] = React.useState(false);
+
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <div className="bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">

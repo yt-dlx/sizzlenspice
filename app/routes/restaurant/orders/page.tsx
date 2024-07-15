@@ -1,6 +1,7 @@
 // app/routes/restaurant/orders/page.tsx
 "use client";
 import Image from "next/image";
+import Loading from "./loading";
 import { pusherClient } from "@/lib/pusher";
 import type Order from "@/app/_src/types/Order";
 import React, { useEffect, useState } from "react";
@@ -10,6 +11,7 @@ import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 export default function AdminPage() {
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
+  const [loading, setLoading] = React.useState(false);
   const [error, setError] = useState<string | null>(null);
   const [selectedOrder, setSelectedOrder] = useState<Order | null>(null);
   const [orderTimers, setOrderTimers] = useState<{ [key: string]: number }>({});
@@ -103,7 +105,7 @@ export default function AdminPage() {
     }
   };
 
-  if (isLoading) return <p className="text-secondary">Loading...</p>;
+  if (loading || isLoading) return <Loading />;
   if (error) throw new Error(error);
 
   return (

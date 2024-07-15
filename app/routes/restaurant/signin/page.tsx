@@ -1,6 +1,7 @@
 // app/routes/restaurant/signin/page.tsx
 "use client";
 import Image from "next/image";
+import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import React, { useState, useEffect } from "react";
@@ -9,6 +10,8 @@ import { MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-
 export default function RegisterPage() {
   const router = useRouter();
   const { data: session } = useSession();
+  const [error, setError] = React.useState("");
+  const [loading, setLoading] = React.useState(false);
   const [formData, setFormData] = useState({
     verified: false,
     pincode: "",
@@ -51,6 +54,9 @@ export default function RegisterPage() {
     if (!response.ok) throw new Error("Failed to Register restaurant");
     else router.push("/routes/restaurant/profile");
   };
+
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-secondary">

@@ -1,9 +1,9 @@
 // app/routes/company/page.tsx
 "use client";
+import React from "react";
 import Link from "next/link";
 import Loading from "./loading";
 import { useSession } from "next-auth/react";
-import React, { useEffect, useState } from "react";
 import { MdFastfood, MdEdit, MdSave } from "react-icons/md";
 
 interface Restaurant {
@@ -20,12 +20,13 @@ interface Restaurant {
 
 const CompanyPage: React.FC = () => {
   const { data: session } = useSession();
-  const [isLoading, setIsLoading] = useState(true);
-  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
-  const [editingRestaurant, setEditingRestaurant] = useState<string | null>(null);
-  const [editedRestaurant, setEditedRestaurant] = useState<Partial<Restaurant>>({});
+  const [error, setError] = React.useState("");
+  const [loading, setLoading] = React.useState(false);
+  const [restaurants, setRestaurants] = React.useState<Restaurant[]>([]);
+  const [editingRestaurant, setEditingRestaurant] = React.useState<string | null>(null);
+  const [editedRestaurant, setEditedRestaurant] = React.useState<Partial<Restaurant>>({});
 
-  useEffect(() => {
+  React.useEffect(() => {
     async function fetchRestaurants() {
       try {
         const response = await fetch("/api/restaurant/signin");
@@ -35,7 +36,7 @@ const CompanyPage: React.FC = () => {
       } catch (error) {
         console.error("Error fetching restaurants:", error);
       } finally {
-        setIsLoading(false);
+        setLoading(false);
       }
     }
     fetchRestaurants();
@@ -80,7 +81,8 @@ const CompanyPage: React.FC = () => {
     setEditedRestaurant({});
   };
 
-  if (isLoading) return <Loading />;
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <div className="bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 min-h-screen text-secondary">

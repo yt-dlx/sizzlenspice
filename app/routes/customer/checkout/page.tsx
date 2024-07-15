@@ -2,6 +2,7 @@
 "use client";
 import Link from "next/link";
 import Image from "next/image";
+import Loading from "./loading";
 import { LuBike } from "react-icons/lu";
 import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
@@ -19,6 +20,7 @@ export default function CartPage() {
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [loading, setLoading] = React.useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [pusherChannel, setPusherChannel] = useState<any>(null);
@@ -102,6 +104,9 @@ export default function CartPage() {
       setIsLoading(false);
     }
   };
+
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">

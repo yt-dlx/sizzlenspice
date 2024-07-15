@@ -3,6 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import Loading from "./loading";
 import { MdClose } from "react-icons/md";
 import { FoodItem } from "@/app/_src/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
@@ -11,6 +12,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function HomePage() {
+  const [error, setError] = React.useState("");
+  const [loading, setLoading] = React.useState(false);
   const [isCartOpen, setIsCartOpen] = React.useState(false);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
   const [filteredItems, setFilteredItems] = React.useState<FoodItem[]>([]);
@@ -31,6 +34,9 @@ export default function HomePage() {
     const filtered = categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
     setFilteredItems(filtered);
   }, [activeCategory, searchTerm, categories]);
+
+  if (loading) return <Loading />;
+  if (error) throw new Error(error);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
