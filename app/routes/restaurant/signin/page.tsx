@@ -1,12 +1,15 @@
 // app/routes/restaurant/signin/page.tsx
 "use client";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
+import { useSession } from "next-auth/react";
 import React, { useState, useEffect } from "react";
-import { MdEmail, MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
+import { MdLock, MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
 
 export default function RegisterPage() {
+  const router = useRouter();
+  const { data: session } = useSession();
   const [formData, setFormData] = useState({
-    email: "",
     address: "",
     pincode: "",
     password: "",
@@ -19,13 +22,22 @@ export default function RegisterPage() {
 
   const formFields = [
     { name: "address", type: "text", label: "Address", icon: <MdLocationOn />, placeholder: "Enter your restaurant's address" },
-    { name: "email", type: "email", label: "Email Address", icon: <MdEmail />, placeholder: "Enter your restaurant's email" },
     { name: "password", type: "password", label: "Login Password", icon: <MdLock />, placeholder: "Enter a secure password" },
     { name: "repeat_password", type: "password", label: "Confirm Password", icon: <MdLock />, placeholder: "Repeat your password" },
     { name: "ownerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
     { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
     { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
   ];
+
+  useEffect(() => {
+    async function fetchRestaurants() {
+      const response = await fetch("/api/restaurant/signin");
+      if (!response.ok) throw new Error("Failed to fetch restaurants");
+      const data = await response.json();
+      if (data.restaurants.some((restaurant: { email: string }) => restaurant.email === session?.user?.email)) router.push("/routes/restaurant/login");
+    }
+    fetchRestaurants();
+  }, [session?.user?.email, router]);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
   const handleSubmit = async (e: React.FormEvent) => {
@@ -34,20 +46,12 @@ export default function RegisterPage() {
     console.log(formData);
     const response = await fetch("/api/restaurant/signin", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
+      headers: { "Content-Type": "application/json" },
     });
     if (!response.ok) throw new Error("Failed to Register restaurant");
+    else router.push("/routes/restaurant/login");
   };
-
-  useEffect(() => {
-    async function fetchRestaurants() {
-      const response = await fetch("/api/restaurant/signin");
-      if (!response.ok) throw new Error("Failed to fetch restaurants");
-      else window.location.reload();
-    }
-    fetchRestaurants();
-  }, []);
 
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-secondary">

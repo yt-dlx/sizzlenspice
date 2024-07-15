@@ -16,8 +16,9 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { email, phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
-  if (!email || !phoneNumber || !address || !pincode || !password || !ownerName || !OperatingHoursStart || !OperatingHoursEnd) {
+  const email = session.user?.email as string;
+  const { phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
+  if (!phoneNumber || !address || !pincode || !password || !ownerName || !OperatingHoursStart || !OperatingHoursEnd) {
     return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
   }
   const hashedPassword = await bcrypt.hash(password, 10);
@@ -43,7 +44,8 @@ export async function POST(request: NextRequest) {
 export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { id, email, phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
+  const email = session.user?.email as string;
+  const { id, phoneNumber, address, pincode, password, ownerName, OperatingHoursStart, OperatingHoursEnd } = await request.json();
   let hashedPassword = password;
   if (password) hashedPassword = await bcrypt.hash(password, 10);
   const updatedRestaurant = await prisma.restaurant.update({

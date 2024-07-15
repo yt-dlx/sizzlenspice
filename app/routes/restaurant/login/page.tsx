@@ -39,7 +39,7 @@ export default function LoginPage() {
           </div>
         </div>
         <form onSubmit={handleSubmit} className="space-y-4 p-8 font-Kurale font-bold">
-          <div className="grid gap-4">
+          <div className="grid md:grid-cols-2 gap-4">
             {formFields.map((field) => (
               <div key={field.name}>
                 <label htmlFor={field.name} className="block text-sm text-secondary mb-1">
