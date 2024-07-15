@@ -1,4 +1,4 @@
-// app/routes/restaurant/register/page.tsx
+// app/routes/restaurant/signin/page.tsx
 "use client";
 import Image from "next/image";
 import React, { useState, useEffect } from "react";
@@ -32,19 +32,17 @@ export default function RegisterPage() {
     e.preventDefault();
     console.clear();
     console.log(formData);
-    const response = await fetch("/api/restaurant/registration", {
+    const response = await fetch("/api/restaurant/signin", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
     });
-    if (!response.ok) throw new Error("Failed to register restaurant");
-    else {
-    }
+    if (!response.ok) throw new Error("Failed to Register restaurant");
   };
 
   useEffect(() => {
     async function fetchRestaurants() {
-      const response = await fetch("/api/restaurant/registration");
+      const response = await fetch("/api/restaurant/signin");
       if (!response.ok) throw new Error("Failed to fetch restaurants");
       else window.location.reload();
     }

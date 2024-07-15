@@ -37,7 +37,7 @@ const Navbar = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="/routes/restaurant/registration" className="text-secondary hover:bg-[#171717]/50">
+                  <a href="/routes/restaurant/signin" className="text-secondary hover:bg-[#171717]/50">
                     become-partner
                   </a>
                 </li>
