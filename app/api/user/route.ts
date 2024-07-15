@@ -21,6 +21,5 @@ export async function POST(request: NextRequest) {
     update: { phoneNumber, customerEmail, locationData: { upsert: { create: locationData, update: locationData } } },
     create: { email, phoneNumber, customerEmail, locationData: { create: locationData } },
   });
-
   return NextResponse.json({ message: "User data updated successfully" });
 }
