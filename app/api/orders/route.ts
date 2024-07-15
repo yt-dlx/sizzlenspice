@@ -1,4 +1,4 @@
-// app/api/restaurant/orders/route.ts
+// app/api/orders/route.ts
 import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { pusherServer } from "@/lib/pusher";

@@ -64,7 +64,7 @@ export default function AdminPage() {
   const fetchOrders = async () => {
     try {
       setIsLoading(true);
-      const response = await fetch("/api/restaurant/orders");
+      const response = await fetch("/api/orders");
       if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
       const reversedOrders = data.orders.reverse();
@@ -79,7 +79,7 @@ export default function AdminPage() {
 
   const updateOrderStatus = async (orderId: string, newStatus: string, userId: string) => {
     try {
-      const response = await fetch("/api/restaurant/orders", {
+      const response = await fetch("/api/orders", {
         method: "PUT",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ orderId, status: newStatus }),
