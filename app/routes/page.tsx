@@ -79,7 +79,7 @@ export default function UserPage() {
   };
   const UserData = () => {
     return (
-      <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary">
+      <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary shadow-md shadow-secondary">
         <form onSubmit={handleConfirm} className="space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
             <div className="relative flex-grow">

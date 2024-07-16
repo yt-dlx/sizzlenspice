@@ -69,24 +69,6 @@ export default function HomePage() {
       </section>
     );
   };
-  const Search = () => {
-    return (
-      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
-        <div className="flex flex-col gap-1 w-full">
-          <div className="relative w-full">
-            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
-            <input
-              type="text"
-              value={searchTerm}
-              placeholder="Search dishes..."
-              onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
-            />
-          </div>
-        </div>
-      </section>
-    );
-  };
   const Items = () => {
     return (
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
@@ -223,7 +205,20 @@ export default function HomePage() {
       </AnimatePresence>
       <Header />
       <Categories />
-      <Search />
+      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
+        <div className="flex flex-col gap-1 w-full">
+          <div className="relative w-full">
+            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+            <input
+              type="text"
+              value={searchTerm}
+              placeholder="Search dishes..."
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary shadow-md shadow-secondary"
+            />
+          </div>
+        </div>
+      </section>
       <Items />
       <Checkout />
       <AnimatePresence>
