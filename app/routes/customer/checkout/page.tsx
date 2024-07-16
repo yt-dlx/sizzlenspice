@@ -364,7 +364,6 @@ export default function CartPage() {
     );
   };
   // =======================================================================================================================================================================
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <ShowGif />

@@ -7,5 +7,4 @@ const Loading: React.FC = () => {
     </main>
   );
 };
-
 export default Loading;

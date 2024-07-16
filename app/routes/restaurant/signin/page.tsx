@@ -21,14 +21,12 @@ export default function RegisterPage() {
     OperatingHoursEnd: "",
     OperatingHoursStart: "",
   });
-
   const formFields = [
     { name: "address", type: "text", label: "Address", icon: <MdLocationOn />, placeholder: "Enter your restaurant's address" },
     { name: "ownerName", type: "text", label: "Owner Name", icon: <MdPerson />, placeholder: "Enter owner's name" },
     { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
     { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
   ];
-
   useEffect(() => {
     async function fetchRestaurants() {
       try {
@@ -48,7 +46,6 @@ export default function RegisterPage() {
     }
     fetchRestaurants();
   }, [session?.user?.email, router]);
-
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -60,15 +57,12 @@ export default function RegisterPage() {
     if (!response.ok) throw new Error("Failed to Register restaurant");
     else router.push("/routes/restaurant/profile");
   };
-
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-
   // =======================================================================================================================================================================
   const Header = () => {};
   const UserData = () => {};
   // =======================================================================================================================================================================
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">

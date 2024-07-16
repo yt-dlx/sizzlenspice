@@ -209,15 +209,19 @@ export default function HomePage() {
   };
   const Cart = () => {
     return (
-      <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-        <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
-          <FaShoppingCart size={20} />
-          <span className="ml-2 font-bold inline-flex items-center">
-            Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
-            {totalCost.toFixed(2)}
-          </span>
-        </button>
-      </section>
+      <>
+        {cart.length > 0 && !isCartOpen && (
+          <section id="cart-button" className="fixed bottom-14 right-2 z-30">
+            <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
+              <FaShoppingCart size={20} />
+              <span className="ml-2 font-bold inline-flex items-center">
+                Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
+                {totalCost.toFixed(2)}
+              </span>
+            </button>
+          </section>
+        )}
+      </>
     );
   };
   const Checkout = () => {
@@ -302,7 +306,7 @@ export default function HomePage() {
       <Search />
       <Categories />
       <Items />
-      {cart.length > 0 && !isCartOpen && <Cart />}
+      <Cart />
       <Checkout />
     </main>
   );

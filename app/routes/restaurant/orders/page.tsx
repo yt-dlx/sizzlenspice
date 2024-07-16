@@ -17,7 +17,6 @@ export default function AdminPage() {
   const [orderTimers, setOrderTimers] = useState<{ [key: string]: number }>({});
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-
   useEffect(() => {
     const channel = pusherClient.subscribe("partner-channel");
     channel.bind("order-updated", (data: { orderId: string; status: string }) => {
@@ -47,14 +46,12 @@ export default function AdminPage() {
       clearInterval(timerInterval);
     };
   }, []);
-
   const formatTime = (seconds: number) => {
     const hours = Math.floor(seconds / 3600);
     const minutes = Math.floor((seconds % 3600) / 60);
     const remainingSeconds = seconds % 60;
     return `${hours.toString().padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
   };
-
   const statusOptions = ["Preparing", "Delivering", "Completed"];
   const statusIcons = { Preparing: <MdShoppingCart />, Delivering: <MdLocalShipping />, Completed: <MdDoneAll /> };
   const formatCreatedAt = (createdAt: string | number | Date) => {
@@ -69,7 +66,6 @@ export default function AdminPage() {
     });
     return formattedDate;
   };
-
   const fetchOrders = async () => {
     try {
       setIsLoading(true);
@@ -85,7 +81,6 @@ export default function AdminPage() {
       setIsLoading(false);
     }
   };
-
   const updateOrderStatus = async (orderId: string, newStatus: string, userId: string) => {
     try {
       const response = await fetch("/api/orders", {
@@ -111,15 +106,12 @@ export default function AdminPage() {
       setError(error.message);
     }
   };
-
   if (loading || isLoading) return <Loading />;
   if (error) throw new Error(error);
-
   // =======================================================================================================================================================================
   const Header = () => {};
   const UserData = () => {};
   // =======================================================================================================================================================================
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">
