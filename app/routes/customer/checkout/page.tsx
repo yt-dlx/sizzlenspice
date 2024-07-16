@@ -29,14 +29,12 @@ export default function CartPage() {
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
   const [userData, setUserData] = useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-
   async function fetchPreviousOrders(userId: string) {
     const response = await fetch("/api/orders?userId=" + userId);
     if (!response.ok) setError("Failed to fetch order!");
     const data = await response.json();
     return data.orders;
   }
-
   useEffect(() => {
     try {
       if (session?.user?.email) {
@@ -63,7 +61,6 @@ export default function CartPage() {
       }
     };
   }, [session]);
-
   useEffect(() => {
     try {
       const storedOrderTime = localStorage.getItem("OrderPlacedTime");
@@ -86,7 +83,6 @@ export default function CartPage() {
       setLoading(false);
     }
   }, [showGif, session]);
-
   const ConfirmOrder = async () => {
     try {
       setError(null);
@@ -116,29 +112,28 @@ export default function CartPage() {
       setIsLoading(false);
     }
   };
-
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-
   // =======================================================================================================================================================================
-  const Header = () => {};
-  const UserData = () => {};
-  // =======================================================================================================================================================================
-
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      {showGif && (
-        <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50">
-          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
-          <p className="mb-4 text-5xl md:text-9xl font-bold">Order Placed,</p>
-          <ul className="text-lg md:xl p-8 list-disc font-Kurale">
-            <li>Thank you for ordering!</li>
-            <li>Please keep an eye on your order status.</li>
-            <li>Closing in 4s.</li>
-          </ul>
-        </section>
-      )}
-      {/* ======================================================================================================================================================================= */}
+  const ShowGif = () => {
+    return (
+      <>
+        {showGif && (
+          <section id="ShowGif" className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50">
+            <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
+            <p className="mb-4 text-5xl md:text-9xl font-bold">Order Placed,</p>
+            <ul className="text-lg md:xl p-8 list-disc font-Kurale">
+              <li>Thank you for ordering!</li>
+              <li>Please keep an eye on your order status.</li>
+              <li>Closing in 4s.</li>
+            </ul>
+          </section>
+        )}
+      </>
+    );
+  };
+  const Header = () => {
+    return (
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
@@ -147,16 +142,24 @@ export default function CartPage() {
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
       </section>
-      {/* ======================================================================================================================================================================= */}
-      {getCartTotal() > 0 && (
-        <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-          <p className="text-2xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-2xl flex items-center">
-            Total: <FaRupeeSign size={20} className="inline-flex ml-2" />
-            {getCartTotal().toFixed(2)}
-          </p>
-        </section>
-      )}
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const OrderTotal = () => {
+    return (
+      <>
+        {getCartTotal() > 0 && (
+          <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
+            <p className="text-2xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-2xl flex items-center">
+              Total: <FaRupeeSign size={20} className="inline-flex ml-2" />
+              {getCartTotal().toFixed(2)}
+            </p>
+          </section>
+        )}
+      </>
+    );
+  };
+  const CartItems = () => {
+    return (
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
           <div key={index} className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-2xl">
@@ -197,157 +200,179 @@ export default function CartPage() {
           </div>
         ))}
       </section>
-      {/* ======================================================================================================================================================================= */}
-      {!orderPlaced ? (
-        cart.length > 0 ? (
-          <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-2xl text-primary">
-              <div className="bg-primary/20 rounded-2xl p-4 font-Kurale">
-                <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">Delivery Information</h4>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <div className="flex items-center">
-                    <HiLocationMarker size={20} className="inline-flex mr-2" />
-                    <p>
-                      <span className="font-semibold">Address:</span> {userData.locationData.address}
-                    </p>
-                  </div>
-                  <div className="flex items-center">
-                    <HiCreditCard size={20} className="inline-flex mr-2" />
-                    <p>
-                      <span className="font-semibold">Pincode:</span> {userData.locationData.pincode}
-                    </p>
-                  </div>
-                  <div className="flex items-center">
-                    <HiGlobe size={20} className="inline-flex mr-2" />
-                    <p>
-                      <span className="font-semibold">Coordinates:</span> {userData.locationData.latitude}, {userData.locationData.longitude}
-                    </p>
-                  </div>
-                  <div className="flex items-center">
-                    <HiPhone size={20} className="inline-flex mr-2" />
-                    <p>
-                      <span className="font-semibold">Phone:</span> {userData.phoneNumber}
-                    </p>
-                  </div>
-                  <div className="flex items-center md:col-span-2">
-                    <HiMail size={20} className="inline-flex mr-2" />
-                    <p>
-                      <span className="font-semibold">Email:</span> {userData.customerEmail}
-                    </p>
+    );
+  };
+  const DeliveryInformation = () => {
+    return (
+      <>
+        {!orderPlaced ? (
+          cart.length > 0 ? (
+            <section id="delivery-info" className="flex items-center justify-center">
+              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-2xl text-primary">
+                <div className="bg-primary/20 rounded-2xl p-4 font-Kurale">
+                  <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">Delivery Information</h4>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div className="flex items-center">
+                      <HiLocationMarker size={20} className="inline-flex mr-2" />
+                      <p>
+                        <span className="font-semibold">Address:</span> {userData.locationData.address}
+                      </p>
+                    </div>
+                    <div className="flex items-center">
+                      <HiCreditCard size={20} className="inline-flex mr-2" />
+                      <p>
+                        <span className="font-semibold">Pincode:</span> {userData.locationData.pincode}
+                      </p>
+                    </div>
+                    <div className="flex items-center">
+                      <HiGlobe size={20} className="inline-flex mr-2" />
+                      <p>
+                        <span className="font-semibold">Coordinates:</span> {userData.locationData.latitude}, {userData.locationData.longitude}
+                      </p>
+                    </div>
+                    <div className="flex items-center">
+                      <HiPhone size={20} className="inline-flex mr-2" />
+                      <p>
+                        <span className="font-semibold">Phone:</span> {userData.phoneNumber}
+                      </p>
+                    </div>
+                    <div className="flex items-center md:col-span-2">
+                      <HiMail size={20} className="inline-flex mr-2" />
+                      <p>
+                        <span className="font-semibold">Email:</span> {userData.customerEmail}
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div className="mt-2 space-y-2">
-                <button
-                  disabled={isLoading}
-                  onClick={ConfirmOrder}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
-                >
-                  <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
-                </button>
-                <Link
-                  href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
-                >
-                  <MdFastfood size={20} /> I want to add more!
-                </Link>
-              </div>
-              {error && <p className="mt-2 text-red-500">{error}</p>}
-            </section>
-          </section>
-        ) : (
-          <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary">
-              <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
-                <GiDeliveryDrone size={80} className="animate-pulse text-primary" />
-                Your Cart is Empty! Let's Fill it up.
-              </span>
-              <div className="mt-2 space-y-2">
-                <Link
-                  href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
-                >
-                  <MdFastfood size={20} /> Add Food Items
-                </Link>
-              </div>
-              {error && <p className="mt-2 text-red-500">{error}</p>}
-            </section>
-          </section>
-        )
-      ) : null}
-      {/* ======================================================================================================================================================================= */}
-      {prevOrders && prevOrders.length > 0 && (
-        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
-          <h3 className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-2xl flex items-center mb-1">My Orders</h3>
-          {prevOrders
-            .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
-            .map((order: any, index: number) => (
-              <div key={index} className="bg-secondary/80 text-primary p-4 rounded-2xl mb-4 font-bold font-Kurale">
-                <div className="flex justify-between items-center">
-                  <p className="text-lg md:text-xl lg:text-2xl font-bold">
-                    Order ID: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order._id}</span>{" "}
-                  </p>
+                <div className="mt-2 space-y-2">
                   <button
-                    onClick={() => ToggleVisualize(order._id)}
-                    className="transition duration-700 ease-in-out transform rounded-full bg-primary text-secondary px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
+                    disabled={isLoading}
+                    onClick={ConfirmOrder}
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                   >
-                    {visualizedOrders[order._id] ? (
-                      <>
-                        <FaEyeSlash className="mr-2" /> Hide
-                      </>
-                    ) : (
-                      <>
-                        <FaEye className="mr-2" /> Show
-                      </>
-                    )}
+                    <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                   </button>
+                  <Link
+                    href={"/routes/customer/menu"}
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  >
+                    <MdFastfood size={20} /> I want to add more!
+                  </Link>
                 </div>
-                <ul className="list-disc ml-8">
-                  <li className="md:text-lg lg:text-xl font-bold">
-                    Date & Time: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
-                  </li>
-                  <li className="md:text-lg lg:text-xl font-bold">
-                    Total: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
-                  </li>
-                  <li className="md:text-lg lg:text-xl font-bold">
-                    Items: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
-                  </li>
-                  <li className="md:text-lg lg:text-xl font-bold">
-                    Status: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed animate-pulse">{order.status}</span>
-                  </li>
-                </ul>
-                {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
-                  <div className="mt-4">
-                    <table className="w-full">
-                      <thead>
-                        <tr className="border-b border-secondary/30">
-                          <th className="text-left p-2">Item</th>
-                          <th className="text-left p-2">Size</th>
-                          <th className="text-right p-2">Price</th>
-                        </tr>
-                      </thead>
-                      <tbody className="text-xs">
-                        {order.items.map((item: any, itemIndex: number) => {
-                          const price = typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
-                          const quantity = typeof item.quantity === "number" ? item.quantity : parseInt(item.quantity, 10) || 0;
-                          return (
-                            <tr key={itemIndex} className="border-b border-secondary/10">
-                              <td className="p-2 font-light">{item.title}</td>
-                              <td className="p-2 font-light">
-                                {item.selectedSize} x{quantity}
-                              </td>
-                              <td className="text-right p-2 font-light">{price.toFixed(2)}</td>
-                            </tr>
-                          );
-                        })}
-                      </tbody>
-                    </table>
+                {error && <p className="mt-2 text-red-500">{error}</p>}
+              </section>
+            </section>
+          ) : (
+            <section className="flex items-center justify-center">
+              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary">
+                <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
+                  <GiDeliveryDrone size={80} className="animate-pulse text-primary" />
+                  Your Cart is Empty! Let's Fill it up.
+                </span>
+                <div className="mt-2 space-y-2">
+                  <Link
+                    href={"/routes/customer/menu"}
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  >
+                    <MdFastfood size={20} /> Add Food Items
+                  </Link>
+                </div>
+                {error && <p className="mt-2 text-red-500">{error}</p>}
+              </section>
+            </section>
+          )
+        ) : null}
+      </>
+    );
+  };
+  const PrevOrders = () => {
+    return (
+      <>
+        {prevOrders && prevOrders.length > 0 && (
+          <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
+            <h3 className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-2xl flex items-center mb-1">My Orders</h3>
+            {prevOrders
+              .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+              .map((order: any, index: number) => (
+                <div key={index} className="bg-secondary/80 text-primary p-4 rounded-2xl mb-4 font-bold font-Kurale">
+                  <div className="flex justify-between items-center">
+                    <p className="text-lg md:text-xl lg:text-2xl font-bold">
+                      Order ID: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order._id}</span>{" "}
+                    </p>
+                    <button
+                      onClick={() => ToggleVisualize(order._id)}
+                      className="transition duration-700 ease-in-out transform rounded-full bg-primary text-secondary px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
+                    >
+                      {visualizedOrders[order._id] ? (
+                        <>
+                          <FaEyeSlash className="mr-2" /> Hide
+                        </>
+                      ) : (
+                        <>
+                          <FaEye className="mr-2" /> Show
+                        </>
+                      )}
+                    </button>
                   </div>
-                )}
-              </div>
-            ))}
-        </section>
-      )}
+                  <ul className="list-disc ml-8">
+                    <li className="md:text-lg lg:text-xl font-bold">
+                      Date & Time: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
+                    </li>
+                    <li className="md:text-lg lg:text-xl font-bold">
+                      Total: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
+                    </li>
+                    <li className="md:text-lg lg:text-xl font-bold">
+                      Items: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
+                    </li>
+                    <li className="md:text-lg lg:text-xl font-bold">
+                      Status: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed animate-pulse">{order.status}</span>
+                    </li>
+                  </ul>
+                  {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
+                    <div className="mt-4">
+                      <table className="w-full">
+                        <thead>
+                          <tr className="border-b border-secondary/30">
+                            <th className="text-left p-2">Item</th>
+                            <th className="text-left p-2">Size</th>
+                            <th className="text-right p-2">Price</th>
+                          </tr>
+                        </thead>
+                        <tbody className="text-xs">
+                          {order.items.map((item: any, itemIndex: number) => {
+                            const price = typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
+                            const quantity = typeof item.quantity === "number" ? item.quantity : parseInt(item.quantity, 10) || 0;
+                            return (
+                              <tr key={itemIndex} className="border-b border-secondary/10">
+                                <td className="p-2 font-light">{item.title}</td>
+                                <td className="p-2 font-light">
+                                  {item.selectedSize} x{quantity}
+                                </td>
+                                <td className="text-right p-2 font-light">{price.toFixed(2)}</td>
+                              </tr>
+                            );
+                          })}
+                        </tbody>
+                      </table>
+                    </div>
+                  )}
+                </div>
+              ))}
+          </section>
+        )}
+      </>
+    );
+  };
+  // =======================================================================================================================================================================
+
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+      <ShowGif />
+      <Header />
+      <OrderTotal />
+      <CartItems />
+      <DeliveryInformation />
+      <PrevOrders />
     </main>
   );
 }

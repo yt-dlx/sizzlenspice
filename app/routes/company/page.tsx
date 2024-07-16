@@ -25,7 +25,6 @@ const CompanyPage: React.FC = () => {
   const [restaurants, setRestaurants] = React.useState<Restaurant[]>([]);
   const [editingRestaurant, setEditingRestaurant] = React.useState<string | null>(null);
   const [editedRestaurant, setEditedRestaurant] = React.useState<Partial<Restaurant>>({});
-
   React.useEffect(() => {
     async function fetchRestaurants() {
       try {
@@ -41,7 +40,6 @@ const CompanyPage: React.FC = () => {
     }
     fetchRestaurants();
   }, []);
-
   const handleVerifyToggle = async (restaurant: Restaurant) => {
     const response = await fetch(`/api/restaurant/signin`, {
       method: "PUT",
@@ -52,7 +50,6 @@ const CompanyPage: React.FC = () => {
     const updatedRestaurant = await response.json();
     setRestaurants((prev) => prev.map((rest) => (rest.id === restaurant.id ? updatedRestaurant.restaurant : rest)));
   };
-
   const handleEditToggle = (restaurant: Restaurant) => {
     if (editingRestaurant === restaurant.id) {
       setEditingRestaurant(null);
@@ -62,12 +59,10 @@ const CompanyPage: React.FC = () => {
       setEditedRestaurant(restaurant);
     }
   };
-
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setEditedRestaurant((prev) => ({ ...prev, [name]: value }));
   };
-
   const handleSave = async (restaurant: Restaurant) => {
     const response = await fetch(`/api/restaurant/signin`, {
       method: "PUT",
@@ -80,17 +75,11 @@ const CompanyPage: React.FC = () => {
     setEditingRestaurant(null);
     setEditedRestaurant({});
   };
-
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-
   // =======================================================================================================================================================================
-  const Header = () => {};
-  const UserData = () => {};
-  // =======================================================================================================================================================================
-
-  return (
-    <div className="bg-primary p-4 min-h-screen text-secondary">
+  const Header = () => {
+    return (
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center font-Playfair mb-8">
         <h1 className="text-6xl sm:text-7xl font-bold">Our Company</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
@@ -98,7 +87,11 @@ const CompanyPage: React.FC = () => {
           Learn more about us here.
         </h2>
       </section>
-      <section className="flex items-center justify-center">
+    );
+  };
+  const UserData = () => {
+    return (
+      <section id="UserData" className="flex items-center justify-center">
         <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 bg-secondary/10 rounded-lg">
           <div className="mb-6">
             <Link
@@ -177,11 +170,14 @@ const CompanyPage: React.FC = () => {
           </div>
         </div>
       </section>
-      <footer className="mt-8 text-center">
-        <p className="font-Playfair text-lg">Sizzle 'n Spice</p>
-        <p className="text-sm">Copyright © 2024 - All right reserved</p>
-      </footer>
-    </div>
+    );
+  };
+  // =======================================================================================================================================================================
+  return (
+    <main className="bg-primary p-4 min-h-screen text-secondary">
+      <Header />
+      <UserData />
+    </main>
   );
 };
 
