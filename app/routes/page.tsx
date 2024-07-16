@@ -130,7 +130,7 @@ export default function UserPage() {
           </div>
           <button
             type="submit"
-            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-full bg-primary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-full bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
           >
             Confirm and Continue
           </button>

@@ -154,9 +154,9 @@ export default function CartPage() {
       {/* ======================================================================================================================================================================= */}
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/10 p-4 rounded-lg">
+          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-lg">
             <div className="flex items-center gap-2">
-              <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313]" />
+              <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
               <div>
                 <h3 className="font-bold text-secondary">{item.title}</h3>
                 <p className="text-sm text-secondary/70 font-Kurale">{item.selectedSize} plate</p>
@@ -184,7 +184,7 @@ export default function CartPage() {
                 onClick={() => {
                   removeFromCart(item.title, item.selectedSize);
                 }}
-                className="ml-4 text-red-500 font-bold font-Kurale text-xs"
+                className="ml-4 text-red-800 font-bold font-Kurale text-xs"
               >
                 remove
               </button>
@@ -196,9 +196,9 @@ export default function CartPage() {
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-lg text-primary">
-              <div className="mt-4 mb-4 bg-primary/20 rounded-lg p-4 font-Kurale">
-                <h4 className="font-bold mb-3 text-3xl border-b border-secondary/30 pb-2">Delivery Information</h4>
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-lg text-primary">
+              <div className="bg-primary/20 rounded-lg p-4 font-Kurale">
+                <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
                     <HiLocationMarker size={20} className="inline-flex mr-2" />
@@ -236,13 +236,13 @@ export default function CartPage() {
                 <button
                   disabled={isLoading}
                   onClick={ConfirmOrder}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                 </button>
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> I want to add more!
                 </Link>
@@ -260,7 +260,7 @@ export default function CartPage() {
               <div className="mt-2 space-y-2">
                 <Link
                   href={"/routes/customer/menu"}
-                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+                  className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-lg bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
                 >
                   <MdFastfood size={20} /> Add Food Items
                 </Link>

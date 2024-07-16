@@ -95,14 +95,14 @@ export default function HomePage() {
                             <div className="flex items-center gap-2">
                               <button
                                 onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
-                                className="text-sm bg-primary text-secondary font-Kurale p-1 rounded-full transition duration-300"
+                                className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
                               >
                                 <FaMinus />
                               </button>
-                              <span className="font-Playfair font-bold">{quantity}</span>
+                              <span className="inline-flex text-lg">{quantity}</span>
                               <button
                                 onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
-                                className="text-sm bg-primary text-secondary font-Kurale p-1 rounded-full transition duration-300"
+                                className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
                               >
                                 <FaPlus />
                               </button>
@@ -110,9 +110,9 @@ export default function HomePage() {
                           ) : (
                             <button
                               onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                              className="bg-primary text-secondary px-3 py-1 rounded-full text-sm font-bold font-Kurale hover:bg-[#A8B67C] transition duration-300"
+                              className="px-3 py-1 rounded-full text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
                             >
-                              Add
+                              Add To Cart
                             </button>
                           )}
                         </div>
@@ -191,7 +191,7 @@ export default function HomePage() {
                       setSelectedItem(item);
                       setIsModalOpen(true);
                     }}
-                    className="bg-primary text-secondary px-3 py-1 rounded-l-3xl text-sm font-bold font-Kurale hover:bg-[#A8B67C] transition duration-300"
+                    className="px-3 py-1 rounded-l-3xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
                   >
                     Add to Cart
                   </button>
@@ -204,7 +204,7 @@ export default function HomePage() {
       {/* ======================================================================================================================================================================= */}
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-lg shadow shadow-secondary flex items-center">
+          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-lg flex items-center">
             <FaShoppingCart size={20} />
             <span className="ml-2 font-bold inline-flex items-center">
               Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
@@ -241,20 +241,20 @@ export default function HomePage() {
                   <div className="flex items-center gap-2">
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <FaMinus />
                     </button>
-                    <span className="font-Playfair font-bold">{item.quantity}</span>
+                    <span className="inline-flex text-lg">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-secondary/60 hover:bg-secondary text-primary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <FaPlus />
                     </button>
                     <button
                       onClick={() => removeFromCart(item.title, item.selectedSize)}
-                      className="text-sm bg-red-700 hover:bg-red-500 text-primary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-red-700 hover:bg-red-800 text-primary font-Kurale p-1 rounded-full transition duration-300"
                     >
                       <MdClose size={16} />
                     </button>
@@ -274,7 +274,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-secondary hover:bg-[#8C9A68]/60 text-primary hover:text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
+                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
                 >
                   Proceed To Checkout
                 </Link>

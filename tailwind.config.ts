@@ -7,6 +7,7 @@ const config: Config = {
       colors: {
         primary: "#E9F0CD",
         secondary: "#1C3029",
+        tertiary: "#A8B67C",
       },
       fontFamily: {
         Kurale: ["var(--font-Kurale)"],

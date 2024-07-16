@@ -71,7 +71,7 @@ export default async function HomePage() {
                 type="submit"
                 value="google"
                 name="provider"
-                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
+                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
               >
                 <AiFillGoogleCircle size={20} />
                 Sign Up or Log in with "Google.com"
@@ -80,7 +80,7 @@ export default async function HomePage() {
                 type="submit"
                 value="github"
                 name="provider"
-                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
+                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
               >
                 <VscGithubInverted size={20} />
                 Sign Up or Log in with "GitHub.com"
