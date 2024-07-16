@@ -8,51 +8,85 @@ import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
 import { pusherClient } from "@/lib/pusher";
 import { useSession } from "next-auth/react";
-import type Order from "@/app/_assets/types/Order";
 import { GiDeliveryDrone } from "react-icons/gi";
-import { useStore } from "@/app/_assets/others/store";
+import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
+import { useStore } from "@/app/_assets/others/store";
+import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
 
 export default function CartPage() {
   const router = useRouter();
+  const queryClient = useQueryClient();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
-  const [isLoading, setIsLoading] = useState(false);
-  const [loading, setLoading] = React.useState(false);
   const [orderPlaced, setOrderPlaced] = useState(false);
-  const [error, setError] = useState<string | null>(null);
   const [pusherChannel, setPusherChannel] = useState<any>(null);
-  const [prevOrders, setPreviousOrders] = useState<Order[]>([]);
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
   const [userData, setUserData] = useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
-  async function fetchPreviousOrders(userId: string) {
-    const response = await fetch("/api/orders?userId=" + userId);
-    if (!response.ok) setError("Failed to fetch order!");
-    const data = await response.json();
-    return data.orders;
-  }
+  const {
+    data: prevOrders,
+    isLoading,
+    error,
+    refetch,
+  } = useQuery<Order[], Error>({
+    queryKey: ["orders", session?.user?.email],
+    queryFn: async () => {
+      if (!session?.user?.email) {
+        return [];
+      }
+      const response = await fetch("/api/orders?userId=" + session.user.email);
+      if (!response.ok) throw new Error("Failed to fetch order!");
+      const data = await response.json();
+      return data.orders;
+    },
+    enabled: !!session?.user?.email,
+  });
+  const { mutate: placeOrder } = useMutation({
+    mutationFn: async () => {
+      if (!session?.user?.email) throw new Error("User not logged in!");
+      const response = await fetch("/api/orders", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ cart, ...userData, totalAmount: getCartTotal(), userId: session.user.email }),
+      });
+      if (!response.ok) throw new Error("Failed to place order!");
+      const { orderId } = await response.json();
+      return orderId;
+    },
+    onSuccess: async (orderId) => {
+      localStorage.setItem("OrderPlacedTime", Date.now().toString());
+      localStorage.setItem("LatestOrderID", orderId);
+      setOrderPlaced(true);
+      clearCart();
+      if (session?.user?.email) {
+        await fetch("/api/pusher", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ channel: `user-${session.user.email}`, event: "update-order", data: { userId: session.user.email, orderId, status: "Placed" } }),
+        });
+      }
+      queryClient.invalidateQueries({ queryKey: ["orders", session?.user?.email] });
+    },
+  });
   useEffect(() => {
     try {
       if (session?.user?.email) {
         const channel = pusherClient.subscribe(`user-${session.user.email}`);
         setPusherChannel(channel);
         channel.bind("order-updated", (data: { orderId: string; status: string }) => {
-          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+          queryClient.setQueryData<Order[]>(["orders", session?.user?.email], (oldData) => oldData?.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)) || []);
         });
-        fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
         fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
           .then((response) => response.json())
           .then((data) => setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || "", locationData: data.locationData || "" })))
           .catch((err) => console.error("Failed to fetch user data", err));
       }
     } catch (error: any) {
-      setError(error.message);
-    } finally {
-      setLoading(false);
+      console.error(error.message);
     }
     return () => {
       if (pusherChannel) {
@@ -70,50 +104,26 @@ export default function CartPage() {
         localStorage.removeItem("OrderPlacedTime");
       }
       if (showGif) {
-        const timer = setTimeout(async () => {
+        const timer = setTimeout(() => {
           setShowGif(false);
-          const updatedOrders = await fetchPreviousOrders(session?.user?.email as string);
-          setPreviousOrders(updatedOrders);
+          refetch();
         }, 4000);
         return () => clearTimeout(timer);
       }
     } catch (error: any) {
-      setError(error.message);
-    } finally {
-      setLoading(false);
+      console.error(error.message);
     }
-  }, [showGif, session]);
+  }, [showGif, refetch]);
   const ConfirmOrder = async () => {
     try {
-      setError(null);
       setShowGif(true);
-      setIsLoading(true);
-      const response = await fetch("/api/orders", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ cart, ...userData, totalAmount: getCartTotal(), userId: session?.user?.email }),
-      });
-      if (!response.ok) setError("Failed to place order!");
-      const { orderId } = await response.json();
-      localStorage.setItem("OrderPlacedTime", Date.now().toString());
-      localStorage.setItem("LatestOrderID", orderId);
-      setOrderPlaced(true);
-      clearCart();
-      if (session?.user?.email) {
-        await fetch("/api/pusher", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ channel: `user-${session.user.email}`, event: "update-order", data: { userId: session.user.email, orderId, status: "Placed" } }),
-        });
-      }
-    } catch {
-      setError("Failed to place order!");
-    } finally {
-      setIsLoading(false);
+      placeOrder();
+    } catch (error: any) {
+      console.error(error.message);
     }
   };
-  if (loading) return <Loading />;
-  if (error) throw new Error(error);
+  if (isLoading) return <Loading />;
+  if (error) throw error;
   // =======================================================================================================================================================================
   const ShowGif = () => {
     return (
