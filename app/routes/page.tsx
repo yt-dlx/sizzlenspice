@@ -12,7 +12,6 @@ export default function UserPage() {
   const [error, setError] = React.useState("");
   const [loading, setLoading] = React.useState(false);
   const [userData, setUserData] = React.useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
-
   React.useEffect(() => {
     const fetchUserData = async () => {
       setLoading(true);
@@ -30,10 +29,8 @@ export default function UserPage() {
     };
     if (session) fetchUserData();
   }, [session]);
-
   const handleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
   const handleLocationChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
-
   const handleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
     setLoading(true);
@@ -52,7 +49,6 @@ export default function UserPage() {
       setLoading(false);
     }
   };
-
   React.useEffect(() => {
     navigator.geolocation.getCurrentPosition(async (position) => {
       const lat = position.coords.latitude.toString();
@@ -69,22 +65,20 @@ export default function UserPage() {
       }
     });
   }, []);
-
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-
   // =======================================================================================================================================================================
-  const Header = () => {};
-  const UserData = () => {};
-  // =======================================================================================================================================================================
-
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+  const Header = () => {
+    return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">User Data</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">User data encompasses personal data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
+    );
+  };
+  const UserData = () => {
+    return (
       <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary">
         <form onSubmit={handleConfirm} className="space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
@@ -141,6 +135,13 @@ export default function UserPage() {
           </button>
         </form>
       </section>
+    );
+  };
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+      <Header />
+      <UserData />
     </main>
   );
 }

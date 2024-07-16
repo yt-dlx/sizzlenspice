@@ -33,7 +33,6 @@ export default async function HomePage() {
       description: "A fragrant rice dish cooked with meat or vegetables and aromatic spices.",
     },
   ];
-
   // =======================================================================================================================================================================
   const Header = () => {
     return (
@@ -97,7 +96,6 @@ export default async function HomePage() {
     );
   };
   // =======================================================================================================================================================================
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
