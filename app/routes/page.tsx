@@ -1,6 +1,6 @@
 // app/routes/page.tsx
 "use client";
-import React, { useState } from "react";
+import React from "react";
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
