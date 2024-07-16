@@ -75,18 +75,14 @@ export default function RegisterPage() {
       </section>
     );
   };
-  const UserData = () => {};
-  // =======================================================================================================================================================================
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
-      <Header />
-      <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-[#171717] rounded-lg border-primary border-8 border-double overflow-hidden">
+  const DataForm = () => {
+    return (
+      <section id="DataForm" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-[#171717] rounded-lg border-primary border-8 border-double overflow-hidden">
         <div className="p-8 bg-primary text-secondary flex flex-col items-center justify-center">
           <div className="flex justify-center w-full">
             <Image src="/sns.gif" width={300} height={300} alt="Sizzlenspice" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
           </div>
         </div>
-        {/* ======================================================================================================================================================================= */}
         <form onSubmit={handleSubmit} className="space-y-4 p-8">
           <div className="grid md:grid-cols-2 gap-4">
             {formFields.map((field) => (
@@ -159,6 +155,13 @@ export default function RegisterPage() {
           </button>
         </form>
       </section>
+    );
+  };
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
+      <Header />
+      <DataForm />
     </main>
   );
 }
