@@ -33,8 +33,8 @@ const CompanyPage: React.FC = () => {
         if (!response.ok) throw new Error("Failed to fetch restaurants");
         const data = await response.json();
         setRestaurants(data.restaurants);
-      } catch (error) {
-        console.error("Error fetching restaurants:", error);
+      } catch (error: any) {
+        setError(error.message);
       } finally {
         setLoading(false);
       }

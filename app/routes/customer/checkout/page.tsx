@@ -38,17 +38,23 @@ export default function CartPage() {
   }
 
   useEffect(() => {
-    if (session?.user?.email) {
-      const channel = pusherClient.subscribe(`user-${session.user.email}`);
-      setPusherChannel(channel);
-      channel.bind("order-updated", (data: { orderId: string; status: string }) => {
-        setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
-      });
-      fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
-      fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
-        .then((response) => response.json())
-        .then((data) => setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || "", locationData: data.locationData || "" })))
-        .catch((err) => console.error("Failed to fetch user data", err));
+    try {
+      if (session?.user?.email) {
+        const channel = pusherClient.subscribe(`user-${session.user.email}`);
+        setPusherChannel(channel);
+        channel.bind("order-updated", (data: { orderId: string; status: string }) => {
+          setPreviousOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
+        });
+        fetchPreviousOrders(session.user.email).then((orders) => setPreviousOrders(orders));
+        fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
+          .then((response) => response.json())
+          .then((data) => setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || "", locationData: data.locationData || "" })))
+          .catch((err) => console.error("Failed to fetch user data", err));
+      }
+    } catch (error: any) {
+      setError(error.message);
+    } finally {
+      setLoading(false);
     }
     return () => {
       if (pusherChannel) {
@@ -59,19 +65,25 @@ export default function CartPage() {
   }, [session]);
 
   useEffect(() => {
-    const storedOrderTime = localStorage.getItem("OrderPlacedTime");
-    const storedOrderId = localStorage.getItem("LatestOrderID");
-    if (storedOrderId && storedOrderTime) {
-      localStorage.removeItem("LatestOrderID");
-      localStorage.removeItem("OrderPlacedTime");
-    }
-    if (showGif) {
-      const timer = setTimeout(async () => {
-        setShowGif(false);
-        const updatedOrders = await fetchPreviousOrders(session?.user?.email as string);
-        setPreviousOrders(updatedOrders);
-      }, 4000);
-      return () => clearTimeout(timer);
+    try {
+      const storedOrderTime = localStorage.getItem("OrderPlacedTime");
+      const storedOrderId = localStorage.getItem("LatestOrderID");
+      if (storedOrderId && storedOrderTime) {
+        localStorage.removeItem("LatestOrderID");
+        localStorage.removeItem("OrderPlacedTime");
+      }
+      if (showGif) {
+        const timer = setTimeout(async () => {
+          setShowGif(false);
+          const updatedOrders = await fetchPreviousOrders(session?.user?.email as string);
+          setPreviousOrders(updatedOrders);
+        }, 4000);
+        return () => clearTimeout(timer);
+      }
+    } catch (error: any) {
+      setError(error.message);
+    } finally {
+      setLoading(false);
     }
   }, [showGif, session]);
 

@@ -31,13 +31,19 @@ export default function RegisterPage() {
 
   useEffect(() => {
     async function fetchRestaurants() {
-      const response = await fetch("/api/restaurant/signin");
-      if (!response.ok) throw new Error("Failed to fetch restaurants");
-      const data = await response.json();
-      const restaurant = data.restaurants.find((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email);
-      if (restaurant) {
-        if (restaurant.verified) router.push("/routes/restaurant/orders");
-        else router.push("/routes/restaurant/profile");
+      try {
+        const response = await fetch("/api/restaurant/signin");
+        if (!response.ok) throw new Error("Failed to fetch restaurants");
+        const data = await response.json();
+        const restaurant = data.restaurants.find((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email);
+        if (restaurant) {
+          if (restaurant.verified) router.push("/routes/restaurant/orders");
+          else router.push("/routes/restaurant/profile");
+        }
+      } catch (error: any) {
+        setError(error.message);
+      } finally {
+        setLoading(false);
       }
     }
     fetchRestaurants();

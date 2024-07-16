@@ -25,15 +25,22 @@ export default function AdminPage() {
       if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
     });
     fetchOrders();
-    const timerInterval = setInterval(() => {
-      setOrderTimers((prevTimers) => {
-        const newTimers = { ...prevTimers };
-        orders.forEach((order) => {
-          if (order.status !== "Completed") newTimers[order._id] = (newTimers[order._id] || 0) + 1;
+    let timerInterval: string | number | NodeJS.Timeout | undefined;
+    try {
+      timerInterval = setInterval(() => {
+        setOrderTimers((prevTimers) => {
+          const newTimers = { ...prevTimers };
+          orders.forEach((order) => {
+            if (order.status !== "Completed") newTimers[order._id] = (newTimers[order._id] || 0) + 1;
+          });
+          return newTimers;
         });
-        return newTimers;
-      });
-    }, 1000);
+      }, 1000);
+    } catch (error: any) {
+      setError(error.message);
+    } finally {
+      setLoading(false);
+    }
     return () => {
       channel.unbind_all();
       channel.unsubscribe();

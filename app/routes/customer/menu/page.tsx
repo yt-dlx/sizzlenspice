@@ -26,13 +26,19 @@ export default function HomePage() {
   }, 0);
 
   React.useEffect(() => {
-    let allItems: FoodItem[] = [];
-    categories.forEach((category: any) => {
-      if (category.title !== "All") allItems = [...allItems, ...category.items];
-    });
-    const categoryItems = activeCategory === "All" ? allItems : categories.find((cat: any) => cat.title === activeCategory)?.items || [];
-    const filtered = categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
-    setFilteredItems(filtered);
+    try {
+      let allItems: FoodItem[] = [];
+      categories.forEach((category: any) => {
+        if (category.title !== "All") allItems = [...allItems, ...category.items];
+      });
+      const categoryItems = activeCategory === "All" ? allItems : categories.find((cat: any) => cat.title === activeCategory)?.items || [];
+      const filtered = categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+      setFilteredItems(filtered);
+    } catch (error: any) {
+      setError(error.message);
+    } finally {
+      setLoading(false);
+    }
   }, [activeCategory, searchTerm, categories]);
 
   if (loading) return <Loading />;
