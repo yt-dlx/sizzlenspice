@@ -126,7 +126,7 @@ export default function HomePage() {
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
       {/* ======================================================================================================================================================================= */}
-      <section id="search-location" className="max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
+      <section id="search-location" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
             <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
@@ -141,7 +141,7 @@ export default function HomePage() {
         </div>
       </section>
       {/* ======================================================================================================================================================================= */}
-      <section id="categories" className="max-w-7xl flex items-center justify-center mx-auto py-2">
+      <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {categories.map((category: any, index: any) => (
             <button
