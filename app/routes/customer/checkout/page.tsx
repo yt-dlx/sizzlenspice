@@ -120,6 +120,11 @@ export default function CartPage() {
   if (loading) return <Loading />;
   if (error) throw new Error(error);
 
+  // =======================================================================================================================================================================
+  const Header = () => {};
+  const UserData = () => {};
+  // =======================================================================================================================================================================
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
       {showGif && (

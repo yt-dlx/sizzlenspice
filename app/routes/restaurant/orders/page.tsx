@@ -115,6 +115,11 @@ export default function AdminPage() {
   if (loading || isLoading) return <Loading />;
   if (error) throw new Error(error);
 
+  // =======================================================================================================================================================================
+  const Header = () => {};
+  const UserData = () => {};
+  // =======================================================================================================================================================================
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4 text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">

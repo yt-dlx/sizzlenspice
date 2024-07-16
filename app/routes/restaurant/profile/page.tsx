@@ -14,6 +14,11 @@ const RestaurantProfilePage = () => {
   if (loading) return <Loading />;
   if (error) throw new Error(error);
 
+  // =======================================================================================================================================================================
+  const Header = () => {};
+  const UserData = () => {};
+  // =======================================================================================================================================================================
+
   return (
     <div className="bg-gradient-to-b bg-primary p-4">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">

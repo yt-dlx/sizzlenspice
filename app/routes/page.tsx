@@ -73,6 +73,11 @@ export default function UserPage() {
   if (loading) return <Loading />;
   if (error) throw new Error(error);
 
+  // =======================================================================================================================================================================
+  const Header = () => {};
+  const UserData = () => {};
+  // =======================================================================================================================================================================
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
