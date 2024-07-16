@@ -54,72 +54,67 @@ export default function HomePage() {
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
             className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl border-4 border-double border-secondary text-primary rounded-t-2xl flex justify-center max-h-[80vh] z-50"
           >
-            <div className="p-2 w-full overflow-y-auto flex flex-col sm:flex-row">
-              <div className="sm:w-1/2 sm:pr-4">
-                <Image width={540} height={540} src={selectedItem.image} alt={selectedItem.title} className="object-cover w-full h-full rounded-lg" />
+            <div className="p-4 w-full overflow-y-auto">
+              <div className="flex justify-between items-center mb-4">
+                <h2 className="text-4xl font-Playfair font-bold">{selectedItem.title}</h2>
+                <button onClick={() => setIsModalOpen(false)}>
+                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl font-bold animate-spin" />
+                </button>
               </div>
-              <div className="sm:w-1/2 sm:pl-4">
-                <div className="flex justify-between items-center mb-4">
-                  <h2 className="text-4xl font-Playfair font-bold">{selectedItem.title}</h2>
-                  <button onClick={() => setIsModalOpen(false)}>
-                    <MdClose size={24} className="text-primary bg-secondary rounded-full font-bold animate-spin" />
-                  </button>
-                </div>
-                <div className="flex items-center mb-4">
-                  <div className="flex flex-col">
-                    <div className="flex items-center space-x-2 mb-2">
-                      <div className={`w-4 h-4 rounded-full ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                      <span className="font-bold font-Kurale">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
-                    </div>
-                    <div className="flex items-center">
-                      <span className="text-yellow-400 mr-1">★</span>
-                      <span className="font-bold">{selectedItem.rating.toFixed(1)}</span>
-                    </div>
+              <div className="flex items-center mb-4">
+                <div className="flex flex-col">
+                  <div className="flex items-center space-x-2 mb-2">
+                    <div className={`w-4 h-4 rounded-2xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                    <span className="font-bold font-Kurale">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
+                  </div>
+                  <div className="flex items-center">
+                    <span className="text-yellow-400 mr-1">★</span>
+                    <span className="font-bold">{selectedItem.rating.toFixed(1)}</span>
                   </div>
                 </div>
-                <p className="text-sm mb-4 font-Playfair">{selectedItem.description}</p>
-                <p className="mb-2 font-Kurale text-xl font-bold">Select Plate Size:</p>
-                <div className="space-y-2">
-                  {Object.entries(selectedItem.price).map(([size, price]) => {
-                    const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
-                    const quantity = cartItem ? cartItem.quantity : 0;
-                    return (
-                      <div key={size} className="flex items-center justify-between">
-                        <span className="font-Kurale">{size.charAt(0).toUpperCase() + size.slice(1)}</span>
-                        <div className="flex items-center">
-                          <span className="font-bold mr-2 inline-flex items-center">
-                            <FaRupeeSign size={12} />
-                            {price}
-                          </span>
-                          {quantity > 0 ? (
-                            <div className="flex items-center gap-2">
-                              <button
-                                onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
-                                className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
-                              >
-                                <FaMinus />
-                              </button>
-                              <span className="inline-flex text-lg">{quantity}</span>
-                              <button
-                                onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
-                                className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
-                              >
-                                <FaPlus />
-                              </button>
-                            </div>
-                          ) : (
+              </div>
+              <p className="text-sm mb-4 font-Playfair">{selectedItem.description}</p>
+              <p className="mb-2 font-Kurale text-xl font-bold">Select Plate Size:</p>
+              <div className="space-y-2">
+                {Object.entries(selectedItem.price).map(([size, price]) => {
+                  const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
+                  const quantity = cartItem ? cartItem.quantity : 0;
+                  return (
+                    <div key={size} className="flex items-center justify-between">
+                      <span className="font-Kurale">{size.charAt(0).toUpperCase() + size.slice(1)}</span>
+                      <div className="flex items-center">
+                        <span className="font-bold mr-2 inline-flex items-center">
+                          <FaRupeeSign size={12} />
+                          {price}
+                        </span>
+                        {quantity > 0 ? (
+                          <div className="flex items-center gap-2">
                             <button
-                              onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                              className="px-3 py-1 rounded-full text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                              onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
                             >
-                              Add To Cart
+                              <FaMinus />
                             </button>
-                          )}
-                        </div>
+                            <span className="inline-flex text-lg">{quantity}</span>
+                            <button
+                              onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
+                            >
+                              <FaPlus />
+                            </button>
+                          </div>
+                        ) : (
+                          <button
+                            onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
+                            className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                          >
+                            Add To Cart
+                          </button>
+                        )}
                       </div>
-                    );
-                  })}
-                </div>
+                    </div>
+                  );
+                })}
               </div>
             </div>
           </motion.div>
@@ -140,7 +135,7 @@ export default function HomePage() {
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 block w-full rounded-lg border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
+              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
             />
           </div>
         </div>
@@ -152,10 +147,10 @@ export default function HomePage() {
             <button
               key={index}
               onClick={() => setActiveCategory(category.title)}
-              className={`flex flex-col items-center shadow shadow-secondary p-1 rounded-lg w-24 text-primary ${activeCategory === category.title ? "bg-secondary/80" : "bg-secondary/20 text-secondary"}`}
+              className={`flex flex-col items-center p-1 rounded-2xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/80" : "bg-secondary/20 text-secondary"}`}
             >
-              <div className="w-20 h-20 rounded-lg shadow shadow-secondary flex items-center justify-center overflow-hidden">
-                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full rounded" />
+              <div className="w-20 h-20 rounded-2xl flex items-center justify-center overflow-hidden">
+                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
               <span className="text-sm font-bold font-Kurale mt-4">{category.title}</span>
             </button>
@@ -166,12 +161,12 @@ export default function HomePage() {
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (
-            <div key={index} className="flex flex-col rounded-lg shadow border-2 border-secondary overflow-hidden h-full">
-              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48 border-b-2 border-secondary" />
-              <div className="text-primary flex flex-col justify-between rounded-b m-0.5 py-2 bg-secondary flex-grow p-2">
+            <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full">
+              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+              <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-full ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                    <div className={`w-4 h-4 rounded-2xl ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
                     <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
                   </div>
                   <div className="inline-flex items-center justify-center">
@@ -191,7 +186,7 @@ export default function HomePage() {
                       setSelectedItem(item);
                       setIsModalOpen(true);
                     }}
-                    className="px-3 py-1 rounded-l-3xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                    className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
                   >
                     Add to Cart
                   </button>
@@ -204,7 +199,7 @@ export default function HomePage() {
       {/* ======================================================================================================================================================================= */}
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-lg flex items-center">
+          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
             <FaShoppingCart size={20} />
             <span className="ml-2 font-bold inline-flex items-center">
               Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
@@ -226,13 +221,13 @@ export default function HomePage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-7xl font-Playfair font-bold">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-full font-bold animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl font-bold animate-spin" />
                 </button>
               </div>
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center font-Kurale">
-                    <Image width={540} height={540} src={item.image} alt={item.title} className="rounded-full object-cover w-12 h-12 mr-2" />
+                    <Image width={540} height={540} src={item.image} alt={item.title} className="rounded-2xl object-cover w-12 h-12 mr-2" />
                     <div>
                       <h3 className="font-bold font-Kurale">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize} plate</p>
@@ -241,20 +236,20 @@ export default function HomePage() {
                   <div className="flex items-center gap-2">
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
                     >
                       <FaMinus />
                     </button>
                     <span className="inline-flex text-lg">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
                     >
                       <FaPlus />
                     </button>
                     <button
                       onClick={() => removeFromCart(item.title, item.selectedSize)}
-                      className="text-sm bg-red-700 hover:bg-red-800 text-primary font-Kurale p-1 rounded-full transition duration-300"
+                      className="text-sm bg-red-700 hover:bg-red-800 text-primary font-Kurale p-1 rounded-2xl transition duration-300"
                     >
                       <MdClose size={16} />
                     </button>
@@ -274,7 +269,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
+                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
                 >
                   Proceed To Checkout
                 </Link>

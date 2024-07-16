@@ -47,7 +47,7 @@ export default async function HomePage() {
           <p className="text-2xl lg:text-5xl md:text-center font-Grenoble gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
           <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {categories.map((category, index) => (
-              <a key={index} className="flex flex-col rounded-lg shadow border-2 border-secondary overflow-hidden h-full">
+              <a key={index} className="flex flex-col rounded-2xl shadow border-2 border-secondary overflow-hidden h-full">
                 <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48 border-b-2 border-secondary" />
                 <div className="text-primary flex flex-col justify-between rounded-b m-0.5 py-2 bg-secondary flex-grow text-center">
                   <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
@@ -71,7 +71,7 @@ export default async function HomePage() {
                 type="submit"
                 value="google"
                 name="provider"
-                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
+                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-2xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
               >
                 <AiFillGoogleCircle size={20} />
                 Sign Up or Log in with "Google.com"
@@ -80,7 +80,7 @@ export default async function HomePage() {
                 type="submit"
                 value="github"
                 name="provider"
-                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-lg bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
+                className="shadow shadow-primary w-full py-2 transition duration-700 ease-in-out transform rounded-2xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2"
               >
                 <VscGithubInverted size={20} />
                 Sign Up or Log in with "GitHub.com"
