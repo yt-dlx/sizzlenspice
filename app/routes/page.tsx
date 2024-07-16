@@ -71,7 +71,7 @@ export default function UserPage() {
   const Header = () => {
     return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">User Data</h1>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">User Data</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">User data encompasses personal data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>

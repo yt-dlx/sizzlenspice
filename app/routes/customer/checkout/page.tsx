@@ -135,7 +135,7 @@ export default function CartPage() {
   const Header = () => {
     return (
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Order Summary</h1>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
           Here's a summary of your order, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
           Review it and make changes if required!

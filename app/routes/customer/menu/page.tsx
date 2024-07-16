@@ -41,15 +41,119 @@ export default function HomePage() {
   if (loading) return <Loading />;
   if (error) throw new Error(error);
   // =======================================================================================================================================================================
-  const MenuModel = () => {
+  const Header = () => {
     return (
+      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
+      </section>
+    );
+  };
+  const Categories = () => {
+    return (
+      <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
+        <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
+          {categories.map((category: any, index: any) => (
+            <button
+              key={index}
+              onClick={() => setActiveCategory(category.title)}
+              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-2xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
+            >
+              <div className="w-20 h-20 rounded-2xl flex items-center justify-center overflow-hidden">
+                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
+              </div>
+              <span className="text-sm font-bold font-Kurale mt-4">{category.title}</span>
+            </button>
+          ))}
+        </div>
+      </section>
+    );
+  };
+  const Search = () => {
+    return (
+      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
+        <div className="flex flex-col gap-1 w-full">
+          <div className="relative w-full">
+            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+            <input
+              type="text"
+              value={searchTerm}
+              placeholder="Search dishes..."
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
+            />
+          </div>
+        </div>
+      </section>
+    );
+  };
+  const Items = () => {
+    return (
+      <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
+        <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
+          {filteredItems.map((item, index) => (
+            <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+              <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
+                <div className="flex justify-between items-center">
+                  <div className="flex items-center space-x-2">
+                    <div className={`w-4 h-4 rounded-2xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                    <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
+                  </div>
+                  <div className="inline-flex items-center justify-center animate-pulse">
+                    <span className="text-yellow-400 gap-1 text-sm font-bold font-RobotoCondensed flex items-center">★ {item.rating.toFixed(1)}</span>
+                  </div>
+                </div>
+                <p className="text-sm mt-2 font-Playfair">{item.description}</p>
+                <div className="flex justify-between items-center mt-4">
+                  <span className="font-bold font-Kurale items-center inline-flex">
+                    <FaRupeeSign />
+                    {item.forTwo} for Two
+                  </span>
+                  <button
+                    onClick={() => {
+                      setSelectedItem(item);
+                      setIsModalOpen(true);
+                    }}
+                    className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    );
+  };
+  const Checkout = () => {
+    return (
+      <>
+        {cart.length > 0 && !isCartOpen && (
+          <section id="cart-button" className="fixed bottom-14 right-2 z-30">
+            <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-2xl flex items-center">
+              <FaShoppingCart size={20} />
+              <span className="ml-2 font-bold inline-flex items-center">
+                Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
+                {totalCost.toFixed(2)}
+              </span>
+            </button>
+          </section>
+        )}
+      </>
+    );
+  };
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <AnimatePresence>
         {isModalOpen && selectedItem && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
             exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl border-4 border-double border-secondary text-primary rounded-t-2xl flex justify-center max-h-[80vh] z-50"
+            className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-2xl flex justify-center max-h-[80vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
@@ -117,115 +221,11 @@ export default function HomePage() {
           </motion.div>
         )}
       </AnimatePresence>
-    );
-  };
-  const Header = () => {
-    return (
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
-      </section>
-    );
-  };
-  const Search = () => {
-    return (
-      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
-        <div className="flex flex-col gap-1 w-full">
-          <div className="relative w-full">
-            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
-            <input
-              type="text"
-              value={searchTerm}
-              placeholder="Search dishes..."
-              onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
-            />
-          </div>
-        </div>
-      </section>
-    );
-  };
-  const Categories = () => {
-    return (
-      <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
-        <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
-          {categories.map((category: any, index: any) => (
-            <button
-              key={index}
-              onClick={() => setActiveCategory(category.title)}
-              className={`flex flex-col items-center p-1 rounded-2xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/80" : "bg-secondary/20 text-secondary"}`}
-            >
-              <div className="w-20 h-20 rounded-2xl flex items-center justify-center overflow-hidden">
-                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
-              </div>
-              <span className="text-sm font-bold font-Kurale mt-4">{category.title}</span>
-            </button>
-          ))}
-        </div>
-      </section>
-    );
-  };
-  const Items = () => {
-    return (
-      <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
-          {filteredItems.map((item, index) => (
-            <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full">
-              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
-              <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
-                <div className="flex justify-between items-center">
-                  <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-2xl ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
-                  </div>
-                  <div className="inline-flex items-center justify-center">
-                    <span className="text-yellow-400 gap-1 text-sm font-bold font-RobotoCondensed flex items-center">
-                      <span className="animate-pulse">★</span> {item.rating.toFixed(1)}
-                    </span>
-                  </div>
-                </div>
-                <p className="text-sm mt-2 font-Playfair">{item.description}</p>
-                <div className="flex justify-between items-center mt-4">
-                  <span className="font-bold font-Kurale items-center inline-flex">
-                    <FaRupeeSign />
-                    {item.forTwo} for Two
-                  </span>
-                  <button
-                    onClick={() => {
-                      setSelectedItem(item);
-                      setIsModalOpen(true);
-                    }}
-                    className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
-                  >
-                    Add to Cart
-                  </button>
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-    );
-  };
-  const Cart = () => {
-    return (
-      <>
-        {cart.length > 0 && !isCartOpen && (
-          <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-            <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
-              <FaShoppingCart size={20} />
-              <span className="ml-2 font-bold inline-flex items-center">
-                Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
-                {totalCost.toFixed(2)}
-              </span>
-            </button>
-          </section>
-        )}
-      </>
-    );
-  };
-  const Checkout = () => {
-    return (
+      <Header />
+      <Categories />
+      <Search />
+      <Items />
+      <Checkout />
       <AnimatePresence>
         {isCartOpen && (
           <motion.section
@@ -233,7 +233,7 @@ export default function HomePage() {
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-2xl border-4 border-double border-secondary text-primary rounded-t-2xl flex justify-center max-h-[50vh] z-40"
+            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-2xl flex justify-center max-h-[50vh] z-40"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
@@ -245,8 +245,8 @@ export default function HomePage() {
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center font-Kurale">
-                    <Image width={540} height={540} src={item.image} alt={item.title} className="rounded-2xl object-cover w-12 h-12 mr-2" />
-                    <div>
+                    <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
+                    <div className="ml-2">
                       <h3 className="font-bold font-Kurale">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize} plate</p>
                     </div>
@@ -296,18 +296,6 @@ export default function HomePage() {
           </motion.section>
         )}
       </AnimatePresence>
-    );
-  };
-  // =======================================================================================================================================================================
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <MenuModel />
-      <Header />
-      <Search />
-      <Categories />
-      <Items />
-      <Cart />
-      <Checkout />
     </main>
   );
 }
