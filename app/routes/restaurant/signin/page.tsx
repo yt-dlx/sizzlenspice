@@ -75,10 +75,12 @@ export default function RegisterPage() {
       </section>
     );
   };
-  const DataForm = () => {
-    return (
-      <section id="DataForm" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-[#171717] rounded-lg border-primary border-8 border-double overflow-hidden">
-        <div className="p-8 bg-primary text-secondary flex flex-col items-center justify-center">
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
+      <Header />
+      <section id="DataForm" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-secondary rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden">
+        <div className="p-8 bg-primary flex flex-col items-center justify-center">
           <div className="flex justify-center w-full">
             <Image src="/sns.gif" width={300} height={300} alt="Sizzlenspice" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
           </div>
@@ -87,11 +89,11 @@ export default function RegisterPage() {
           <div className="grid md:grid-cols-2 gap-4">
             {formFields.map((field) => (
               <div key={field.name}>
-                <label htmlFor={field.name} className="block text-sm text-secondary mb-1">
+                <label htmlFor={field.name} className="block text-sm text-primary mb-1">
                   {field.label}
                 </label>
                 <div className="relative">
-                  <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-[#a0b07e]">{field.icon}</span>
+                  <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-tertiary">{field.icon}</span>
                   <input
                     required
                     id={field.name}
@@ -100,17 +102,17 @@ export default function RegisterPage() {
                     onChange={handleChange}
                     placeholder={field.placeholder}
                     value={String(formData[field.name as keyof typeof formData])}
-                    className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                    className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                   />
                 </div>
               </div>
             ))}
             <div>
-              <label htmlFor="OperatingHoursStart" className="block text-sm text-secondary mb-1">
+              <label htmlFor="OperatingHoursStart" className="block text-sm text-primary mb-1">
                 Operating Hours Start
               </label>
               <div className="relative">
-                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-[#a0b07e]">
+                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-tertiary">
                   <MdAccessTime />
                 </span>
                 <input
@@ -121,16 +123,16 @@ export default function RegisterPage() {
                   name="OperatingHoursStart"
                   placeholder="Restaurant Start Time"
                   value={formData.OperatingHoursStart}
-                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>
             <div>
-              <label htmlFor="OperatingHoursEnd" className="block text-sm text-secondary mb-1">
+              <label htmlFor="OperatingHoursEnd" className="block text-sm text-primary mb-1">
                 Operating Hours End
               </label>
               <div className="relative">
-                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-[#a0b07e]">
+                <span className="absolute inset-y-0 left-0 flex items-center pl-3 text-tertiary">
                   <MdAccessTime />
                 </span>
                 <input
@@ -141,7 +143,7 @@ export default function RegisterPage() {
                   name="OperatingHoursEnd"
                   placeholder="Restaurant End Time"
                   value={formData.OperatingHoursEnd}
-                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>
@@ -149,19 +151,12 @@ export default function RegisterPage() {
           <input type="hidden" name="verified" value="false" />
           <button
             type="submit"
-            className="w-full bg-secondary text-primary py-2 px-4 rounded-lg hover:bg-[#a0b07e] focus:outline-none focus:ring-2 focus:ring-secondary focus:ring-offset-2 transition duration-150 ease-in-out"
+            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
           >
             Submit & Wait for Verification
           </button>
         </form>
       </section>
-    );
-  };
-  // =======================================================================================================================================================================
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
-      <Header />
-      <DataForm />
     </main>
   );
 }
