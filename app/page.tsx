@@ -43,23 +43,6 @@ export default async function HomePage() {
       </section>
     );
   };
-  const Menu = () => {
-    return (
-      <section id="menu" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
-          {categories.map((category, index) => (
-            <a key={index} className="flex flex-col rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
-              <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48" />
-              <div className="text-primary flex flex-col justify-between rounded-b py-2 bg-secondary flex-grow text-center">
-                <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
-                <p className="text-xs p-1 font-Playfair">{category.description}</p>
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
-    );
-  };
   const Login = () => {
     return (
       <section id="login" className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-secondary lg:max-w-7xl mx-auto">
@@ -92,6 +75,23 @@ export default async function HomePage() {
             </button>
           </div>
         </form>
+      </section>
+    );
+  };
+  const Menu = () => {
+    return (
+      <section id="menu" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
+        <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
+          {categories.map((category, index) => (
+            <a href="#login" key={index} className="flex flex-col rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
+              <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48" />
+              <div className="text-primary flex flex-col justify-between rounded-b py-2 bg-secondary flex-grow text-center">
+                <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
+                <p className="text-xs p-1 font-Playfair">{category.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
       </section>
     );
   };
