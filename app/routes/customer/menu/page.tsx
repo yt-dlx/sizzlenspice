@@ -296,7 +296,7 @@ export default function HomePage() {
   };
   // =======================================================================================================================================================================
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <MenuModel />
       <Header />
       <Search />

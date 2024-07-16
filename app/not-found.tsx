@@ -13,7 +13,7 @@ export default function NotFound() {
   }, [router]);
 
   return (
-    <div className="max-w-full h-screen mx-auto overflow-hidden bg-[#171717] p-4">
+    <div className="max-w-full h-screen mx-auto overflow-hidden bg-primary p-4">
       <div className="p-8 text-center">
         <section className="not-found-header">
           <h1 className="mb-4 text-2xl font-bold text-secondary">Page Not Found</h1>

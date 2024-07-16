@@ -90,7 +90,7 @@ const CompanyPage: React.FC = () => {
   // =======================================================================================================================================================================
 
   return (
-    <div className="bg-gradient-to-b bg-primary p-4 min-h-screen text-secondary">
+    <div className="bg-primary p-4 min-h-screen text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center font-Playfair mb-8">
         <h1 className="text-6xl sm:text-7xl font-bold">Our Company</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">

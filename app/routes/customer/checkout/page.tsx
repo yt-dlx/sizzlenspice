@@ -126,7 +126,7 @@ export default function CartPage() {
   // =======================================================================================================================================================================
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       {showGif && (
         <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
