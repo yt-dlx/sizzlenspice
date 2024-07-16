@@ -18,7 +18,7 @@ export const metadata: Metadata = { description: "Online Food Delivery and Order
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`h-full ${Kurale.variable} ${Playfair.variable} ${Grenoble.variable} ${Brittany.variable} ${Merriweather.variable} ${RobotoCondensed.variable}`}>
-      <body className="flex h-screen">
+      <body className="flex h-screen bg-primary">
         <Providers>
           <AnimatedContentWrapper>
             <Navbar />

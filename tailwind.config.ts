@@ -5,8 +5,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#1C3029",
-        secondary: "#E9F0CD",
+        primary: "#E9F0CD",
+        secondary: "#1C3029",
       },
       fontFamily: {
         Kurale: ["var(--font-Kurale)"],

@@ -65,7 +65,7 @@ export default function RegisterPage() {
   if (error) throw new Error(error);
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 text-secondary">
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4 text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Restaurant Registration</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Partner with Us and Become a Glorified Member of Sizzlenspice Company!</h2>

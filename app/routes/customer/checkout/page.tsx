@@ -121,7 +121,7 @@ export default function CartPage() {
   if (error) throw new Error(error);
 
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
       {showGif && (
         <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 saturate-0" />

@@ -85,7 +85,7 @@ const CompanyPage: React.FC = () => {
   if (error) throw new Error(error);
 
   return (
-    <div className="bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4 min-h-screen text-secondary">
+    <div className="bg-gradient-to-b bg-primary p-4 min-h-screen text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center font-Playfair mb-8">
         <h1 className="text-6xl sm:text-7xl font-bold">Our Company</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">

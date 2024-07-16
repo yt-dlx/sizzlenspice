@@ -15,7 +15,7 @@ const RestaurantProfilePage = () => {
   if (error) throw new Error(error);
 
   return (
-    <div className="bg-gradient-to-b from-primary/30 from-10% via-[#171717] via-40% to-[#131313] to-50% p-4">
+    <div className="bg-gradient-to-b bg-primary p-4">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
         <h1 className="text-6xl sm:text-7xl font-bold text-secondary">Welcome, {session?.user?.name}!</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
