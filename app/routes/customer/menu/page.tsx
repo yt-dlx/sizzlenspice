@@ -19,12 +19,10 @@ export default function HomePage() {
   const [filteredItems, setFilteredItems] = React.useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { updateCartItemQuantity, setActiveCategory, removeFromCart, activeCategory, setSearchTerm, searchTerm, categories, addToCart, cart } = useStore();
-
   const totalCost = cart.reduce((total: any, item: any) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
-
   React.useEffect(() => {
     try {
       let allItems: FoodItem[] = [];
@@ -40,12 +38,11 @@ export default function HomePage() {
       setLoading(false);
     }
   }, [activeCategory, searchTerm, categories]);
-
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
+  // =======================================================================================================================================================================
+  const MenuModel = () => {
+    return (
       <AnimatePresence>
         {isModalOpen && selectedItem && (
           <motion.div
@@ -120,13 +117,19 @@ export default function HomePage() {
           </motion.div>
         )}
       </AnimatePresence>
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const Header = () => {
+    return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
         <h1 className="text-7xl sm:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
-      {/* ======================================================================================================================================================================= */}
-      <section id="search-location" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
+    );
+  };
+  const Search = () => {
+    return (
+      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
             <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
@@ -140,7 +143,10 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const Categories = () => {
+    return (
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {categories.map((category: any, index: any) => (
@@ -157,7 +163,10 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const Items = () => {
+    return (
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {filteredItems.map((item, index) => (
@@ -196,22 +205,27 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      {/* ======================================================================================================================================================================= */}
-      {cart.length > 0 && !isCartOpen && (
-        <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
-            <FaShoppingCart size={20} />
-            <span className="ml-2 font-bold inline-flex items-center">
-              Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
-              {totalCost.toFixed(2)}
-            </span>
-          </button>
-        </section>
-      )}
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const Cart = () => {
+    return (
+      <section id="cart-button" className="fixed bottom-14 right-2 z-30">
+        <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-secondary text-primary p-2 rounded-2xl flex items-center">
+          <FaShoppingCart size={20} />
+          <span className="ml-2 font-bold inline-flex items-center">
+            Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
+            {totalCost.toFixed(2)}
+          </span>
+        </button>
+      </section>
+    );
+  };
+  const Checkout = () => {
+    return (
       <AnimatePresence>
         {isCartOpen && (
-          <motion.div
+          <motion.section
+            id="checkout"
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
@@ -275,9 +289,21 @@ export default function HomePage() {
                 </Link>
               </div>
             </div>
-          </motion.div>
+          </motion.section>
         )}
       </AnimatePresence>
+    );
+  };
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
+      <MenuModel />
+      <Header />
+      <Search />
+      <Categories />
+      <Items />
+      {cart.length > 0 && !isCartOpen && <Cart />}
+      <Checkout />
     </main>
   );
 }
