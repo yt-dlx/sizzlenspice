@@ -80,57 +80,57 @@ export default function UserPage() {
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">User data encompasses personal data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
-      <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
+      <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-lg text-primary">
         <form onSubmit={handleConfirm} className="space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-2">
             <div className="relative flex-grow">
-              <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+              <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
               <input
                 type="text"
                 value={userData.locationData.address}
                 onChange={(e) => handleLocationChange("address", e.target.value)}
                 placeholder="Fetching Address..."
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary focus:outline-none"
+                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
             <div className="relative flex-grow">
-              <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+              <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
               <input
                 type="text"
                 value={userData.locationData.pincode}
                 onChange={(e) => handleLocationChange("pincode", e.target.value)}
                 placeholder="Fetching Pincode..."
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary focus:outline-none"
+                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
             <div className="relative flex-grow">
-              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
               <input
                 type="email"
                 value={userData.customerEmail}
                 onChange={(e) => handleInputChange("customerEmail", e.target.value)}
                 placeholder="Email"
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary focus:outline-none"
+                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
             <div className="relative flex-grow">
-              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
               <input
                 type="tel"
                 value={userData.phoneNumber}
                 onChange={(e) => handleInputChange("phoneNumber", e.target.value)}
                 placeholder="Phone Number"
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-secondary border-2 border-[#131313] shadow-md shadow-[#131313] text-primary placeholder-primary focus:outline-none"
+                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
           </div>
           <button
             type="submit"
-            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
+            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-full bg-primary text-secondary flex items-center justify-center gap-2 font-Kurale font-bold"
           >
             Confirm and Continue
           </button>
