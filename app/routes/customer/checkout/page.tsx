@@ -123,10 +123,10 @@ export default function CartPage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-gradient-to-b bg-primary p-4">
       {showGif && (
-        <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-[#131313]/60 backdrop-blur-2xl z-50">
-          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96 saturate-0" />
-          <p className="mb-4 text-4xl md:text-8xl text-secondary">Order Placed,</p>
-          <ul className="text-lg md:xl text-secondary p-8 list-disc font-Kurale">
+        <section className="fixed font-Kurale inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50">
+          <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
+          <p className="mb-4 text-5xl md:text-9xl font-bold">Order Placed,</p>
+          <ul className="text-lg md:xl p-8 list-disc font-Kurale">
             <li>Thank you for ordering!</li>
             <li>Please keep an eye on your order status.</li>
             <li>Closing in 4s.</li>
@@ -140,7 +140,7 @@ export default function CartPage() {
           Here's a summary of your order, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
         </h2>
-        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 saturate-0" />
+        <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
       </section>
       {/* ======================================================================================================================================================================= */}
       {getCartTotal() > 0 && (
@@ -196,8 +196,8 @@ export default function CartPage() {
       {!orderPlaced ? (
         cart.length > 0 ? (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
-              <div className="mt-4 mb-4 bg-secondary/20 rounded-lg p-4 font-Kurale">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-lg text-primary">
+              <div className="mt-4 mb-4 bg-primary/20 rounded-lg p-4 font-Kurale">
                 <h4 className="font-bold mb-3 text-3xl border-b border-secondary/30 pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
@@ -252,9 +252,9 @@ export default function CartPage() {
           </section>
         ) : (
           <section className="flex items-center justify-center">
-            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary/10 p-4 rounded-lg text-secondary">
+            <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-lg text-primary">
               <span className="flex items-center justify-center gap-2 font-bold font-Kurale text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
-                <GiDeliveryDrone size={80} className="animate-pulse text-secondary" />
+                <GiDeliveryDrone size={80} className="animate-pulse text-primary" />
                 Your Cart is Empty! Let's Fill it up.
               </span>
               <div className="mt-2 space-y-2">
@@ -273,18 +273,18 @@ export default function CartPage() {
       {/* ======================================================================================================================================================================= */}
       {prevOrders && prevOrders.length > 0 && (
         <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
-          <h3 className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-t-lg flex items-center">My Orders</h3>
+          <h3 className="text-4xl font-bold font-Kurale bg-secondary text-primary px-3 py-2 rounded-lg flex items-center mb-1">My Orders</h3>
           {prevOrders
             .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
             .map((order: any, index: number) => (
-              <div key={index} className="bg-secondary/10 p-4 rounded-lg mb-4 font-bold font-Kurale">
+              <div key={index} className="bg-secondary/80 text-primary p-4 rounded-lg mb-4 font-bold font-Kurale">
                 <div className="flex justify-between items-center">
                   <p className="text-lg md:text-xl lg:text-2xl font-bold">
                     Order ID: <span className="text-xs sm:text-sm md:text-lg font-RobotoCondensed">{order._id}</span>{" "}
                   </p>
                   <button
                     onClick={() => ToggleVisualize(order._id)}
-                    className="transition duration-700 ease-in-out transform rounded-full bg-[#d9e6af] hover:bg-[#3b412b] text-primary hover:text-secondary px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
+                    className="transition duration-700 ease-in-out transform rounded-full bg-primary text-secondary px-3 py-1 flex items-center font-bold text-xs sm:text-sm md:text-lg"
                   >
                     {visualizedOrders[order._id] ? (
                       <>
