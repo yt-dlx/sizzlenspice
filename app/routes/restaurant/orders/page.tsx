@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Loading from "./loading";
 import { pusherClient } from "@/lib/pusher";
-import type Order from "@/app/_src/types/Order";
+import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
