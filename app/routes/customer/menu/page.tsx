@@ -10,37 +10,34 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
+import { useQuery } from "@tanstack/react-query";
 
 export default function HomePage() {
-  const [error, setError] = React.useState("");
-  const [loading, setLoading] = React.useState(false);
   const [isCartOpen, setIsCartOpen] = React.useState(false);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
-  const [filteredItems, setFilteredItems] = React.useState<FoodItem[]>([]);
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { updateCartItemQuantity, setActiveCategory, removeFromCart, activeCategory, setSearchTerm, searchTerm, categories, addToCart, cart } = useStore();
-  const totalCost = cart.reduce((total: any, item: any) => {
-    const itemPrice = Number(item.price[item.selectedSize]);
-    return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
-  }, 0);
-  React.useEffect(() => {
-    try {
+  const {
+    error,
+    isLoading,
+    data: filteredItems,
+  } = useQuery({
+    queryKey: ["filteredItems", activeCategory, searchTerm, categories],
+    queryFn: () => {
       let allItems: FoodItem[] = [];
       categories.forEach((category: any) => {
         if (category.title !== "All") allItems = [...allItems, ...category.items];
       });
       const categoryItems = activeCategory === "All" ? allItems : categories.find((cat: any) => cat.title === activeCategory)?.items || [];
-      const filtered = categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
-      setFilteredItems(filtered);
-    } catch (error: any) {
-      setError(error.message);
-    } finally {
-      setLoading(false);
-    }
-  }, [activeCategory, searchTerm, categories]);
-  if (loading) return <Loading />;
-  if (error) throw new Error(error);
-  // =======================================================================================================================================================================
+      return categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+    },
+  });
+  const totalCost = cart.reduce((total: any, item: any) => {
+    const itemPrice = Number(item.price[item.selectedSize]);
+    return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
+  }, 0);
+  if (isLoading) return <Loading />;
+  if (error) throw error;
   const Header = () => {
     return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
@@ -73,38 +70,39 @@ export default function HomePage() {
     return (
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-          {filteredItems.map((item, index) => (
-            <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
-              <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
-              <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
-                <div className="flex justify-between items-center">
-                  <div className="flex items-center space-x-2">
-                    <div className={`w-4 h-4 rounded-2xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <h2 className="font-bold text-lg">{item.title}</h2>
+          {filteredItems &&
+            filteredItems.map((item, index) => (
+              <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+                <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+                <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
+                  <div className="flex justify-between items-center">
+                    <div className="flex items-center space-x-2">
+                      <div className={`w-4 h-4 rounded-2xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                      <h2 className="font-bold text-lg">{item.title}</h2>
+                    </div>
+                    <div className="inline-flex items-center justify-center animate-pulse">
+                      <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
+                    </div>
                   </div>
-                  <div className="inline-flex items-center justify-center animate-pulse">
-                    <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
+                  <p className="text-sm mt-2">{item.description}</p>
+                  <div className="flex justify-between items-center mt-4">
+                    <span className="font-bold items-center inline-flex">
+                      <FaRupeeSign />
+                      {item.forTwo} for Two
+                    </span>
+                    <button
+                      onClick={() => {
+                        setSelectedItem(item);
+                        setIsModalOpen(true);
+                      }}
+                      className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                    >
+                      Add to Cart
+                    </button>
                   </div>
-                </div>
-                <p className="text-sm mt-2">{item.description}</p>
-                <div className="flex justify-between items-center mt-4">
-                  <span className="font-bold items-center inline-flex">
-                    <FaRupeeSign />
-                    {item.forTwo} for Two
-                  </span>
-                  <button
-                    onClick={() => {
-                      setSelectedItem(item);
-                      setIsModalOpen(true);
-                    }}
-                    className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
-                  >
-                    Add to Cart
-                  </button>
                 </div>
               </div>
-            </div>
-          ))}
+            ))}
         </div>
       </section>
     );
@@ -126,7 +124,6 @@ export default function HomePage() {
       </>
     );
   };
-  // =======================================================================================================================================================================
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <AnimatePresence>
