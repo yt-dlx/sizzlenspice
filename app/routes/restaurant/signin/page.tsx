@@ -4,14 +4,13 @@ import Image from "next/image";
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
+import { useMutation, useQuery } from "@tanstack/react-query";
 import { MdPerson, MdPhone, MdLocationOn, MdAccessTime, MdPinDrop } from "react-icons/md";
 
 export default function RegisterPage() {
   const router = useRouter();
   const { data: session } = useSession();
-  const [error, setError] = React.useState("");
-  const [loading, setLoading] = React.useState(false);
   const [formData, setFormData] = useState({
     verified: false,
     pincode: "",
@@ -27,49 +26,60 @@ export default function RegisterPage() {
     { name: "phoneNumber", type: "tel", label: "Phone Number", icon: <MdPhone />, placeholder: "Enter contact number" },
     { name: "pincode", type: "text", label: "Pincode", icon: <MdPinDrop />, placeholder: "Enter the pincode" },
   ];
-  useEffect(() => {
-    async function fetchRestaurants() {
-      try {
-        const response = await fetch("/api/restaurant/signin");
-        if (!response.ok) throw new Error("Failed to fetch restaurants");
-        const data = await response.json();
-        const restaurant = data.restaurants.find((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email);
-        if (restaurant) {
-          if (restaurant.verified) router.push("/routes/restaurant/orders");
-          else router.push("/routes/restaurant/profile");
-        }
-      } catch (error: any) {
-        setError(error.message);
-      } finally {
-        setLoading(false);
-      }
-    }
-    fetchRestaurants();
-  }, [session?.user?.email, router]);
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
+  const fetchRestaurants = async () => {
+    const response = await fetch("/api/restaurant/signin");
+    if (!response.ok) throw new Error("Failed to fetch restaurants");
+    return response.json();
+  };
+  const registerRestaurant = async (formData: any) => {
     const response = await fetch("/api/restaurant/signin", {
       method: "POST",
       body: JSON.stringify(formData),
       headers: { "Content-Type": "application/json" },
     });
     if (!response.ok) throw new Error("Failed to Register restaurant");
-    else router.push("/routes/restaurant/profile");
   };
-  if (loading) return <Loading />;
-  if (error) throw new Error(error);
+  const { data, isLoading, isError } = useQuery({
+    queryKey: ["restaurants", session?.user?.email],
+    queryFn: fetchRestaurants,
+    enabled: !!session?.user?.email,
+  });
+  useEffect(() => {
+    if (data) {
+      const restaurant = data.restaurants.find((restaurant: { email: string; verified: boolean }) => restaurant.email === session?.user?.email);
+      if (restaurant) {
+        if (restaurant.verified) router.push("/routes/restaurant/orders");
+        else router.push("/routes/restaurant/profile");
+      }
+    }
+  }, [data, session?.user?.email, router]);
+  const mutation = useMutation({
+    mutationFn: registerRestaurant,
+    onSuccess: () => {
+      router.push("/routes/restaurant/profile");
+    },
+  });
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    mutation.mutate(formData);
+  };
+  if (isLoading) return <Loading />;
+  if (isError) throw new Error((data as any).message);
   // =======================================================================================================================================================================
-  const Header = () => {};
-  const UserData = () => {};
-  // =======================================================================================================================================================================
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
+  const Header = () => {
+    return (
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Registration</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Partner with Us and Become a Glorified Member of Sizzlenspice Company!</h2>
       </section>
-      {/* ======================================================================================================================================================================= */}
+    );
+  };
+  const UserData = () => {};
+  // =======================================================================================================================================================================
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
+      <Header />
       <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-[#171717] rounded-lg border-primary border-8 border-double overflow-hidden">
         <div className="p-8 bg-primary text-secondary flex flex-col items-center justify-center">
           <div className="flex justify-center w-full">
