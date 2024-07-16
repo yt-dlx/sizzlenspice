@@ -80,10 +80,10 @@ const CompanyPage: React.FC = () => {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center font-Playfair mb-8">
-        <h1 className="text-6xl sm:text-7xl font-bold">Our Company</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
-          Welcome to our company page, <span className="underline font-bold font-Playfair">{session?.user?.name}</span>! <br />
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center mb-8">
+        <h1 className="text-6xl sm:text-7xl">Our Company</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          Welcome to our company page, <span className="underline">{session?.user?.name}</span>! <br />
           Learn more about us here.
         </h2>
       </section>
@@ -96,13 +96,13 @@ const CompanyPage: React.FC = () => {
           <div className="mb-6">
             <Link
               href={"/routes"}
-              className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2 font-Kurale font-bold"
+              className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
             >
               <MdFastfood size={20} /> Go to Home
             </Link>
           </div>
           <div>
-            <h3 className="text-xl font-bold mb-4">Restaurants</h3>
+            <h3 className="text-xl mb-4">Restaurants</h3>
             <ul className="space-y-4">
               {restaurants.map((restaurant) => (
                 <li key={restaurant.id} className="border border-secondary rounded p-4">

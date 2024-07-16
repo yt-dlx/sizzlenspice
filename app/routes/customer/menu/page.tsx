@@ -43,9 +43,9 @@ export default function HomePage() {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
+      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Sizzle 'n Spice</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
     );
   };
@@ -62,7 +62,7 @@ export default function HomePage() {
               <div className="w-20 h-20 rounded-2xl flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
-              <span className="text-sm font-bold font-Kurale mt-4">{category.title}</span>
+              <span className="text-sm mt-4">{category.title}</span>
             </button>
           ))}
         </div>
@@ -80,15 +80,15 @@ export default function HomePage() {
                 <div className="flex justify-between items-center">
                   <div className="flex items-center space-x-2">
                     <div className={`w-4 h-4 rounded-2xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <h2 className="font-bold font-Kurale text-lg">{item.title}</h2>
+                    <h2 className="font-bold text-lg">{item.title}</h2>
                   </div>
                   <div className="inline-flex items-center justify-center animate-pulse">
-                    <span className="text-yellow-400 gap-1 text-sm font-bold font-RobotoCondensed flex items-center">★ {item.rating.toFixed(1)}</span>
+                    <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
                   </div>
                 </div>
-                <p className="text-sm mt-2 font-Playfair">{item.description}</p>
+                <p className="text-sm mt-2">{item.description}</p>
                 <div className="flex justify-between items-center mt-4">
-                  <span className="font-bold font-Kurale items-center inline-flex">
+                  <span className="font-bold items-center inline-flex">
                     <FaRupeeSign />
                     {item.forTwo} for Two
                   </span>
@@ -97,7 +97,7 @@ export default function HomePage() {
                       setSelectedItem(item);
                       setIsModalOpen(true);
                     }}
-                    className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                    className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                   >
                     Add to Cart
                   </button>
@@ -116,7 +116,7 @@ export default function HomePage() {
           <section id="cart-button" className="fixed bottom-14 right-2 z-30">
             <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-2xl flex items-center">
               <FaShoppingCart size={20} />
-              <span className="ml-2 font-bold inline-flex items-center">
+              <span className="ml-2 inline-flex items-center">
                 Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
                 {totalCost.toFixed(2)}
               </span>
@@ -139,16 +139,16 @@ export default function HomePage() {
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="text-4xl font-Playfair font-bold">{selectedItem.title}</h2>
+                <h2 className="text-4xl">{selectedItem.title}</h2>
                 <button onClick={() => setIsModalOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl font-bold animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl animate-spin" />
                 </button>
               </div>
               <div className="flex items-center mb-4">
                 <div className="flex flex-col">
                   <div className="flex items-center space-x-2 mb-2">
                     <div className={`w-4 h-4 rounded-2xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <span className="font-bold font-Kurale">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
+                    <span className="font-bold">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
                   </div>
                   <div className="flex items-center">
                     <span className="text-yellow-400 mr-1">★</span>
@@ -156,8 +156,8 @@ export default function HomePage() {
                   </div>
                 </div>
               </div>
-              <p className="text-sm mb-4 font-Playfair">{selectedItem.description}</p>
-              <p className="mb-2 font-Kurale text-xl font-bold">Select Plate Size:</p>
+              <p className="text-sm mb-4">{selectedItem.description}</p>
+              <p className="mb-2 text-xl">Select Plate Size:</p>
               <div className="space-y-2">
                 {Object.entries(selectedItem.price).map(([size, price]) => {
                   const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
@@ -174,14 +174,14 @@ export default function HomePage() {
                           <div className="flex items-center gap-2">
                             <button
                               onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
-                              className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
                             >
                               <FaMinus />
                             </button>
                             <span className="inline-flex text-lg">{quantity}</span>
                             <button
                               onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
-                              className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
                             >
                               <FaPlus />
                             </button>
@@ -189,7 +189,7 @@ export default function HomePage() {
                         ) : (
                           <button
                             onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                            className="px-3 py-1 rounded-2xl text-sm font-bold font-Kurale bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                            className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                           >
                             Add To Cart
                           </button>
@@ -205,7 +205,7 @@ export default function HomePage() {
       </AnimatePresence>
       <Header />
       <Categories />
-      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs font-Kurale font-bold py-4">
+      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
             <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
@@ -214,7 +214,7 @@ export default function HomePage() {
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:font-RobotoCondensed placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary shadow-md shadow-secondary"
+              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary shadow-md shadow-secondary"
             />
           </div>
         </div>
@@ -232,45 +232,42 @@ export default function HomePage() {
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="text-7xl font-Playfair font-bold">Cart</h2>
+                <h2 className="text-7xl">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl font-bold animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl animate-spin" />
                 </button>
               </div>
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
-                  <div className="flex items-center font-Kurale">
+                  <div className="flex items-center">
                     <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
                     <div className="ml-2">
-                      <h3 className="font-bold font-Kurale">{item.title}</h3>
+                      <h3 className="font-bold">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize} plate</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
                     >
                       <FaMinus />
                     </button>
                     <span className="inline-flex text-lg">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary font-Kurale p-1 rounded-2xl transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
                     >
                       <FaPlus />
                     </button>
-                    <button
-                      onClick={() => removeFromCart(item.title, item.selectedSize)}
-                      className="text-sm bg-red-700 hover:bg-red-800 text-primary font-Kurale p-1 rounded-2xl transition duration-300"
-                    >
+                    <button onClick={() => removeFromCart(item.title, item.selectedSize)} className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-2xl transition duration-300">
                       <MdClose size={16} />
                     </button>
                   </div>
                 </div>
               ))}
               <div className="border-t">
-                <div className="flex gap-2 justify-center items-center font-bold font-Kurale mt-8 p-2">
+                <div className="flex gap-2 justify-center items-center mt-8 p-2">
                   <span>Total Items:</span>
                   <span>{cart.reduce((total: any, item: any) => total + item.quantity, 0)}</span>
                   <span className="font-Brittany"> | </span>
@@ -282,7 +279,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 font-bold font-Kurale"
+                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                 >
                   Proceed To Checkout
                 </Link>

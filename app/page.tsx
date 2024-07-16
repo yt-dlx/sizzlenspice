@@ -36,9 +36,9 @@ export default async function HomePage() {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Sizzle 'n Spice</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Where Every Bite Sizzles With Flavour and Love!</h2>
+      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Sizzle 'n Spice</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
         <Image src="/sns.gif" alt="sns" width={300} height={300} className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
       </section>
     );
@@ -46,7 +46,7 @@ export default async function HomePage() {
   const Login = () => {
     return (
       <section id="login" className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-secondary lg:max-w-7xl mx-auto">
-        <p className="text-2xl lg:text-5xl md:text-center font-Grenoble gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
+        <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
         <form
           action={async (formData: FormData) => {
             "use server";
@@ -54,7 +54,7 @@ export default async function HomePage() {
             await signIn(provider);
           }}
         >
-          <div className="gap-2 grid grid-cols-2 text-sm font-Kurale font-bold">
+          <div className="gap-2 grid grid-cols-2 text-sm">
             <button
               type="submit"
               value="google"
@@ -86,8 +86,8 @@ export default async function HomePage() {
             <a href="#login" key={index} className="flex flex-col rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
               <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48" />
               <div className="text-primary flex flex-col justify-between rounded-b py-2 bg-secondary flex-grow text-center">
-                <h2 className="truncate font-bold font-Kurale">{category.title}</h2>
-                <p className="text-xs p-1 font-Playfair">{category.description}</p>
+                <h2 className="truncate">{category.title}</h2>
+                <p className="text-xs p-1">{category.description}</p>
               </div>
             </a>
           ))}

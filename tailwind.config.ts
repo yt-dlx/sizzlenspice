@@ -12,10 +12,6 @@ const config: Config = {
       fontFamily: {
         Kurale: ["var(--font-Kurale)"],
         Brittany: ["var(--font-Brittany)"],
-        Grenoble: ["var(--font-Grenoble)"],
-        Playfair: ["var(--font-Playfair)"],
-        Merriweather: ["var(--font-Merriweather)"],
-        RobotoCondensed: ["var(--font-RobotoCondensed)"],
       },
     },
   },

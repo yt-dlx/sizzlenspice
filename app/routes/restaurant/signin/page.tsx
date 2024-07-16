@@ -65,9 +65,9 @@ export default function RegisterPage() {
   // =======================================================================================================================================================================
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Restaurant Registration</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Partner with Us and Become a Glorified Member of Sizzlenspice Company!</h2>
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Registration</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Partner with Us and Become a Glorified Member of Sizzlenspice Company!</h2>
       </section>
       {/* ======================================================================================================================================================================= */}
       <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-[#171717] rounded-lg border-primary border-8 border-double overflow-hidden">
@@ -77,7 +77,7 @@ export default function RegisterPage() {
           </div>
         </div>
         {/* ======================================================================================================================================================================= */}
-        <form onSubmit={handleSubmit} className="space-y-4 p-8 font-Kurale font-bold">
+        <form onSubmit={handleSubmit} className="space-y-4 p-8">
           <div className="grid md:grid-cols-2 gap-4">
             {formFields.map((field) => (
               <div key={field.name}>
@@ -94,7 +94,7 @@ export default function RegisterPage() {
                     onChange={handleChange}
                     placeholder={field.placeholder}
                     value={String(formData[field.name as keyof typeof formData])}
-                    className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:font-RobotoCondensed placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                    className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
                   />
                 </div>
               </div>
@@ -115,7 +115,7 @@ export default function RegisterPage() {
                   name="OperatingHoursStart"
                   placeholder="Restaurant Start Time"
                   value={formData.OperatingHoursStart}
-                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:font-RobotoCondensed placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>
@@ -135,7 +135,7 @@ export default function RegisterPage() {
                   name="OperatingHoursEnd"
                   placeholder="Restaurant End Time"
                   value={formData.OperatingHoursEnd}
-                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:font-RobotoCondensed placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-lg border-primary bg-[#2a2a2a] placeholder:text-sm text-secondary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>

@@ -111,32 +111,32 @@ export default function AdminPage() {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair mb-8">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl font-bold text-secondary">Order Management</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">Manage and track all incoming orders efficiently in one place, all in real-time!</h2>
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Order Management</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage and track all incoming orders efficiently in one place, all in real-time!</h2>
       </section>
     );
   };
   const DashboardSummary = () => {
     return (
       <section id="DashboardSummary">
-        <header className="text-4xl font-bold mb-1 font-Kurale bg-secondary text-primary shadow shadow-[#131313] px-3 py-2 rounded-lg flex items-center justify-center">My Work Summary</header>
+        <header className="text-4xl mb-1 bg-secondary text-primary shadow shadow-[#131313] px-3 py-2 rounded-lg flex items-center justify-center">My Work Summary</header>
         <ul className="grid grid-cols-2 md:grid-cols-4 gap-2">
           <li className="bg-secondary/10 p-1 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-secondary flex flex-col items-center justify-center text-center">
-            <header className="text-xl font-bold font-Kurale text-center">Pending Orders</header>
-            <article className="text-3xl md:text-4xl font-semibold font-Playfair text-center">{orders.filter((order) => order.status === "Pending").length}</article>
+            <header className="text-xl text-center">Pending Orders</header>
+            <article className="text-3xl md:text-4xl font-semibold text-center">{orders.filter((order) => order.status === "Pending").length}</article>
           </li>
           <li className="bg-secondary/10 p-1 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-secondary flex flex-col items-center justify-center text-center">
-            <header className="text-xl font-bold font-Kurale">Preparing</header>
-            <article className="text-3xl md:text-4xl font-semibold font-Playfair">{orders.filter((order) => order.status === "Preparing").length}</article>
+            <header className="text-xl">Preparing</header>
+            <article className="text-3xl md:text-4xl font-semibold">{orders.filter((order) => order.status === "Preparing").length}</article>
           </li>
           <li className="bg-secondary/10 p-1 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-secondary flex flex-col items-center justify-center text-center">
-            <header className="text-xl font-bold font-Kurale">Delivering</header>
-            <article className="text-3xl md:text-4xl font-semibold font-Playfair">{orders.filter((order) => order.status === "Delivering").length}</article>
+            <header className="text-xl">Delivering</header>
+            <article className="text-3xl md:text-4xl font-semibold">{orders.filter((order) => order.status === "Delivering").length}</article>
           </li>
           <li className="bg-secondary/10 p-1 rounded-lg shadow shadow-[#131313] border-2 border-[#131313] text-secondary flex flex-col items-center justify-center text-center">
-            <header className="text-xl font-bold font-Kurale">Completed</header>
-            <article className="text-3xl md:text-4xl font-semibold font-Playfair">{orders.filter((order) => order.status === "Completed").length}</article>
+            <header className="text-xl">Completed</header>
+            <article className="text-3xl md:text-4xl font-semibold">{orders.filter((order) => order.status === "Completed").length}</article>
           </li>
         </ul>
       </section>
@@ -148,8 +148,8 @@ export default function AdminPage() {
         {selectedOrder ? (
           <div className="bg-secondary/10 rounded-lg shadow-md p-4 text-secondary">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-4xl font-bold font-Playfair">Order Details</h2>
-              <button onClick={() => toggleVisualize(selectedOrder._id)} className="bg-secondary text-primary px-3 py-1 rounded-full flex items-center font-bold text-xs font-Kurale">
+              <h2 className="text-4xl">Order Details</h2>
+              <button onClick={() => toggleVisualize(selectedOrder._id)} className="bg-secondary text-primary px-3 py-1 rounded-full flex items-center text-xs">
                 {visualizedOrders[selectedOrder._id] ? (
                   <React.Fragment>
                     <FaEyeSlash className="mr-2" /> Hide
@@ -161,33 +161,33 @@ export default function AdminPage() {
                 )}
               </button>
             </div>
-            <div className="mb-4 font-Kurale">
+            <div className="mb-4">
               <ul className="list-disc m-4">
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">User:</span> {selectedOrder.userId.split("@")[0]}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">User:</span> {selectedOrder.userId.split("@")[0]}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Status:</span>
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Status:</span>
                   <span className="animate-pulse">{selectedOrder.status}</span>
                   <span className="ml-2">({formatTime(orderTimers[selectedOrder._id] || 0)})</span>
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Date & Time:</span> {formatCreatedAt(selectedOrder.createdAt)}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Date & Time:</span> {formatCreatedAt(selectedOrder.createdAt)}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Email:</span> {selectedOrder.customerEmail}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Email:</span> {selectedOrder.customerEmail}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Phone:</span> {selectedOrder.phoneNumber}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Phone:</span> {selectedOrder.phoneNumber}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Address:</span> {selectedOrder.locationData?.address}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Address:</span> {selectedOrder.locationData?.address}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Pincode:</span> {selectedOrder.locationData?.pincode}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Pincode:</span> {selectedOrder.locationData?.pincode}
                 </li>
-                <li className="text-sm font-RobotoCondensed">
-                  <span className="font-bold text-lg mr-2 font-Kurale">Total:</span> {selectedOrder.total}
+                <li className="text-sm">
+                  <span className="font-bold text-lg mr-2">Total:</span> {selectedOrder.total}
                 </li>
               </ul>
             </div>
@@ -197,12 +197,12 @@ export default function AdminPage() {
                   <div key={index} className="flex items-center bg-secondary/10 p-4 rounded-lg">
                     <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-[#131313] border-2 border-[#131313] mr-4" />
                     <div className="flex-1">
-                      <div className="flex justify-between font-bold font-Kurale">
+                      <div className="flex justify-between">
                         <span>{item.title}</span>
                         <span>x{item.quantity}</span>
                       </div>
                     </div>
-                    <div className="font-bold font-Playfair flex items-center">
+                    <div className="font-bold flex items-center">
                       <FaRupeeSign className="mr-1" />
                       {(item.price * item.quantity).toFixed(2)}
                     </div>
@@ -218,7 +218,7 @@ export default function AdminPage() {
                     onClick={() => updateOrderStatus(selectedOrder._id, status, selectedOrder.userId)}
                     className={`px-4 py-2 mb-2 transition duration-700 ease-in-out transform rounded-full ${
                       selectedOrder.status === status ? "bg-[#A8B67C] text-primary" : "bg-secondary hover:bg-[#A8B67C] text-primary"
-                    } font-Kurale font-bold flex items-center`}
+                    } flex items-center`}
                   >
                     {statusIcons[status as keyof typeof statusIcons]}
                     <span className="ml-2">{status}</span>
@@ -226,12 +226,12 @@ export default function AdminPage() {
                 ))}
               </div>
             </div>
-            <p className="font-bold font-Kurale m-2 text-2xl underline">
+            <p className="font-bold m-2 text-2xl underline">
               Current Status: <span className="font-Playfair text-lg">{selectedOrder.status}</span>
             </p>
           </div>
         ) : (
-          <p className="p-4 rounded-lg bg-secondary/10 font-Kurale text-secondary">Select an order to view details</p>
+          <p className="p-4 rounded-lg bg-secondary/10 text-secondary">Select an order to view details</p>
         )}
       </section>
     );
@@ -241,19 +241,19 @@ export default function AdminPage() {
       <section id="OrderList" className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-8">
         <div className="lg:col-span-1">
           <div className="bg-secondary/10 rounded-lg shadow-md p-4 text-secondary">
-            <h2 className="text-4xl font-bold mb-4 font-Playfair">Orders</h2>
-            <input type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary font-Kurale" />
+            <h2 className="text-4xl mb-4">Orders</h2>
+            <input type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary" />
             <div className="space-y-4">
               {orders.map((order) => (
                 <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-[#1C2924]" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
                   <div className="flex justify-between items-center">
-                    <div className="font-bold font-Kurale">
+                    <div className="font-bold">
                       <ul className="list-disc ml-4">
                         <li>
-                          Status: <span className="text-semibold font-Playfair animate-pulse">#{order.status}</span>
+                          Status: <span className="text-semibold animate-pulse">#{order.status}</span>
                         </li>
                         <li>
-                          OrderID: <span className="text-semibold font-Playfair">#{order._id}</span>
+                          OrderID: <span className="text-semibold">#{order._id}</span>
                         </li>
                       </ul>
                     </div>

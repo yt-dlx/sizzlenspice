@@ -13,9 +13,9 @@ const RestaurantProfilePage = () => {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary font-Playfair">
-        <h1 className="text-6xl sm:text-7xl font-bold text-secondary">Welcome, {session?.user?.name}!</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2 font-Kurale">
+      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+        <h1 className="text-6xl sm:text-7xl text-secondary">Welcome, {session?.user?.name}!</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
           Manage your restaurant page here. <br />
           Explore our tools and services.
         </h2>
