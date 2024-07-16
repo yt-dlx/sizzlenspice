@@ -44,7 +44,7 @@ export default async function HomePage() {
         </section>
         {/* ======================================================================================================================================================================= */}
         <section className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-          <p className="text-2xl lg:text-5xl md:text-center font-Grenoble gap-2 py-4 text-primary">Order delicious foods and get them at your doorsteps </p>
+          <p className="text-2xl lg:text-5xl md:text-center font-Grenoble gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
           <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
             {categories.map((category, index) => (
               <a key={index} className="flex flex-col rounded-lg shadow border-2 border-secondary overflow-hidden h-full">
