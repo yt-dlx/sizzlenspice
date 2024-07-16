@@ -46,7 +46,6 @@ export default async function HomePage() {
   const Login = () => {
     return (
       <section id="login" className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-secondary lg:max-w-7xl mx-auto">
-        <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
         <form
           action={async (formData: FormData) => {
             "use server";
@@ -54,7 +53,7 @@ export default async function HomePage() {
             await signIn(provider);
           }}
         >
-          <div className="gap-2 grid grid-cols-2 text-sm">
+          <div className="gap-2 grid grid-cols-1 md:grid-cols-2 text-sm">
             <button
               type="submit"
               value="google"
@@ -81,6 +80,7 @@ export default async function HomePage() {
   const Menu = () => {
     return (
       <section id="menu" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
+        <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
         <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
           {categories.map((category, index) => (
             <a href="#login" key={index} className="flex flex-col rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
@@ -99,8 +99,8 @@ export default async function HomePage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
-      <Login />
       <Menu />
+      <Login />
     </main>
   );
 }

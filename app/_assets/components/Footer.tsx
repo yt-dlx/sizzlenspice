@@ -1,4 +1,5 @@
 // components/Footer.tsx
+"use client";
 const Footer = () => {
   return (
     <footer className="footer footer-center bg-primary text-secondary p-10">
