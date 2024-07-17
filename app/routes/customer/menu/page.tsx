@@ -86,10 +86,6 @@ export default function HomePage() {
                   </div>
                   <p className="text-sm mt-2">{item.description}</p>
                   <div className="flex justify-between items-center mt-4">
-                    <span className="font-bold items-center inline-flex">
-                      <FaRupeeSign />
-                      {item.forTwo} for Two
-                    </span>
                     <button
                       onClick={() => {
                         setSelectedItem(item);

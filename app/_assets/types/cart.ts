@@ -13,7 +13,6 @@ export interface FoodItem {
   price: Price;
   genre: string;
   rating: number;
-  forTwo: number;
   selectedSize?: string;
 }
 
