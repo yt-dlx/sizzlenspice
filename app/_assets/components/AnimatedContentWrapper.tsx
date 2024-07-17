@@ -1,4 +1,4 @@
-// components/AnimatedContentWrapper.tsx
+// app/_assets/components/AnimatedContentWrapper.tsx
 "use client";
 import { motion } from "framer-motion";
 const AnimatedContentWrapper = ({ children }: { children: React.ReactNode }) => {

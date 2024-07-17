@@ -1,4 +1,4 @@
-// app/_src/types/Order.ts
+// app/_assets/types/Order.ts
 export default interface Order {
   _id: string;
   items: Array<{

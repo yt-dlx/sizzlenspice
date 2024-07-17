@@ -1,4 +1,4 @@
-// app/_src/others/initialCategories.ts
+// app/_assets/others/initialCategories.ts
 import { Category } from "../types/cart";
 
 const initialCategories: Category[] = [

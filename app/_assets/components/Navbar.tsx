@@ -1,4 +1,4 @@
-// components/Navbar.tsx
+// app/_assets/components/Navbar.tsx
 "use client";
 import Link from "next/link";
 import { useSession, signOut } from "next-auth/react";
