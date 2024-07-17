@@ -4,7 +4,7 @@ import Image from "next/image";
 import Loading from "./loading";
 import React, { useState } from "react";
 import { useSession } from "next-auth/react";
-import { useQuery } from "@tanstack/react-query";
+import { useQuery, useMutation } from "@tanstack/react-query";
 import {
   HiLocationMarker,
   HiMail,
@@ -89,7 +89,30 @@ const RestaurantProfilePage = () => {
   };
   const HandleAddItem = () => setNewItems([...newItems, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", category: "" }]);
   const HandleRemoveItem = (index: number) => setNewItems((prevItems) => prevItems.filter((_, i) => i !== index));
-  const HandleSubmit = (e: React.FormEvent) => e.preventDefault();
+  const AddMenuMutation = useMutation({
+    mutationFn: async (newItems: MenuItem[]) => {
+      const response = await fetch("/api/restaurant/menu", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(newItems),
+      });
+      if (!response.ok) throw new Error("Failed to add menu items");
+      return response.json();
+    },
+  });
+  const HandleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!AreAllFieldsFilled()) return;
+    try {
+      const data = await AddMenuMutation.mutateAsync(newItems);
+      console.log(data);
+      setNewItems([]);
+    } catch (error) {
+      console.error(error);
+    }
+  };
   const AreAllFieldsFilled = () => {
     return (
       newItems.length > 0 &&
@@ -161,11 +184,11 @@ const RestaurantProfilePage = () => {
                 </div>
               </div>
               {restaurantData.verified ? (
-                <div className="bg-green-900 text-white p-4 mt-4 rounded-lg">
+                <div className="bg-green-900 text-white p-4 mt-4 rounded-3xl">
                   <p className="text-sm">Congratulations! Your restaurant details have been verified. You now have access to the Orders page.</p>
                 </div>
               ) : (
-                <div className="bg-red-900 text-white p-4 mt-4 rounded-lg">
+                <div className="bg-red-900 text-white p-4 mt-4 rounded-3xl">
                   <p className="text-sm">
                     Thank you for registering with SizzleNSpice. Your restaurant details are currently under review by our admins. Once your account is verified, you'll be able to access the Orders
                     page. We'll notify you via email once the verification process is complete. Please check this page regularly for updates.

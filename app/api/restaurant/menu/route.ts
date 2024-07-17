@@ -21,22 +21,27 @@ export async function POST(request: NextRequest) {
   const email = session.user?.email as string;
   const restaurant = await prisma.restaurant.findFirst({ where: { email } });
   if (!restaurant) return NextResponse.json({ error: "Restaurant not found" }, { status: 404 });
-  const { title, image, category, description, genre, price } = await request.json();
-  if (!title || !image || !category || !description || !genre || !price) return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
+  const data = await request.json();
+  if (!data.title) return NextResponse.json({ error: "Missing title" }, { status: 400 });
+  if (!data.image) return NextResponse.json({ error: "Missing image" }, { status: 400 });
+  if (!data.category) return NextResponse.json({ error: "Missing category" }, { status: 400 });
+  if (!data.description) return NextResponse.json({ error: "Missing description" }, { status: 400 });
+  if (!data.genre) return NextResponse.json({ error: "Missing genre" }, { status: 400 });
+  if (!data.price || !data.price.medium || !data.price.small || !data.price.full) return NextResponse.json({ error: "Missing price" }, { status: 400 });
   const newPrice = await prisma.price.create({
     data: {
-      medium: price.medium,
-      small: price.small,
-      full: price.full,
+      medium: data.price.medium,
+      small: data.price.small,
+      full: data.price.full,
     },
   });
   const newMenuItem = await prisma.menuItem.create({
     data: {
-      title,
-      image,
-      category,
-      description,
-      genre,
+      title: data.title,
+      image: data.image,
+      category: data.category,
+      description: data.description,
+      genre: data.genre,
       price: { connect: { id: newPrice.id } },
       restaurant: { connect: { id: restaurant.id } },
     },
