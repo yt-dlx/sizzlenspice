@@ -79,7 +79,7 @@ export default function RegisterPage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
       <Header />
-      <section id="DataForm" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-secondary rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden">
+      <section id="DataForm" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto bg-secondary rounded-3xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden">
         <div className="p-8 bg-primary flex flex-col items-center justify-center">
           <div className="flex justify-center w-full">
             <Image src="/sns.gif" width={300} height={300} alt="Sizzlenspice" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
@@ -102,7 +102,7 @@ export default function RegisterPage() {
                     onChange={HandleChange}
                     placeholder={field.placeholder}
                     value={String(formData[field.name as keyof typeof formData])}
-                    className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
+                    className="pl-10 block w-full rounded-3xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                   />
                 </div>
               </div>
@@ -123,7 +123,7 @@ export default function RegisterPage() {
                   name="OperatingHoursStart"
                   placeholder="Restaurant Start Time"
                   value={formData.OperatingHoursStart}
-                  className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-3xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>
@@ -143,7 +143,7 @@ export default function RegisterPage() {
                   name="OperatingHoursEnd"
                   placeholder="Restaurant End Time"
                   value={formData.OperatingHoursEnd}
-                  className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
+                  className="pl-10 block w-full rounded-3xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
                 />
               </div>
             </div>
@@ -151,7 +151,7 @@ export default function RegisterPage() {
           <input type="hidden" name="verified" value="false" />
           <button
             type="submit"
-            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+            className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
           >
             Submit & Wait for Verification
           </button>

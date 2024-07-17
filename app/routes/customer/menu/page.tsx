@@ -54,9 +54,9 @@ export default function HomePage() {
             <button
               key={index}
               onClick={() => setActiveCategory(category.title)}
-              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-2xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
+              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-3xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
             >
-              <div className="w-20 h-20 rounded-2xl flex items-center justify-center overflow-hidden">
+              <div className="w-20 h-20 rounded-3xl flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
               <span className="text-sm mt-4">{category.title}</span>
@@ -72,12 +72,12 @@ export default function HomePage() {
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
           {filteredItems &&
             filteredItems.map((item, index) => (
-              <div key={index} className="flex flex-col rounded-2xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+              <div key={index} className="flex flex-col rounded-3xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
                 <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
                 <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-2">
-                      <div className={`w-4 h-4 rounded-2xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                      <div className={`w-4 h-4 rounded-3xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
                       <h2 className="font-bold text-lg">{item.title}</h2>
                     </div>
                     <div className="inline-flex items-center justify-center animate-pulse">
@@ -91,7 +91,7 @@ export default function HomePage() {
                         setSelectedItem(item);
                         setIsModalOpen(true);
                       }}
-                      className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                      className="px-3 py-1 rounded-3xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                     >
                       Add to Cart
                     </button>
@@ -108,7 +108,7 @@ export default function HomePage() {
       <>
         {cart.length > 0 && !isCartOpen && (
           <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-            <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-2xl flex items-center">
+            <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-3xl flex items-center">
               <FaShoppingCart size={20} />
               <span className="ml-2 inline-flex items-center">
                 Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
@@ -134,13 +134,13 @@ export default function HomePage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-4xl">{selectedItem.title}</h2>
                 <button onClick={() => setIsModalOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-3xl animate-spin" />
                 </button>
               </div>
               <div className="flex items-center mb-4">
                 <div className="flex flex-col">
                   <div className="flex items-center space-x-2 mb-2">
-                    <div className={`w-4 h-4 rounded-2xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                    <div className={`w-4 h-4 rounded-3xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
                     <span className="font-bold">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
                   </div>
                   <div className="flex items-center">
@@ -167,14 +167,14 @@ export default function HomePage() {
                           <div className="flex items-center gap-2">
                             <button
                               onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
-                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-3xl transition duration-300"
                             >
                               <FaMinus />
                             </button>
                             <span className="inline-flex text-lg">{quantity}</span>
                             <button
                               onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
-                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
+                              className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-3xl transition duration-300"
                             >
                               <FaPlus />
                             </button>
@@ -182,7 +182,7 @@ export default function HomePage() {
                         ) : (
                           <button
                             onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
-                            className="px-3 py-1 rounded-2xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                            className="px-3 py-1 rounded-3xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                           >
                             Add To Cart
                           </button>
@@ -207,7 +207,7 @@ export default function HomePage() {
               value={searchTerm}
               placeholder="Search dishes..."
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 block w-full rounded-2xl border-secondary bg-secondary placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary shadow-md shadow-secondary"
+              className="pl-10 block w-full rounded-3xl border-secondary bg-secondary placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary shadow-md shadow-secondary"
             />
           </div>
         </div>
@@ -227,7 +227,7 @@ export default function HomePage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-7xl">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-2xl animate-spin" />
+                  <MdClose size={24} className="text-primary bg-secondary rounded-3xl animate-spin" />
                 </button>
               </div>
               {cart.map((item: any, index: any) => (
@@ -242,18 +242,18 @@ export default function HomePage() {
                   <div className="flex items-center gap-2">
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-3xl transition duration-300"
                     >
                       <FaMinus />
                     </button>
                     <span className="inline-flex text-lg">{item.quantity}</span>
                     <button
                       onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-2xl transition duration-300"
+                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-3xl transition duration-300"
                     >
                       <FaPlus />
                     </button>
-                    <button onClick={() => removeFromCart(item.title, item.selectedSize)} className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-2xl transition duration-300">
+                    <button onClick={() => removeFromCart(item.title, item.selectedSize)} className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-3xl transition duration-300">
                       <MdClose size={16} />
                     </button>
                   </div>
@@ -272,7 +272,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-2xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                 >
                   Proceed To Checkout
                 </Link>

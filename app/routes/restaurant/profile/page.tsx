@@ -113,9 +113,9 @@ const RestaurantProfilePage = () => {
       {/* ======================================================================================================================================================================= */}
       {restaurantData && (
         <section id="restaurant-info" className="flex items-center justify-center">
-          <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-2xl text-primary shadow-md shadow-secondary">
+          <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-3xl text-primary shadow-md shadow-secondary">
             <h4 className="font-bold mb-3 text-3xl border-b border-primary p-2">Restaurant Information</h4>
-            <div className="bg-primary/20 rounded-2xl p-4">
+            <div className="bg-primary/20 rounded-3xl p-4">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="flex items-center">
                   <HiLocationMarker size={20} className="inline-flex mr-2" />
@@ -177,20 +177,20 @@ const RestaurantProfilePage = () => {
         </section>
       )}
       {/* ======================================================================================================================================================================= */}
-      <form onSubmit={HandleSubmit} className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary shadow-md shadow-secondary">
+      <form onSubmit={HandleSubmit} className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-3xl text-primary shadow-md shadow-secondary">
         <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">
           <HiClipboardList size={24} className="inline-flex mr-2" />
           New Menu Item
         </h4>
         {newItems.map((item, index) => (
-          <div key={index} className="grid grid-cols-1 md:grid-cols-2 gap-2 bg-primary/20 rounded-2xl p-2 mb-8">
+          <div key={index} className="grid grid-cols-1 md:grid-cols-2 gap-2 bg-primary/20 rounded-3xl p-2 mb-8">
             <div className="relative">
               <HiShoppingCart size={20} className="absolute top-3 left-4 text-secondary" />
               <select
                 name="category"
                 value={item.category}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               >
                 <option value="">Select Category</option>
                 {["Momos", "Biryani", "Kebab", "Noodles", "Drinks", "Rice", "Ice-Cream"].map((category) => (
@@ -209,7 +209,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Title"
                 value={item.title}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -221,7 +221,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Description"
                 value={item.description}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -233,7 +233,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Image URL"
                 value={item.image}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -245,7 +245,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Small Price"
                 value={item.price.small}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -257,7 +257,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Medium Price"
                 value={item.price.medium}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -269,7 +269,7 @@ const RestaurantProfilePage = () => {
                 placeholder="Full Price"
                 value={item.price.full}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               />
             </div>
@@ -279,7 +279,7 @@ const RestaurantProfilePage = () => {
                 name="genre"
                 value={item.genre}
                 onChange={(e) => HandleInputChange(index, e)}
-                className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full py-2 pl-10 pr-4 rounded-3xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
               >
                 <option value="">Select Genre</option>
@@ -290,7 +290,7 @@ const RestaurantProfilePage = () => {
             <button
               type="button"
               onClick={() => HandleRemoveItem(index)}
-              className="mt-2 w-full py-2 pl-10 pr-4 rounded-2xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+              className="w-1/2 py-2 pl-10 pr-4 rounded-3xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
             >
               <HiDocumentRemove size={20} className="inline-flex mr-2" />
               Remove
@@ -300,7 +300,7 @@ const RestaurantProfilePage = () => {
         <button
           type="button"
           onClick={HandleAddItem}
-          className="mt-2 w-full py-2 pl-10 pr-4 rounded-2xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+          className="mt-2 w-full py-2 pl-10 pr-4 rounded-3xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
         >
           <HiPlusCircle size={20} className="inline-flex mr-2" />
           Add More
@@ -308,7 +308,7 @@ const RestaurantProfilePage = () => {
         {AreAllFieldsFilled() && (
           <button
             type="submit"
-            className="mt-2 w-full py-2 pl-10 pr-4 rounded-2xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+            className="mt-2 w-full py-2 pl-10 pr-4 rounded-3xl transition duration-700 ease-in-out bg-primary hover:bg-tertiary text-secondary border-2 border-secondary shadow-md shadow-secondary placeholder-secondary focus:border-primary focus:ring-primary"
           >
             <HiDatabase size={20} className="inline-flex mr-2" />
             Submit
