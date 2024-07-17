@@ -1,6 +1,5 @@
 // app/api/restaurant/login/route.ts
 import { auth } from "@/auth";
-import bcrypt from "bcryptjs";
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 

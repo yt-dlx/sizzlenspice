@@ -40,14 +40,36 @@ model Order {
 }
 
 model Restaurant {
-  id                  String   @id @default(auto()) @map("_id") @db.ObjectId
-  email               String   @unique
-  phoneNumber         String   @unique
-  address             String   @unique
-  pincode             String   @unique
+  id                  String     @id @default(auto()) @map("_id") @db.ObjectId
+  email               String     @unique
+  phoneNumber         String     @unique
+  address             String     @unique
+  pincode             String     @unique
   ownerName           String
   OperatingHoursStart String
   OperatingHoursEnd   String
-  createdAt           DateTime @default(now())
-  verified            Boolean  @default(false)
+  createdAt           DateTime   @default(now())
+  verified            Boolean    @default(false)
+  menuItems           MenuItem[]
+}
+
+model MenuItem {
+  id           String     @id @default(auto()) @map("_id") @db.ObjectId
+  title        String
+  image        String
+  category     String
+  description  String
+  genre        String
+  price        Price      @relation(fields: [priceId], references: [id])
+  restaurant   Restaurant @relation(fields: [restaurantId], references: [id])
+  restaurantId String     @db.ObjectId
+  priceId      String     @db.ObjectId
+}
+
+model Price {
+  id       String     @id @default(auto()) @map("_id") @db.ObjectId
+  small    String
+  medium   String
+  full     String
+  MenuItem MenuItem[]
 }

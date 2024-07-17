@@ -115,7 +115,7 @@ const RestaurantProfilePage = () => {
         <section id="restaurant-info" className="flex items-center justify-center">
           <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-3xl text-primary shadow-md shadow-secondary">
             <h4 className="font-bold mb-3 text-3xl border-b border-primary p-2">Restaurant Information</h4>
-            <div className="bg-primary/20 rounded-3xl p-4">
+            <div className="bg-primary/20 rounded-b-3xl p-4">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="flex items-center">
                   <HiLocationMarker size={20} className="inline-flex mr-2" />
