@@ -59,8 +59,8 @@ export default function RegisterPage() {
       router.push("/routes/restaurant/profile");
     },
   });
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
-  const handleSubmit = (e: React.FormEvent) => {
+  const HandleChange = (e: React.ChangeEvent<HTMLInputElement>) => setFormData({ ...formData, [e.target.name]: e.target.value });
+  const HandleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     mutation.mutate(formData);
   };
@@ -85,7 +85,7 @@ export default function RegisterPage() {
             <Image src="/sns.gif" width={300} height={300} alt="Sizzlenspice" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
           </div>
         </div>
-        <form onSubmit={handleSubmit} className="space-y-4 p-8">
+        <form onSubmit={HandleSubmit} className="space-y-4 p-8">
           <div className="grid md:grid-cols-2 gap-4">
             {formFields.map((field) => (
               <div key={field.name}>
@@ -99,7 +99,7 @@ export default function RegisterPage() {
                     id={field.name}
                     type={field.type}
                     name={field.name}
-                    onChange={handleChange}
+                    onChange={HandleChange}
                     placeholder={field.placeholder}
                     value={String(formData[field.name as keyof typeof formData])}
                     className="pl-10 block w-full rounded-2xl border-primary bg-primary/20 placeholder:text-sm text-primary focus:border-secondary focus:ring-secondary"
@@ -118,7 +118,7 @@ export default function RegisterPage() {
                 <input
                   required
                   type="time"
-                  onChange={handleChange}
+                  onChange={HandleChange}
                   id="OperatingHoursStart"
                   name="OperatingHoursStart"
                   placeholder="Restaurant Start Time"
@@ -138,7 +138,7 @@ export default function RegisterPage() {
                 <input
                   required
                   type="time"
-                  onChange={handleChange}
+                  onChange={HandleChange}
                   id="OperatingHoursEnd"
                   name="OperatingHoursEnd"
                   placeholder="Restaurant End Time"

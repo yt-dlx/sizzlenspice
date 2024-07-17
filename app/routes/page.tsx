@@ -40,9 +40,9 @@ export default function UserPage() {
       if (!response.ok) throw new Error("Failed to update user data");
     },
   });
-  const handleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
-  const handleLocationChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
-  const handleConfirm = async (event: React.FormEvent) => {
+  const HandleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
+  const HandleLocationChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
+  const HandleConfirm = async (event: React.FormEvent) => {
     event.preventDefault();
     updateUserMutation.mutate(userData, { onSuccess: () => router.push("/routes/customer/menu") });
   };
@@ -50,14 +50,14 @@ export default function UserPage() {
     navigator.geolocation.getCurrentPosition(async (position) => {
       const lat = position.coords.latitude.toString();
       const lon = position.coords.longitude.toString();
-      handleLocationChange("latitude", lat);
-      handleLocationChange("longitude", lon);
+      HandleLocationChange("latitude", lat);
+      HandleLocationChange("longitude", lon);
       const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
       if (response.ok) {
         const data = await response.json();
         if (data.address) {
-          handleLocationChange("address", data.display_name || "");
-          handleLocationChange("pincode", data.address.postcode || "");
+          HandleLocationChange("address", data.display_name || "");
+          HandleLocationChange("pincode", data.address.postcode || "");
         }
       }
     });
@@ -79,14 +79,14 @@ export default function UserPage() {
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
       <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-2xl text-primary shadow-md shadow-secondary">
-        <form onSubmit={handleConfirm} className="space-y-1 flex flex-col text-xs py-4">
+        <form onSubmit={HandleConfirm} className="space-y-1 flex flex-col text-xs py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
             <div className="relative flex-grow">
               <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
               <input
                 type="text"
                 value={userData.locationData.address}
-                onChange={(e) => handleLocationChange("address", e.target.value)}
+                onChange={(e) => HandleLocationChange("address", e.target.value)}
                 placeholder="Fetching Address..."
                 className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
@@ -97,7 +97,7 @@ export default function UserPage() {
               <input
                 type="text"
                 value={userData.locationData.pincode}
-                onChange={(e) => handleLocationChange("pincode", e.target.value)}
+                onChange={(e) => HandleLocationChange("pincode", e.target.value)}
                 placeholder="Fetching Pincode..."
                 className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
@@ -108,7 +108,7 @@ export default function UserPage() {
               <input
                 type="email"
                 value={userData.customerEmail}
-                onChange={(e) => handleInputChange("customerEmail", e.target.value)}
+                onChange={(e) => HandleInputChange("customerEmail", e.target.value)}
                 placeholder="Email"
                 className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required
@@ -119,7 +119,7 @@ export default function UserPage() {
               <input
                 type="tel"
                 value={userData.phoneNumber}
-                onChange={(e) => handleInputChange("phoneNumber", e.target.value)}
+                onChange={(e) => HandleInputChange("phoneNumber", e.target.value)}
                 placeholder="Phone Number"
                 className="w-full py-2 pl-10 pr-4 rounded-2xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                 required

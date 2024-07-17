@@ -40,7 +40,7 @@ const CompanyPage: React.FC = () => {
     }
     fetchRestaurants();
   }, []);
-  const handleVerifyToggle = async (restaurant: Restaurant) => {
+  const HandleVerifyToggle = async (restaurant: Restaurant) => {
     const response = await fetch(`/api/restaurant/signin`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
@@ -50,7 +50,7 @@ const CompanyPage: React.FC = () => {
     const updatedRestaurant = await response.json();
     setRestaurants((prev) => prev.map((rest) => (rest.id === restaurant.id ? updatedRestaurant.restaurant : rest)));
   };
-  const handleEditToggle = (restaurant: Restaurant) => {
+  const HandleEditToggle = (restaurant: Restaurant) => {
     if (editingRestaurant === restaurant.id) {
       setEditingRestaurant(null);
       setEditedRestaurant({});
@@ -59,11 +59,11 @@ const CompanyPage: React.FC = () => {
       setEditedRestaurant(restaurant);
     }
   };
-  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const HandleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setEditedRestaurant((prev) => ({ ...prev, [name]: value }));
   };
-  const handleSave = async (restaurant: Restaurant) => {
+  const HandleSave = async (restaurant: Restaurant) => {
     const response = await fetch(`/api/restaurant/signin`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
@@ -108,21 +108,21 @@ const CompanyPage: React.FC = () => {
                 <li key={restaurant.id} className="border border-secondary rounded p-4">
                   {editingRestaurant === restaurant.id ? (
                     <div className="space-y-2">
-                      <input type="text" name="ownerName" value={editedRestaurant.ownerName || ""} onChange={handleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Name" />
-                      <input type="text" name="address" value={editedRestaurant.address || ""} onChange={handleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Address" />
+                      <input type="text" name="ownerName" value={editedRestaurant.ownerName || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Name" />
+                      <input type="text" name="address" value={editedRestaurant.address || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Address" />
                       <input
                         type="text"
                         name="phoneNumber"
                         value={editedRestaurant.phoneNumber || ""}
-                        onChange={handleInputChange}
+                        onChange={HandleInputChange}
                         className="w-full bg-secondary/20 p-2 rounded"
                         placeholder="Phone"
                       />
-                      <input type="text" name="email" value={editedRestaurant.email || ""} onChange={handleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Email" />
-                      <input type="text" name="pincode" value={editedRestaurant.pincode || ""} onChange={handleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Pincode" />
+                      <input type="text" name="email" value={editedRestaurant.email || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Email" />
+                      <input type="text" name="pincode" value={editedRestaurant.pincode || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Pincode" />
                       <div className="flex gap-2">
-                        <input type="time" name="OperatingHoursStart" value={editedRestaurant.OperatingHoursStart || ""} onChange={handleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
-                        <input type="time" name="OperatingHoursEnd" value={editedRestaurant.OperatingHoursEnd || ""} onChange={handleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
+                        <input type="time" name="OperatingHoursStart" value={editedRestaurant.OperatingHoursStart || ""} onChange={HandleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
+                        <input type="time" name="OperatingHoursEnd" value={editedRestaurant.OperatingHoursEnd || ""} onChange={HandleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
                       </div>
                     </div>
                   ) : (
@@ -152,15 +152,15 @@ const CompanyPage: React.FC = () => {
                   )}
                   <div className="flex justify-end mt-4 space-x-2">
                     {editingRestaurant === restaurant.id ? (
-                      <button onClick={() => handleSave(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
+                      <button onClick={() => HandleSave(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
                         <MdSave className="inline-block mr-1" /> Save
                       </button>
                     ) : (
-                      <button onClick={() => handleEditToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
+                      <button onClick={() => HandleEditToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
                         <MdEdit className="inline-block mr-1" /> Edit
                       </button>
                     )}
-                    <button onClick={() => handleVerifyToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
+                    <button onClick={() => HandleVerifyToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
                       {restaurant.verified ? "Unverify" : "Verify"}
                     </button>
                   </div>
