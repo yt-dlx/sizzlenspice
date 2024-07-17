@@ -111,6 +111,18 @@ const RestaurantProfilePage = () => {
                     </p>
                   </div>
                 </div>
+                {restaurantData.verified ? (
+                  <div className="bg-green-900 text-white p-4 mt-4 rounded-lg">
+                    <p className="text-sm">Congratulations! Your restaurant details have been verified. You now have access to the Orders page.</p>
+                  </div>
+                ) : (
+                  <div className="bg-red-900 text-white p-4 mt-4 rounded-lg">
+                    <p className="text-sm">
+                      Thank you for registering with SizzleNSpice. Your restaurant details are currently under review by our admins. Once your account is verified, you'll be able to access the Orders
+                      page. We'll notify you via email once the verification process is complete. Please check this page regularly for updates.
+                    </p>
+                  </div>
+                )}
               </div>
             </section>
           </section>
