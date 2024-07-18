@@ -1,11 +1,11 @@
 // app/routes/restaurant/profile/page.tsx
 "use client";
-import React, { useState } from "react";
-import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import Image from "next/image";
-import { FaPlus, FaMinus } from "react-icons/fa";
+import { FaPlus } from "react-icons/fa";
+import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Category, Price, CartItem } from "../../../_assets/types/cart";
+import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 export default function RestaurantProfilePage() {
   const [newCategory, setNewCategory] = useState<Category>({ image: "", title: "", active: false, items: [] });
