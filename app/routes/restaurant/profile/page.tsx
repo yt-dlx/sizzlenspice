@@ -104,19 +104,24 @@ export default function RestaurantProfilePage() {
       </section>
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
-          {categories.map((category: Category, index: number) => (
-            <div key={index} className="flex flex-col rounded-3xl overflow-hidden shadow-md shadow-secondary border-4 border-double border-secondary">
-              <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
-              <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
-                <h3 className="font-semibold text-lg">{category.title}</h3>
-                <p className="text-sm mt-2">Items: {category.items.length}</p>
-                <p className="text-sm mt-2">Status: {category.active ? "Active" : "Inactive"}</p>
-                <button onClick={() => handleEditCategory(category)} className="mt-4 bg-primary text-secondary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300 flex items-center">
-                  <FaEdit className="mr-2" /> Edit Category
-                </button>
+          {categories
+            .filter((category: Category) => category.title !== "All")
+            .map((category: Category, index: number) => (
+              <div key={index} className="flex flex-col rounded-3xl overflow-hidden shadow-md shadow-secondary border-4 border-double border-secondary">
+                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
+                <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
+                  <h3 className="font-semibold text-lg">{category.title}</h3>
+                  <p className="text-sm mt-2">Items: {category.items.length}</p>
+                  <p className="text-sm mt-2">Status: {category.active ? "Active" : "Inactive"}</p>
+                  <button
+                    onClick={() => handleEditCategory(category)}
+                    className="mt-4 text-xs bg-primary text-secondary px-4 py-2 rounded-3xl hover:bg-tertiary transition duration-300 flex items-center justify-center"
+                  >
+                    <FaEdit className="mr-2" /> Edit Category
+                  </button>
+                </div>
               </div>
-            </div>
-          ))}
+            ))}
         </div>
       </section>
       <section id="add-category" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
@@ -138,11 +143,11 @@ export default function RestaurantProfilePage() {
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <label className="block mb-1">Category Image URL:</label>
-                    <input type="text" name="image" value={newCategory.image} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
+                    <input type="text" name="image" value={newCategory.image} onChange={handleCategoryChange} className="w-full border p-2 rounded-3xl bg-secondary text-primary" required />
                   </div>
                   <div>
                     <label className="block mb-1">Category Title:</label>
-                    <input type="text" name="title" value={newCategory.title} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
+                    <input type="text" name="title" value={newCategory.title} onChange={handleCategoryChange} className="w-full border p-2 rounded-3xl bg-secondary text-primary" required />
                   </div>
                 </div>
                 <div>
@@ -153,7 +158,7 @@ export default function RestaurantProfilePage() {
                 </div>
                 <h3 className="text-xl font-semibold mt-6 mb-4">Items</h3>
                 {newCategory.items.map((item, index) => (
-                  <div key={index} className="border border-secondary p-4 rounded-md mb-4">
+                  <div key={index} className="border border-secondary p-4 rounded-3xl mb-4">
                     <h4 className="font-semibold mb-2">Item {index + 1}</h4>
                     <div className="grid grid-cols-2 gap-4">
                       <input
@@ -161,7 +166,7 @@ export default function RestaurantProfilePage() {
                         placeholder="Title"
                         value={item.title}
                         onChange={(e) => handleItemChange(index, "title", e.target.value)}
-                        className="w-full border p-2 rounded-md bg-secondary text-primary"
+                        className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                         required
                       />
                       <input
@@ -169,7 +174,7 @@ export default function RestaurantProfilePage() {
                         placeholder="Description"
                         value={item.description}
                         onChange={(e) => handleItemChange(index, "description", e.target.value)}
-                        className="w-full border p-2 rounded-md bg-secondary text-primary"
+                        className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                         required
                       />
                       <input
@@ -177,7 +182,7 @@ export default function RestaurantProfilePage() {
                         placeholder="Image URL"
                         value={item.image}
                         onChange={(e) => handleItemChange(index, "image", e.target.value)}
-                        className="w-full border p-2 rounded-md bg-secondary text-primary"
+                        className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                         required
                       />
                       <div className="grid grid-cols-3 gap-4">
@@ -186,7 +191,7 @@ export default function RestaurantProfilePage() {
                           placeholder="Small Price"
                           value={item.price.small}
                           onChange={(e) => handlePriceChange(index, "small", e.target.value)}
-                          className="w-full border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                           required
                         />
                         <input
@@ -194,7 +199,7 @@ export default function RestaurantProfilePage() {
                           placeholder="Medium Price"
                           value={item.price.medium}
                           onChange={(e) => handlePriceChange(index, "medium", e.target.value)}
-                          className="w-full border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                           required
                         />
                         <input
@@ -202,7 +207,7 @@ export default function RestaurantProfilePage() {
                           placeholder="Full Price"
                           value={item.price.full}
                           onChange={(e) => handlePriceChange(index, "full", e.target.value)}
-                          className="w-full border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                           required
                         />
                       </div>
@@ -211,7 +216,7 @@ export default function RestaurantProfilePage() {
                         placeholder="Genre"
                         value={item.genre}
                         onChange={(e) => handleItemChange(index, "genre", e.target.value)}
-                        className="w-full border p-2 rounded-md bg-secondary text-primary"
+                        className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                         required
                       />
                       <input
@@ -219,7 +224,7 @@ export default function RestaurantProfilePage() {
                         placeholder="Rating"
                         value={item.rating}
                         onChange={(e) => handleItemChange(index, "rating", parseFloat(e.target.value))}
-                        className="w-full border p-2 rounded-md bg-secondary text-primary"
+                        className="w-full border p-2 rounded-3xl bg-secondary text-primary"
                         required
                         min="0"
                         max="5"
@@ -228,14 +233,14 @@ export default function RestaurantProfilePage() {
                     </div>
                   </div>
                 ))}
-                <button type="button" onClick={handleAddItem} className="bg-secondary text-primary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300 flex items-center">
+                <button type="button" onClick={handleAddItem} className="bg-secondary text-primary px-4 py-2 rounded-3xl hover:bg-tertiary transition duration-300 flex items-center">
                   <FaPlus className="mr-2" /> Add Item
                 </button>
                 <div className="flex justify-end space-x-4 mt-6">
-                  <button type="button" onClick={resetForm} className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 transition duration-300">
+                  <button type="button" onClick={resetForm} className="bg-gray-500 text-white px-4 py-2 rounded-3xl hover:bg-gray-600 transition duration-300">
                     Cancel
                   </button>
-                  <button type="submit" className="bg-secondary text-primary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300">
+                  <button type="submit" className="bg-secondary text-primary px-4 py-2 rounded-3xl hover:bg-tertiary transition duration-300">
                     {isEditMode ? "Update Category" : "Add Category"}
                   </button>
                 </div>
