@@ -1,4 +1,5 @@
 // prisma/schema.prisma
+
 datasource db {
   provider = "mongodb"
   url      = env("DATABASE_URL")
@@ -37,4 +38,30 @@ model Order {
   status        String
   createdAt     DateTime @default(now())
   total         Float
+}
+
+model Category {
+  id     String  @id @default(auto()) @map("_id") @db.ObjectId
+  image  String
+  title  String
+  active Boolean
+  items  Item[]
+}
+
+model Item {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  description String
+  image       String
+  price       Price
+  genre       String
+  rating      Float
+  category    Category @relation(fields: [categoryId], references: [id])
+  categoryId  String   @db.ObjectId
+}
+
+type Price {
+  small  String
+  medium String
+  full   String
 }
