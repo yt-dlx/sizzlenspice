@@ -1,15 +1,16 @@
 // app/routes/restaurant/profile/page.tsx
 "use client";
 import Image from "next/image";
-import { FaPlus } from "react-icons/fa";
+import { FaPlus, FaEdit } from "react-icons/fa";
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Category, Price, CartItem } from "../../../_assets/types/cart";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 export default function RestaurantProfilePage() {
-  const [newCategory, setNewCategory] = useState<Category>({ image: "", title: "", active: false, items: [] });
+  const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isEditMode, setIsEditMode] = useState(false);
   const queryClient = useQueryClient();
 
   const fetchCategories = async () => {
@@ -28,13 +29,29 @@ export default function RestaurantProfilePage() {
     return response.json();
   };
 
+  const updateCategory = async (category: Category) => {
+    const response = await fetch(`/api/restaurant/${category.id}`, {
+      method: "PUT",
+      body: JSON.stringify(category),
+      headers: { "Content-Type": "application/json" },
+    });
+    if (!response.ok) throw new Error("Network response was not ok");
+    return response.json();
+  };
+
   const { data: categories = [], isLoading, isError } = useQuery({ queryKey: ["categories"], queryFn: fetchCategories });
-  const mutation = useMutation({
+  const createMutation = useMutation({
     mutationFn: createCategory,
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["categories"] });
-      setNewCategory({ image: "", title: "", active: false, items: [] });
-      setIsModalOpen(false);
+      resetForm();
+    },
+  });
+  const updateMutation = useMutation({
+    mutationFn: updateCategory,
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["categories"] });
+      resetForm();
     },
   });
 
@@ -57,7 +74,23 @@ export default function RestaurantProfilePage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    mutation.mutate(newCategory);
+    if (isEditMode) {
+      updateMutation.mutate(newCategory);
+    } else {
+      createMutation.mutate(newCategory);
+    }
+  };
+
+  const handleEditCategory = (category: Category) => {
+    setNewCategory(category);
+    setIsEditMode(true);
+    setIsModalOpen(true);
+  };
+
+  const resetForm = () => {
+    setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
+    setIsEditMode(false);
+    setIsModalOpen(false);
   };
 
   if (isLoading) return <div>Loading...</div>;
@@ -69,28 +102,28 @@ export default function RestaurantProfilePage() {
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Menu Categories</h2>
       </section>
-
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <div className="flex flex-wrap justify-center gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
           {categories.map((category: Category, index: number) => (
-            <div key={index} className="flex flex-col rounded-3xl overflow-hidden w-64 shadow-md shadow-secondary border-4 border-double border-secondary">
+            <div key={index} className="flex flex-col rounded-3xl overflow-hidden shadow-md shadow-secondary border-4 border-double border-secondary">
               <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
               <div className="text-primary flex flex-col justify-between rounded-b-2xl bg-secondary flex-grow p-4">
                 <h3 className="font-semibold text-lg">{category.title}</h3>
                 <p className="text-sm mt-2">Items: {category.items.length}</p>
                 <p className="text-sm mt-2">Status: {category.active ? "Active" : "Inactive"}</p>
+                <button onClick={() => handleEditCategory(category)} className="mt-4 bg-primary text-secondary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300 flex items-center">
+                  <FaEdit className="mr-2" /> Edit Category
+                </button>
               </div>
             </div>
           ))}
         </div>
       </section>
-
       <section id="add-category" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <button onClick={() => setIsModalOpen(true)} className="bg-secondary text-primary px-6 py-3 rounded-3xl text-lg font-semibold hover:bg-tertiary transition duration-300">
           Add New Category
         </button>
       </section>
-
       <AnimatePresence>
         {isModalOpen && (
           <motion.div
@@ -100,15 +133,17 @@ export default function RestaurantProfilePage() {
             className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
           >
             <div className="bg-primary text-secondary rounded-3xl p-8 max-w-2xl w-full max-h-[90vh] overflow-y-auto">
-              <h2 className="text-3xl font-bold mb-6">Add New Category</h2>
+              <h2 className="text-3xl font-bold mb-6">{isEditMode ? "Edit Category" : "Add New Category"}</h2>
               <form onSubmit={handleSubmit} className="space-y-4">
-                <div>
-                  <label className="block mb-1">Category Image URL:</label>
-                  <input type="text" name="image" value={newCategory.image} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
-                </div>
-                <div>
-                  <label className="block mb-1">Category Title:</label>
-                  <input type="text" name="title" value={newCategory.title} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <label className="block mb-1">Category Image URL:</label>
+                    <input type="text" name="image" value={newCategory.image} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
+                  </div>
+                  <div>
+                    <label className="block mb-1">Category Title:</label>
+                    <input type="text" name="title" value={newCategory.title} onChange={handleCategoryChange} className="w-full border p-2 rounded-md bg-secondary text-primary" required />
+                  </div>
                 </div>
                 <div>
                   <label className="flex items-center">
@@ -116,12 +151,11 @@ export default function RestaurantProfilePage() {
                     Active
                   </label>
                 </div>
-
                 <h3 className="text-xl font-semibold mt-6 mb-4">Items</h3>
                 {newCategory.items.map((item, index) => (
                   <div key={index} className="border border-secondary p-4 rounded-md mb-4">
                     <h4 className="font-semibold mb-2">Item {index + 1}</h4>
-                    <div className="space-y-2">
+                    <div className="grid grid-cols-2 gap-4">
                       <input
                         type="text"
                         placeholder="Title"
@@ -146,13 +180,13 @@ export default function RestaurantProfilePage() {
                         className="w-full border p-2 rounded-md bg-secondary text-primary"
                         required
                       />
-                      <div className="flex space-x-2">
+                      <div className="grid grid-cols-3 gap-4">
                         <input
                           type="text"
                           placeholder="Small Price"
                           value={item.price.small}
                           onChange={(e) => handlePriceChange(index, "small", e.target.value)}
-                          className="w-1/3 border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-md bg-secondary text-primary"
                           required
                         />
                         <input
@@ -160,7 +194,7 @@ export default function RestaurantProfilePage() {
                           placeholder="Medium Price"
                           value={item.price.medium}
                           onChange={(e) => handlePriceChange(index, "medium", e.target.value)}
-                          className="w-1/3 border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-md bg-secondary text-primary"
                           required
                         />
                         <input
@@ -168,7 +202,7 @@ export default function RestaurantProfilePage() {
                           placeholder="Full Price"
                           value={item.price.full}
                           onChange={(e) => handlePriceChange(index, "full", e.target.value)}
-                          className="w-1/3 border p-2 rounded-md bg-secondary text-primary"
+                          className="w-full border p-2 rounded-md bg-secondary text-primary"
                           required
                         />
                       </div>
@@ -194,15 +228,15 @@ export default function RestaurantProfilePage() {
                     </div>
                   </div>
                 ))}
-                <button type="button" onClick={handleAddItem} className="bg-secondary text-primary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300">
-                  <FaPlus className="inline mr-2" /> Add Item
+                <button type="button" onClick={handleAddItem} className="bg-secondary text-primary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300 flex items-center">
+                  <FaPlus className="mr-2" /> Add Item
                 </button>
                 <div className="flex justify-end space-x-4 mt-6">
-                  <button type="button" onClick={() => setIsModalOpen(false)} className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 transition duration-300">
+                  <button type="button" onClick={resetForm} className="bg-gray-500 text-white px-4 py-2 rounded-md hover:bg-gray-600 transition duration-300">
                     Cancel
                   </button>
                   <button type="submit" className="bg-secondary text-primary px-4 py-2 rounded-md hover:bg-tertiary transition duration-300">
-                    Add Category
+                    {isEditMode ? "Update Category" : "Add Category"}
                   </button>
                 </div>
               </form>

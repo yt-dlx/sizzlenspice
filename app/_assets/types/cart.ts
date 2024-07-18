@@ -1,4 +1,4 @@
-// app/_assets/types/cart.tsx
+// app/_assets/types/cart.ts
 export interface Price {
   [key: string]: string;
   small: string;
@@ -22,6 +22,7 @@ export interface CartItem extends FoodItem {
 }
 
 export interface Category {
+  id: number;
   image: string;
   title: string;
   active: boolean;
