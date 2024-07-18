@@ -1,24 +1,23 @@
 // app/routes/restaurant/profile/page.tsx
 "use client";
 import Image from "next/image";
-import { FaPlus, FaEdit } from "react-icons/fa";
 import React, { useState } from "react";
+import { FaPlus, FaEdit } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
-import type { Category, Price, CartItem } from "../../../_assets/types/cart";
+import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 export default function RestaurantProfilePage() {
-  const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [isEditMode, setIsEditMode] = useState(false);
   const queryClient = useQueryClient();
+  const [isEditMode, setIsEditMode] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
 
   const fetchCategories = async () => {
     const response = await fetch("/api/restaurant");
     if (!response.ok) throw new Error("Network response was not ok");
     return response.json();
   };
-
   const createCategory = async (category: Category) => {
     const response = await fetch("/api/restaurant", {
       method: "POST",
@@ -28,7 +27,6 @@ export default function RestaurantProfilePage() {
     if (!response.ok) throw new Error("Network response was not ok");
     return response.json();
   };
-
   const updateCategory = async (category: Category) => {
     const response = await fetch(`/api/restaurant/${category.id}`, {
       method: "PUT",
@@ -38,7 +36,6 @@ export default function RestaurantProfilePage() {
     if (!response.ok) throw new Error("Network response was not ok");
     return response.json();
   };
-
   const { data: categories = [], isLoading, isError } = useQuery({ queryKey: ["categories"], queryFn: fetchCategories });
   const createMutation = useMutation({
     mutationFn: createCategory,
@@ -54,45 +51,34 @@ export default function RestaurantProfilePage() {
       resetForm();
     },
   });
-
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value, type, checked } = e.target;
     setNewCategory((prev) => ({ ...prev, [name]: type === "checkbox" ? checked : value }));
   };
-
   const handleAddItem = () => {
     setNewCategory((prev) => ({ ...prev, items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 0 }] }));
   };
-
   const handleItemChange = (index: number, field: keyof CartItem, value: string | number) => {
     setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)) }));
   };
-
   const handlePriceChange = (index: number, priceType: keyof Price, value: string) => {
     setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)) }));
   };
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (isEditMode) {
-      updateMutation.mutate(newCategory);
-    } else {
-      createMutation.mutate(newCategory);
-    }
+    if (isEditMode) updateMutation.mutate(newCategory);
+    else createMutation.mutate(newCategory);
   };
-
   const handleEditCategory = (category: Category) => {
     setNewCategory(category);
     setIsEditMode(true);
     setIsModalOpen(true);
   };
-
   const resetForm = () => {
     setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
     setIsEditMode(false);
     setIsModalOpen(false);
   };
-
   if (isLoading) return <div>Loading...</div>;
   if (isError) return <div>An error occurred</div>;
 
@@ -125,7 +111,7 @@ export default function RestaurantProfilePage() {
         </div>
       </section>
       <section id="add-category" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <button onClick={() => setIsModalOpen(true)} className="bg-secondary text-primary px-6 py-3 rounded-3xl text-lg font-semibold hover:bg-tertiary transition duration-300">
+        <button onClick={() => setIsModalOpen(true)} className="text-lg font-semibold bg-secondary text-primary px-4 py-2 rounded-3xl ">
           Add New Category
         </button>
       </section>
@@ -233,7 +219,7 @@ export default function RestaurantProfilePage() {
                     </div>
                   </div>
                 ))}
-                <button type="button" onClick={handleAddItem} className="bg-secondary text-primary px-4 py-2 rounded-3xl hover:bg-tertiary transition duration-300 flex items-center">
+                <button type="button" onClick={handleAddItem} className="px-4 py-2 rounded-3xl hover:bg-tertiary transition duration-300 flex items-center">
                   <FaPlus className="mr-2" /> Add Item
                 </button>
                 <div className="flex justify-end space-x-4 mt-6">
