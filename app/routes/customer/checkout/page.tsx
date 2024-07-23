@@ -159,7 +159,7 @@ export default function CartPage() {
       <>
         {getCartTotal() > 0 && (
           <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
-            <p className="text-2xl bg-secondary text-primary px-3 py-2 rounded-3xl flex items-center shadow-md shadow-secondary">
+            <p className="text-2xl bg-secondary text-primary px-3 py-2 rounded-xl flex items-center shadow-md shadow-secondary">
               Total: <FaRupeeSign size={20} className="inline-flex ml-2" />
               {getCartTotal().toFixed(2)}
             </p>
@@ -172,7 +172,7 @@ export default function CartPage() {
     return (
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-3xl">
+          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-xl">
             <div className="flex items-center gap-2">
               <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
               <div>
@@ -218,8 +218,8 @@ export default function CartPage() {
         {!orderPlaced ? (
           cart.length > 0 ? (
             <section id="delivery-info" className="flex items-center justify-center">
-              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-3xl text-primary shadow-md shadow-secondary">
-                <div className="bg-primary/20 rounded-3xl p-4">
+              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-xl text-primary shadow-md shadow-secondary">
+                <div className="bg-primary/20 rounded-xl p-4">
                   <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">Delivery Information</h4>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                     <div className="flex items-center">
@@ -258,13 +258,13 @@ export default function CartPage() {
                   <button
                     disabled={isLoading}
                     onClick={ConfirmOrder}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                   </button>
                   <Link
                     href={"/routes/customer/menu"}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <MdFastfood size={20} /> I want to add more!
                   </Link>
@@ -274,7 +274,7 @@ export default function CartPage() {
             </section>
           ) : (
             <section className="flex items-center justify-center">
-              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-3xl text-primary shadow-md shadow-secondary">
+              <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
                 <span className="flex items-center justify-center gap-2 text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl">
                   <GiDeliveryDrone size={80} className="animate-pulse text-primary" />
                   Your Cart is Empty! Let's Fill it up.
@@ -282,7 +282,7 @@ export default function CartPage() {
                 <div className="mt-2 space-y-2">
                   <Link
                     href={"/routes/customer/menu"}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-3xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <MdFastfood size={20} /> Add Food Items
                   </Link>
@@ -300,11 +300,11 @@ export default function CartPage() {
       <>
         {prevOrders && prevOrders.length > 0 && (
           <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
-            <h3 className="text-4xl bg-secondary text-primary px-3 py-2 rounded-3xl flex items-center mb-2 shadow-md shadow-secondary">My Orders</h3>
+            <h3 className="text-4xl bg-secondary text-primary px-3 py-2 rounded-xl flex items-center mb-2 shadow-md shadow-secondary">My Orders</h3>
             {prevOrders
               .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
               .map((order: any, index: number) => (
-                <div key={index} className="bg-secondary/80 text-primary p-4 rounded-3xl mb-4">
+                <div key={index} className="bg-secondary/80 text-primary p-4 rounded-xl mb-4">
                   <div className="flex justify-between items-center">
                     <p className="text-lg md:text-xl lg:text-2xl">
                       Order ID: <span className="text-xs sm:text-sm md:text-lg">{order._id}</span>{" "}

@@ -58,7 +58,7 @@ export default async function HomePage() {
               type="submit"
               value="google"
               name="provider"
-              className="w-full py-2 transition duration-700 ease-in-out transform rounded-2xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2 shadow-md shadow-secondary"
+              className="w-full py-2 transition duration-700 ease-in-out transform rounded-xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2 shadow-md shadow-secondary"
             >
               <AiFillGoogleCircle size={20} />
               Google Log In
@@ -67,7 +67,7 @@ export default async function HomePage() {
               type="submit"
               value="github"
               name="provider"
-              className="w-full py-2 transition duration-700 ease-in-out transform rounded-2xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2 shadow-md shadow-secondary"
+              className="w-full py-2 transition duration-700 ease-in-out transform rounded-xl bg-secondary hover:bg-secondary/80 text-primary flex items-center justify-center gap-2 shadow-md shadow-secondary"
             >
               <VscGithubInverted size={20} />
               GitHub Log In
@@ -83,7 +83,7 @@ export default async function HomePage() {
         <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps </p>
         <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
           {categories.map((category, index) => (
-            <a href="#login" key={index} className="flex flex-col rounded-2xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
+            <a href="#login" key={index} className="flex flex-col rounded-xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
               <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48" />
               <div className="text-primary flex flex-col justify-between rounded-b py-2 bg-secondary flex-grow text-center">
                 <h2 className="truncate">{category.title}</h2>
