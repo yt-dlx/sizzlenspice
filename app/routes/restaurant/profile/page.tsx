@@ -177,7 +177,7 @@ export default function RestaurantProfilePage() {
             initial={{ opacity: 0, y: "100%" }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.1 } }}
             exit={{ opacity: 0, y: "100%", transition: { duration: 0.1 } }}
-            className="fixed inset-0 backdrop-blur-3xl bg-secondary/80 flex items-center justify-center z-50"
+            className="fixed inset-0 backdrop-blur-3xl bg-secondary/50 flex items-center justify-center z-50"
           >
             <div className="bg-primary/40 backdrop-blur-lg text-primary rounded-xl p-4 max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl  w-full max-h-[90vh] overflow-y-auto overflow-x-auto scrollbar-thin scrollbar-thumb-secondary scrollbar-track-secondary/10 border-4 border-double border-secondary shadow-md shadow-secondary">
               <h2 className="text-6xl text-primary font-bold mb-6">{isEditMode ? "Edit Category" : "Add New Category"}</h2>
