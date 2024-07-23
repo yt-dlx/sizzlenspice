@@ -2,18 +2,19 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
-import React, { useState } from "react";
-import { FaPlus, FaEdit, FaTrash } from "react-icons/fa";
+import React, { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
+import { FaPlus, FaEdit, FaTrash, FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
+  const originalItemsRef = useRef<CartItem[]>([]);
   const [isEditMode, setIsEditMode] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [confirmEditIndex, setConfirmEditIndex] = useState<number | null>(null);
-  const [confirmDeleteIndex, setConfirmDeleteIndex] = useState<number | null>(null);
+  const [editingItemIndex, setEditingItemIndex] = useState<number | null>(null);
+  const [deletingItemIndex, setDeletingItemIndex] = useState<number | null>(null);
   const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
   const categoryFields = [
     { name: "image", label: "Category Image URL" },
@@ -52,10 +53,7 @@ export default function RestaurantProfilePage() {
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["categories"] });
-      resetForm();
-    },
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories"] }),
   });
   const updateMutation = useMutation({
     mutationFn: async (category: Category) => {
@@ -67,61 +65,78 @@ export default function RestaurantProfilePage() {
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["categories"] });
-      resetForm();
-    },
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories"] }),
   });
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
-    setNewCategory((prev) => ({ ...prev, [name]: value }));
+    setNewCategory((prev) => {
+      const updatedCategory = { ...prev, [name]: value };
+      if (isEditMode) updateMutation.mutate(updatedCategory);
+      else createMutation.mutate(updatedCategory);
+      return updatedCategory;
+    });
   };
   const handleAddItem = () => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }],
-    }));
+    setNewCategory((prev) => {
+      const updatedCategory = { ...prev, items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }] };
+      if (isEditMode) updateMutation.mutate(updatedCategory);
+      else createMutation.mutate(updatedCategory);
+      return updatedCategory;
+    });
   };
   const handleItemChange = (index: number, field: keyof CartItem, value: string | number) => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)),
-    }));
+    setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)) }));
   };
   const handlePriceChange = (index: number, priceType: keyof Price, value: string) => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)),
-    }));
-  };
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    const categoryToSubmit = { ...newCategory, active: false };
-    if (isEditMode) updateMutation.mutate(categoryToSubmit);
-    else createMutation.mutate(categoryToSubmit);
+    setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)) }));
   };
   const handleEditCategory = (category: Category) => {
     setNewCategory(category);
+    originalItemsRef.current = JSON.parse(JSON.stringify(category.items));
     setIsEditMode(true);
     setIsModalOpen(true);
   };
-  const confirmDeleteItem = (index: number) => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: prev.items.filter((_, i) => i !== index),
-    }));
-    setConfirmDeleteIndex(null);
+  const isItemEdited = (index: number) => {
+    const originalItem = originalItemsRef.current[index];
+    const currentItem = newCategory.items[index];
+    return JSON.stringify(originalItem) !== JSON.stringify(currentItem);
   };
-  const confirmEditItem = (index: number) => {
-    setConfirmEditIndex(null);
-    setIsModalOpen(true);
+  const handleDeleteItem = (index: number) => {
+    if (deletingItemIndex === index) {
+      setNewCategory((prev) => {
+        const updatedCategory = { ...prev, items: prev.items.filter((_, i) => i !== index) };
+        if (isEditMode) updateMutation.mutate(updatedCategory);
+        else createMutation.mutate(updatedCategory);
+        return updatedCategory;
+      });
+      setDeletingItemIndex(null);
+    } else setDeletingItemIndex(index);
+  };
+  const handleEditItem = (index: number) => {
+    if (editingItemIndex === index) {
+      if (isEditMode) updateMutation.mutate(newCategory);
+      else createMutation.mutate(newCategory);
+      setEditingItemIndex(null);
+    } else setEditingItemIndex(index);
+  };
+  const cancelItemAction = (index: number) => {
+    if (deletingItemIndex === index) {
+      setDeletingItemIndex(null);
+    } else if (editingItemIndex === index) {
+      setNewCategory((prev) => ({
+        ...prev,
+        items: prev.items.map((item, i) => (i === index ? originalItemsRef.current[index] : item)),
+      }));
+      setEditingItemIndex(null);
+    }
   };
   const resetForm = () => {
     setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
-    setConfirmDeleteIndex(null);
-    setConfirmEditIndex(null);
+    setDeletingItemIndex(null);
+    setEditingItemIndex(null);
     setIsModalOpen(false);
     setIsEditMode(false);
+    originalItemsRef.current = [];
   };
   if (isLoading) return <Loading />;
   if (isError) throw new Error("An error occurred");
@@ -168,7 +183,7 @@ export default function RestaurantProfilePage() {
           >
             <div className="bg-secondary/20 backdrop-blur-lg text-primary rounded-xl p-4 max-w-2xl w-full max-h-[90vh] overflow-y-auto overflow-x-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary/20 border-4 border-double border-primary shadow-md shadow-secondary">
               <h2 className="text-xl text-primary font-bold mb-6">{isEditMode ? "Edit Category" : "Add New Category"}</h2>
-              <form onSubmit={handleSubmit} className="space-y-4">
+              <div className="space-y-4">
                 <div className="grid grid-cols-2">
                   {categoryFields.map(({ name, label }) => (
                     <div key={name}>
@@ -212,35 +227,63 @@ export default function RestaurantProfilePage() {
                       ))}
                     </div>
                     <div className="flex justify-center mt-2 gap-0.5">
-                      <button
-                        type="button"
-                        onClick={() => setConfirmDeleteIndex(index)}
-                        className={`w-full ${confirmDeleteIndex === index ? "bg-red-900 cursor-not-allowed" : "bg-red-600"} text-primary px-4 gap-1 py-2 rounded-l-xl hover:bg-red-700 transition duration-300 flex items-center justify-center`}
-                      >
-                        <FaTrash /> {confirmDeleteIndex === index ? "Confirm Delete" : "Delete Item"}
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => setConfirmEditIndex(index)}
-                        className={`w-full ${confirmEditIndex === index ? "text-primary bg-green-600 cursor-not-allowed" : "text-secondary bg-primary"} px-4 gap-1 py-2 rounded-r-xl hover:bg-tertiary transition duration-300 flex items-center justify-center`}
-                      >
-                        <FaEdit /> {confirmEditIndex === index ? "Confirm Edit" : "Edit Item"}
-                      </button>
+                      {deletingItemIndex === index ? (
+                        <>
+                          <button
+                            type="button"
+                            onClick={() => handleDeleteItem(index)}
+                            className="w-1/2 bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                          >
+                            <FaCheck /> Confirm
+                          </button>
+                          <button
+                            type="button"
+                            onClick={() => cancelItemAction(index)}
+                            className="w-1/2 bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                          >
+                            <FaTimes /> Cancel
+                          </button>
+                        </>
+                      ) : (
+                        <button
+                          type="button"
+                          onClick={() => handleDeleteItem(index)}
+                          className="w-full bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                        >
+                          <FaTrash /> Delete Item
+                        </button>
+                      )}
+                      {isItemEdited(index) && (
+                        <>
+                          {editingItemIndex === index ? (
+                            <>
+                              <button
+                                type="button"
+                                onClick={() => handleEditItem(index)}
+                                className="w-1/2 bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                              >
+                                <FaCheck /> Confirm
+                              </button>
+                              <button
+                                type="button"
+                                onClick={() => cancelItemAction(index)}
+                                className="w-1/2 bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                              >
+                                <FaTimes /> Cancel
+                              </button>
+                            </>
+                          ) : (
+                            <button
+                              type="button"
+                              onClick={() => handleEditItem(index)}
+                              className="w-full bg-yellow-600 text-primary px-4 py-2 rounded-xl hover:bg-yellow-700 transition duration-300 flex items-center justify-center"
+                            >
+                              <FaEdit /> Edit Item
+                            </button>
+                          )}
+                        </>
+                      )}
                     </div>
-                    {confirmDeleteIndex === index && (
-                      <div className="flex justify-center  mt-2">
-                        <button type="button" onClick={() => confirmDeleteItem(index)} className="w-full bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300">
-                          Confirm Delete
-                        </button>
-                      </div>
-                    )}
-                    {confirmEditIndex === index && (
-                      <div className="flex justify-center  mt-2">
-                        <button type="button" onClick={() => confirmEditItem(index)} className="w-full bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300">
-                          Confirm Edit
-                        </button>
-                      </div>
-                    )}
                   </div>
                 ))}
                 <button
@@ -259,7 +302,7 @@ export default function RestaurantProfilePage() {
                     Cancel
                   </button>
                 </div>
-              </form>
+              </div>
             </div>
           </motion.div>
         )}
