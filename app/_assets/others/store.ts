@@ -1,19 +1,12 @@
 // app/_assets/others/store.ts
 import { create } from "zustand";
-import initialCategories from "./initialCategories";
 import { StoreState, FoodItem, Price } from "../types/cart";
 
 export const useStore = create<StoreState>((set, get) => ({
   cart: [],
-  searchTerm: "",
-  activeCategory: "All",
-  categories: initialCategories,
-  setSearchTerm: (term) => set({ searchTerm: term }),
-  setActiveCategory: (category) => set({ activeCategory: category }),
   addToCart: (item: FoodItem & { selectedSize: string }) =>
     set((state) => {
       const existingItemIndex = state.cart.findIndex((cartItem) => cartItem.title === item.title && cartItem.selectedSize === item.selectedSize);
-
       if (existingItemIndex > -1) {
         const updatedCart = [...state.cart];
         updatedCart[existingItemIndex].quantity += 1;

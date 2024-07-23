@@ -31,14 +31,9 @@ export interface Category {
 
 export interface StoreState {
   cart: CartItem[];
-  searchTerm: string;
-  clearCart: () => void;
-  categories: Category[];
-  activeCategory: string;
-  getCartTotal: () => number;
-  setSearchTerm: (term: string) => void;
-  setActiveCategory: (category: string) => void;
   addToCart: (item: FoodItem & { selectedSize: string }) => void;
   removeFromCart: (itemTitle: string, selectedSize: string) => void;
   updateCartItemQuantity: (itemTitle: string, selectedSize: string, quantity: number) => void;
+  clearCart: () => void;
+  getCartTotal: () => number;
 }

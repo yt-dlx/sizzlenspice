@@ -7,32 +7,39 @@ import Loading from "./loading";
 import { MdClose } from "react-icons/md";
 import { FaPlus, FaMinus } from "react-icons/fa";
 import { useQuery } from "@tanstack/react-query";
-import { FoodItem } from "@/app/_assets/types/cart";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
+import { FoodItem, Category } from "@/app/_assets/types/cart";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function HomePage() {
+  const [searchTerm, setSearchTerm] = React.useState("");
   const [isCartOpen, setIsCartOpen] = React.useState(false);
   const [isModalOpen, setIsModalOpen] = React.useState(false);
+  const [activeCategory, setActiveCategory] = React.useState("All");
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
-  const { updateCartItemQuantity, setActiveCategory, removeFromCart, activeCategory, setSearchTerm, searchTerm, categories, addToCart, cart } = useStore();
+  const { cart, addToCart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
   const {
+    data: categories = [],
     error,
     isLoading,
-    data: filteredItems,
-  } = useQuery({
-    queryKey: ["filteredItems", activeCategory, searchTerm, categories],
-    queryFn: () => {
-      let allItems: FoodItem[] = [];
-      categories.forEach((category: any) => {
-        if (category.title !== "All") allItems = [...allItems, ...category.items];
-      });
-      const categoryItems = activeCategory === "All" ? allItems : categories.find((cat: any) => cat.title === activeCategory)?.items || [];
-      return categoryItems.filter((item: any) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+  } = useQuery<Category[]>({
+    queryKey: ["categories"],
+    queryFn: async () => {
+      const response = await fetch("/api/restaurant");
+      if (!response.ok) throw new Error("Network response was not ok");
+      return response.json();
     },
   });
-  const totalCost = cart.reduce((total: any, item: any) => {
+  const filteredItems = React.useMemo(() => {
+    let allItems: FoodItem[] = [];
+    categories.forEach((category) => {
+      if (category.title !== "All") allItems = [...allItems, ...category.items];
+    });
+    const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
+    return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+  }, [categories, activeCategory, searchTerm]);
+  const totalCost = cart.reduce((total, item) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
@@ -50,7 +57,7 @@ export default function HomePage() {
     return (
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
-          {categories.map((category: any, index: any) => (
+          {categories.map((category, index) => (
             <button
               key={index}
               onClick={() => setActiveCategory(category.title)}
