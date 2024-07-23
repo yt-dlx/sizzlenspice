@@ -13,6 +13,7 @@ export default function RestaurantProfilePage() {
   const originalItemsRef = useRef<CartItem[]>([]);
   const [isEditMode, setIsEditMode] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isCategoryEdited, setIsCategoryEdited] = useState(false);
   const [editingItemIndex, setEditingItemIndex] = useState<number | null>(null);
   const [deletingItemIndex, setDeletingItemIndex] = useState<number | null>(null);
   const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
@@ -57,9 +58,9 @@ export default function RestaurantProfilePage() {
   });
   const updateMutation = useMutation({
     mutationFn: async (category: Category) => {
-      const response = await fetch(`/api/restaurant/${category.id}`, {
+      const response = await fetch("/api/restaurant", {
         method: "PUT",
-        body: JSON.stringify(category),
+        body: JSON.stringify({ ...category, id: category.id }),
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
@@ -69,12 +70,8 @@ export default function RestaurantProfilePage() {
   });
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
-    setNewCategory((prev) => {
-      const updatedCategory = { ...prev, [name]: value };
-      if (isEditMode) updateMutation.mutate(updatedCategory);
-      else createMutation.mutate(updatedCategory);
-      return updatedCategory;
-    });
+    setNewCategory((prev) => ({ ...prev, [name]: value }));
+    setIsCategoryEdited(true);
   };
   const handleAddItem = () => {
     setNewCategory((prev) => {
@@ -136,6 +133,7 @@ export default function RestaurantProfilePage() {
     setEditingItemIndex(null);
     setIsModalOpen(false);
     setIsEditMode(false);
+    setIsCategoryEdited(false);
     originalItemsRef.current = [];
   };
   if (isLoading) return <Loading />;
@@ -188,14 +186,29 @@ export default function RestaurantProfilePage() {
                   {categoryFields.map(({ name, label }) => (
                     <div key={name}>
                       <label className="flex mb-1">{label}:</label>
-                      <input
-                        type="text"
-                        name={name}
-                        value={(newCategory as any)[name]}
-                        onChange={handleCategoryChange}
-                        className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
-                        required
-                      />
+                      <div className="relative">
+                        <input
+                          type="text"
+                          name={name}
+                          value={(newCategory as any)[name]}
+                          onChange={handleCategoryChange}
+                          className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
+                          required
+                        />
+                        {isCategoryEdited && (
+                          <button
+                            type="button"
+                            onClick={() => {
+                              if (isEditMode) updateMutation.mutate(newCategory);
+                              else createMutation.mutate(newCategory);
+                              setIsCategoryEdited(false);
+                            }}
+                            className="absolute top-1/2 right-2 transform -translate-y-1/2 bg-green-600 text-primary px-2 py-1 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                          >
+                            <FaCheck />
+                          </button>
+                        )}
+                      </div>
                     </div>
                   ))}
                 </div>
