@@ -43,6 +43,8 @@ export async function PUT(request: Request) {
     const body = await request.json();
     const { id, image, title, active, items } = body;
     if (!id) return NextResponse.json({ error: "ID is required for updating category" }, { status: 400 });
+    const existingCategory = await prisma.category.findUnique({ where: { id } });
+    if (!existingCategory) return NextResponse.json({ error: "Category not found" }, { status: 404 });
     const updatedCategory = await prisma.category.update({
       where: { id },
       data: {
