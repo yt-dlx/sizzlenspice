@@ -56,7 +56,7 @@ model Item {
   price       Price
   genre       String
   rating      Float
-  category    Category @relation(fields: [categoryId], references: [id])
+  category    Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
   categoryId  String   @db.ObjectId
 }
 

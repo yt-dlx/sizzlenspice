@@ -42,6 +42,7 @@ export async function PUT(request: Request) {
   try {
     const body = await request.json();
     const { id, image, title, active, items } = body;
+    if (!id) return NextResponse.json({ error: "ID is required for updating category" }, { status: 400 });
     const updatedCategory = await prisma.category.update({
       where: { id },
       data: {
