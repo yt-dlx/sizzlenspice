@@ -7,30 +7,31 @@ import { motion, AnimatePresence } from "framer-motion";
 import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
 import { FaPlus, FaEdit, FaTrash, FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
+import { FaImage, FaTag, FaKeyboard, FaAlignLeft, FaRupeeSign } from "react-icons/fa";
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const originalItemsRef = useRef<CartItem[]>([]);
   const [isEditMode, setIsEditMode] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [isCategoryEdited, setIsCategoryEdited] = useState(false);
   const [editingItemIndex, setEditingItemIndex] = useState<number | null>(null);
   const [deletingItemIndex, setDeletingItemIndex] = useState<number | null>(null);
   const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
+  const [isCategoryEdited, setIsCategoryEdited] = useState(false);
   const categoryFields = [
-    { name: "image", label: "Category Image URL" },
     { name: "title", label: "Category Title" },
+    { name: "image", label: "Category Image Link" },
   ];
   const itemFields = [
     { name: "title", placeholder: "Title" },
-    { name: "description", placeholder: "Description" },
-    { name: "image", placeholder: "Image URL" },
     { name: "genre", placeholder: "Genre" },
+    { name: "image", placeholder: "Image URL" },
+    { name: "description", placeholder: "Description" },
   ];
   const priceFields = [
-    { name: "small", placeholder: "Small" },
-    { name: "medium", placeholder: "Medium" },
     { name: "full", placeholder: "Full" },
+    { name: "medium", placeholder: "Medium" },
+    { name: "small", placeholder: "Small" },
   ];
   const {
     data: categories = [],
@@ -76,8 +77,7 @@ export default function RestaurantProfilePage() {
   const handleAddItem = () => {
     setNewCategory((prev) => {
       const updatedCategory = { ...prev, items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }] };
-      if (isEditMode) updateMutation.mutate(updatedCategory);
-      else createMutation.mutate(updatedCategory);
+      createMutation.mutate(updatedCategory);
       return updatedCategory;
     });
   };
@@ -157,9 +157,9 @@ export default function RestaurantProfilePage() {
                   <p className="text-sm mt-2">Status: {category.active ? "Active" : "Inactive"}</p>
                   <button
                     onClick={() => handleEditCategory(category)}
-                    className="mt-4 text-xs bg-primary text-secondary px-4 py-2 rounded-xl hover:bg-tertiary transition duration-300 flex items-center justify-center"
+                    className="mt-4 text-xs bg-primary text-secondary p-2 rounded-xl hover:bg-tertiary transition duration-300 flex items-center justify-center"
                   >
-                    <FaEdit className="mr-2" /> Edit Category
+                    <FaEdit /> Edit Category
                   </button>
                 </div>
               </div>
@@ -167,7 +167,7 @@ export default function RestaurantProfilePage() {
         </div>
       </section>
       <section id="add-category" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <button onClick={() => setIsModalOpen(true)} className="text-lg font-semibold bg-secondary text-primary px-4 py-2 rounded-xl ">
+        <button onClick={() => setIsModalOpen(true)} className="text-lg font-semibold bg-secondary text-primary p-2 rounded-xl ">
           Add New Category
         </button>
       </section>
@@ -175,25 +175,29 @@ export default function RestaurantProfilePage() {
         {isModalOpen && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
-            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
-            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
+            animate={{ opacity: 1, y: 0, transition: { duration: 0.1 } }}
+            exit={{ opacity: 0, y: "100%", transition: { duration: 0.1 } }}
+            className="fixed inset-0 backdrop-blur-3xl bg-secondary/80 flex items-center justify-center z-50"
           >
-            <div className="bg-secondary/20 backdrop-blur-lg text-primary rounded-xl p-4 max-w-2xl w-full max-h-[90vh] overflow-y-auto overflow-x-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary/20 border-4 border-double border-primary shadow-md shadow-secondary">
-              <h2 className="text-xl text-primary font-bold mb-6">{isEditMode ? "Edit Category" : "Add New Category"}</h2>
+            <div className="bg-primary/40 backdrop-blur-lg text-primary rounded-xl p-4 max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl  w-full max-h-[90vh] overflow-y-auto overflow-x-auto scrollbar-thin scrollbar-thumb-secondary scrollbar-track-secondary/10 border-4 border-double border-secondary shadow-md shadow-secondary">
+              <h2 className="text-6xl text-primary font-bold mb-6">{isEditMode ? "Edit Category" : "Add New Category"}</h2>
               <div className="space-y-4">
-                <div className="grid grid-cols-2">
+                <div className="grid grid-cols-2 bg-secondary p-4 rounded-xl">
                   {categoryFields.map(({ name, label }) => (
                     <div key={name}>
-                      <label className="flex mb-1">{label}:</label>
+                      <label className="ml-2 text-primary mt-2 flex items-center gap-2">
+                        {name === "title" && <FaTag />}
+                        {name === "image" && <FaImage />}
+                        {label}
+                      </label>
                       <div className="relative">
                         <input
+                          required
                           type="text"
                           name={name}
                           value={(newCategory as any)[name]}
                           onChange={handleCategoryChange}
-                          className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
-                          required
+                          className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
                         />
                         {isCategoryEdited && (
                           <button
@@ -203,7 +207,7 @@ export default function RestaurantProfilePage() {
                               else createMutation.mutate(newCategory);
                               setIsCategoryEdited(false);
                             }}
-                            className="absolute top-1/2 right-2 transform -translate-y-1/2 bg-green-600 text-primary px-2 py-1 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                            className="absolute top-1/2 right-2 transform -translate-y-1/2 bg-green-600 text-primary px-2 py-1 rounded-full hover:bg-green-700 transition duration-300 flex items-center justify-center gap-2"
                           >
                             <FaCheck />
                           </button>
@@ -213,30 +217,44 @@ export default function RestaurantProfilePage() {
                   ))}
                 </div>
                 {newCategory.items.map((item, index) => (
-                  <div key={index} className="border-2 border-primary/60 p-4 rounded-xl mb-4 bg-secondary/60 backdrop-blur-xl shadow-md shadow-secondary">
-                    <h4 className="font-semibold mb-2 text-2xl">Item {index + 1}</h4>
+                  <div key={index} className="p-4 rounded-xl mb-4 bg-secondary backdrop-blur-xl shadow-md shadow-secondary">
                     <div className="grid grid-cols-2">
                       {itemFields.map(({ name, placeholder }) => (
-                        <input
-                          key={name}
-                          required
-                          type="text"
-                          placeholder={placeholder}
-                          value={(item as any)[name]}
-                          onChange={(e) => handleItemChange(index, name as keyof CartItem, e.target.value)}
-                          className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
-                        />
+                        <div key={name} className="w-full">
+                          <label htmlFor={`item-${name}-${index}`} className="ml-2 text-primary mt-2 flex items-center gap-2">
+                            {name === "title" && <FaKeyboard />}
+                            {name === "genre" && <FaKeyboard />}
+                            {name === "image" && <FaImage />}
+                            {name === "description" && <FaAlignLeft />}
+                            {placeholder}
+                          </label>
+                          <input
+                            required
+                            id={`item-${name}-${index}`}
+                            type="text"
+                            placeholder={placeholder}
+                            value={(item as any)[name]}
+                            onChange={(e) => handleItemChange(index, name as keyof CartItem, e.target.value)}
+                            className="w-full text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
+                          />
+                        </div>
                       ))}
                       {priceFields.map(({ name, placeholder }) => (
-                        <input
-                          key={name}
-                          required
-                          type="text"
-                          placeholder={placeholder}
-                          value={(item.price as any)[name]}
-                          onChange={(e) => handlePriceChange(index, name as keyof Price, e.target.value)}
-                          className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
-                        />
+                        <div key={name} className="w-full">
+                          <label htmlFor={`price-${name}-${index}`} className="ml-2 text-primary mt-2 flex items-center gap-2">
+                            <FaRupeeSign />
+                            {placeholder} Plate Price
+                          </label>
+                          <input
+                            required
+                            id={`price-${name}-${index}`}
+                            type="text"
+                            placeholder={placeholder}
+                            value={(item.price as any)[name]}
+                            onChange={(e) => handlePriceChange(index, name as keyof Price, e.target.value)}
+                            className="w-full text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
+                          />
+                        </div>
                       ))}
                     </div>
                     <div className="flex justify-center mt-2 gap-0.5">
@@ -245,14 +263,14 @@ export default function RestaurantProfilePage() {
                           <button
                             type="button"
                             onClick={() => handleDeleteItem(index)}
-                            className="w-1/2 bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                            className="w-1/2 bg-green-600 text-primary p-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center gap-2"
                           >
                             <FaCheck /> Confirm
                           </button>
                           <button
                             type="button"
                             onClick={() => cancelItemAction(index)}
-                            className="w-1/2 bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                            className="w-1/2 bg-red-900 text-primary p-2 rounded-xl hover:bg-red-800 transition duration-300 flex items-center justify-center gap-2"
                           >
                             <FaTimes /> Cancel
                           </button>
@@ -261,7 +279,7 @@ export default function RestaurantProfilePage() {
                         <button
                           type="button"
                           onClick={() => handleDeleteItem(index)}
-                          className="w-full bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                          className="w-full bg-red-900 text-primary p-2 rounded-xl hover:bg-red-800 transition duration-300 flex items-center justify-center gap-2"
                         >
                           <FaTrash /> Delete Item
                         </button>
@@ -273,14 +291,14 @@ export default function RestaurantProfilePage() {
                               <button
                                 type="button"
                                 onClick={() => handleEditItem(index)}
-                                className="w-1/2 bg-green-600 text-primary px-4 py-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center"
+                                className="w-1/2 bg-green-600 text-primary p-2 rounded-xl hover:bg-green-700 transition duration-300 flex items-center justify-center gap-2"
                               >
                                 <FaCheck /> Confirm
                               </button>
                               <button
                                 type="button"
                                 onClick={() => cancelItemAction(index)}
-                                className="w-1/2 bg-red-800 text-primary px-4 py-2 rounded-xl hover:bg-red-700 transition duration-300 flex items-center justify-center"
+                                className="w-1/2 bg-red-900 text-primary p-2 rounded-xl hover:bg-red-800 transition duration-300 flex items-center justify-center gap-2"
                               >
                                 <FaTimes /> Cancel
                               </button>
@@ -289,7 +307,7 @@ export default function RestaurantProfilePage() {
                             <button
                               type="button"
                               onClick={() => handleEditItem(index)}
-                              className="w-full bg-yellow-600 text-primary px-4 py-2 rounded-xl hover:bg-yellow-700 transition duration-300 flex items-center justify-center"
+                              className="w-full bg-yellow-600 text-primary p-2 rounded-xl hover:bg-yellow-700 transition duration-300 flex items-center justify-center gap-2"
                             >
                               <FaEdit /> Edit Item
                             </button>
@@ -299,21 +317,23 @@ export default function RestaurantProfilePage() {
                     </div>
                   </div>
                 ))}
-                <button
-                  type="button"
-                  onClick={handleAddItem}
-                  className="px-4 py-2 rounded-xl bg-primary text-secondary hover:bg-tertiary transition duration-300 flex items-center shadow-md shadow-secondary"
-                >
-                  <FaPlus className="mr-2" /> Add Item
-                </button>
-                <div className="flex justify-center space-x-4 mt-6">
+                <div className="grid grid-cols-2 gap-1">
                   <button
                     type="button"
-                    onClick={resetForm}
-                    className="w-full px-4 py-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    onClick={handleAddItem}
+                    className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-secondary/80 hover:bg-secondary text-primary flex items-center justify-center gap-2"
                   >
-                    Cancel
+                    <FaPlus /> Add More Item
                   </button>
+                  <div className="flex items-center justify-center">
+                    <button
+                      type="button"
+                      onClick={resetForm}
+                      className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    >
+                      <FaTimes /> Cancel
+                    </button>
+                  </div>
                 </div>
               </div>
             </div>

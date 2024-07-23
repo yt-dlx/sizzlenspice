@@ -216,7 +216,7 @@ export default function RestaurantOrdersPage() {
                   <button
                     key={status}
                     onClick={() => updateOrderStatus(selectedOrder._id, status, selectedOrder.userId)}
-                    className={`px-4 py-2 mb-2 transition duration-700 ease-in-out transform rounded-full ${
+                    className={`p-2 mb-2 transition duration-700 ease-in-out transform rounded-full ${
                       selectedOrder.status === status ? "bg-[#A8B67C] text-primary" : "bg-secondary hover:bg-[#A8B67C] text-primary"
                     } flex items-center`}
                   >

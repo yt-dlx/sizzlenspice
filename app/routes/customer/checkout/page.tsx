@@ -258,13 +258,13 @@ export default function CartPage() {
                   <button
                     disabled={isLoading}
                     onClick={ConfirmOrder}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full p-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                   </button>
                   <Link
                     href={"/routes/customer/menu"}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full p-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <MdFastfood size={20} /> I want to add more!
                   </Link>
@@ -282,7 +282,7 @@ export default function CartPage() {
                 <div className="mt-2 space-y-2">
                   <Link
                     href={"/routes/customer/menu"}
-                    className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                    className="w-full p-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                   >
                     <MdFastfood size={20} /> Add Food Items
                   </Link>

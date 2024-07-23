@@ -279,7 +279,7 @@ export default function HomePage() {
                 </div>
                 <Link
                   href="/routes/customer/checkout"
-                  className="w-full mt-2 px-4 py-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
+                  className="w-full mt-2 p-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                 >
                   Proceed To Checkout
                 </Link>

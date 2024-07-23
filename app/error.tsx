@@ -26,7 +26,7 @@ export default function Error({ error, reset }: { error: Error & { digest?: stri
           <div className="mt-6 space-y-2">
             <Link
               href={"/routes"}
-              className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
+              className="w-full p-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
             >
               <MdFastfood size={20} /> Go to Home
             </Link>

@@ -96,7 +96,7 @@ const CompanyPage: React.FC = () => {
           <div className="mb-6">
             <Link
               href={"/routes"}
-              className="w-full px-4 py-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
+              className="w-full p-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
             >
               <MdFastfood size={20} /> Go to Home
             </Link>
