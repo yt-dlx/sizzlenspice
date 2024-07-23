@@ -5,12 +5,12 @@ import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
 import { MdClose } from "react-icons/md";
-import { FoodItem } from "@/app/_assets/types/cart";
 import { FaPlus, FaMinus } from "react-icons/fa";
+import { useQuery } from "@tanstack/react-query";
+import { FoodItem } from "@/app/_assets/types/cart";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
-import { useQuery } from "@tanstack/react-query";
 
 export default function HomePage() {
   const [isCartOpen, setIsCartOpen] = React.useState(false);
