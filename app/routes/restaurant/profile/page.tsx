@@ -8,24 +8,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 
-const categoryFields = [
-  { name: "image", label: "Category Image URL" },
-  { name: "title", label: "Category Title" },
-];
-
-const itemFields = [
-  { name: "title", placeholder: "Title" },
-  { name: "description", placeholder: "Description" },
-  { name: "image", placeholder: "Image URL" },
-  { name: "genre", placeholder: "Genre" },
-];
-
-const priceFields = [
-  { name: "small", placeholder: "Small" },
-  { name: "medium", placeholder: "Medium" },
-  { name: "full", placeholder: "Full" },
-];
-
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const [isEditMode, setIsEditMode] = useState(false);
@@ -33,7 +15,21 @@ export default function RestaurantProfilePage() {
   const [confirmEditIndex, setConfirmEditIndex] = useState<number | null>(null);
   const [confirmDeleteIndex, setConfirmDeleteIndex] = useState<number | null>(null);
   const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
-
+  const categoryFields = [
+    { name: "image", label: "Category Image URL" },
+    { name: "title", label: "Category Title" },
+  ];
+  const itemFields = [
+    { name: "title", placeholder: "Title" },
+    { name: "description", placeholder: "Description" },
+    { name: "image", placeholder: "Image URL" },
+    { name: "genre", placeholder: "Genre" },
+  ];
+  const priceFields = [
+    { name: "small", placeholder: "Small" },
+    { name: "medium", placeholder: "Medium" },
+    { name: "full", placeholder: "Full" },
+  ];
   const {
     data: categories = [],
     isLoading,
@@ -46,7 +42,6 @@ export default function RestaurantProfilePage() {
       return response.json();
     },
   });
-
   const createMutation = useMutation({
     mutationFn: async (category: Category) => {
       const response = await fetch("/api/restaurant", {
@@ -62,7 +57,6 @@ export default function RestaurantProfilePage() {
       resetForm();
     },
   });
-
   const updateMutation = useMutation({
     mutationFn: async (category: Category) => {
       const response = await fetch(`/api/restaurant/${category.id}`, {
@@ -78,46 +72,39 @@ export default function RestaurantProfilePage() {
       resetForm();
     },
   });
-
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setNewCategory((prev) => ({ ...prev, [name]: value }));
   };
-
   const handleAddItem = () => {
     setNewCategory((prev) => ({
       ...prev,
       items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }],
     }));
   };
-
   const handleItemChange = (index: number, field: keyof CartItem, value: string | number) => {
     setNewCategory((prev) => ({
       ...prev,
       items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)),
     }));
   };
-
   const handlePriceChange = (index: number, priceType: keyof Price, value: string) => {
     setNewCategory((prev) => ({
       ...prev,
       items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)),
     }));
   };
-
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const categoryToSubmit = { ...newCategory, active: false };
     if (isEditMode) updateMutation.mutate(categoryToSubmit);
     else createMutation.mutate(categoryToSubmit);
   };
-
   const handleEditCategory = (category: Category) => {
     setNewCategory(category);
     setIsEditMode(true);
     setIsModalOpen(true);
   };
-
   const confirmDeleteItem = (index: number) => {
     setNewCategory((prev) => ({
       ...prev,
@@ -125,12 +112,10 @@ export default function RestaurantProfilePage() {
     }));
     setConfirmDeleteIndex(null);
   };
-
   const confirmEditItem = (index: number) => {
     setConfirmEditIndex(null);
     setIsModalOpen(true);
   };
-
   const resetForm = () => {
     setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
     setConfirmDeleteIndex(null);
@@ -138,10 +123,8 @@ export default function RestaurantProfilePage() {
     setIsModalOpen(false);
     setIsEditMode(false);
   };
-
   if (isLoading) return <Loading />;
-  if (isError) return <div>An error occurred</div>;
-
+  if (isError) throw new Error("An error occurred");
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
