@@ -2,22 +2,23 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
-import React, { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
+import React, { useState, useRef, useEffect } from "react";
 import { FaPlus, FaEdit, FaTrash, FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { FaImage, FaTag, FaKeyboard, FaAlignLeft, FaRupeeSign } from "react-icons/fa";
+import type { Category, Price, CartItem, Restaurant } from "@/app/_assets/types/cart";
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const originalItemsRef = useRef<CartItem[]>([]);
   const [isEditMode, setIsEditMode] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isCategoryEdited, setIsCategoryEdited] = useState(false);
+  const [restaurant, setRestaurant] = useState<Restaurant | null>(null);
   const [editingItemIndex, setEditingItemIndex] = useState<number | null>(null);
   const [deletingItemIndex, setDeletingItemIndex] = useState<number | null>(null);
-  const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
-  const [isCategoryEdited, setIsCategoryEdited] = useState(false);
+  const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [], restaurantId: "" });
   const categoryFields = [
     { name: "title", label: "Category Title" },
     { name: "image", label: "Category Image Link" },
@@ -33,41 +34,56 @@ export default function RestaurantProfilePage() {
     { name: "medium", placeholder: "Medium" },
     { name: "small", placeholder: "Small" },
   ];
+  const fetchRestaurantData = async () => {
+    try {
+      const response = await fetch("/api/restaurant/profile");
+      if (!response.ok) throw new Error("Failed to fetch restaurant data");
+      const data = await response.json();
+      setRestaurant(data);
+    } catch (error) {
+      console.error("Error fetching restaurant data:", error);
+    }
+  };
+  useEffect(() => {
+    fetchRestaurantData();
+  }, []);
   const {
     data: categories = [],
     isLoading,
     isError,
   } = useQuery({
-    queryKey: ["categories"],
+    queryKey: ["categories", restaurant?.id],
     queryFn: async () => {
-      const response = await fetch("/api/restaurant");
+      if (!restaurant) return [];
+      const response = await fetch(`/api/restaurant/categories?id=${restaurant.id}`);
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
+    enabled: !!restaurant,
   });
   const createMutation = useMutation({
     mutationFn: async (category: Category) => {
-      const response = await fetch("/api/restaurant", {
+      const response = await fetch("/api/restaurant/categories", {
         method: "POST",
-        body: JSON.stringify(category),
+        body: JSON.stringify({ ...category, restaurantId: restaurant?.id }),
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
-    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories"] }),
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories", restaurant?.id] }),
   });
   const updateMutation = useMutation({
     mutationFn: async (category: Category) => {
-      const response = await fetch("/api/restaurant", {
+      const response = await fetch(`/api/restaurant/categories/${category.id}`, {
         method: "PUT",
-        body: JSON.stringify({ ...category, id: category.id }),
+        body: JSON.stringify({ ...category, restaurantId: category.restaurantId || restaurant?.id }),
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
-    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories"] }),
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories", restaurant?.id] }),
   });
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -88,7 +104,10 @@ export default function RestaurantProfilePage() {
     setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)) }));
   };
   const handleEditCategory = (category: Category) => {
-    setNewCategory(category);
+    setNewCategory({
+      ...category,
+      restaurantId: category.restaurantId || restaurant?.id || "",
+    });
     originalItemsRef.current = JSON.parse(JSON.stringify(category.items));
     setIsEditMode(true);
     setIsModalOpen(true);
@@ -117,18 +136,14 @@ export default function RestaurantProfilePage() {
     } else setEditingItemIndex(index);
   };
   const cancelItemAction = (index: number) => {
-    if (deletingItemIndex === index) {
-      setDeletingItemIndex(null);
-    } else if (editingItemIndex === index) {
-      setNewCategory((prev) => ({
-        ...prev,
-        items: prev.items.map((item, i) => (i === index ? originalItemsRef.current[index] : item)),
-      }));
+    if (deletingItemIndex === index) setDeletingItemIndex(null);
+    else if (editingItemIndex === index) {
+      setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? originalItemsRef.current[index] : item)) }));
       setEditingItemIndex(null);
     }
   };
   const resetForm = () => {
-    setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
+    setNewCategory({ id: 0, image: "", title: "", active: false, items: [], restaurantId: restaurant?.id || "" });
     setDeletingItemIndex(null);
     setEditingItemIndex(null);
     setIsModalOpen(false);
@@ -143,6 +158,13 @@ export default function RestaurantProfilePage() {
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-xl py-2">Manage Your Menu Categories</h2>
+        {restaurant && (
+          <div>
+            <p>Name: {restaurant.name}</p>
+            <p>Email: {restaurant.email}</p>
+            <p>Phone: {restaurant.phoneNumber}</p>
+          </div>
+        )}
       </section>
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">

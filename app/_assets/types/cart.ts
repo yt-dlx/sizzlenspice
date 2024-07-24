@@ -5,7 +5,6 @@ export interface Price {
   medium: string;
   full: string;
 }
-
 export interface FoodItem {
   title: string;
   description: string;
@@ -15,25 +14,30 @@ export interface FoodItem {
   rating: number;
   selectedSize?: string;
 }
-
 export interface CartItem extends FoodItem {
   quantity: number;
   selectedSize: string;
 }
-
 export interface Category {
   id: number;
   image: string;
   title: string;
   active: boolean;
   items: FoodItem[];
+  restaurantId: string;
 }
-
+export interface Restaurant {
+  id: string;
+  name: string;
+  email: string;
+  phoneNumber: string;
+  categories?: Category[];
+}
 export interface StoreState {
   cart: CartItem[];
+  clearCart: () => void;
+  getCartTotal: () => number;
   addToCart: (item: FoodItem & { selectedSize: string }) => void;
   removeFromCart: (itemTitle: string, selectedSize: string) => void;
   updateCartItemQuantity: (itemTitle: string, selectedSize: string, quantity: number) => void;
-  clearCart: () => void;
-  getCartTotal: () => number;
 }
