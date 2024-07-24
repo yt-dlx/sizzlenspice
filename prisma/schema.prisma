@@ -40,21 +40,12 @@ model Order {
   total         Float
 }
 
-model Restaurant {
-  id          String     @id @default(auto()) @map("_id") @db.ObjectId
-  email       String     @unique
-  phoneNumber String
-  categories  Category[]
-}
-
 model Category {
-  id           String     @id @default(auto()) @map("_id") @db.ObjectId
-  image        String
-  title        String
-  active       Boolean
-  items        Item[]
-  restaurant   Restaurant @relation(fields: [restaurantId], references: [id], onDelete: Cascade)
-  restaurantId String     @db.ObjectId
+  id     String  @id @default(auto()) @map("_id") @db.ObjectId
+  image  String
+  title  String
+  active Boolean
+  items  Item[]
 }
 
 model Item {

@@ -320,21 +320,15 @@ const initialCategories = [
     ],
   },
 ];
+
 async function main() {
   try {
-    const restaurant = await prisma.restaurant.create({
-      data: {
-        email: "shovitdutta1@gmail.com",
-        phoneNumber: "8250261313",
-      },
-    });
     for (const category of initialCategories) {
       await prisma.category.create({
         data: {
           image: category.image,
           title: category.title,
           active: category.active,
-          restaurant: { connect: { id: restaurant.id } },
           items: {
             create: category.items.map((item) => ({
               title: item.title,

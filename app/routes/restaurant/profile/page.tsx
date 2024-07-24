@@ -2,30 +2,22 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
-import { useRouter } from "next/navigation";
-import { useSession } from "next-auth/react";
+import React, { useState, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import React, { useState, useRef, useEffect } from "react";
-import type { Category, Price, FoodItem } from "@/app/_assets/types/cart";
+import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
 import { FaPlus, FaEdit, FaTrash, FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { FaImage, FaTag, FaKeyboard, FaAlignLeft, FaRupeeSign } from "react-icons/fa";
 
 export default function RestaurantProfilePage() {
-  const router = useRouter();
   const queryClient = useQueryClient();
-  const { data: session, status } = useSession();
-  const originalItemsRef = useRef<FoodItem[]>([]);
+  const originalItemsRef = useRef<CartItem[]>([]);
   const [isEditMode, setIsEditMode] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [editingItemIndex, setEditingItemIndex] = useState<number | null>(null);
   const [deletingItemIndex, setDeletingItemIndex] = useState<number | null>(null);
   const [newCategory, setNewCategory] = useState<Category>({ id: 0, image: "", title: "", active: false, items: [] });
   const [isCategoryEdited, setIsCategoryEdited] = useState(false);
-
-  useEffect(() => {
-    if (status === "unauthenticated") router.push("/");
-  }, [status, router]);
   const categoryFields = [
     { name: "title", label: "Category Title" },
     { name: "image", label: "Category Image Link" },
@@ -69,7 +61,7 @@ export default function RestaurantProfilePage() {
     mutationFn: async (category: Category) => {
       const response = await fetch("/api/restaurant", {
         method: "PUT",
-        body: JSON.stringify(category),
+        body: JSON.stringify({ ...category, id: category.id }),
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
@@ -84,30 +76,16 @@ export default function RestaurantProfilePage() {
   };
   const handleAddItem = () => {
     setNewCategory((prev) => {
-      const newItem: FoodItem = {
-        title: "",
-        description: "",
-        image: "",
-        price: { small: "", medium: "", full: "" },
-        genre: "",
-        rating: 1,
-      };
-      const updatedCategory = { ...prev, items: [...prev.items, newItem] };
+      const updatedCategory = { ...prev, items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }] };
       createMutation.mutate(updatedCategory);
       return updatedCategory;
     });
   };
-  const handleItemChange = (index: number, field: keyof FoodItem, value: string | number) => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)),
-    }));
+  const handleItemChange = (index: number, field: keyof CartItem, value: string | number) => {
+    setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)) }));
   };
   const handlePriceChange = (index: number, priceType: keyof Price, value: string) => {
-    setNewCategory((prev) => ({
-      ...prev,
-      items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)),
-    }));
+    setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)) }));
   };
   const handleEditCategory = (category: Category) => {
     setNewCategory(category);
@@ -158,9 +136,8 @@ export default function RestaurantProfilePage() {
     setIsCategoryEdited(false);
     originalItemsRef.current = [];
   };
-  if (status === "loading" || isLoading) return <Loading />;
+  if (isLoading) return <Loading />;
   if (isError) throw new Error("An error occurred");
-  if (!session) return null;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
@@ -239,7 +216,7 @@ export default function RestaurantProfilePage() {
                     </div>
                   ))}
                 </div>
-                {newCategory.items.map((item: FoodItem, index) => (
+                {newCategory.items.map((item, index) => (
                   <div key={index} className="p-4 rounded-xl mb-4 bg-secondary backdrop-blur-xl shadow-md shadow-secondary">
                     <div className="grid grid-cols-2">
                       {itemFields.map(({ name, placeholder }) => (
@@ -257,7 +234,7 @@ export default function RestaurantProfilePage() {
                             type="text"
                             placeholder={placeholder}
                             value={(item as any)[name]}
-                            onChange={(e) => handleItemChange(index, name as keyof FoodItem, e.target.value)}
+                            onChange={(e) => handleItemChange(index, name as keyof CartItem, e.target.value)}
                             className="w-full text-lg transition duration-700 ease-in-out transform rounded-xl border-2 border-secondary bg-primary hover:bg-tertiary text-secondary flex items-center justify-center"
                           />
                         </div>

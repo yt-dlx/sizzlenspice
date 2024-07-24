@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
 import { LuBike } from "react-icons/lu";
-import { useRouter } from "next/navigation";
 import { MdFastfood } from "react-icons/md";
 import { pusherClient } from "@/lib/pusher";
 import { useSession } from "next-auth/react";
@@ -17,7 +16,6 @@ import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa"
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
 
 export default function CartPage() {
-  const router = useRouter();
   const queryClient = useQueryClient();
   const { data: session } = useSession();
   const [showGif, setShowGif] = useState(false);
@@ -35,9 +33,7 @@ export default function CartPage() {
   } = useQuery<Order[], Error>({
     queryKey: ["orders", session?.user?.email],
     queryFn: async () => {
-      if (!session?.user?.email) {
-        return [];
-      }
+      if (!session?.user?.email) return [];
       const response = await fetch("/api/orders?userId=" + session.user.email);
       if (!response.ok) throw new Error("Failed to fetch order!");
       const data = await response.json();
