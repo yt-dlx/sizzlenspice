@@ -9,8 +9,8 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useQuery } from "@tanstack/react-query";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
-import { FoodItem, Category } from "@/app/_assets/types/cart";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
+import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
 
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = React.useState("");
@@ -20,17 +20,26 @@ export default function HomePage() {
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { cart, addToCart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
   const {
-    data: categories = [],
+    data: restaurants = [],
     error,
     isLoading,
-  } = useQuery<Category[]>({
-    queryKey: ["categories"],
+  } = useQuery<Restaurant[]>({
+    queryKey: ["restaurants"],
     queryFn: async () => {
-      const response = await fetch("/api/restaurant");
+      const response = await fetch("/api/restaurant/menu");
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
+  const categories = React.useMemo(() => {
+    let allCategories: Category[] = [];
+    restaurants.forEach((restaurant) => {
+      if (restaurant.categories) {
+        allCategories = [...allCategories, ...restaurant.categories];
+      }
+    });
+    return allCategories;
+  }, [restaurants]);
   const filteredItems = React.useMemo(() => {
     let allItems: FoodItem[] = [];
     categories.forEach((category) => {
