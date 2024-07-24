@@ -1,3 +1,5 @@
+import { PrismaClient } from "@prisma/client";
+const prisma = new PrismaClient();
 const restaurantData = {
   email: "shovitdutta1@gmail.com",
   restaurant: "SizzleNSpice",
@@ -303,3 +305,39 @@ const restaurantData = {
     },
   ],
 };
+async function saveRestaurantData(data) {
+  try {
+    const existingUser = await prisma.user.findUnique({ where: { email: data.email } });
+    if (!existingUser) await prisma.user.create({ data: { email: data.email, phoneNumber: data.phoneNumber, customerEmail: data.email } });
+    else console.log(`User with email ${data.email} already exists. Skipping user creation.`);
+    const restaurant = await prisma.restaurant.create({ data: { email: data.email, name: data.restaurant, phoneNumber: data.phoneNumber } });
+    for (const categoryData of data.categories) {
+      await prisma.category.create({
+        data: {
+          image: categoryData.image,
+          title: categoryData.title,
+          active: categoryData.active,
+          restaurant: { connect: { id: restaurant.id } },
+          items: {
+            create: categoryData.items.map((itemData) => ({
+              title: itemData.title,
+              image: itemData.image,
+              price: itemData.price,
+              genre: itemData.genre,
+              rating: itemData.rating,
+              description: itemData.description,
+              restaurant: { connect: { id: restaurant.id } },
+            })),
+          },
+        },
+      });
+    }
+    console.log("Restaurant data saved successfully.");
+  } catch (error) {
+    console.error("Error saving restaurant data:", error);
+  } finally {
+    await prisma.$disconnect();
+  }
+}
+
+saveRestaurantData(restaurantData);
