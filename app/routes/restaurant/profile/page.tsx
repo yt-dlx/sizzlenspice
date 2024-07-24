@@ -2,8 +2,9 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
-import React, { useState, useRef } from "react";
+import { useSession } from "next-auth/react";
 import { motion, AnimatePresence } from "framer-motion";
+import React, { useState, useRef, useEffect } from "react";
 import type { Category, Price, CartItem } from "@/app/_assets/types/cart";
 import { FaPlus, FaEdit, FaTrash, FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
@@ -33,6 +34,22 @@ export default function RestaurantProfilePage() {
     { name: "medium", placeholder: "Medium" },
     { name: "small", placeholder: "Small" },
   ];
+  const { data: session } = useSession();
+  const [userData, setUserData] = useState({ email: "", phoneNumber: "" });
+  useEffect(() => {
+    if (session?.user?.email) {
+      fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
+        .then((response) => response.json())
+        .then((data) => {
+          setUserData((prev) => ({ ...prev, email: session?.user?.email || "", phoneNumber: data.phoneNumber || "" }));
+          fetch(`/api/restaurant?email=${session?.user?.email}&phoneNumber=${data.phoneNumber}`)
+            .then((response) => response.json())
+            .then((restaurantData) => setNewCategory((prev) => ({ ...prev, restaurantId: restaurantData.id })))
+            .catch((err) => console.error("Failed to fetch restaurant data", err));
+        })
+        .catch((err) => console.error("Failed to fetch user data", err));
+    }
+  }, [session]);
   const {
     data: categories = [],
     isLoading,
@@ -40,16 +57,17 @@ export default function RestaurantProfilePage() {
   } = useQuery({
     queryKey: ["categories"],
     queryFn: async () => {
-      const response = await fetch("/api/restaurant");
+      const response = await fetch(`/api/restaurant?email=${userData.email}&phoneNumber=${userData.phoneNumber}`);
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
+    enabled: !!userData.email && !!userData.phoneNumber,
   });
   const createMutation = useMutation({
     mutationFn: async (category: Category) => {
       const response = await fetch("/api/restaurant", {
         method: "POST",
-        body: JSON.stringify(category),
+        body: JSON.stringify({ ...category, restaurantId: "your_restaurant_id" }), // Replace with the actual restaurantId
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
@@ -61,7 +79,7 @@ export default function RestaurantProfilePage() {
     mutationFn: async (category: Category) => {
       const response = await fetch("/api/restaurant", {
         method: "PUT",
-        body: JSON.stringify({ ...category, id: category.id }),
+        body: JSON.stringify({ ...category, id: category.id, restaurantId: "your_restaurant_id" }), // Replace with the actual restaurantId
         headers: { "Content-Type": "application/json" },
       });
       if (!response.ok) throw new Error("Network response was not ok");
@@ -69,11 +87,13 @@ export default function RestaurantProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["categories"] }),
   });
+
   const handleCategoryChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setNewCategory((prev) => ({ ...prev, [name]: value }));
     setIsCategoryEdited(true);
   };
+
   const handleAddItem = () => {
     setNewCategory((prev) => {
       const updatedCategory = { ...prev, items: [...prev.items, { title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "", rating: 1 }] };
@@ -81,23 +101,28 @@ export default function RestaurantProfilePage() {
       return updatedCategory;
     });
   };
+
   const handleItemChange = (index: number, field: keyof CartItem, value: string | number) => {
     setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, [field]: value } : item)) }));
   };
+
   const handlePriceChange = (index: number, priceType: keyof Price, value: string) => {
     setNewCategory((prev) => ({ ...prev, items: prev.items.map((item, i) => (i === index ? { ...item, price: { ...item.price, [priceType]: value } } : item)) }));
   };
+
   const handleEditCategory = (category: Category) => {
     setNewCategory(category);
     originalItemsRef.current = JSON.parse(JSON.stringify(category.items));
     setIsEditMode(true);
     setIsModalOpen(true);
   };
+
   const isItemEdited = (index: number) => {
     const originalItem = originalItemsRef.current[index];
     const currentItem = newCategory.items[index];
     return JSON.stringify(originalItem) !== JSON.stringify(currentItem);
   };
+
   const handleDeleteItem = (index: number) => {
     if (deletingItemIndex === index) {
       setNewCategory((prev) => {
@@ -109,6 +134,7 @@ export default function RestaurantProfilePage() {
       setDeletingItemIndex(null);
     } else setDeletingItemIndex(index);
   };
+
   const handleEditItem = (index: number) => {
     if (editingItemIndex === index) {
       if (isEditMode) updateMutation.mutate(newCategory);
@@ -116,6 +142,7 @@ export default function RestaurantProfilePage() {
       setEditingItemIndex(null);
     } else setEditingItemIndex(index);
   };
+
   const cancelItemAction = (index: number) => {
     if (deletingItemIndex === index) {
       setDeletingItemIndex(null);
@@ -127,6 +154,7 @@ export default function RestaurantProfilePage() {
       setEditingItemIndex(null);
     }
   };
+
   const resetForm = () => {
     setNewCategory({ id: 0, image: "", title: "", active: false, items: [] });
     setDeletingItemIndex(null);
@@ -136,6 +164,7 @@ export default function RestaurantProfilePage() {
     setIsCategoryEdited(false);
     originalItemsRef.current = [];
   };
+
   if (isLoading) return <Loading />;
   if (isError) throw new Error("An error occurred");
   return (

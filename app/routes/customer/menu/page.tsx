@@ -26,7 +26,7 @@ export default function HomePage() {
   } = useQuery<Category[]>({
     queryKey: ["categories"],
     queryFn: async () => {
-      const response = await fetch("/api/restaurant");
+      const response = await fetch("/api/restaurant/all");
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
@@ -36,9 +36,8 @@ export default function HomePage() {
     categories.forEach((category) => {
       if (category.title !== "All") allItems = [...allItems, ...category.items];
     });
-    const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
-    return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
-  }, [categories, activeCategory, searchTerm]);
+    return allItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+  }, [categories, searchTerm]);
   const totalCost = cart.reduce((total, item) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
