@@ -9,8 +9,8 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useQuery } from "@tanstack/react-query";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
+import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = React.useState("");
@@ -19,6 +19,7 @@ export default function HomePage() {
   const [activeCategory, setActiveCategory] = React.useState("All");
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { cart, addToCart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
+
   const {
     data: restaurants = [],
     error,
@@ -31,15 +32,22 @@ export default function HomePage() {
       return response.json();
     },
   });
+
   const categories = React.useMemo(() => {
-    let allCategories: Category[] = [];
+    const categoryMap: { [key: string]: Category } = {};
     restaurants.forEach((restaurant) => {
       if (restaurant.categories) {
-        allCategories = [...allCategories, ...restaurant.categories];
+        restaurant.categories.forEach((category) => {
+          if (!categoryMap[category.title]) {
+            categoryMap[category.title] = { ...category, items: [] };
+          }
+          categoryMap[category.title].items.push(...category.items);
+        });
       }
     });
-    return allCategories;
+    return Object.values(categoryMap);
   }, [restaurants]);
+
   const filteredItems = React.useMemo(() => {
     let allItems: FoodItem[] = [];
     categories.forEach((category) => {
@@ -48,12 +56,15 @@ export default function HomePage() {
     const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
     return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
   }, [categories, activeCategory, searchTerm]);
+
   const totalCost = cart.reduce((total, item) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
+
   if (isLoading) return <Loading />;
   if (error) throw error;
+
   const Header = () => {
     return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
@@ -62,6 +73,7 @@ export default function HomePage() {
       </section>
     );
   };
+
   const Categories = () => {
     return (
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
@@ -82,6 +94,7 @@ export default function HomePage() {
       </section>
     );
   };
+
   const Items = () => {
     return (
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
@@ -119,6 +132,7 @@ export default function HomePage() {
       </section>
     );
   };
+
   const Checkout = () => {
     return (
       <>
@@ -136,6 +150,7 @@ export default function HomePage() {
       </>
     );
   };
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <AnimatePresence>
