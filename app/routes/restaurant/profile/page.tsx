@@ -37,6 +37,10 @@ export default function RestaurantProfilePage() {
   const fetchRestaurantData = async () => {
     try {
       const response = await fetch("/api/restaurant/profile");
+      if (response.status === 404) {
+        console.log("No restaurant found for this user");
+        return;
+      }
       if (!response.ok) throw new Error("Failed to fetch restaurant data");
       const data = await response.json();
       setRestaurant(data);
