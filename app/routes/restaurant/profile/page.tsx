@@ -120,13 +120,6 @@ export default function RestaurantProfilePage() {
     return (
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
-          <button
-            key="all"
-            onClick={() => setSelectedCategory("All")}
-            className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${selectedCategory === "All" ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
-          >
-            <span className="text-sm mt-4">All</span>
-          </button>
           {restaurantData?.categories?.map((category, index) => (
             <button
               key={index}
@@ -139,14 +132,14 @@ export default function RestaurantProfilePage() {
               <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
-              <span className="text-sm mt-4">{category.title}</span>
+              <span className="text-sm mt-4">{category.title === "All" ? "All Items" : category.title}</span>
               {editingCategory === category.title && (
                 <div>
                   <input
                     type="text"
                     value={newCategory}
-                    onChange={(e) => setNewCategory(e.target.value)}
                     placeholder="Edit category"
+                    onChange={(e) => setNewCategory(e.target.value)}
                     className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
                   />
                   <button onClick={() => handleUpdateCategory(category.title)}>
@@ -204,7 +197,6 @@ export default function RestaurantProfilePage() {
   };
   if (isLoading) return <Loading />;
   if (error) throw error;
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
