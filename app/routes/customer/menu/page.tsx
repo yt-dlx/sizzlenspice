@@ -9,8 +9,8 @@ import { FaPlus, FaMinus } from "react-icons/fa";
 import { useQuery } from "@tanstack/react-query";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
-import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
+import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
 
 export default function HomePage() {
   const [searchTerm, setSearchTerm] = React.useState("");
