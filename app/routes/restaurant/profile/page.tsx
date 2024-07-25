@@ -2,7 +2,7 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { FoodItem, Restaurant } from "@/app/_assets/types/cart";
 import { FaPlus, FaEdit, FaSave, FaDollarSign } from "react-icons/fa";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
@@ -11,11 +11,23 @@ export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const [newCategory, setNewCategory] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isAddingCategory, setIsAddingCategory] = useState(false);
+  const [allCategories, setAllCategories] = useState<string[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [editingCategory, setEditingCategory] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
+  const fetchAllCategories = async () => {
+    const response = await fetch("/api/restaurant/menu");
+    const restaurants = await response.json();
+    const categories = new Set<string>();
+    restaurants.forEach((restaurant: any) => restaurant.categories.forEach((category: any) => categories.add(category.title)));
+    setAllCategories(Array.from(categories));
+  };
+  useEffect(() => {
+    fetchAllCategories();
+  }, []);
   const {
     data: restaurantData,
     isLoading,
@@ -41,6 +53,7 @@ export default function RestaurantProfilePage() {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["restaurant"] });
       setNewCategory("");
+      fetchAllCategories();
     },
   });
   const addItemMutation = useMutation({
@@ -93,8 +106,10 @@ export default function RestaurantProfilePage() {
     },
   });
   const handleAddCategory = () => {
-    if (!newCategory) return;
-    addCategoryMutation.mutate(newCategory);
+    if (!newCategory || newCategory === "new") return;
+    if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) addCategoryMutation.mutate(newCategory);
+    setIsAddingCategory(false);
+    setNewCategory("");
   };
   const handleAddItem = (categoryTitle: string) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
@@ -116,8 +131,11 @@ export default function RestaurantProfilePage() {
       </section>
     );
   };
-  const Categories = () => {
-    return (
+  if (isLoading) return <Loading />;
+  if (error) throw error;
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+      <Header />
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {restaurantData?.categories?.map((category, index) => (
@@ -151,10 +169,45 @@ export default function RestaurantProfilePage() {
           ))}
         </div>
       </section>
-    );
-  };
-  const Items = () => {
-    return (
+      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
+        <div className="flex flex-col gap-1 w-full">
+          <div className="relative w-full">
+            {isAddingCategory ? (
+              <div className="flex gap-1">
+                <select
+                  value={newCategory}
+                  onChange={(e) => setNewCategory(e.target.value)}
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary text-primary focus:border-primary focus:ring-primary"
+                >
+                  <option value="">Select a category</option>
+                  {allCategories.map((category) => (
+                    <option key={category} value={category}>
+                      {category}
+                    </option>
+                  ))}
+                  <option value="new">Add new category</option>
+                </select>
+                {newCategory === "new" && (
+                  <input
+                    type="text"
+                    placeholder="Enter New Category"
+                    value={newCategory === "new" ? "" : newCategory}
+                    onChange={(e) => setNewCategory(e.target.value)}
+                    className="w-full rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                  />
+                )}
+                <button onClick={handleAddCategory} className="px-4 py-2 bg-secondary text-primary rounded-xl">
+                  Add
+                </button>
+              </div>
+            ) : (
+              <button onClick={() => setIsAddingCategory(true)} className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary py-2">
+                Add new category
+              </button>
+            )}
+          </div>
+        </div>
+      </section>
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
           {restaurantData?.categories
@@ -193,31 +246,6 @@ export default function RestaurantProfilePage() {
             )}
         </div>
       </section>
-    );
-  };
-  if (isLoading) return <Loading />;
-  if (error) throw error;
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <Header />
-      <Categories />
-      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
-        <div className="flex flex-col gap-1 w-full">
-          <div className="relative w-full">
-            <input
-              type="text"
-              value={newCategory}
-              placeholder="Add new category"
-              onChange={(e) => setNewCategory(e.target.value)}
-              className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-            />
-            <button onClick={handleAddCategory} className="absolute right-3 top-1/2 transform -translate-y-1/2 text-primary">
-              <FaPlus />
-            </button>
-          </div>
-        </div>
-      </section>
-      <Items />
       {isModalOpen && selectedItem && (
         <section
           id="modal"
