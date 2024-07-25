@@ -277,7 +277,7 @@ export default function RestaurantProfilePage() {
                 e.preventDefault();
                 handleUpdateItem(editingItem!.categoryTitle, editingItem!.itemIndex);
               }}
-              className="mt-4 grid grid-cols-2 gap-2 bg-primary/20 rounded-xl p-2"
+              className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2"
             >
               <div className="mb-2">
                 <p>Item title</p>
