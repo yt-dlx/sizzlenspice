@@ -10,6 +10,7 @@ import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const [newCategory, setNewCategory] = useState("");
+  const [newCategoryImage, setNewCategoryImage] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isAddingCategory, setIsAddingCategory] = useState(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
@@ -18,6 +19,7 @@ export default function RestaurantProfilePage() {
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
+
   const fetchAllCategories = async () => {
     const response = await fetch("/api/restaurant/menu");
     const restaurants = await response.json();
@@ -25,9 +27,11 @@ export default function RestaurantProfilePage() {
     restaurants.forEach((restaurant: any) => restaurant.categories.forEach((category: any) => categories.add(category.title)));
     setAllCategories(Array.from(categories));
   };
+
   useEffect(() => {
     fetchAllCategories();
   }, []);
+
   const {
     data: restaurantData,
     isLoading,
@@ -41,6 +45,7 @@ export default function RestaurantProfilePage() {
       return restaurantResponse.json();
     },
   });
+
   const addCategoryMutation = useMutation({
     mutationFn: async (newCategory: string) => {
       const response = await fetch("/api/restaurant", {
@@ -53,9 +58,11 @@ export default function RestaurantProfilePage() {
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["restaurant"] });
       setNewCategory("");
+      setNewCategoryImage("");
       fetchAllCategories();
     },
   });
+
   const addItemMutation = useMutation({
     mutationFn: async ({ categoryTitle, newItem }: { categoryTitle: string; newItem: FoodItem }) => {
       if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
@@ -71,6 +78,7 @@ export default function RestaurantProfilePage() {
       setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
     },
   });
+
   const updateCategoryMutation = useMutation({
     mutationFn: async ({ oldTitle, newTitle }: { oldTitle: string; newTitle: string }) => {
       if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
@@ -87,6 +95,7 @@ export default function RestaurantProfilePage() {
       setNewCategory("");
     },
   });
+
   const updateItemMutation = useMutation({
     mutationFn: async ({ categoryTitle, itemIndex, updatedItem }: { categoryTitle: string; itemIndex: number; updatedItem: FoodItem }) => {
       if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
@@ -105,24 +114,30 @@ export default function RestaurantProfilePage() {
       setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
     },
   });
+
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
     if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) addCategoryMutation.mutate(newCategory);
     setIsAddingCategory(false);
     setNewCategory("");
+    setNewCategoryImage("");
   };
+
   const handleAddItem = (categoryTitle: string) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
     addItemMutation.mutate({ categoryTitle, newItem });
   };
+
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
     updateCategoryMutation.mutate({ oldTitle, newTitle: newCategory });
   };
+
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
     updateItemMutation.mutate({ categoryTitle, itemIndex, updatedItem: newItem });
   };
+
   const Header = () => {
     return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
@@ -131,8 +146,10 @@ export default function RestaurantProfilePage() {
       </section>
     );
   };
+
   if (isLoading) return <Loading />;
   if (error) throw error;
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
@@ -172,39 +189,26 @@ export default function RestaurantProfilePage() {
       <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
-            {isAddingCategory ? (
-              <div className="flex gap-1">
-                <select
-                  value={newCategory}
-                  onChange={(e) => setNewCategory(e.target.value)}
-                  className="w-full rounded-xl bg-secondary border-2 border-secondary text-primary focus:border-primary focus:ring-primary"
-                >
-                  <option value="">Select a category</option>
-                  {allCategories.map((category) => (
-                    <option key={category} value={category}>
-                      {category}
-                    </option>
-                  ))}
-                  <option value="new">Add new category</option>
-                </select>
-                {newCategory === "new" && (
-                  <input
-                    type="text"
-                    placeholder="Enter New Category"
-                    value={newCategory === "new" ? "" : newCategory}
-                    onChange={(e) => setNewCategory(e.target.value)}
-                    className="w-full rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                  />
-                )}
-                <button onClick={handleAddCategory} className="px-4 py-2 bg-secondary text-primary rounded-xl">
-                  Add
-                </button>
-              </div>
-            ) : (
-              <button onClick={() => setIsAddingCategory(true)} className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary py-2">
-                Add new category
-              </button>
-            )}
+            <select
+              value={newCategory}
+              onChange={(e) => {
+                if (e.target.value === "new") {
+                  setIsAddingCategory(true);
+                } else {
+                  setNewCategory(e.target.value);
+                  setIsAddingCategory(false);
+                }
+              }}
+              className="w-full rounded-xl bg-secondary border-2 border-secondary text-primary focus:border-primary focus:ring-primary"
+            >
+              <option value="">Select a category</option>
+              {allCategories.map((category) => (
+                <option key={category} value={category}>
+                  {category}
+                </option>
+              ))}
+              <option value="new">Add new category</option>
+            </select>
           </div>
         </div>
       </section>
@@ -246,6 +250,63 @@ export default function RestaurantProfilePage() {
             )}
         </div>
       </section>
+      {isAddingCategory && (
+        <section
+          id="add-category-modal"
+          className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center items-center max-h-[80vh] z-50"
+        >
+          <div className="p-4 w-full max-w-full">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-4xl">Add New Category</h2>
+              <button onClick={() => setIsAddingCategory(false)}>
+                <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+              </button>
+            </div>
+            <form onSubmit={handleAddCategory}>
+              <div className="bg-primary/20 rounded-xl p-2">
+                <div className="mb-4">
+                  <p>Enter New Category Name</p>
+                  <input
+                    type="text"
+                    value={newCategory}
+                    placeholder="Enter New Category Name"
+                    onChange={(e) => setNewCategory(e.target.value)}
+                    className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                    required
+                  />
+                </div>
+                <div className="mb-4">
+                  <p>Enter Category Image Link</p>
+                  <input
+                    type="text"
+                    value={newCategoryImage}
+                    placeholder="Enter Category Image Link"
+                    onChange={(e) => setNewCategoryImage(e.target.value)}
+                    className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                    required
+                  />
+                </div>
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    type="submit"
+                    className="w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+                  >
+                    Add
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setIsAddingCategory(false)}
+                    className="w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+                  >
+                    Cancel
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+        </section>
+      )}
+
       {isModalOpen && selectedItem && (
         <section
           id="modal"
