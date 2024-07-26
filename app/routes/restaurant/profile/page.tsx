@@ -14,12 +14,13 @@ export default function RestaurantProfilePage() {
   const [newCategoryImage, setNewCategoryImage] = useState("");
   const [isAddingCategory, setIsAddingCategory] = useState(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
+  const [isAddItemModalOpen, setIsAddItemModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [editingCategory, setEditingCategory] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
+  const [selectedCategoryForNewItem, setSelectedCategoryForNewItem] = useState("");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-
   const fetchAllCategories = async () => {
     const response = await fetch("/api/restaurant/menu");
     const restaurants = await response.json();
@@ -27,16 +28,15 @@ export default function RestaurantProfilePage() {
     restaurants.forEach((restaurant: any) => restaurant.categories.forEach((category: any) => categories.add(category.title)));
     setAllCategories(Array.from(categories));
   };
-
   useEffect(() => {
     fetchAllCategories();
   }, []);
-
   const {
     data: restaurantData,
     isLoading,
     error,
   } = useQuery<Restaurant>({
+    refetchInterval: 5000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -45,103 +45,59 @@ export default function RestaurantProfilePage() {
       return restaurantResponse.json();
     },
   });
-
-  const addCategoryMutation = useMutation({
-    mutationFn: async (newCategory: string) => {
+  const updateRestaurantMutation = useMutation({
+    mutationFn: async (updatedData: any) => {
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: "SizzleNSpice", categories: [{ title: newCategory, items: [] }] }),
+        body: JSON.stringify(updatedData),
       });
       return response.json();
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
-      setNewCategory("");
-      setNewCategoryImage("");
-      fetchAllCategories();
-    },
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
   });
-
-  const addItemMutation = useMutation({
-    mutationFn: async ({ categoryTitle, newItem }: { categoryTitle: string; newItem: FoodItem }) => {
-      if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
-      const response = await fetch("/api/restaurant", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: "SizzleNSpice",
-          categories: restaurantData.categories.map((category) => (category.title === categoryTitle ? { ...category, items: [...category.items, newItem] } : category)),
-        }),
-      });
-      return response.json();
-    },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
-      setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-    },
-  });
-
-  const updateCategoryMutation = useMutation({
-    mutationFn: async ({ oldTitle, newTitle }: { oldTitle: string; newTitle: string }) => {
-      if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
-      const response = await fetch("/api/restaurant", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: "SizzleNSpice", categories: restaurantData.categories.map((category) => (category.title === oldTitle ? { ...category, title: newTitle } : category)) }),
-      });
-      return response.json();
-    },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
-      setEditingCategory(null);
-      setNewCategory("");
-    },
-  });
-
-  const updateItemMutation = useMutation({
-    mutationFn: async ({ categoryTitle, itemIndex, updatedItem }: { categoryTitle: string; itemIndex: number; updatedItem: FoodItem }) => {
-      if (!restaurantData?.categories) throw new Error("Restaurant data is not available");
-      const response = await fetch("/api/restaurant", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name: "SizzleNSpice",
-          categories: restaurantData.categories.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? updatedItem : item)) } : cat)),
-        }),
-      });
-      return response.json();
-    },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
-      setEditingItem(null);
-      setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-    },
-  });
-
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
-    if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) addCategoryMutation.mutate(newCategory);
+    if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) {
+      const updatedData = {
+        name: "SizzleNSpice",
+        categories: [...(restaurantData?.categories || []), { title: newCategory, image: newCategoryImage, items: [] }],
+      };
+      updateRestaurantMutation.mutate(updatedData);
+    }
     setIsAddingCategory(false);
     setNewCategory("");
     setNewCategoryImage("");
   };
-
   const handleAddItem = (categoryTitle: string) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
-    addItemMutation.mutate({ categoryTitle, newItem });
+    updateRestaurantMutation.mutate({
+      name: "SizzleNSpice",
+      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: [...cat.items, newItem] } : cat)),
+    });
+    setIsAddItemModalOpen(false);
+    setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
-
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
-    updateCategoryMutation.mutate({ oldTitle, newTitle: newCategory });
+    const updatedData = {
+      name: "SizzleNSpice",
+      categories: restaurantData?.categories?.map((cat) => (cat.title === oldTitle ? { ...cat, title: newCategory } : cat)),
+    };
+    updateRestaurantMutation.mutate(updatedData);
+    setEditingCategory(null);
+    setNewCategory("");
   };
-
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
-    updateItemMutation.mutate({ categoryTitle, itemIndex, updatedItem: newItem });
+    const updatedData = {
+      name: "SizzleNSpice",
+      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? newItem : item)) } : cat)),
+    };
+    updateRestaurantMutation.mutate(updatedData);
+    setEditingItem(null);
+    setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
-
   const Header = () => {
     return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
@@ -150,10 +106,8 @@ export default function RestaurantProfilePage() {
       </section>
     );
   };
-
   if (isLoading) return <Loading />;
   if (error) throw error;
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <Header />
@@ -266,7 +220,12 @@ export default function RestaurantProfilePage() {
                 <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
               </button>
             </div>
-            <form onSubmit={handleAddCategory}>
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                handleAddCategory();
+              }}
+            >
               <div className="bg-primary/20 rounded-xl p-2">
                 <div className="mb-4">
                   <p>Enter New Category Name</p>
