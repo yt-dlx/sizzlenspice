@@ -4,8 +4,8 @@ import Image from "next/image";
 import Loading from "./loading";
 import { useEffect, useState } from "react";
 import { FoodItem, Restaurant } from "@/app/_assets/types/cart";
-import { FaPlus, FaEdit, FaSave, FaDollarSign } from "react-icons/fa";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
+import { FaPlus, FaEdit, FaSave, FaDollarSign, FaTrashAlt } from "react-icons/fa";
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
@@ -35,7 +35,7 @@ export default function RestaurantProfilePage() {
     isLoading: isLoadingRestaurant,
     error,
   } = useQuery<Restaurant>({
-    refetchInterval: 30000,
+    // refetchInterval: 30000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -89,6 +89,18 @@ export default function RestaurantProfilePage() {
     });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
+  };
+  const handleDeleteItem = (categoryTitle: string, itemIndex: number) => {
+    const updatedCategories = restaurantData?.categories?.map((cat) => {
+      if (cat.title === categoryTitle) {
+        return { ...cat, items: cat.items.filter((_, index) => index !== itemIndex) };
+      }
+      return cat;
+    });
+    updateRestaurantMutation.mutate({
+      name: "SizzleNSpice",
+      categories: updatedCategories,
+    });
   };
   const Header = () => {
     return (
@@ -191,6 +203,12 @@ export default function RestaurantProfilePage() {
                         className="px-3 py-1 flex items-center gap-2 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                       >
                         <FaEdit className="text-secondary" /> Edit
+                      </button>
+                      <button
+                        onClick={() => handleDeleteItem(category.title, index)}
+                        className="px-3 py-1 flex items-center gap-2 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
+                      >
+                        <FaTrashAlt className="text-secondary" /> Delete
                       </button>
                     </div>
                   </div>
@@ -373,7 +391,7 @@ export default function RestaurantProfilePage() {
                   type="text"
                   value={newItem.price.full}
                   onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, full: e.target.value } })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
                 />
               </div>
               <div className="mb-2">

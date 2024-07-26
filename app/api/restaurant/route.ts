@@ -19,7 +19,6 @@ export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { name, phoneNumber, categories } = await request.json();
-  console.log("Received data:", { name, phoneNumber, categories });
   const email = session.user?.email ?? "";
   const restaurant = await prisma.restaurant.upsert({
     where: { email },
