@@ -19,7 +19,6 @@ export default function HomePage() {
   const [activeCategory, setActiveCategory] = React.useState("All");
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { cart, addToCart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
-
   const {
     data: restaurants = [],
     error,
@@ -32,7 +31,6 @@ export default function HomePage() {
       return response.json();
     },
   });
-
   const categories = React.useMemo(() => {
     const categoryMap: { [key: string]: Category } = {};
     restaurants.forEach((restaurant) => {
@@ -47,7 +45,6 @@ export default function HomePage() {
     });
     return Object.values(categoryMap);
   }, [restaurants]);
-
   const filteredItems = React.useMemo(() => {
     let allItems: FoodItem[] = [];
     categories.forEach((category) => {
@@ -56,7 +53,6 @@ export default function HomePage() {
     const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
     return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
   }, [categories, activeCategory, searchTerm]);
-
   const totalCost = cart.reduce((total, item) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
@@ -159,7 +155,6 @@ export default function HomePage() {
           ))}
         </div>
       </section>
-      );
       <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
