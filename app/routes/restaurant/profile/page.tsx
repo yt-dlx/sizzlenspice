@@ -207,13 +207,19 @@ export default function RestaurantProfilePage() {
                 </div>
               ))
             )}
+          {selectedCategory !== "All" && (
+            <div onClick={() => setIsAddingItem(true)} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary cursor-pointer">
+              <div className="w-full h-48 flex items-center justify-center bg-secondary/20 text-primary">
+                <FaPlus className="text-4xl" />
+              </div>
+              <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
+                <div className="flex justify-between items-center">
+                  <h2 className="font-bold text-lg">Add New Item</h2>
+                </div>
+              </div>
+            </div>
+          )}
         </div>
-        <button
-          onClick={() => setIsAddingItem(true)}
-          className="w-full p-2 mt-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
-        >
-          <FaPlus className="text-secondary" /> Add New Item
-        </button>
       </section>
       {isAddingCategory && (
         <section
