@@ -19,6 +19,16 @@ export interface CartItem extends FoodItem {
   quantity: number;
   selectedSize: string;
 }
+export interface UserData {
+  phoneNumber: string;
+  customerEmail: string;
+  locationData: {
+    latitude: string;
+    longitude: string;
+    address: string;
+    pincode: string;
+  };
+}
 export interface Category {
   id: number;
   image: string;

@@ -3,20 +3,10 @@
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import type { UserData } from "@/app/_assets/types/cart";
 import React, { useEffect, useState, FormEvent } from "react";
 import { useQuery, useMutation } from "@tanstack/react-query";
 import { FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
-
-interface UserData {
-  phoneNumber: string;
-  customerEmail: string;
-  locationData: {
-    latitude: string;
-    longitude: string;
-    address: string;
-    pincode: string;
-  };
-}
 
 export default function UserPage() {
   const router = useRouter();
