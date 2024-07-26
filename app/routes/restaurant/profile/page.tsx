@@ -35,7 +35,6 @@ export default function RestaurantProfilePage() {
     isLoading: isLoadingRestaurant,
     error,
   } = useQuery<Restaurant>({
-    // refetchInterval: 30000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -56,6 +55,18 @@ export default function RestaurantProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
     onError: (error) => console.error("Error updating restaurant data:", error),
+  });
+  const deleteItemMutation = useMutation({
+    mutationFn: async (itemId: string) => {
+      const response = await fetch(`/api/restaurant/item/${itemId}`, {
+        method: "DELETE",
+      });
+      return response.json();
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
+    },
+    onError: (error) => console.error("Error deleting item:", error),
   });
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
@@ -89,18 +100,6 @@ export default function RestaurantProfilePage() {
     });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-  };
-  const handleDeleteItem = (categoryTitle: string, itemIndex: number) => {
-    const updatedCategories = restaurantData?.categories?.map((cat) => {
-      if (cat.title === categoryTitle) {
-        return { ...cat, items: cat.items.filter((_, index) => index !== itemIndex) };
-      }
-      return cat;
-    });
-    updateRestaurantMutation.mutate({
-      name: "SizzleNSpice",
-      categories: updatedCategories,
-    });
   };
   const Header = () => {
     return (
@@ -205,7 +204,7 @@ export default function RestaurantProfilePage() {
                         <FaEdit className="text-secondary" /> Edit
                       </button>
                       <button
-                        onClick={() => handleDeleteItem(category.title, index)}
+                        onClick={() => item.id && deleteItemMutation.mutate(item.id)}
                         className="px-3 py-1 flex items-center gap-2 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                       >
                         <FaTrashAlt className="text-secondary" /> Delete
