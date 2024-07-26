@@ -9,13 +9,14 @@ import { FaPlus, FaEdit, FaSave, FaDollarSign, FaTrashAlt } from "react-icons/fa
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
-  const [isLoading, setIsLoading] = useState(false);
   const [newCategory, setNewCategory] = useState("");
-  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isLoading, setIsLoading] = useState<Boolean>(false);
   const [newCategoryImage, setNewCategoryImage] = useState("");
-  const [isAddingCategory, setIsAddingCategory] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState<Boolean>(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
+  const [isAddingItem, setIsAddingItem] = useState<Boolean>(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
+  const [isAddingCategory, setIsAddingCategory] = useState<Boolean>(false);
   const [editingCategory, setEditingCategory] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
@@ -58,14 +59,10 @@ export default function RestaurantProfilePage() {
   });
   const deleteItemMutation = useMutation({
     mutationFn: async (itemId: string) => {
-      const response = await fetch(`/api/restaurant/item/${itemId}`, {
-        method: "DELETE",
-      });
+      const response = await fetch(`/api/restaurant/item/${itemId}`, { method: "DELETE" });
       return response.json();
     },
-    onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurant"] });
-    },
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
     onError: (error) => console.error("Error deleting item:", error),
   });
   const handleAddCategory = () => {
@@ -95,19 +92,14 @@ export default function RestaurantProfilePage() {
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
     updateRestaurantMutation.mutate({
       name: "SizzleNSpice",
-      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? newItem : item)) } : cat)),
+      categories: restaurantData?.categories?.map((cat) =>
+        cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? { ...newItem, id: item.id } : item)) } : cat
+      ),
     });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
-  const handleAddItem = (categoryTitle: string) => {
-    updateRestaurantMutation.mutate({
-      name: "SizzleNSpice",
-      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: [...cat.items, newItem] } : cat)),
-    });
-    setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-  };
-  if (isLoadingRestaurant || isLoading) return <Loading />;
+  if (isLoading || isLoadingRestaurant) return <Loading />;
   if (error) throw error;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
@@ -124,9 +116,7 @@ export default function RestaurantProfilePage() {
                 setSelectedCategory(category.title);
                 setEditingCategory(null);
               }}
-              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${
-                selectedCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"
-              }`}
+              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${selectedCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
             >
               <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
@@ -217,211 +207,310 @@ export default function RestaurantProfilePage() {
                 </div>
               ))
             )}
-          {selectedCategory && (
-            <div className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
-              <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
-                <div className="flex justify-between items-center">
-                  <button
-                    onClick={() => {
-                      setSelectedItem(newItem);
-                      setIsModalOpen(true);
-                    }}
-                    className="px-3 py-1 flex items-center gap-2 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
-                  >
-                    <FaPlus className="text-secondary" /> Add Item
-                  </button>
-                </div>
-              </div>
-            </div>
-          )}
         </div>
+        <button
+          onClick={() => setIsAddingItem(true)}
+          className="w-full p-2 mt-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+        >
+          <FaPlus className="text-secondary" /> Add New Item
+        </button>
       </section>
       {isAddingCategory && (
         <section
           id="add-category-modal"
           className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center items-center max-h-[80vh] z-50"
         >
-          <div className="p-4 w-full max-w-full flex flex-col gap-4">
-            <h2 className="text-2xl font-bold text-center">Add New Category</h2>
-            <div className="flex flex-col gap-2">
-              <label htmlFor="category-name" className="text-sm font-medium">
-                Category Name:
-              </label>
-              <input
-                type="text"
-                id="category-name"
-                value={newCategory}
-                onChange={(e) => setNewCategory(e.target.value)}
-                className="w-full rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-              />
-            </div>
-            <div className="flex flex-col gap-2">
-              <label htmlFor="category-image" className="text-sm font-medium">
-                Category Image URL:
-              </label>
-              <input
-                type="text"
-                id="category-image"
-                value={newCategoryImage}
-                onChange={(e) => setNewCategoryImage(e.target.value)}
-                className="w-full rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-              />
-            </div>
-            <div className="flex justify-end gap-4">
-              <button
-                onClick={() => {
-                  setIsAddingCategory(false);
-                  setNewCategory("");
-                  setNewCategoryImage("");
-                }}
-                className="px-4 py-2 rounded-xl bg-red-600 hover:bg-red-700 text-white transition duration-300"
-              >
-                Cancel
-              </button>
-              <button onClick={handleAddCategory} className="px-4 py-2 rounded-xl bg-green-600 hover:bg-green-700 text-white transition duration-300">
-                Add Category
+          <div className="p-4 w-full max-w-full">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-4xl">Add New Category</h2>
+              <button onClick={() => setIsAddingCategory(false)}>
+                <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
               </button>
             </div>
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                handleAddCategory();
+              }}
+            >
+              <div className="bg-primary/20 rounded-xl p-2">
+                <div className="mb-4">
+                  <p>Enter New Category Name</p>
+                  <input
+                    type="text"
+                    value={newCategory}
+                    placeholder="Enter New Category Name"
+                    onChange={(e) => setNewCategory(e.target.value)}
+                    className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                    required
+                  />
+                </div>
+                <div className="mb-4">
+                  <p>Enter Category Image Link</p>
+                  <input
+                    type="text"
+                    value={newCategoryImage}
+                    placeholder="Enter Category Image Link"
+                    onChange={(e) => setNewCategoryImage(e.target.value)}
+                    className="w-full rounded-xl bg-secondary border-2 border-secondary shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                    required
+                  />
+                </div>
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    type="submit"
+                    className={`w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary ${isLoading ? "cursor-not-allowed" : "cursor-pointer"}`}
+                  >
+                    {isLoading ? "Inserting..." : "Add"}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setIsAddingCategory(false)}
+                    className={`w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary ${isLoading ? "cursor-not-allowed" : "cursor-pointer"}`}
+                  >
+                    Cancel
+                  </button>
+                </div>
+              </div>
+            </form>
           </div>
         </section>
       )}
       {isModalOpen && selectedItem && (
-        <div
-          className="fixed inset-0 z-50 flex items-center justify-center overflow-y-auto bg-black bg-opacity-50"
-          onClick={(e) => {
-            if (e.target === e.currentTarget) {
-              setIsModalOpen(false);
-              setEditingItem(null);
-              setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-            }
-          }}
+        <section
+          id="modal"
+          className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
         >
-          <div className="relative w-full max-w-lg p-6 bg-primary rounded-lg shadow-xl">
-            <h2 className="text-2xl font-bold text-center text-secondary mb-4">{editingItem ? "Edit Item" : "Add New Item"}</h2>
+          <div className="p-4 w-full scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary overflow-x-auto">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-4xl">{selectedItem?.title}</h2>
+              <button onClick={() => setIsModalOpen(false)}>
+                <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+              </button>
+            </div>
+            <div className="flex items-center mb-4">
+              <div className="flex flex-col">
+                <Image
+                  width={400}
+                  height={300}
+                  src={selectedItem?.image || ""}
+                  alt={selectedItem?.title || "Item image"}
+                  className="rounded-full object-cover w-36 h-36 border-2 border-secondary shadow-md shadow-secondary"
+                />
+                <div className="flex items-center space-x-2 mt-4 mb-2">
+                  <div className={`w-4 h-4 rounded-xl ${selectedItem?.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                  <span className="font-bold">{selectedItem?.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
+                </div>
+                <div className="flex items-center">
+                  <span className="text-yellow-400 mr-1">★</span>
+                  <span className="font-bold">{selectedItem?.rating.toFixed(1)}</span>
+                </div>
+              </div>
+            </div>
+            <p className="text-sm mb-4">{selectedItem?.description}</p>
+            <p className="mb-2 text-xl">Select Plate Size:</p>
+            <div className="space-y-2">
+              {Object.entries(selectedItem?.price || {}).map(([size, price]) => (
+                <div key={size} className="flex items-center justify-between">
+                  <span className="font-Kurale">{size.charAt(0).toUpperCase() + size.slice(1)}</span>
+                  <div className="flex items-center">
+                    <span className="font-bold mr-2 inline-flex items-center">
+                      <FaDollarSign size={12} />
+                      {price}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
             <form
               onSubmit={(e) => {
                 e.preventDefault();
-                if (editingItem) {
-                  handleUpdateItem(editingItem.categoryTitle, editingItem.itemIndex);
-                } else if (selectedCategory) {
-                  handleAddItem(selectedCategory);
-                }
-                setIsModalOpen(false);
+                handleUpdateItem(editingItem!.categoryTitle, editingItem!.itemIndex);
               }}
-              className="flex flex-col gap-4"
+              className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2"
             >
-              <div>
-                <label htmlFor="title" className="block text-sm font-medium text-secondary">
-                  Title
-                </label>
+              <div className="mb-2">
+                <p>Item title</p>
                 <input
+                  required
                   type="text"
-                  id="title"
                   value={newItem.title}
                   onChange={(e) => setNewItem({ ...newItem, title: e.target.value })}
-                  className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  required
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
                 />
               </div>
-              <div>
-                <label htmlFor="description" className="block text-sm font-medium text-secondary">
-                  Description
-                </label>
-                <textarea
-                  id="description"
+              <div className="mb-2">
+                <p>Item description</p>
+                <input
+                  required
+                  type="text"
                   value={newItem.description}
                   onChange={(e) => setNewItem({ ...newItem, description: e.target.value })}
-                  className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  rows={3}
-                  required
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
                 />
               </div>
-              <div>
-                <label htmlFor="image" className="block text-sm font-medium text-secondary">
-                  Image URL
-                </label>
-                <input
-                  type="text"
-                  id="image"
-                  value={newItem.image}
-                  onChange={(e) => setNewItem({ ...newItem, image: e.target.value })}
-                  className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  required
-                />
-              </div>
-              <div className="flex gap-4">
-                <div>
-                  <label htmlFor="price-small" className="block text-sm font-medium text-secondary">
-                    Price (S) <FaDollarSign className="inline-block text-yellow-400" />
-                  </label>
-                  <input
-                    type="number"
-                    id="price-small"
-                    value={newItem.price.small}
-                    onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, small: e.target.value } })}
-                    className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                    required
-                  />
-                </div>
-                <div>
-                  <label htmlFor="price-medium" className="block text-sm font-medium text-secondary">
-                    Price (M) <FaDollarSign className="inline-block text-yellow-400" />
-                  </label>
-                  <input
-                    type="number"
-                    id="price-medium"
-                    value={newItem.price.medium}
-                    onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, medium: e.target.value } })}
-                    className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  />
-                </div>
-                <div>
-                  <label htmlFor="price-full" className="block text-sm font-medium text-secondary">
-                    Price (L) <FaDollarSign className="inline-block text-yellow-400" />
-                  </label>
-                  <input
-                    type="number"
-                    id="price-full"
-                    value={newItem.price.full}
-                    onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, full: e.target.value } })}
-                    className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  />
-                </div>
-              </div>
-              <div>
-                <label htmlFor="genre" className="block text-sm font-medium text-secondary">
-                  Genre
-                </label>
+              <div className="mb-2">
+                <p>Veg or Non-Veg</p>
                 <select
-                  id="genre"
+                  required
                   value={newItem.genre}
                   onChange={(e) => setNewItem({ ...newItem, genre: e.target.value })}
-                  className="mt-1 p-2 w-full rounded-md border border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
-                  required
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary focus:border-primary focus:ring-primary"
                 >
                   <option value="veg">Veg</option>
                   <option value="non-veg">Non-Veg</option>
                 </select>
               </div>
-              <div className="flex justify-end gap-4">
+              <div className="mb-2">
+                <p>Item price (small)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.small}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, small: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item price (medium)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.medium}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, medium: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item price (full)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.full}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, full: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item image (link)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.image}
+                  onChange={(e) => setNewItem({ ...newItem, image: e.target.value })}
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Confirm & Update</p>
                 <button
-                  type="button"
-                  onClick={() => {
-                    setIsModalOpen(false);
-                    setEditingItem(null);
-                    setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-                  }}
-                  className="px-4 py-2 rounded-md bg-gray-300 hover:bg-gray-400 text-gray-800"
+                  type="submit"
+                  className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
                 >
-                  Cancel
-                </button>
-                <button type="submit" className="px-4 py-2 rounded-md bg-indigo-600 hover:bg-indigo-700 text-white">
-                  {editingItem ? "Save Changes" : "Add Item"}
+                  <FaSave className="text-secondary" /> Finalise
                 </button>
               </div>
             </form>
           </div>
-        </div>
+        </section>
+      )}
+      {isAddingItem && (
+        <section
+          id="add-item-modal"
+          className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
+        >
+          <div className="p-4 w-full scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary overflow-x-auto">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-4xl">Add New Item</h2>
+              <button onClick={() => setIsAddingItem(false)}>
+                <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+              </button>
+            </div>
+            <form onSubmit={(e) => e.preventDefault()} className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2">
+              <div className="mb-2">
+                <p>Item title</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.title}
+                  onChange={(e) => setNewItem({ ...newItem, title: e.target.value })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item description</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.description}
+                  onChange={(e) => setNewItem({ ...newItem, description: e.target.value })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Veg or Non-Veg</p>
+                <select
+                  required
+                  value={newItem.genre}
+                  onChange={(e) => setNewItem({ ...newItem, genre: e.target.value })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary focus:border-primary focus:ring-primary"
+                >
+                  <option value="veg">Veg</option>
+                  <option value="non-veg">Non-Veg</option>
+                </select>
+              </div>
+              <div className="mb-2">
+                <p>Item price (small)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.small}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, small: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item price (medium)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.medium}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, medium: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item price (full)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.price.full}
+                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, full: e.target.value } })}
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Item image (link)</p>
+                <input
+                  required
+                  type="text"
+                  value={newItem.image}
+                  onChange={(e) => setNewItem({ ...newItem, image: e.target.value })}
+                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
+                />
+              </div>
+              <div className="mb-2">
+                <p>Confirm & Add</p>
+                <button
+                  type="submit"
+                  className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+                >
+                  <FaSave className="text-secondary" /> Finalise
+                </button>
+              </div>
+            </form>
+          </div>
+        </section>
       )}
     </main>
   );
