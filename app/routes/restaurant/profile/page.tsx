@@ -10,8 +10,8 @@ import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
   const [newCategory, setNewCategory] = useState("");
-  const [newCategoryImage, setNewCategoryImage] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [newCategoryImage, setNewCategoryImage] = useState("");
   const [isAddingCategory, setIsAddingCategory] = useState(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
