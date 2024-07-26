@@ -1,4 +1,3 @@
-// app/api/restaurant/route.ts
 import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { FoodItem } from "@/app/_assets/types/cart";
@@ -20,11 +19,7 @@ export async function POST(request: NextRequest) {
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { name, phoneNumber, categories } = await request.json();
   const email = session.user?.email ?? "";
-  const restaurant = await prisma.restaurant.upsert({
-    where: { email },
-    update: { name, phoneNumber },
-    create: { email, name, phoneNumber },
-  });
+  const restaurant = await prisma.restaurant.upsert({ where: { email }, update: { name, phoneNumber }, create: { email, name, phoneNumber } });
   if (categories && categories.length > 0) {
     for (const category of categories) {
       if (category.id) {
@@ -101,4 +96,19 @@ export async function POST(request: NextRequest) {
     }
   }
   return NextResponse.json({ message: "Restaurant data updated successfully" });
+}
+
+export async function DELETE(request: NextRequest) {
+  const session = await auth();
+  if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  const { searchParams } = new URL(request.url);
+  const itemId = searchParams.get("itemId");
+  if (!itemId) return NextResponse.json({ error: "Item ID is required" }, { status: 400 });
+  try {
+    await prisma.item.delete({ where: { id: itemId } });
+    return NextResponse.json({ message: "Item deleted successfully" });
+  } catch (error) {
+    console.error("Error deleting item:", error);
+    return NextResponse.json({ error: "Failed to delete item" }, { status: 500 });
+  }
 }
