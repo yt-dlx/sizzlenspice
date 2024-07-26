@@ -77,9 +77,8 @@ const CompanyPage: React.FC = () => {
   };
   if (loading) return <Loading />;
   if (error) throw new Error(error);
-  // =======================================================================================================================================================================
-  const Header = () => {
-    return (
+  return (
+    <main className="bg-primary p-4 min-h-screen text-secondary">
       <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center mb-8">
         <h1 className="text-6xl sm:text-7xl">Our Company</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
@@ -87,10 +86,6 @@ const CompanyPage: React.FC = () => {
           Learn more about us here.
         </h2>
       </section>
-    );
-  };
-  const UserData = () => {
-    return (
       <section id="UserData" className="flex items-center justify-center">
         <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 bg-secondary/10 rounded-lg">
           <div className="mb-6">
@@ -170,13 +165,6 @@ const CompanyPage: React.FC = () => {
           </div>
         </div>
       </section>
-    );
-  };
-  // =======================================================================================================================================================================
-  return (
-    <main className="bg-primary p-4 min-h-screen text-secondary">
-      <Header />
-      <UserData />
     </main>
   );
 };

@@ -27,18 +27,44 @@ export async function POST(request: NextRequest) {
   });
   if (categories && categories.length > 0) {
     for (const category of categories) {
-      await prisma.category.upsert({
-        where: {
-          id: category.id ? String(category.id) : "temp-id",
-        },
-        update: {
-          title: category.title,
-          image: category.image,
-          active: category.active,
-          items: {
-            upsert: category.items.map((item: FoodItem) => ({
-              where: { id: item.id || "temp-id" },
-              update: {
+      if (category.id) {
+        await prisma.category.upsert({
+          where: { id: category.id },
+          update: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              upsert: category.items.map((item: FoodItem) => ({
+                where: { id: item.id || "" },
+                update: {
+                  title: item.title,
+                  description: item.description,
+                  image: item.image,
+                  price: item.price,
+                  genre: item.genre,
+                  rating: item.rating,
+                  restaurant: { connect: { id: restaurant.id } },
+                },
+                create: {
+                  title: item.title,
+                  description: item.description,
+                  image: item.image,
+                  price: item.price,
+                  genre: item.genre,
+                  rating: item.rating,
+                  restaurant: { connect: { id: restaurant.id } },
+                },
+              })),
+            },
+            restaurant: { connect: { id: restaurant.id } },
+          },
+          create: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              create: category.items.map((item: FoodItem) => ({
                 title: item.title,
                 description: item.description,
                 image: item.image,
@@ -46,8 +72,19 @@ export async function POST(request: NextRequest) {
                 genre: item.genre,
                 rating: item.rating,
                 restaurant: { connect: { id: restaurant.id } },
-              },
-              create: {
+              })),
+            },
+            restaurant: { connect: { id: restaurant.id } },
+          },
+        });
+      } else {
+        await prisma.category.create({
+          data: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              create: category.items.map((item: FoodItem) => ({
                 title: item.title,
                 description: item.description,
                 image: item.image,
@@ -55,29 +92,12 @@ export async function POST(request: NextRequest) {
                 genre: item.genre,
                 rating: item.rating,
                 restaurant: { connect: { id: restaurant.id } },
-              },
-            })),
+              })),
+            },
+            restaurant: { connect: { id: restaurant.id } },
           },
-          restaurant: { connect: { id: restaurant.id } },
-        },
-        create: {
-          title: category.title,
-          image: category.image,
-          active: category.active,
-          items: {
-            create: category.items.map((item: FoodItem) => ({
-              title: item.title,
-              description: item.description,
-              image: item.image,
-              price: item.price,
-              genre: item.genre,
-              rating: item.rating,
-              restaurant: { connect: { id: restaurant.id } },
-            })),
-          },
-          restaurant: { connect: { id: restaurant.id } },
-        },
-      });
+        });
+      }
     }
   }
   return NextResponse.json({ message: "Restaurant data updated successfully" });

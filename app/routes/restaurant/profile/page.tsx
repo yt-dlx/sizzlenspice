@@ -14,11 +14,9 @@ export default function RestaurantProfilePage() {
   const [newCategoryImage, setNewCategoryImage] = useState("");
   const [isAddingCategory, setIsAddingCategory] = useState(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
-  const [isAddItemModalOpen, setIsAddItemModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [editingCategory, setEditingCategory] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
-  const [selectedCategoryForNewItem, setSelectedCategoryForNewItem] = useState("");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   const fetchAllCategories = async () => {
@@ -36,7 +34,7 @@ export default function RestaurantProfilePage() {
     isLoading,
     error,
   } = useQuery<Restaurant>({
-    refetchInterval: 5000,
+    refetchInterval: 10000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -59,11 +57,7 @@ export default function RestaurantProfilePage() {
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
     if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) {
-      const updatedData = {
-        name: "SizzleNSpice",
-        categories: [...(restaurantData?.categories || []), { title: newCategory, image: newCategoryImage, items: [] }],
-      };
-      updateRestaurantMutation.mutate(updatedData);
+      updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: [...(restaurantData?.categories || []), { title: newCategory, image: newCategoryImage, items: [], active: false }] });
     }
     setIsAddingCategory(false);
     setNewCategory("");
@@ -71,30 +65,21 @@ export default function RestaurantProfilePage() {
   };
   const handleAddItem = (categoryTitle: string) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
-    updateRestaurantMutation.mutate({
-      name: "SizzleNSpice",
-      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: [...cat.items, newItem] } : cat)),
-    });
-    setIsAddItemModalOpen(false);
+    updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: [...cat.items, newItem] } : cat)) });
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
-    const updatedData = {
-      name: "SizzleNSpice",
-      categories: restaurantData?.categories?.map((cat) => (cat.title === oldTitle ? { ...cat, title: newCategory } : cat)),
-    };
-    updateRestaurantMutation.mutate(updatedData);
+    updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: restaurantData?.categories?.map((cat) => (cat.title === oldTitle ? { ...cat, title: newCategory } : cat)) });
     setEditingCategory(null);
     setNewCategory("");
   };
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
-    const updatedData = {
+    updateRestaurantMutation.mutate({
       name: "SizzleNSpice",
       categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? newItem : item)) } : cat)),
-    };
-    updateRestaurantMutation.mutate(updatedData);
+    });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };

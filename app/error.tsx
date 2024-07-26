@@ -16,7 +16,6 @@ export default function Error({ error, reset }: { error: Error & { digest?: stri
         </h2>
         <img src="/svg/error.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </section>
-      {/* ======================================================================================================================================================================= */}
       <section className="flex items-center justify-center">
         <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 m-2 bg-secondary/10 rounded-lg text-secondary">
           <span className="flex items-center justify-center gap-2 text-xl xl:text-6xl">
