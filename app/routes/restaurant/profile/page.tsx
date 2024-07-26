@@ -9,6 +9,7 @@ import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
+  const [isLoading, setIsLoading] = useState(false);
   const [newCategory, setNewCategory] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [newCategoryImage, setNewCategoryImage] = useState("");
@@ -31,7 +32,7 @@ export default function RestaurantProfilePage() {
   }, []);
   const {
     data: restaurantData,
-    isLoading,
+    isLoading: isLoadingRestaurant,
     error,
   } = useQuery<Restaurant>({
     refetchInterval: 10000,
@@ -56,12 +57,21 @@ export default function RestaurantProfilePage() {
   });
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
+    setIsLoading(true);
     if (!restaurantData?.categories?.some((cat) => cat.title === newCategory)) {
-      updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: [...(restaurantData?.categories || []), { title: newCategory, image: newCategoryImage, items: [], active: false }] });
+      updateRestaurantMutation.mutate(
+        { name: "SizzleNSpice", categories: [...(restaurantData?.categories || []), { title: newCategory, image: newCategoryImage, items: [], active: false }] },
+        {
+          onSuccess: () => {
+            setIsLoading(false);
+            setIsAddingCategory(false);
+            setNewCategory("");
+            setNewCategoryImage("");
+          },
+          onError: () => setIsLoading(false),
+        }
+      );
     }
-    setIsAddingCategory(false);
-    setNewCategory("");
-    setNewCategoryImage("");
   };
   const handleAddItem = (categoryTitle: string) => {
     if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
@@ -91,7 +101,7 @@ export default function RestaurantProfilePage() {
       </section>
     );
   };
-  if (isLoading) return <Loading />;
+  if (isLoadingRestaurant) return <Loading />;
   if (error) throw error;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
@@ -237,14 +247,14 @@ export default function RestaurantProfilePage() {
                 <div className="grid grid-cols-2 gap-2">
                   <button
                     type="submit"
-                    className="w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+                    className={`w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary ${isLoading ? "cursor-not-allowed" : "cursor-pointer"}`}
                   >
-                    Add
+                    {isLoading ? "Inserting..." : "Add"}
                   </button>
                   <button
                     type="button"
                     onClick={() => setIsAddingCategory(false)}
-                    className="w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+                    className={`w-full p-1 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary ${isLoading ? "cursor-not-allowed" : "cursor-pointer"}`}
                   >
                     Cancel
                   </button>
