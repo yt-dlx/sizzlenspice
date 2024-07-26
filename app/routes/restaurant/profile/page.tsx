@@ -1,4 +1,3 @@
-// app/routes/restaurant/profile/page.tsx
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
@@ -21,6 +20,7 @@ export default function RestaurantProfilePage() {
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
+
   const fetchAllCategories = async () => {
     const response = await fetch("/api/restaurant/menu");
     const restaurants = await response.json();
@@ -28,9 +28,11 @@ export default function RestaurantProfilePage() {
     restaurants.forEach((restaurant: any) => restaurant.categories.forEach((category: any) => categories.add(category.title)));
     setAllCategories(Array.from(categories));
   };
+
   useEffect(() => {
     fetchAllCategories();
   }, []);
+
   const {
     data: restaurantData,
     isLoading: isLoadingRestaurant,
@@ -44,6 +46,7 @@ export default function RestaurantProfilePage() {
       return restaurantResponse.json();
     },
   });
+
   const updateRestaurantMutation = useMutation({
     mutationFn: async (updatedData: any) => {
       console.log("Updating restaurant data:", updatedData);
@@ -57,6 +60,7 @@ export default function RestaurantProfilePage() {
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
     onError: (error) => console.error("Error updating restaurant data:", error),
   });
+
   const deleteItemMutation = useMutation({
     mutationFn: async (itemId: string) => {
       const response = await fetch(`/api/restaurant/item/${itemId}`, { method: "DELETE" });
@@ -65,6 +69,7 @@ export default function RestaurantProfilePage() {
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
     onError: (error) => console.error("Error deleting item:", error),
   });
+
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
     setIsLoading(true);
@@ -83,21 +88,74 @@ export default function RestaurantProfilePage() {
       );
     }
   };
+
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
     updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: restaurantData?.categories?.map((cat) => (cat.title === oldTitle ? { ...cat, title: newCategory } : cat)) });
     setEditingCategory(null);
     setNewCategory("");
   };
+
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
+    const updatedItem = {
+      ...newItem,
+      price: {
+        small: newItem.price.small.toString(),
+        medium: newItem.price.medium.toString(),
+        full: newItem.price.full.toString(),
+      },
+    };
     updateRestaurantMutation.mutate({
       name: "SizzleNSpice",
       categories: restaurantData?.categories?.map((cat) =>
-        cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? { ...newItem, id: item.id } : item)) } : cat
+        cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? { ...updatedItem, id: item.id } : item)) } : cat
       ),
     });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
+  };
+  const handleAddItem = () => {
+    if (!selectedCategory || selectedCategory === "All") {
+      alert("Please select a specific category to add an item.");
+      return;
+    }
+    if (!newItem.title || !newItem.description || !newItem.image || !newItem.price.small || !newItem.price.medium || !newItem.price.full) {
+      alert("Please fill in all fields.");
+      return;
+    }
+    const stringPrice = {
+      small: newItem.price.small.toString(),
+      medium: newItem.price.medium.toString(),
+      full: newItem.price.full.toString(),
+    };
+    const itemToAdd = {
+      ...newItem,
+      price: stringPrice,
+      rating: 0,
+    };
+    updateRestaurantMutation.mutate(
+      {
+        name: "SizzleNSpice",
+        categories: restaurantData?.categories?.map((cat) => (cat.title === selectedCategory ? { ...cat, items: [...cat.items, itemToAdd] } : cat)),
+      },
+      {
+        onSuccess: () => {
+          setIsAddingItem(false);
+          setNewItem({
+            title: "",
+            description: "",
+            image: "",
+            price: { small: "", medium: "", full: "" },
+            genre: "veg",
+            rating: 0,
+          });
+        },
+        onError: (error) => {
+          console.error("Error adding new item:", error);
+          alert("Failed to add new item. Please try again.");
+        },
+      }
+    );
   };
   if (isLoading || isLoadingRestaurant) return <Loading />;
   if (error) throw error;
@@ -432,7 +490,13 @@ export default function RestaurantProfilePage() {
                 <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
               </button>
             </div>
-            <form onSubmit={(e) => e.preventDefault()} className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2">
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                handleAddItem();
+              }}
+              className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2"
+            >
               <div className="mb-2">
                 <p>Item title</p>
                 <input
