@@ -1,3 +1,4 @@
+// app/routes/restaurant/profile/page.tsx
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
@@ -8,19 +9,17 @@ import { FaPlus, FaEdit, FaSave, FaDollarSign, FaTrashAlt } from "react-icons/fa
 
 export default function RestaurantProfilePage() {
   const queryClient = useQueryClient();
+  const [isLoading, setIsLoading] = useState(false);
   const [newCategory, setNewCategory] = useState("");
-  const [isLoading, setIsLoading] = useState<Boolean>(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const [newCategoryImage, setNewCategoryImage] = useState("");
-  const [isModalOpen, setIsModalOpen] = useState<Boolean>(false);
+  const [isAddingCategory, setIsAddingCategory] = useState(false);
   const [allCategories, setAllCategories] = useState<string[]>([]);
-  const [isAddingItem, setIsAddingItem] = useState<Boolean>(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
-  const [isAddingCategory, setIsAddingCategory] = useState<Boolean>(false);
   const [editingCategory, setEditingCategory] = useState<string | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<string | null>("All");
   const [editingItem, setEditingItem] = useState<{ categoryTitle: string; itemIndex: number } | null>(null);
   const [newItem, setNewItem] = useState<FoodItem>({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
-
   const fetchAllCategories = async () => {
     const response = await fetch("/api/restaurant/menu");
     const restaurants = await response.json();
@@ -28,16 +27,15 @@ export default function RestaurantProfilePage() {
     restaurants.forEach((restaurant: any) => restaurant.categories.forEach((category: any) => categories.add(category.title)));
     setAllCategories(Array.from(categories));
   };
-
   useEffect(() => {
     fetchAllCategories();
   }, []);
-
   const {
     data: restaurantData,
     isLoading: isLoadingRestaurant,
     error,
   } = useQuery<Restaurant>({
+    // refetchInterval: 30000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -46,7 +44,6 @@ export default function RestaurantProfilePage() {
       return restaurantResponse.json();
     },
   });
-
   const updateRestaurantMutation = useMutation({
     mutationFn: async (updatedData: any) => {
       console.log("Updating restaurant data:", updatedData);
@@ -60,16 +57,6 @@ export default function RestaurantProfilePage() {
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
     onError: (error) => console.error("Error updating restaurant data:", error),
   });
-
-  const deleteItemMutation = useMutation({
-    mutationFn: async (itemId: string) => {
-      const response = await fetch(`/api/restaurant/item/${itemId}`, { method: "DELETE" });
-      return response.json();
-    },
-    onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
-    onError: (error) => console.error("Error deleting item:", error),
-  });
-
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
     setIsLoading(true);
@@ -88,83 +75,46 @@ export default function RestaurantProfilePage() {
       );
     }
   };
-
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
     updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: restaurantData?.categories?.map((cat) => (cat.title === oldTitle ? { ...cat, title: newCategory } : cat)) });
     setEditingCategory(null);
     setNewCategory("");
   };
-
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
-    const updatedItem = {
-      ...newItem,
-      price: {
-        small: newItem.price.small.toString(),
-        medium: newItem.price.medium.toString(),
-        full: newItem.price.full.toString(),
-      },
-    };
+    if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
     updateRestaurantMutation.mutate({
       name: "SizzleNSpice",
-      categories: restaurantData?.categories?.map((cat) =>
-        cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? { ...updatedItem, id: item.id } : item)) } : cat
-      ),
+      categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? newItem : item)) } : cat)),
     });
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
-  const handleAddItem = () => {
-    if (!selectedCategory || selectedCategory === "All") {
-      alert("Please select a specific category to add an item.");
-      return;
-    }
-    if (!newItem.title || !newItem.description || !newItem.image || !newItem.price.small || !newItem.price.medium || !newItem.price.full) {
-      alert("Please fill in all fields.");
-      return;
-    }
-    const stringPrice = {
-      small: newItem.price.small.toString(),
-      medium: newItem.price.medium.toString(),
-      full: newItem.price.full.toString(),
-    };
-    const itemToAdd = {
-      ...newItem,
-      price: stringPrice,
-      rating: 0,
-    };
-    updateRestaurantMutation.mutate(
-      {
-        name: "SizzleNSpice",
-        categories: restaurantData?.categories?.map((cat) => (cat.title === selectedCategory ? { ...cat, items: [...cat.items, itemToAdd] } : cat)),
-      },
-      {
-        onSuccess: () => {
-          setIsAddingItem(false);
-          setNewItem({
-            title: "",
-            description: "",
-            image: "",
-            price: { small: "", medium: "", full: "" },
-            genre: "veg",
-            rating: 0,
-          });
-        },
-        onError: (error) => {
-          console.error("Error adding new item:", error);
-          alert("Failed to add new item. Please try again.");
-        },
+  const handleDeleteItem = (categoryTitle: string, itemIndex: number) => {
+    const updatedCategories = restaurantData?.categories?.map((cat) => {
+      if (cat.title === categoryTitle) {
+        return { ...cat, items: cat.items.filter((_, index) => index !== itemIndex) };
       }
-    );
+      return cat;
+    });
+    updateRestaurantMutation.mutate({
+      name: "SizzleNSpice",
+      categories: updatedCategories,
+    });
   };
-  if (isLoading || isLoadingRestaurant) return <Loading />;
-  if (error) throw error;
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+  const Header = () => {
+    return (
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Categories and Items efficiently in one place, all in real-time!</h2>
       </section>
+    );
+  };
+  if (isLoadingRestaurant) return <Loading />;
+  if (error) throw error;
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+      <Header />
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {restaurantData?.categories?.map((category, index) => (
@@ -255,7 +205,7 @@ export default function RestaurantProfilePage() {
                         <FaEdit className="text-secondary" /> Edit
                       </button>
                       <button
-                        onClick={() => item.id && deleteItemMutation.mutate(item.id)}
+                        onClick={() => handleDeleteItem(category.title, index)}
                         className="px-3 py-1 flex items-center gap-2 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                       >
                         <FaTrashAlt className="text-secondary" /> Delete
@@ -265,18 +215,6 @@ export default function RestaurantProfilePage() {
                 </div>
               ))
             )}
-          {selectedCategory !== "All" && (
-            <div onClick={() => setIsAddingItem(true)} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary cursor-pointer">
-              <div className="w-full h-48 flex items-center justify-center bg-secondary/20 text-primary">
-                <FaPlus className="text-4xl" />
-              </div>
-              <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
-                <div className="flex justify-between items-center">
-                  <h2 className="font-bold text-lg">Add New Item</h2>
-                </div>
-              </div>
-            </div>
-          )}
         </div>
       </section>
       {isAddingCategory && (
@@ -340,6 +278,7 @@ export default function RestaurantProfilePage() {
           </div>
         </section>
       )}
+
       {isModalOpen && selectedItem && (
         <section
           id="modal"
@@ -467,110 +406,6 @@ export default function RestaurantProfilePage() {
               </div>
               <div className="mb-2">
                 <p>Confirm & Update</p>
-                <button
-                  type="submit"
-                  className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
-                >
-                  <FaSave className="text-secondary" /> Finalise
-                </button>
-              </div>
-            </form>
-          </div>
-        </section>
-      )}
-      {isAddingItem && (
-        <section
-          id="add-item-modal"
-          className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
-        >
-          <div className="p-4 w-full scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary overflow-x-auto">
-            <div className="flex justify-between items-center mb-4">
-              <h2 className="text-4xl">Add New Item</h2>
-              <button onClick={() => setIsAddingItem(false)}>
-                <FaPlus size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
-              </button>
-            </div>
-            <form
-              onSubmit={(e) => {
-                e.preventDefault();
-                handleAddItem();
-              }}
-              className="mt-4 grid grid-cols-1 md:grid-2 gap-2 bg-primary/20 rounded-xl p-2"
-            >
-              <div className="mb-2">
-                <p>Item title</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.title}
-                  onChange={(e) => setNewItem({ ...newItem, title: e.target.value })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Item description</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.description}
-                  onChange={(e) => setNewItem({ ...newItem, description: e.target.value })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Veg or Non-Veg</p>
-                <select
-                  required
-                  value={newItem.genre}
-                  onChange={(e) => setNewItem({ ...newItem, genre: e.target.value })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary focus:border-primary focus:ring-primary"
-                >
-                  <option value="veg">Veg</option>
-                  <option value="non-veg">Non-Veg</option>
-                </select>
-              </div>
-              <div className="mb-2">
-                <p>Item price (small)</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.price.small}
-                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, small: e.target.value } })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Item price (medium)</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.price.medium}
-                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, medium: e.target.value } })}
-                  className="w-full rounded-xl bg-secondary border-2 border-primary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Item price (full)</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.price.full}
-                  onChange={(e) => setNewItem({ ...newItem, price: { ...newItem.price, full: e.target.value } })}
-                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Item image (link)</p>
-                <input
-                  required
-                  type="text"
-                  value={newItem.image}
-                  onChange={(e) => setNewItem({ ...newItem, image: e.target.value })}
-                  className="w-full rounded-xl bg-secondary border-2 border-secondary/20 shadow-md shadow-secondary text-primary placeholder-primary focus:border-primary focus:ring-primary"
-                />
-              </div>
-              <div className="mb-2">
-                <p>Confirm & Add</p>
                 <button
                   type="submit"
                   className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"

@@ -16,56 +16,28 @@ export async function GET(request: NextRequest) {
 }
 
 export async function POST(request: NextRequest) {
-  try {
-    const session = await auth();
-    if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-    const { name, phoneNumber, categories } = await request.json();
-    const email = session.user?.email ?? "";
-    const restaurant = await prisma.restaurant.upsert({
-      where: { email },
-      update: { name, phoneNumber },
-      create: { email, name, phoneNumber },
-    });
-    if (categories && categories.length > 0) {
-      for (const category of categories) {
-        if (category.id && category.id.length === 24) {
-          await prisma.category.upsert({
-            where: { id: category.id },
-            update: {
-              title: category.title,
-              image: category.image,
-              active: category.active,
-              items: {
-                upsert: category.items.map((item: FoodItem) => ({
-                  where: { id: item.id || undefined },
-                  update: {
-                    title: item.title,
-                    description: item.description,
-                    image: item.image,
-                    price: item.price,
-                    genre: item.genre,
-                    rating: item.rating,
-                    restaurant: { connect: { id: restaurant.id } },
-                  },
-                  create: {
-                    title: item.title,
-                    description: item.description,
-                    image: item.image,
-                    price: item.price,
-                    genre: item.genre,
-                    rating: item.rating,
-                    restaurant: { connect: { id: restaurant.id } },
-                  },
-                })),
-              },
-              restaurant: { connect: { id: restaurant.id } },
-            },
-            create: {
-              title: category.title,
-              image: category.image,
-              active: category.active,
-              items: {
-                create: category.items.map((item: FoodItem) => ({
+  const session = await auth();
+  if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  const { name, phoneNumber, categories } = await request.json();
+  const email = session.user?.email ?? "";
+  const restaurant = await prisma.restaurant.upsert({
+    where: { email },
+    update: { name, phoneNumber },
+    create: { email, name, phoneNumber },
+  });
+  if (categories && categories.length > 0) {
+    for (const category of categories) {
+      if (category.id) {
+        await prisma.category.upsert({
+          where: { id: category.id },
+          update: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              upsert: category.items.map((item: FoodItem) => ({
+                where: { id: item.id || "" },
+                update: {
                   title: item.title,
                   description: item.description,
                   image: item.image,
@@ -73,19 +45,8 @@ export async function POST(request: NextRequest) {
                   genre: item.genre,
                   rating: item.rating,
                   restaurant: { connect: { id: restaurant.id } },
-                })),
-              },
-              restaurant: { connect: { id: restaurant.id } },
-            },
-          });
-        } else {
-          await prisma.category.create({
-            data: {
-              title: category.title,
-              image: category.image,
-              active: category.active,
-              items: {
-                create: category.items.map((item: FoodItem) => ({
+                },
+                create: {
                   title: item.title,
                   description: item.description,
                   image: item.image,
@@ -93,17 +54,51 @@ export async function POST(request: NextRequest) {
                   genre: item.genre,
                   rating: item.rating,
                   restaurant: { connect: { id: restaurant.id } },
-                })),
-              },
-              restaurant: { connect: { id: restaurant.id } },
+                },
+              })),
             },
-          });
-        }
+            restaurant: { connect: { id: restaurant.id } },
+          },
+          create: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              create: category.items.map((item: FoodItem) => ({
+                title: item.title,
+                description: item.description,
+                image: item.image,
+                price: item.price,
+                genre: item.genre,
+                rating: item.rating,
+                restaurant: { connect: { id: restaurant.id } },
+              })),
+            },
+            restaurant: { connect: { id: restaurant.id } },
+          },
+        });
+      } else {
+        await prisma.category.create({
+          data: {
+            title: category.title,
+            image: category.image,
+            active: category.active,
+            items: {
+              create: category.items.map((item: FoodItem) => ({
+                title: item.title,
+                description: item.description,
+                image: item.image,
+                price: item.price,
+                genre: item.genre,
+                rating: item.rating,
+                restaurant: { connect: { id: restaurant.id } },
+              })),
+            },
+            restaurant: { connect: { id: restaurant.id } },
+          },
+        });
       }
     }
-    return NextResponse.json({ message: "Restaurant data updated successfully" });
-  } catch (error) {
-    console.error("Error updating restaurant data:", error);
-    return NextResponse.json({ error: "An error occurred while updating restaurant data" }, { status: 500 });
   }
+  return NextResponse.json({ message: "Restaurant data updated successfully" });
 }
