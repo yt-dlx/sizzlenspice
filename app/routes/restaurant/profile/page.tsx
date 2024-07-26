@@ -82,7 +82,6 @@ export default function RestaurantProfilePage() {
     setNewCategory("");
   };
   const handleUpdateItem = (categoryTitle: string, itemIndex: number) => {
-    if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
     updateRestaurantMutation.mutate({
       name: "SizzleNSpice",
       categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? newItem : item)) } : cat)),
@@ -90,31 +89,30 @@ export default function RestaurantProfilePage() {
     setEditingItem(null);
     setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
-  const handleDeleteItem = (categoryTitle: string, itemIndex: number) => {
-    const updatedCategories = restaurantData?.categories?.map((cat) => {
-      if (cat.title === categoryTitle) {
-        return { ...cat, items: cat.items.filter((_, index) => index !== itemIndex) };
-      }
-      return cat;
+  const handleDeleteItem = async (categoryTitle: string, itemIndex: number) => {
+    const itemId = restaurantData?.categories?.find((cat) => cat.title === categoryTitle)?.items[itemIndex]?.id;
+    if (!itemId) return;
+    const response = await fetch(`/api/restaurant`, {
+      method: "DELETE",
+      body: JSON.stringify({ itemId }),
+      headers: { "Content-Type": "application/json" },
     });
-    updateRestaurantMutation.mutate({
-      name: "SizzleNSpice",
-      categories: updatedCategories,
-    });
+    if (response.ok) {
+      const updatedCategories = restaurantData?.categories?.map((cat) => {
+        if (cat.title === categoryTitle) return { ...cat, items: cat.items.filter((_, index) => index !== itemIndex) };
+        return cat;
+      });
+      updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: updatedCategories });
+    } else console.error("Failed to delete item");
   };
-  const Header = () => {
-    return (
+  if (isLoading || isLoadingRestaurant) return <Loading />;
+  if (error) throw error;
+  return (
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Categories and Items efficiently in one place, all in real-time!</h2>
       </section>
-    );
-  };
-  if (isLoadingRestaurant) return <Loading />;
-  if (error) throw error;
-  return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <Header />
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {restaurantData?.categories?.map((category, index) => (

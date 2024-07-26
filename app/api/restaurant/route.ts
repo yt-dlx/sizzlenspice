@@ -101,8 +101,7 @@ export async function POST(request: NextRequest) {
 export async function DELETE(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { searchParams } = new URL(request.url);
-  const itemId = searchParams.get("itemId");
+  const { itemId } = await request.json();
   if (!itemId) return NextResponse.json({ error: "Item ID is required" }, { status: 400 });
   try {
     await prisma.item.delete({ where: { id: itemId } });
