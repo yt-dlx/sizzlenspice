@@ -21,8 +21,14 @@ export async function POST(request: NextRequest) {
   const email = session.user?.email ?? "";
   await prisma.restaurant.upsert({
     where: { email },
+    update: {
+      name,
+      phoneNumber,
+      categories: {
+        upsert: (categories || []).map((category: any) => ({ where: { id: category.id }, update: category, create: category })),
+      },
+    },
     create: { email, name, phoneNumber, categories: { create: categories || [] } },
-    update: { name, phoneNumber, categories: { upsert: (categories || []).map((category: any) => ({ where: { id: category.id }, update: category, create: category })) } },
   });
   return NextResponse.json({ message: "Restaurant data updated successfully" });
 }
