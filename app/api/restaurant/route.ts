@@ -1,6 +1,7 @@
 // app/api/restaurant/route.ts
 import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
+import { FoodItem } from "@/app/_assets/types/cart";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function GET(request: NextRequest) {
@@ -19,16 +20,65 @@ export async function POST(request: NextRequest) {
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { name, phoneNumber, categories } = await request.json();
   const email = session.user?.email ?? "";
-  await prisma.restaurant.upsert({
+  const restaurant = await prisma.restaurant.upsert({
     where: { email },
-    update: {
-      name,
-      phoneNumber,
-      categories: {
-        upsert: (categories || []).map((category: any) => ({ where: { id: category.id }, update: category, create: category })),
-      },
-    },
-    create: { email, name, phoneNumber, categories: { create: categories || [] } },
+    update: { name, phoneNumber },
+    create: { email, name, phoneNumber },
   });
+  if (categories && categories.length > 0) {
+    for (const category of categories) {
+      await prisma.category.upsert({
+        where: {
+          id: category.id ? String(category.id) : "temp-id",
+        },
+        update: {
+          title: category.title,
+          image: category.image,
+          active: category.active,
+          items: {
+            upsert: category.items.map((item: FoodItem) => ({
+              where: { id: item.id || "temp-id" },
+              update: {
+                title: item.title,
+                description: item.description,
+                image: item.image,
+                price: item.price,
+                genre: item.genre,
+                rating: item.rating,
+                restaurant: { connect: { id: restaurant.id } },
+              },
+              create: {
+                title: item.title,
+                description: item.description,
+                image: item.image,
+                price: item.price,
+                genre: item.genre,
+                rating: item.rating,
+                restaurant: { connect: { id: restaurant.id } },
+              },
+            })),
+          },
+          restaurant: { connect: { id: restaurant.id } },
+        },
+        create: {
+          title: category.title,
+          image: category.image,
+          active: category.active,
+          items: {
+            create: category.items.map((item: FoodItem) => ({
+              title: item.title,
+              description: item.description,
+              image: item.image,
+              price: item.price,
+              genre: item.genre,
+              rating: item.rating,
+              restaurant: { connect: { id: restaurant.id } },
+            })),
+          },
+          restaurant: { connect: { id: restaurant.id } },
+        },
+      });
+    }
+  }
   return NextResponse.json({ message: "Restaurant data updated successfully" });
 }

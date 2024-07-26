@@ -51,7 +51,7 @@ export default function RestaurantProfilePage() {
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ categories: [{ title: newCategory, items: [] }] }),
+        body: JSON.stringify({ name: "SizzleNSpice", categories: [{ title: newCategory, items: [] }] }),
       });
       return response.json();
     },
@@ -69,7 +69,10 @@ export default function RestaurantProfilePage() {
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ categories: restaurantData.categories.map((category) => (category.title === categoryTitle ? { ...category, items: [...category.items, newItem] } : category)) }),
+        body: JSON.stringify({
+          name: "SizzleNSpice",
+          categories: restaurantData.categories.map((category) => (category.title === categoryTitle ? { ...category, items: [...category.items, newItem] } : category)),
+        }),
       });
       return response.json();
     },
@@ -85,7 +88,7 @@ export default function RestaurantProfilePage() {
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ categories: restaurantData.categories.map((category) => (category.title === oldTitle ? { ...category, title: newTitle } : category)) }),
+        body: JSON.stringify({ name: "SizzleNSpice", categories: restaurantData.categories.map((category) => (category.title === oldTitle ? { ...category, title: newTitle } : category)) }),
       });
       return response.json();
     },
@@ -103,6 +106,7 @@ export default function RestaurantProfilePage() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
+          name: "SizzleNSpice",
           categories: restaurantData.categories.map((cat) => (cat.title === categoryTitle ? { ...cat, items: cat.items.map((item, index) => (index === itemIndex ? updatedItem : item)) } : cat)),
         }),
       });

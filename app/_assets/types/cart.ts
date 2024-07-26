@@ -6,6 +6,7 @@ export interface Price {
   full: string;
 }
 export interface FoodItem {
+  id?: string;
   title: string;
   description: string;
   image: string;
