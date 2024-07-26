@@ -35,7 +35,7 @@ export default function RestaurantProfilePage() {
     isLoading: isLoadingRestaurant,
     error,
   } = useQuery<Restaurant>({
-    refetchInterval: 10000,
+    refetchInterval: 30000,
     queryKey: ["restaurant"],
     queryFn: async () => {
       const userResponse = await fetch("/api/user");
@@ -46,6 +46,7 @@ export default function RestaurantProfilePage() {
   });
   const updateRestaurantMutation = useMutation({
     mutationFn: async (updatedData: any) => {
+      console.log("Updating restaurant data:", updatedData);
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -54,6 +55,7 @@ export default function RestaurantProfilePage() {
       return response.json();
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurant"] }),
+    onError: (error) => console.error("Error updating restaurant data:", error),
   });
   const handleAddCategory = () => {
     if (!newCategory || newCategory === "new") return;
@@ -72,11 +74,6 @@ export default function RestaurantProfilePage() {
         }
       );
     }
-  };
-  const handleAddItem = (categoryTitle: string) => {
-    if (!newItem.title || !newItem.description || !newItem.price.small || !newItem.genre || !newItem.rating || !newItem.image) return;
-    updateRestaurantMutation.mutate({ name: "SizzleNSpice", categories: restaurantData?.categories?.map((cat) => (cat.title === categoryTitle ? { ...cat, items: [...cat.items, newItem] } : cat)) });
-    setNewItem({ title: "", description: "", image: "", price: { small: "", medium: "", full: "" }, genre: "veg", rating: 0 });
   };
   const handleUpdateCategory = (oldTitle: string) => {
     if (!newCategory) return;
@@ -145,9 +142,8 @@ export default function RestaurantProfilePage() {
             <select
               value={newCategory}
               onChange={(e) => {
-                if (e.target.value === "new") {
-                  setIsAddingCategory(true);
-                } else {
+                if (e.target.value === "new") setIsAddingCategory(true);
+                else {
                   setNewCategory(e.target.value);
                   setIsAddingCategory(false);
                 }

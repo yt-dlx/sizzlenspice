@@ -339,5 +339,85 @@ async function saveRestaurantData(data) {
     await prisma.$disconnect();
   }
 }
-
 saveRestaurantData(restaurantData);
+
+const resData = [
+  {
+    image: "https://i.postimg.cc/KYXs46qV/u-https-img-freepik-com-premium-photo-bottles-with-alcohol-drinks-beer-wine-whiskey-vodka-rum-gin-tequila-arranged-dark-background.jpg",
+    title: "Alcohols",
+    active: false,
+    items: [
+      {
+        title: "Beer",
+        description: "Craft beer selection with various flavors and styles.",
+        image: "https://i.postimg.cc/KYXs46qV/u-https-img-freepik-com-premium-photo-bottles-with-alcohol-drinks-beer-wine-whiskey-vodka-rum-gin-tequila-arranged-dark-background.jpg",
+        price: { small: "30", medium: "60", full: "90" },
+        genre: "alcoholic",
+        rating: 4.2,
+      },
+      {
+        title: "Wine",
+        description: "Wide variety of wines, including red, white, and sparkling.",
+        image: "https://i.postimg.cc/L6QY5v4V/u-https-img-freepik-com-premium-photo-bottles-with-wine-red-white-sparkling-arranged-dark-background.jpg",
+        price: { small: "40", medium: "80", full: "120" },
+        genre: "alcoholic",
+        rating: 4.5,
+      },
+      {
+        title: "Whiskey",
+        description: "Premium whiskey collection, including scotch, bourbon, and rye.",
+        image: "https://i.postimg.cc/3xq3XH2y/u-https-img-freepik-com-premium-photo-bottles-with-whiskey-arranged-dark-background.jpg",
+        price: { small: "50", medium: "100", full: "150" },
+        genre: "alcoholic",
+        rating: 4.8,
+      },
+      {
+        title: "Vodka",
+        description: "High-quality vodka brands, including flavored options.",
+        image: "https://i.postimg.cc/KYXs46qV/u-https-img-freepik-com-premium-photo-bottles-with-alcohol-drinks-beer-wine-whiskey-vodka-rum-gin-tequila-arranged-dark-background.jpg",
+        price: { small: "35", medium: "70", full: "105" },
+        genre: "alcoholic",
+        rating: 4.3,
+      },
+    ],
+  },
+  {
+    image: "https://i.postimg.cc/L52X9Q26/u-https-img-freepik-com-premium-photo-cocktails-with-fruits-arranged-dark-background.jpg",
+    title: "Cocktails",
+    active: false,
+    items: [
+      {
+        title: "Margarita",
+        description: "Classic margarita with tequila, lime, and triple sec.",
+        image: "https://i.postimg.cc/L52X9Q26/u-https-img-freepik-com-premium-photo-cocktails-with-fruits-arranged-dark-background.jpg",
+        price: { small: "60", medium: "120", full: "180" },
+        genre: "alcoholic",
+        rating: 4.6,
+      },
+      {
+        title: "Mojito",
+        description: "Refreshing mojito with rum, lime, mint, and soda water.",
+        image: "https://i.postimg.cc/Pqf3jnLz/u-https-img-freepik-com-premium-photo-mojito-cocktail-with-mint-leaves-arranged-dark-background.jpg",
+        price: { small: "60", medium: "120", full: "180" },
+        genre: "alcoholic",
+        rating: 4.4,
+      },
+      {
+        title: "Cosmopolitan",
+        description: "Elegant cosmopolitan with vodka, triple sec, cranberry juice, and lime.",
+        image: "https://i.postimg.cc/L52X9Q26/u-https-img-freepik-com-premium-photo-cocktails-with-fruits-arranged-dark-background.jpg",
+        price: { small: "60", medium: "120", full: "180" },
+        genre: "alcoholic",
+        rating: 4.7,
+      },
+      {
+        title: "Pina Colada",
+        description: "Tropical pina colada with rum, pineapple juice, and coconut cream.",
+        image: "https://i.postimg.cc/L52X9Q26/u-https-img-freepik-com-premium-photo-cocktails-with-fruits-arranged-dark-background.jpg",
+        price: { small: "60", medium: "120", full: "180" },
+        genre: "alcoholic",
+        rating: 4.5,
+      },
+    ],
+  },
+];
