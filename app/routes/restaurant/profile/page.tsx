@@ -157,7 +157,7 @@ export default function ProfilePage() {
       >
         <div className="p-4 w-full overflow-y-auto">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-4xl">{modalType.charAt(0).toUpperCase() + modalType.slice(1)}</h2>
+            <h2 className="font-bold text-4xl">{modalType.charAt(0).toUpperCase() + modalType.slice(1)}</h2>
             <button onClick={() => setIsModalOpen(false)}>
               <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
             </button>
@@ -168,7 +168,7 @@ export default function ProfilePage() {
               height={540}
               src={selectedCategory?.image!}
               alt={selectedCategory?.title!}
-              className="object-cover w-full h-48 border-2 border-secondary rounded-xl mb-6 shadow-md shadow-secondary"
+              className="object-cover w-full h-48 border-2 border-secondary shadow-md shadow-secondary rounded-xl mb-6"
             />
             {(modalType === "addCategory" || modalType === "editCategory") && (
               <div className="grid grid-cols-1 md:grid-cols-2 gap-0.5">
@@ -203,27 +203,27 @@ export default function ProfilePage() {
             {(modalType === "addItem" || modalType === "editItem") && (
               <div>
                 <input
+                  required
                   type="text"
                   name="title"
                   placeholder="Item Title"
                   defaultValue={selectedItem?.title}
                   className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  required
                 />
                 <textarea
+                  required
                   name="description"
                   placeholder="Item Description"
                   defaultValue={selectedItem?.description}
                   className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  required
                 />
                 <input
+                  required
                   type="text"
                   name="image"
                   placeholder="Image URL"
                   defaultValue={selectedItem?.image}
                   className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  required
                 />
                 <input
                   required
@@ -250,10 +250,10 @@ export default function ProfilePage() {
                   placeholder="Full Price"
                 />
                 <select
+                  required
                   name="genre"
                   defaultValue={selectedItem?.genre}
                   className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  required
                 >
                   <option value="veg">Vegetarian</option>
                   <option value="non-veg">Non-Vegetarian</option>
@@ -288,66 +288,72 @@ export default function ProfilePage() {
         animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
         className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
       >
-        <div className="p-4 w-full overflow-y-auto">
+        <div className="p-4 w-full scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto overflow-y-auto">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="text-4xl">{selectedCategory?.title}</h2>
+            <h2 className="font-bold text-4xl">Category: {selectedCategory?.title}</h2>
             <button onClick={() => setIsDetailModalOpen(false)}>
               <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
             </button>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+          <div className="flex justify-between mb-4">
+            <button
+              onClick={() => {
+                setSelectedCategory(selectedCategory);
+                setModalType("addItem");
+                setIsModalOpen(true);
+                setIsDetailModalOpen(false);
+              }}
+              className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-l-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+            >
+              <MdCheckCircle /> Add New Item
+            </button>
+            <button
+              type="button"
+              onClick={() => setIsDetailModalOpen(false)}
+              className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-r-xl bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
+            >
+              <MdRemoveCircle /> Cancel & Close
+            </button>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
             {selectedCategory?.items.map((item: FoodItem) => (
-              <div key={item.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+              <div key={item.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-primary/20">
                 <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
-                <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
-                  <div className="flex justify-between items-center">
-                    <h2 className="font-bold text-lg">{item.title}</h2>
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setSelectedItem(item);
-                        setModalType("editItem");
-                        setIsModalOpen(true);
-                        setIsDetailModalOpen(false);
-                      }}
-                      className="text-xs bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
-                    >
-                      Edit
-                    </button>
-                  </div>
-                  <p className="text-sm">{item.description}</p>
-                  <div className="flex justify-between items-center mt-2">
-                    <span className="text-sm">Price: {JSON.stringify(item.price)}</span>
-                    <div className="flex space-x-2">
+                <div className="text-primary bg-secondary flex-grow">
+                  <div className="flex flex-col">
+                    <div className="flex justify-between mb-4">
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedItem(item);
+                          setModalType("editItem");
+                          setIsModalOpen(true);
+                          setIsDetailModalOpen(false);
+                        }}
+                        className="w-full p-2 text-sm transition duration-700 ease-in-out transform bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+                      >
+                        <MdCheckCircle /> Edit Item
+                      </button>
                       <button
                         onClick={(e) => {
                           e.stopPropagation();
                           item.id && deleteItem.mutate(item.id);
                         }}
-                        className="text-xs bg-red-700 hover:bg-red-800 text-primary p-1 rounded-xl transition duration-300"
+                        className="w-full p-2 text-sm transition duration-700 ease-in-out transform bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
                       >
-                        Delete
+                        <MdRemoveCircle /> Delete Item
                       </button>
                     </div>
+                    <div className="font-bold gap-2 flex items-center justify-center text-center text-lg">
+                      <div className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                      {item.title}
+                    </div>
+                    <p className="flex items-center justify-center text-center m-4">{item.description}</p>
                   </div>
                 </div>
               </div>
             ))}
           </div>
-          <button
-            onClick={() => {
-              setSelectedCategory(selectedCategory);
-              setModalType("addItem");
-              setIsModalOpen(true);
-              setIsDetailModalOpen(false);
-            }}
-            className="mt-4 text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
-          >
-            Add Item
-          </button>
-          <button type="button" onClick={() => setIsDetailModalOpen(false)} className="mt-4 text-sm bg-red-700 hover:bg-red-800 text-secondary p-1 rounded-xl transition duration-300">
-            Cancel
-          </button>
         </div>
       </motion.div>
     );
@@ -386,7 +392,7 @@ export default function ProfilePage() {
                   <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
                     <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
                     <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-1">
-                      <div className="bg-primary/20 rounded-b-xl p-2">
+                      <div className="p-2">
                         <div className="flex flex-col">
                           <h2 className="font-bold text-2xl">{category.title}</h2>
                           <span className="text-lg">Total Items: {category.items.length}</span>

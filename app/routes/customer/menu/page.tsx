@@ -18,7 +18,7 @@ export default function MenuPage() {
   const [isModalOpen, setIsModalOpen] = React.useState(false);
   const [activeCategory, setActiveCategory] = React.useState("All");
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
-  const { cart, addToCart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
+  const { cart, addToCart, removeFromCart, updateCartItemQuantity } = useStore();
   const {
     data: restaurants = [],
     error,
