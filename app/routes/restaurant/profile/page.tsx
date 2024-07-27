@@ -5,11 +5,10 @@ import Image from "next/image";
 import Loading from "./loading";
 import React, { useState } from "react";
 import { useSession } from "next-auth/react";
-import { MdEditSquare } from "react-icons/md";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
-import { MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle } from "react-icons/md";
+import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle } from "react-icons/md";
 
 export default function ProfilePage() {
   const queryClient = useQueryClient();
@@ -19,6 +18,7 @@ export default function ProfilePage() {
   const [isDetailModalOpen, setIsDetailModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(null);
+
   const {
     isLoading: isUserLoading,
     error: userError,
@@ -31,6 +31,7 @@ export default function ProfilePage() {
       return response.json();
     },
   });
+
   const { data: restaurantData, isLoading: isRestaurantLoading } = useQuery<Restaurant>({
     queryKey: ["restaurantData"],
     queryFn: async () => {
@@ -44,6 +45,7 @@ export default function ProfilePage() {
     },
     enabled: !!userData,
   });
+
   const addCategory = useMutation({
     mutationFn: async (data: { title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -59,9 +61,14 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
+
   const editCategory = useMutation({
     mutationFn: async (data: { id: number; title: string; image: string }) => {
-      const response = await fetch("/api/restaurant/category", { method: "PUT", body: JSON.stringify(data), headers: { "Content-Type": "application/json" } });
+      const response = await fetch("/api/restaurant/category", {
+        method: "PUT",
+        body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
+      });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
@@ -70,17 +77,27 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
+
   const deleteCategory = useMutation({
     mutationFn: async (id: number) => {
-      const response = await fetch("/api/restaurant/category", { method: "DELETE", body: JSON.stringify({ id }), headers: { "Content-Type": "application/json" } });
+      const response = await fetch("/api/restaurant/category", {
+        method: "DELETE",
+        body: JSON.stringify({ id }),
+        headers: { "Content-Type": "application/json" },
+      });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
+
   const addItem = useMutation({
     mutationFn: async (data: Omit<FoodItem, "id"> & { categoryId: number }) => {
-      const response = await fetch("/api/restaurant/item", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ ...data, restaurantId: restaurantData?.id }) });
+      const response = await fetch("/api/restaurant/item", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...data, restaurantId: restaurantData?.id }),
+      });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
@@ -89,6 +106,7 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
+
   const editItem = useMutation({
     mutationFn: async (data: FoodItem & { categoryId: number }) => {
       const response = await fetch("/api/restaurant/item", {
@@ -104,14 +122,20 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
+
   const deleteItem = useMutation({
     mutationFn: async (id: string) => {
-      const response = await fetch("/api/restaurant/item", { method: "DELETE", body: JSON.stringify({ id }), headers: { "Content-Type": "application/json" } });
+      const response = await fetch("/api/restaurant/item", {
+        method: "DELETE",
+        body: JSON.stringify({ id }),
+        headers: { "Content-Type": "application/json" },
+      });
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
+
   const renderModal = () => {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
       e.preventDefault();
@@ -148,6 +172,7 @@ export default function ProfilePage() {
           break;
       }
     };
+
     return (
       <motion.div
         initial={{ opacity: 0, y: "100%" }}
@@ -280,6 +305,7 @@ export default function ProfilePage() {
       </motion.div>
     );
   };
+
   const renderDetailModal = () => {
     return (
       <motion.div
@@ -358,10 +384,12 @@ export default function ProfilePage() {
       </motion.div>
     );
   };
+
   if (isUserLoading || isRestaurantLoading) return <Loading />;
   if (userError) throw userError;
+
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Orders and Items</h2>
@@ -439,6 +467,8 @@ export default function ProfilePage() {
       )}
       <AnimatePresence>{isModalOpen && renderModal()}</AnimatePresence>
       <AnimatePresence>{isDetailModalOpen && renderDetailModal()}</AnimatePresence>
+
+      {(isModalOpen || isDetailModalOpen) && <div className="fixed inset-0 bg-black bg-opacity-50 backdrop-blur-md z-40"></div>}
     </main>
   );
 }

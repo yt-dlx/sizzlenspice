@@ -5,12 +5,11 @@ import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
 import { MdClose } from "react-icons/md";
-import { FaPlus, FaMinus } from "react-icons/fa";
 import { useQuery } from "@tanstack/react-query";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
-import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
+import { FaPlus, FaMinus, FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function MenuPage() {
   const [searchTerm, setSearchTerm] = React.useState("");
@@ -19,6 +18,7 @@ export default function MenuPage() {
   const [activeCategory, setActiveCategory] = React.useState("All");
   const [selectedItem, setSelectedItem] = React.useState<FoodItem | null>(null);
   const { cart, addToCart, removeFromCart, updateCartItemQuantity } = useStore();
+
   const {
     data: restaurants = [],
     error,
@@ -31,6 +31,7 @@ export default function MenuPage() {
       return response.json();
     },
   });
+
   const categories = React.useMemo(() => {
     const categoryMap: { [key: string]: Category } = {};
     restaurants.forEach((restaurant) => {
@@ -45,6 +46,7 @@ export default function MenuPage() {
     });
     return Object.values(categoryMap);
   }, [restaurants]);
+
   const filteredItems = React.useMemo(() => {
     let allItems: FoodItem[] = [];
     categories.forEach((category) => {
@@ -53,14 +55,17 @@ export default function MenuPage() {
     const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
     return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
   }, [categories, activeCategory, searchTerm]);
+
   const totalCost = cart.reduce((total, item) => {
     const itemPrice = Number(item.price[item.selectedSize]);
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
+
   if (isLoading) return <Loading />;
   if (error) throw error;
+
   return (
-    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
+    <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
       <AnimatePresence>
         {isModalOpen && selectedItem && (
           <motion.div
@@ -220,7 +225,7 @@ export default function MenuPage() {
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[50vh] z-40"
+            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[50vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
@@ -280,6 +285,8 @@ export default function MenuPage() {
           </motion.section>
         )}
       </AnimatePresence>
+
+      {(isModalOpen || isCartOpen) && <div className="fixed inset-0 bg-black bg-opacity-50 backdrop-blur-md z-40"></div>}
     </main>
   );
 }
