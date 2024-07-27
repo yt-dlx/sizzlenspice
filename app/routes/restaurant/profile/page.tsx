@@ -18,7 +18,6 @@ export default function ProfilePage() {
   const [isDetailModalOpen, setIsDetailModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(null);
-
   const {
     isLoading: isUserLoading,
     error: userError,
@@ -31,7 +30,6 @@ export default function ProfilePage() {
       return response.json();
     },
   });
-
   const { data: restaurantData, isLoading: isRestaurantLoading } = useQuery<Restaurant>({
     queryKey: ["restaurantData"],
     queryFn: async () => {
@@ -45,7 +43,6 @@ export default function ProfilePage() {
     },
     enabled: !!userData,
   });
-
   const addCategory = useMutation({
     mutationFn: async (data: { title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -61,7 +58,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const editCategory = useMutation({
     mutationFn: async (data: { id: number; title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -77,7 +73,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const deleteCategory = useMutation({
     mutationFn: async (id: number) => {
       const response = await fetch("/api/restaurant/category", {
@@ -90,7 +85,6 @@ export default function ProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-
   const addItem = useMutation({
     mutationFn: async (data: Omit<FoodItem, "id"> & { categoryId: number }) => {
       const response = await fetch("/api/restaurant/item", {
@@ -106,7 +100,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const editItem = useMutation({
     mutationFn: async (data: FoodItem & { categoryId: number }) => {
       const response = await fetch("/api/restaurant/item", {
@@ -122,7 +115,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const deleteItem = useMutation({
     mutationFn: async (id: string) => {
       const response = await fetch("/api/restaurant/item", {
@@ -135,7 +127,6 @@ export default function ProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-
   const renderModal = () => {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
       e.preventDefault();
@@ -305,7 +296,6 @@ export default function ProfilePage() {
       </motion.div>
     );
   };
-
   const renderDetailModal = () => {
     return (
       <motion.div
@@ -384,10 +374,8 @@ export default function ProfilePage() {
       </motion.div>
     );
   };
-
   if (isUserLoading || isRestaurantLoading) return <Loading />;
   if (userError) throw userError;
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
