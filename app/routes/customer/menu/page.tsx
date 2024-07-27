@@ -73,7 +73,7 @@ export default function MenuPage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-4xl">{selectedItem.title}</h2>
                 <button onClick={() => setIsModalOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+                  <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
                 </button>
               </div>
               <div className="flex items-center mb-4">
@@ -226,7 +226,7 @@ export default function MenuPage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-7xl">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+                  <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
                 </button>
               </div>
               {cart.map((item: any, index: any) => (

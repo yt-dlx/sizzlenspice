@@ -1,15 +1,17 @@
 // app/routes/restaurant/profile/page.tsx
 "use client";
+import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
 import React, { useState } from "react";
-import { MdClose } from "react-icons/md";
 import { useSession } from "next-auth/react";
+import { MdEditSquare } from "react-icons/md";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
+import { MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle } from "react-icons/md";
 
-const ProfilePage = () => {
+export default function ProfilePage() {
   const queryClient = useQueryClient();
   const { data: session } = useSession();
   const [modalType, setModalType] = useState("");
@@ -149,44 +151,128 @@ const ProfilePage = () => {
     return (
       <motion.div
         initial={{ opacity: 0, y: "100%" }}
-        exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
         animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
+        exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
         className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
       >
         <div className="p-4 w-full overflow-y-auto">
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-4xl">{modalType.charAt(0).toUpperCase() + modalType.slice(1)}</h2>
             <button onClick={() => setIsModalOpen(false)}>
-              <MdClose size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+              <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
             </button>
           </div>
-          <form onSubmit={handleSubmit}>
+          <form onSubmit={handleSubmit} className="bg-primary/20 rounded-xl p-2">
+            <Image
+              width={540}
+              height={540}
+              src={selectedCategory?.image!}
+              alt={selectedCategory?.title!}
+              className="object-cover w-full h-48 border-2 border-secondary rounded-xl mb-6 shadow-md shadow-secondary"
+            />
             {(modalType === "addCategory" || modalType === "editCategory") && (
-              <>
-                <input type="text" name="title" placeholder="Category Title" defaultValue={selectedCategory?.title} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-                <input type="text" name="image" placeholder="Image URL" defaultValue={selectedCategory?.image} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-              </>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-0.5">
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-1">
+                    <MdFoodBank /> Set New Category Title
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="title"
+                    placeholder="Category Title"
+                    defaultValue={selectedCategory?.title}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdImage /> Set New Image URL
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="image"
+                    placeholder="Image URL"
+                    defaultValue={selectedCategory?.image}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+              </div>
             )}
             {(modalType === "addItem" || modalType === "editItem") && (
-              <>
-                <input type="text" name="title" placeholder="Item Title" defaultValue={selectedItem?.title} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-                <textarea name="description" placeholder="Item Description" defaultValue={selectedItem?.description} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-                <input type="text" name="image" placeholder="Image URL" defaultValue={selectedItem?.image} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-                <input required type="text" name="smallPrice" defaultValue={selectedItem?.price?.small} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Small Price" />
-                <input required type="text" name="mediumPrice" defaultValue={selectedItem?.price?.medium} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Medium Price" />
-                <input required type="text" name="fullPrice" defaultValue={selectedItem?.price?.full} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Full Price" />
-                <select name="genre" defaultValue={selectedItem?.genre} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required>
+              <div>
+                <input
+                  type="text"
+                  name="title"
+                  placeholder="Item Title"
+                  defaultValue={selectedItem?.title}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  required
+                />
+                <textarea
+                  name="description"
+                  placeholder="Item Description"
+                  defaultValue={selectedItem?.description}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  required
+                />
+                <input
+                  type="text"
+                  name="image"
+                  placeholder="Image URL"
+                  defaultValue={selectedItem?.image}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  required
+                />
+                <input
+                  required
+                  type="text"
+                  name="smallPrice"
+                  defaultValue={selectedItem?.price?.small}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  placeholder="Small Price"
+                />
+                <input
+                  required
+                  type="text"
+                  name="mediumPrice"
+                  defaultValue={selectedItem?.price?.medium}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  placeholder="Medium Price"
+                />
+                <input
+                  required
+                  type="text"
+                  name="fullPrice"
+                  defaultValue={selectedItem?.price?.full}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  placeholder="Full Price"
+                />
+                <select
+                  name="genre"
+                  defaultValue={selectedItem?.genre}
+                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  required
+                >
                   <option value="veg">Vegetarian</option>
                   <option value="non-veg">Non-Vegetarian</option>
                 </select>
-              </>
+              </div>
             )}
-            <div className="flex justify-between">
-              <button type="submit" className="w-full p-2 rounded-xl bg-primary text-secondary hover:bg-tertiary transition duration-300">
-                Submit
+            <div className="flex justify-between mt-2">
+              <button
+                type="submit"
+                className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-l-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+              >
+                <MdCheckCircle /> Confirm & Close
               </button>
-              <button type="button" onClick={() => setIsModalOpen(false)} className="w-full p-2 rounded-xl bg-red-700 text-secondary hover:bg-red-800 transition duration-300">
-                Cancel
+              <button
+                type="button"
+                onClick={() => setIsModalOpen(false)}
+                className="w-full p-2 text-lg transition duration-700 ease-in-out transform rounded-r-xl bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
+              >
+                <MdRemoveCircle /> Cancel & Close
               </button>
             </div>
           </form>
@@ -206,7 +292,7 @@ const ProfilePage = () => {
           <div className="flex justify-between items-center mb-4">
             <h2 className="text-4xl">{selectedCategory?.title}</h2>
             <button onClick={() => setIsDetailModalOpen(false)}>
-              <MdClose size={24} className="text-primary bg-secondary rounded-xl animate-spin" />
+              <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
             </button>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
@@ -271,63 +357,77 @@ const ProfilePage = () => {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Admin Portal</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Profile</h2>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Orders and Items</h2>
       </section>
       {restaurantData && (
         <section id="restaurant-data" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-          <button
-            onClick={() => {
-              setModalType("addCategory");
-              setIsModalOpen(true);
-            }}
-            className="mb-4 px-4 py-2 bg-secondary text-primary rounded-xl hover:bg-tertiary transition duration-300"
-          >
-            Add New Category
-          </button>
+          <div className="flex justify-center items-center gap-2">
+            <button
+              onClick={() => {
+                setModalType("addCategory");
+                setIsModalOpen(true);
+              }}
+              className="w-full p-2 mb-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-secondary/80 hover:bg-secondary text-primary flex items-center justify-center border-2 border-secondary shadow-md shadow-secondary"
+            >
+              Add New Category
+            </button>
+            <Link
+              href="/routes/restaurant/orders"
+              className="w-full p-2 mb-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-secondary/80 hover:bg-secondary text-primary flex items-center justify-center border-2 border-secondary shadow-md shadow-secondary"
+            >
+              Restaurant Orders
+            </Link>
+          </div>
           <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-            {restaurantData.categories?.map((category: Category) => (
-              <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
-                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
-                <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
-                  <div className="flex justify-between items-center">
-                    <h2 className="font-bold text-lg">{category.title}</h2>
+            {restaurantData.categories?.map(
+              (category: Category) =>
+                category.title !== "All" && (
+                  <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+                    <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
+                    <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-1">
+                      <div className="bg-primary/20 rounded-b-xl p-2">
+                        <div className="flex flex-col">
+                          <h2 className="font-bold text-2xl">{category.title}</h2>
+                          <span className="text-lg">Total Items: {category.items.length}</span>
+                        </div>
+                        <div className="flex justify-center mt-6">
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedCategory(category);
+                              setModalType("editCategory");
+                              setIsModalOpen(true);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-l-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdEditSquare /> Edit Catg.
+                          </button>
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              deleteCategory.mutate(category.id);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdDelete /> Delete Catg.
+                          </button>
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedCategory(category);
+                              setIsDetailModalOpen(true);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-r-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdFastfood /> Edit Items
+                          </button>
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                  <div className="flex space-x-2 mt-4">
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setSelectedCategory(category);
-                        setModalType("editCategory");
-                        setIsModalOpen(true);
-                      }}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
-                    >
-                      Edit Category
-                    </button>
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        deleteCategory.mutate(category.id);
-                      }}
-                      className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-xl transition duration-300"
-                    >
-                      Delete Category
-                    </button>
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setSelectedCategory(category);
-                        setIsDetailModalOpen(true);
-                      }}
-                      className="text-sm bg-blue-700 hover:bg-blue-800 text-primary p-1 rounded-xl transition duration-300"
-                    >
-                      Edit Items
-                    </button>
-                  </div>
-                </div>
-              </div>
-            ))}
+                )
+            )}
           </div>
         </section>
       )}
@@ -335,5 +435,4 @@ const ProfilePage = () => {
       <AnimatePresence>{isDetailModalOpen && renderDetailModal()}</AnimatePresence>
     </main>
   );
-};
-export default ProfilePage;
+}
