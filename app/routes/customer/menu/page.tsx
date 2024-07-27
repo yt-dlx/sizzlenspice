@@ -12,7 +12,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
 
-export default function HomePage() {
+export default function MenuPage() {
   const [searchTerm, setSearchTerm] = React.useState("");
   const [isCartOpen, setIsCartOpen] = React.useState(false);
   const [isModalOpen, setIsModalOpen] = React.useState(false);

@@ -20,105 +20,83 @@ const ProfilePage = () => {
       return response.json();
     },
   });
-
   const fetchRestaurant = useMutation({
     mutationFn: async (data: { name: string; email: string; phoneNumber: string }) => {
       const response = await fetch("/api/restaurant", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const addCategory = useMutation({
     mutationFn: async (data: { title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const editCategory = useMutation({
     mutationFn: async (data: { id: string; title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
         method: "PUT",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const deleteCategory = useMutation({
     mutationFn: async (id: string) => {
       const response = await fetch("/api/restaurant/category", {
         method: "DELETE",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ id }),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const addItem = useMutation({
     mutationFn: async (data: { title: string; description: string; image: string; price: any; genre: string; rating: number; categoryId: string }) => {
       const response = await fetch("/api/restaurant/item", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const editItem = useMutation({
     mutationFn: async (data: { id: string; title: string; description: string; image: string; price: any; genre: string; rating: number; categoryId: string }) => {
       const response = await fetch("/api/restaurant/item", {
         method: "PUT",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   const deleteItem = useMutation({
     mutationFn: async (id: string) => {
       const response = await fetch("/api/restaurant/item", {
         method: "DELETE",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ id }),
+        headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) {
-        throw new Error("Network response was not ok");
-      }
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
   });
-
   useEffect(() => {
     if (userData) {
       fetchRestaurant.mutate({
@@ -128,10 +106,8 @@ const ProfilePage = () => {
       });
     }
   }, [userData]);
-
   if (isUserLoading || fetchRestaurant.isIdle) return <Loading />;
   if (userError || fetchRestaurant.error) throw userError?.message || fetchRestaurant.error?.message;
-
   return (
     <div className="text-secondary flex items-center justify-center text-center max-w-6xl">
       <h1>Profile Page</h1>
