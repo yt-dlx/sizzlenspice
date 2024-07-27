@@ -110,20 +110,16 @@ const ProfilePage = () => {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-  if (isUserLoading || isRestaurantLoading) return <Loading />;
-  if (userError) throw userError;
   const renderModal = () => {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
       e.preventDefault();
       const formData = new FormData(e.currentTarget);
       const data = Object.fromEntries(formData.entries());
-
       const price = {
         small: data.smallPrice,
         medium: data.mediumPrice,
         full: data.fullPrice,
       };
-
       switch (modalType) {
         case "addCategory":
           addCategory.mutate(data as { title: string; image: string });
@@ -270,6 +266,8 @@ const ProfilePage = () => {
       </motion.div>
     );
   };
+  if (isUserLoading || isRestaurantLoading) return <Loading />;
+  if (userError) throw userError;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
