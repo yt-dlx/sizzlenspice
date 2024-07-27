@@ -117,6 +117,13 @@ const ProfilePage = () => {
       e.preventDefault();
       const formData = new FormData(e.currentTarget);
       const data = Object.fromEntries(formData.entries());
+
+      const price = {
+        small: data.smallPrice,
+        medium: data.mediumPrice,
+        full: data.fullPrice,
+      };
+
       switch (modalType) {
         case "addCategory":
           addCategory.mutate(data as { title: string; image: string });
@@ -127,8 +134,8 @@ const ProfilePage = () => {
         case "addItem":
           addItem.mutate({
             ...data,
-            price: JSON.parse(data.price as string),
-            rating: parseFloat(data.rating as string),
+            price,
+            rating: 0,
             categoryId: selectedCategory!.id,
           } as Omit<FoodItem, "id"> & { categoryId: number });
           break;
@@ -136,8 +143,8 @@ const ProfilePage = () => {
           editItem.mutate({
             ...(selectedItem as FoodItem),
             ...data,
-            price: JSON.parse(data.price as string),
-            rating: parseFloat(data.rating as string),
+            price,
+            rating: 0,
             categoryId: selectedCategory!.id,
           } as FoodItem & { categoryId: number });
           break;
@@ -169,29 +176,13 @@ const ProfilePage = () => {
                 <input type="text" name="title" placeholder="Item Title" defaultValue={selectedItem?.title} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
                 <textarea name="description" placeholder="Item Description" defaultValue={selectedItem?.description} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
                 <input type="text" name="image" placeholder="Image URL" defaultValue={selectedItem?.image} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
-                <input
-                  required
-                  type="text"
-                  name="price"
-                  defaultValue={JSON.stringify(selectedItem?.price)}
-                  className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary"
-                  placeholder='Price (e.g., {"small": "10", "medium": "15", "full": "20"})'
-                />
+                <input required type="text" name="smallPrice" defaultValue={selectedItem?.price?.small} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Small Price" />
+                <input required type="text" name="mediumPrice" defaultValue={selectedItem?.price?.medium} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Medium Price" />
+                <input required type="text" name="fullPrice" defaultValue={selectedItem?.price?.full} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" placeholder="Full Price" />
                 <select name="genre" defaultValue={selectedItem?.genre} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required>
                   <option value="veg">Vegetarian</option>
                   <option value="non-veg">Non-Vegetarian</option>
                 </select>
-                <input
-                  required
-                  min="0"
-                  max="5"
-                  step="0.1"
-                  type="number"
-                  name="rating"
-                  placeholder="Rating"
-                  defaultValue={selectedItem?.rating}
-                  className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary"
-                />
               </>
             )}
             <div className="flex justify-between">
@@ -298,14 +289,7 @@ const ProfilePage = () => {
           </button>
           <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
             {restaurantData.categories?.map((category: Category) => (
-              <div
-                key={category.id}
-                className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary cursor-pointer"
-                onClick={() => {
-                  setSelectedCategory(category);
-                  setIsDetailModalOpen(true);
-                }}
-              >
+              <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
                 <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
@@ -332,6 +316,16 @@ const ProfilePage = () => {
                     >
                       Delete Category
                     </button>
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setSelectedCategory(category);
+                        setIsDetailModalOpen(true);
+                      }}
+                      className="text-sm bg-blue-700 hover:bg-blue-800 text-primary p-1 rounded-xl transition duration-300"
+                    >
+                      Edit Items
+                    </button>
                   </div>
                 </div>
               </div>
@@ -344,5 +338,4 @@ const ProfilePage = () => {
     </main>
   );
 };
-
 export default ProfilePage;
