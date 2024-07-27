@@ -170,33 +170,38 @@ const ProfilePage = () => {
                 <textarea name="description" placeholder="Item Description" defaultValue={selectedItem?.description} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
                 <input type="text" name="image" placeholder="Image URL" defaultValue={selectedItem?.image} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required />
                 <input
+                  required
                   type="text"
                   name="price"
-                  placeholder='Price (e.g., {"small": "10", "medium": "15", "full": "20"})'
                   defaultValue={JSON.stringify(selectedItem?.price)}
                   className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary"
-                  required
+                  placeholder='Price (e.g., {"small": "10", "medium": "15", "full": "20"})'
                 />
                 <select name="genre" defaultValue={selectedItem?.genre} className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary" required>
                   <option value="veg">Vegetarian</option>
                   <option value="non-veg">Non-Vegetarian</option>
                 </select>
                 <input
+                  required
+                  min="0"
+                  max="5"
+                  step="0.1"
                   type="number"
                   name="rating"
                   placeholder="Rating"
                   defaultValue={selectedItem?.rating}
-                  step="0.1"
-                  min="0"
-                  max="5"
                   className="w-full p-2 mb-2 rounded-xl bg-primary text-secondary"
-                  required
                 />
               </>
             )}
-            <button type="submit" className="w-full p-2 rounded-xl bg-primary text-secondary hover:bg-tertiary transition duration-300">
-              Submit
-            </button>
+            <div className="flex justify-between">
+              <button type="submit" className="w-full p-2 rounded-xl bg-primary text-secondary hover:bg-tertiary transition duration-300">
+                Submit
+              </button>
+              <button type="button" onClick={() => setIsModalOpen(false)} className="w-full p-2 rounded-xl bg-red-700 text-secondary hover:bg-red-800 transition duration-300">
+                Cancel
+              </button>
+            </div>
           </form>
         </div>
       </motion.div>
@@ -266,6 +271,9 @@ const ProfilePage = () => {
             className="mt-4 text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
           >
             Add Item
+          </button>
+          <button type="button" onClick={() => setIsDetailModalOpen(false)} className="mt-4 text-sm bg-red-700 hover:bg-red-800 text-secondary p-1 rounded-xl transition duration-300">
+            Cancel
           </button>
         </div>
       </motion.div>
