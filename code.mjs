@@ -11,7 +11,6 @@ async function fetchAllData() {
     const items = await prisma.item.findMany();
     const data = { users, locationData, orders, restaurants, categories, items };
     writeFileSync("database.json", JSON.stringify(data, null, 2));
-    console.log("Data successfully saved to database.json");
   } catch (error) {
     console.error("Error fetching data:", error);
   } finally {
