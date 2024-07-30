@@ -3,17 +3,20 @@
 import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
-import React, { useState } from "react";
+import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
 import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle, MdTitle } from "react-icons/md";
 
 export default function ProfilePage() {
+  const router = useRouter();
   const queryClient = useQueryClient();
   const { data: session } = useSession();
   const [modalType, setModalType] = useState("");
+  const [isChecking, setIsChecking] = useState(true);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isDetailModalOpen, setIsDetailModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
@@ -39,6 +42,14 @@ export default function ProfilePage() {
     },
     enabled: !!userData,
   });
+  useEffect(() => {
+    if (userData && !isRestaurantLoading) {
+      if (!restaurantData) {
+        router.push("/routes/restaurant/register");
+      }
+      setIsChecking(false);
+    }
+  }, [userData, isRestaurantLoading, restaurantData, router]);
   const addCategory = useMutation({
     mutationFn: async (data: { title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -158,7 +169,8 @@ export default function ProfilePage() {
         break;
     }
   };
-  if (isUserLoading || isRestaurantLoading) return <Loading />;
+  if (isUserLoading || isRestaurantLoading || isChecking) return <Loading />;
+  if (!restaurantData) return null;
   if (userError) throw userError;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
