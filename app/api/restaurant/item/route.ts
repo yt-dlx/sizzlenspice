@@ -3,7 +3,6 @@ import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
-// Add Item
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
@@ -12,7 +11,6 @@ export async function POST(request: NextRequest) {
   return NextResponse.json(item);
 }
 
-// Edit Item
 export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
@@ -21,7 +19,6 @@ export async function PUT(request: NextRequest) {
   return NextResponse.json(item);
 }
 
-// Delete Item
 export async function DELETE(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
