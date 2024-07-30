@@ -19,13 +19,20 @@ export default function RegisterPage() {
   useEffect(() => {
     setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
     (async () => {
-      const response = await fetch("/api/restaurant/auth", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: session?.user?.email }),
-      });
-      const data = await response.json();
-      if (data.exists) router.push("/route/restaurant/profile");
+      try {
+        setLoading(true);
+        const response = await fetch("/api/restaurant/auth", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email: session?.user?.email }),
+        });
+        const data = await response.json();
+        if (data.exists) router.push("/routes/restaurant/profile");
+      } catch (error) {
+        setLoading(false);
+      } finally {
+        setLoading(false);
+      }
     })();
   }, [session, router]);
 
@@ -45,7 +52,7 @@ export default function RegisterPage() {
     onError: (error: Error) => {
       setErrorMessage(error.message);
     },
-    onSuccess: () => router.push("/route/restaurant/profile"),
+    onSuccess: () => router.push("/routes/restaurant/profile"),
     onSettled: () => setLoading(false),
   });
 

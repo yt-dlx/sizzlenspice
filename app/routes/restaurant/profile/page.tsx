@@ -31,7 +31,7 @@ export default function ProfilePage() {
     },
   });
   const { data: restaurantData, isLoading: isRestaurantLoading } = useQuery<Restaurant>({
-    queryKey: ["restaurantData"],
+    queryKey: ["restaurantData", userData?.customerEmail],
     queryFn: async () => {
       const response = await fetch("/api/restaurant", {
         method: "POST",
@@ -54,7 +54,7 @@ export default function ProfilePage() {
       return response.json();
     },
     onSuccess: () => {
-      queryClient.invalidateQueries({ queryKey: ["restaurantData"] });
+      queryClient.invalidateQueries({ queryKey: ["restaurantData", userData?.customerEmail] });
       setIsModalOpen(false);
     },
   });
