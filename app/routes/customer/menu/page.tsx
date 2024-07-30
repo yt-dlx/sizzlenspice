@@ -94,7 +94,7 @@ export default function MenuPage() {
                 </div>
               </div>
               <p className="text-sm mb-4">{selectedItem.description}</p>
-              <p className="mb-2 text-xl">Select Plate Size:</p>
+              <p className="mb-2 text-xl">Select Size:</p>
               <div className="space-y-2">
                 {Object.entries(selectedItem.price).map(([size, price]) => {
                   const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
@@ -240,7 +240,7 @@ export default function MenuPage() {
                     <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
                     <div className="ml-2">
                       <h3 className="font-bold">{item.title}</h3>
-                      <p className="text-sm">{item.selectedSize} plate</p>
+                      <p className="text-sm">{item.selectedSize}</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
