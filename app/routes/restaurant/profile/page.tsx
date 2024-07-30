@@ -276,7 +276,7 @@ export default function ProfilePage() {
                         name="title"
                         placeholder="Category Title"
                         defaultValue={selectedCategory?.title}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -289,7 +289,7 @@ export default function ProfilePage() {
                         name="image"
                         placeholder="Image URL"
                         defaultValue={selectedCategory?.image}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                   </div>
@@ -306,7 +306,7 @@ export default function ProfilePage() {
                         name="title"
                         placeholder="Item Title"
                         defaultValue={selectedItem?.title}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -319,7 +319,7 @@ export default function ProfilePage() {
                         name="image"
                         placeholder="Image URL"
                         defaultValue={selectedItem?.image}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -332,7 +332,7 @@ export default function ProfilePage() {
                         name="smallPrice"
                         placeholder="Small Price"
                         defaultValue={selectedItem?.price?.small}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -345,7 +345,7 @@ export default function ProfilePage() {
                         name="mediumPrice"
                         placeholder="Medium Price"
                         defaultValue={selectedItem?.price?.medium}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -358,7 +358,7 @@ export default function ProfilePage() {
                         name="fullPrice"
                         placeholder="Full Price"
                         defaultValue={selectedItem?.price?.full}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                     <div className="mb-2">
@@ -369,7 +369,7 @@ export default function ProfilePage() {
                         required
                         name="genre"
                         defaultValue={selectedItem?.genre}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       >
                         <option value="veg">Vegetarian</option>
                         <option value="non-veg">Non-Vegetarian</option>
@@ -384,7 +384,7 @@ export default function ProfilePage() {
                         name="description"
                         placeholder="Item Description"
                         defaultValue={selectedItem?.description}
-                        className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                        className="w-full py-2 rounded-xl bg-secondary border-2 border-secondary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
                       />
                     </div>
                   </div>
