@@ -15,10 +15,10 @@ export default function ProfilePage() {
   const { data: session } = useSession();
   const [modalType, setModalType] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [userData, setUserData] = useState<UserData | null>(null);
   const [isDetailModalOpen, setIsDetailModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(null);
-  const [userData, setUserData] = useState<UserData | null>(null);
 
   useEffect(() => {
     (async () => {

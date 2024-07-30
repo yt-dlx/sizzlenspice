@@ -11,7 +11,9 @@ export default function RegisterPage() {
   const router = useRouter();
   const { data: session } = useSession();
   const [loading, setLoading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
   const [userData, setUserData] = useState({ email: "", phoneNumber: "", name: "" });
+
   const handleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
 
   useEffect(() => {
@@ -34,11 +36,14 @@ export default function RegisterPage() {
         body: JSON.stringify(data),
         headers: { "Content-Type": "application/json" },
       });
-      if (!response.ok) throw new Error("Network response was not ok");
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error);
+      }
       return response.json();
     },
-    onError: (error) => {
-      throw new Error("Failed to register user", error);
+    onError: (error: Error) => {
+      setErrorMessage(error.message);
     },
     onSuccess: () => router.push("/route/restaurant/profile"),
     onSettled: () => setLoading(false),
@@ -97,6 +102,7 @@ export default function RegisterPage() {
               />
             </div>
           </div>
+          {errorMessage && <div className="text-red-600">{errorMessage}</div>}
           <button
             type="submit"
             className="w-full p-2 mt-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
