@@ -3,8 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
+import React, { useState } from "react";
 import { useSession } from "next-auth/react";
-import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
@@ -15,56 +15,34 @@ export default function ProfilePage() {
   const { data: session } = useSession();
   const [modalType, setModalType] = useState("");
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [userData, setUserData] = useState<UserData | null>(null);
   const [isDetailModalOpen, setIsDetailModalOpen] = useState(false);
   const [selectedItem, setSelectedItem] = useState<FoodItem | null>(null);
   const [selectedCategory, setSelectedCategory] = useState<Category | null>(null);
-
-  useEffect(() => {
-    (async () => {
-      if (session?.user?.email) {
-        console.log("Fetching user data for email:", session.user.email);
-        const response = await fetch("/api/restaurant/auth", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ email: session.user.email }),
-        });
-
-        if (!response.ok) {
-          console.error("Error fetching user data:", response.statusText);
-          return;
-        }
-
-        const data = await response.json();
-        console.log("User data fetched:", data);
-        setUserData(data);
-      }
-    })();
-  }, [session]);
-
+  const {
+    isLoading: isUserLoading,
+    error: userError,
+    data: userData,
+  } = useQuery<UserData>({
+    queryKey: ["userData", session?.user?.email],
+    queryFn: async () => {
+      const response = await fetch("/api/user");
+      if (!response.ok) throw new Error("Network response was not ok");
+      return response.json();
+    },
+  });
   const { data: restaurantData, isLoading: isRestaurantLoading } = useQuery<Restaurant>({
     queryKey: ["restaurantData"],
     queryFn: async () => {
-      if (!userData) {
-        throw new Error("User data is not available");
-      }
-      console.log("Fetching restaurant data for user:", userData);
       const response = await fetch("/api/restaurant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: "SizzleNSpice", email: userData.customerEmail, phoneNumber: userData.phoneNumber }),
+        body: JSON.stringify({ name: "SizzleNSpice", email: userData?.customerEmail, phoneNumber: userData?.phoneNumber }),
       });
-
-      if (!response.ok) {
-        console.error("Error fetching restaurant data:", response.statusText);
-        throw new Error(response.statusText);
-      }
-
+      if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },
     enabled: !!userData,
   });
-
   const addCategory = useMutation({
     mutationFn: async (data: { title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -80,7 +58,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const editCategory = useMutation({
     mutationFn: async (data: { id: number; title: string; image: string }) => {
       const response = await fetch("/api/restaurant/category", {
@@ -96,7 +73,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const deleteCategory = useMutation({
     mutationFn: async (id: number) => {
       const response = await fetch("/api/restaurant/category", {
@@ -109,7 +85,6 @@ export default function ProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-
   const addItem = useMutation({
     mutationFn: async (data: Omit<FoodItem, "id"> & { categoryId: number }) => {
       const response = await fetch("/api/restaurant/item", {
@@ -125,7 +100,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const editItem = useMutation({
     mutationFn: async (data: FoodItem & { categoryId: number }) => {
       const response = await fetch("/api/restaurant/item", {
@@ -141,7 +115,6 @@ export default function ProfilePage() {
       setIsModalOpen(false);
     },
   });
-
   const deleteItem = useMutation({
     mutationFn: async (id: string) => {
       const response = await fetch("/api/restaurant/item", {
@@ -154,7 +127,6 @@ export default function ProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-
   const submitRenderModal = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const formData = new FormData(e.currentTarget);
@@ -190,8 +162,8 @@ export default function ProfilePage() {
         break;
     }
   };
-
-  if (!userData || isRestaurantLoading) return <Loading />;
+  if (isUserLoading || isRestaurantLoading) return <Loading />;
+  if (userError) throw userError;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
