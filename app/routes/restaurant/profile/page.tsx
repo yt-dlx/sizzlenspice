@@ -8,7 +8,7 @@ import { useSession } from "next-auth/react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
-import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle } from "react-icons/md";
+import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle, MdTitle } from "react-icons/md";
 
 export default function ProfilePage() {
   const queryClient = useQueryClient();
@@ -163,7 +163,6 @@ export default function ProfilePage() {
           break;
       }
     };
-
     return (
       <motion.div
         initial={{ opacity: 0, y: "100%" }}
@@ -190,7 +189,7 @@ export default function ProfilePage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-0.5">
                 <div className="mb-2">
                   <span className="flex items-center ml-2 gap-1">
-                    <MdFoodBank /> Set New Category Title
+                    <MdTitle /> Set New Category Title
                   </span>
                   <input
                     required
@@ -217,63 +216,98 @@ export default function ProfilePage() {
               </div>
             )}
             {(modalType === "addItem" || modalType === "editItem") && (
-              <div>
-                <input
-                  required
-                  type="text"
-                  name="title"
-                  placeholder="Item Title"
-                  defaultValue={selectedItem?.title}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                />
-                <textarea
-                  required
-                  name="description"
-                  placeholder="Item Description"
-                  defaultValue={selectedItem?.description}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                />
-                <input
-                  required
-                  type="text"
-                  name="image"
-                  placeholder="Image URL"
-                  defaultValue={selectedItem?.image}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                />
-                <input
-                  required
-                  type="text"
-                  name="smallPrice"
-                  defaultValue={selectedItem?.price?.small}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  placeholder="Small Price"
-                />
-                <input
-                  required
-                  type="text"
-                  name="mediumPrice"
-                  defaultValue={selectedItem?.price?.medium}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  placeholder="Medium Price"
-                />
-                <input
-                  required
-                  type="text"
-                  name="fullPrice"
-                  defaultValue={selectedItem?.price?.full}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                  placeholder="Full Price"
-                />
-                <select
-                  required
-                  name="genre"
-                  defaultValue={selectedItem?.genre}
-                  className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-                >
-                  <option value="veg">Vegetarian</option>
-                  <option value="non-veg">Non-Vegetarian</option>
-                </select>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-0.5">
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdTitle /> Item Title
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="title"
+                    placeholder="Item Title"
+                    defaultValue={selectedItem?.title}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdImage /> Image URL
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="image"
+                    placeholder="Image URL"
+                    defaultValue={selectedItem?.image}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdFoodBank /> Small Plate Price
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="smallPrice"
+                    placeholder="Small Price"
+                    defaultValue={selectedItem?.price?.small}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdFoodBank /> Medium Plate Price
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="mediumPrice"
+                    placeholder="Medium Price"
+                    defaultValue={selectedItem?.price?.medium}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdFoodBank /> Full Plate Price
+                  </span>
+                  <input
+                    required
+                    type="text"
+                    name="fullPrice"
+                    placeholder="Full Price"
+                    defaultValue={selectedItem?.price?.full}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdFastfood /> Veg or Non-Veg
+                  </span>
+                  <select
+                    required
+                    name="genre"
+                    defaultValue={selectedItem?.genre}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  >
+                    <option value="veg">Vegetarian</option>
+                    <option value="non-veg">Non-Vegetarian</option>
+                  </select>
+                </div>
+                <div className="mb-2">
+                  <span className="flex items-center ml-2 gap-2">
+                    <MdEditSquare /> Item Description
+                  </span>
+                  <textarea
+                    required
+                    name="description"
+                    placeholder="Item Description"
+                    defaultValue={selectedItem?.description}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
               </div>
             )}
             <div className="flex justify-between mt-2">
