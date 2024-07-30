@@ -33,11 +33,7 @@ export default function ProfilePage() {
   const { data: restaurantData, isLoading: isRestaurantLoading } = useQuery<Restaurant>({
     queryKey: ["restaurantData", userData?.customerEmail],
     queryFn: async () => {
-      const response = await fetch("/api/restaurant", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name: "SizzleNSpice", email: userData?.customerEmail, phoneNumber: userData?.phoneNumber }),
-      });
+      const response = await fetch(`/api/restaurant?email=${userData?.customerEmail}`);
       if (!response.ok) throw new Error("Network response was not ok");
       return response.json();
     },

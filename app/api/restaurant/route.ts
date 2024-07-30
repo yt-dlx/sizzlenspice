@@ -3,6 +3,16 @@ import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
+export async function GET(request: NextRequest) {
+  const session = await auth();
+  if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  const email = request.nextUrl.searchParams.get("email");
+  if (!email) return NextResponse.json({ error: "Email is required" }, { status: 400 });
+  const restaurant = await prisma.restaurant.findUnique({ where: { email }, include: { categories: { include: { items: true } } } });
+  if (!restaurant) return NextResponse.json({ error: "Restaurant not found" }, { status: 404 });
+  return NextResponse.json(restaurant);
+}
+
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });

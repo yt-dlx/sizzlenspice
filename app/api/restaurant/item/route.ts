@@ -7,7 +7,7 @@ export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { title, description, image, price, genre, rating, categoryId, restaurantId } = await request.json();
-  const item = await prisma.item.create({ data: { title, description, image, price, genre, rating, categoryId, restaurantId } });
+  const item = await prisma.item.create({ data: { title, description, image, price, genre, rating, category: { connect: { id: categoryId } }, restaurant: { connect: { id: restaurantId } } } });
   return NextResponse.json(item);
 }
 
