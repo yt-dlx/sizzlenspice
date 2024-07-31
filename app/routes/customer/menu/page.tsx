@@ -156,7 +156,7 @@ export default function MenuPage() {
               className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
             >
               <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden">
-                <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
+                <Image unoptimized width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
               <span className="text-sm mt-4">{category.title}</span>
             </button>
@@ -188,7 +188,7 @@ export default function MenuPage() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
               >
-                <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+                <Image unoptimized width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
                 <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-2">
@@ -246,7 +246,7 @@ export default function MenuPage() {
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center">
-                    <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
+                    <Image unoptimized width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
                     <div className="ml-2">
                       <h3 className="font-bold">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize}</p>

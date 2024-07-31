@@ -202,10 +202,16 @@ export default function ProfilePage() {
           </div>
           <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
             {restaurantData.categories?.map(
-              (category: Category) =>
+              (category: Category, index) =>
                 category.title !== "All" && (
-                  <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
-                    <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
+                  <motion.div
+                    key={category.id}
+                    initial={{ opacity: 0, y: 50 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.5, delay: index * 0.1 }}
+                    className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
+                  >
+                    <Image unoptimized width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
                     <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-1">
                       <div className="p-2">
                         <div className="flex flex-col">
@@ -246,7 +252,7 @@ export default function ProfilePage() {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </motion.div>
                 )
             )}
           </div>
@@ -269,6 +275,7 @@ export default function ProfilePage() {
               </div>
               <form onSubmit={submitRenderModal} className="bg-primary/20 rounded-xl p-2">
                 <Image
+                  unoptimized
                   width={540}
                   height={540}
                   src={selectedCategory?.image!}
@@ -456,9 +463,15 @@ export default function ProfilePage() {
                 </button>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                {selectedCategory?.items.map((item: FoodItem) => (
-                  <div key={item.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-primary/20">
-                    <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+                {selectedCategory?.items.map((item: FoodItem, index) => (
+                  <motion.div
+                    key={item.id}
+                    initial={{ opacity: 0, y: 50 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ duration: 0.5, delay: index * 0.1 }}
+                    className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-primary/20"
+                  >
+                    <Image unoptimized width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
                     <div className="text-primary bg-secondary flex-grow">
                       <div className="flex flex-col">
                         <div className="flex justify-between mb-4">
@@ -491,7 +504,7 @@ export default function ProfilePage() {
                         <p className="flex items-center justify-center text-center m-4">{item.description}</p>
                       </div>
                     </div>
-                  </div>
+                  </motion.div>
                 ))}
               </div>
             </div>
