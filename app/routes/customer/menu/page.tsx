@@ -181,7 +181,13 @@ export default function MenuPage() {
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
           {filteredItems &&
             filteredItems.map((item, index) => (
-              <div key={index} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, y: 50 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5, delay: index * 0.1 }}
+                className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
+              >
                 <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
                 <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
@@ -206,7 +212,7 @@ export default function MenuPage() {
                     </button>
                   </div>
                 </div>
-              </div>
+              </motion.div>
             ))}
         </div>
       </section>
@@ -288,7 +294,6 @@ export default function MenuPage() {
           </motion.section>
         )}
       </AnimatePresence>
-
       {(isModalOpen || isCartOpen) && <div className="fixed inset-0 bg-primary/50 backdrop-blur-3xl z-40"></div>}
     </main>
   );
