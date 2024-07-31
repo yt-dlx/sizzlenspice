@@ -145,9 +145,7 @@ export default function MenuPage() {
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
           <TypeAnimation sequence={["Sizzle 'n Spice", 2000]} repeat={Infinity} wrapper="span" speed={2} />
         </h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
-          <TypeAnimation sequence={["Where Every Bite Sizzles With Flavour and Love!", 2000]} repeat={1} wrapper="span" speed={1} />
-        </h2>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
       </section>
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">

@@ -3,6 +3,7 @@
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import { TypeAnimation } from "react-type-animation";
 import { motion, AnimatePresence } from "framer-motion";
 import type { UserData } from "@/app/_assets/types/cart";
 import React, { useEffect, useState, FormEvent } from "react";
@@ -64,7 +65,9 @@ export default function UserPage() {
         id="header"
         className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
       >
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">User Data</h1>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
+          <TypeAnimation sequence={["User Data", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+        </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">User data encompasses personal data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>

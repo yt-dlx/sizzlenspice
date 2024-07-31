@@ -6,6 +6,7 @@ import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import React, { useState, useEffect } from "react";
+import { TypeAnimation } from "react-type-animation";
 import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
@@ -175,7 +176,9 @@ export default function ProfilePage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
+          <TypeAnimation sequence={["Restaurant Profile", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+        </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Orders and Items</h2>
       </section>
       {restaurantData && (

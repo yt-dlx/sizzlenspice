@@ -5,6 +5,7 @@ import Loading from "./loading";
 import { pusherClient } from "@/lib/pusher";
 import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
+import { TypeAnimation } from "react-type-animation";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
@@ -119,7 +120,9 @@ export default function RestaurantOrdersPage() {
         id="header"
         className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8"
       >
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Order Management</h1>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
+          <TypeAnimation sequence={["Order Management", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+        </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage and track all incoming orders efficiently in one place, all in real-time!</h2>
       </motion.section>
     );
