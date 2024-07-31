@@ -143,7 +143,7 @@ export default function MenuPage() {
       </AnimatePresence>
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation sequence={["Sizzle 'n Spice", 2000, "Your One Stop Indian", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+          <TypeAnimation sequence={["Sizzle 'n Spice", 2000]} repeat={Infinity} wrapper="span" speed={2} />
         </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
           <TypeAnimation sequence={["Where Every Bite Sizzles With Flavour and Love!", 2000]} repeat={1} wrapper="span" speed={1} />
