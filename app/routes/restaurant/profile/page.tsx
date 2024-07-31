@@ -5,8 +5,8 @@ import Image from "next/image";
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
-import React, { useState, useRef, useEffect } from "react";
-import { motion, AnimatePresence, useInView } from "framer-motion";
+import React, { useState, useEffect } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
 import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle, MdTitle } from "react-icons/md";
@@ -169,97 +169,19 @@ export default function ProfilePage() {
         break;
     }
   };
-  const CardComponent = ({ category }: { category: Category }) => {
-    const ref = useRef(null);
-    const isInView = useInView(ref, { once: true, amount: 0.2 });
-    return (
-      <motion.div
-        ref={ref}
-        initial={{ opacity: 0, y: 50 }}
-        animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
-        transition={{ duration: 0.5, ease: "easeOut" }}
-        whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
-        className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
-      >
-        <motion.div
-          key={category.id}
-          variants={{
-            hidden: { opacity: 0, y: 20 },
-            show: { opacity: 1, y: 0 },
-          }}
-          whileHover={{
-            scale: 1.05,
-            transition: { duration: 0.2 },
-          }}
-          className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
-        >
-          <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
-          <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-1">
-            <div className="p-2">
-              <div className="flex flex-col">
-                <h2 className="font-bold text-2xl">{category.title}</h2>
-                <span className="text-lg">Total Items: {category.items.length}</span>
-              </div>
-              <div className="flex justify-center mt-6">
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setSelectedCategory(category);
-                    setModalType("editCategory");
-                    setIsModalOpen(true);
-                  }}
-                  className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-l-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
-                >
-                  <MdEditSquare /> Edit Catg.
-                </button>
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    deleteCategory.mutate(category.id);
-                  }}
-                  className="w-full p-1 text-sm transition duration-700 ease-in-out transform bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
-                >
-                  <MdDelete /> Delete Catg.
-                </button>
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setSelectedCategory(category);
-                    setIsDetailModalOpen(true);
-                  }}
-                  className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-r-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
-                >
-                  <MdFastfood /> Edit Items
-                </button>
-              </div>
-            </div>
-          </div>
-        </motion.div>
-      </motion.div>
-    );
-  };
   if (isUserLoading || isRestaurantLoading || isChecking) return <Loading />;
   if (!restaurantData) return null;
   if (userError) throw userError;
-
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
-      <motion.section
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-        id="header"
-        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
-      >
+      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Restaurant Profile</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Orders and Items</h2>
-      </motion.section>
+      </section>
       {restaurantData && (
         <section id="restaurant-data" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
           <div className="flex justify-center items-center gap-2">
-            <motion.button
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
+            <button
               onClick={() => {
                 setModalType("addCategory");
                 setIsModalOpen(true);
@@ -267,7 +189,7 @@ export default function ProfilePage() {
               className="w-full p-2 mb-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-secondary/80 hover:bg-secondary text-primary flex items-center justify-center border-2 border-secondary shadow-md shadow-secondary"
             >
               Add New Category
-            </motion.button>
+            </button>
             <Link
               href="/routes/restaurant/orders"
               className="w-full p-2 mb-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-secondary/80 hover:bg-secondary text-primary flex items-center justify-center border-2 border-secondary shadow-md shadow-secondary"
@@ -275,54 +197,72 @@ export default function ProfilePage() {
               Restaurant Orders
             </Link>
           </div>
-          <motion.div
-            className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
-            variants={{
-              hidden: { opacity: 0 },
-              show: {
-                opacity: 1,
-                transition: {
-                  staggerChildren: 0.1,
-                },
-              },
-            }}
-            initial="hidden"
-            animate="show"
-          >
-            {restaurantData.categories?.map((category: Category) => category.title !== "All" && <CardComponent key={category.id} category={category} />)}
-          </motion.div>
+          <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
+            {restaurantData.categories?.map(
+              (category: Category) =>
+                category.title !== "All" && (
+                  <div key={category.id} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
+                    <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-48" />
+                    <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-1">
+                      <div className="p-2">
+                        <div className="flex flex-col">
+                          <h2 className="font-bold text-2xl">{category.title}</h2>
+                          <span className="text-lg">Total Items: {category.items.length}</span>
+                        </div>
+                        <div className="flex justify-center mt-6">
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedCategory(category);
+                              setModalType("editCategory");
+                              setIsModalOpen(true);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-l-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdEditSquare /> Edit Catg.
+                          </button>
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              deleteCategory.mutate(category.id);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform bg-red-900 hover:bg-red-800 text-primary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdDelete /> Delete Catg.
+                          </button>
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedCategory(category);
+                              setIsDetailModalOpen(true);
+                            }}
+                            className="w-full p-1 text-sm transition duration-700 ease-in-out transform rounded-r-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-1 border-2 border-secondary"
+                          >
+                            <MdFastfood /> Edit Items
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                )
+            )}
+          </div>
         </section>
       )}
       <AnimatePresence>
         {isModalOpen && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
-            animate={{
-              opacity: 1,
-              y: 0,
-              transition: {
-                type: "spring",
-                damping: 15,
-                stiffness: 100,
-              },
-            }}
-            exit={{
-              opacity: 0,
-              y: "100%",
-              transition: {
-                type: "spring",
-                damping: 20,
-                stiffness: 100,
-              },
-            }}
+            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
+            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
             className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
                 <h2 className="font-bold text-4xl">{modalType.charAt(0).toUpperCase() + modalType.slice(1)}</h2>
-                <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} onClick={() => setIsModalOpen(false)}>
+                <button onClick={() => setIsModalOpen(false)}>
                   <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
-                </motion.button>
+                </button>
               </div>
               <form onSubmit={submitRenderModal} className="bg-primary/20 rounded-xl p-2">
                 <Image
@@ -338,8 +278,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-1">
                         <MdTitle /> Set New Category Title
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="title"
@@ -352,8 +291,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdImage /> Set New Image URL
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="image"
@@ -370,8 +308,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdTitle /> Item Title
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="title"
@@ -384,8 +321,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdImage /> Image URL
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="image"
@@ -398,8 +334,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdFoodBank /> Small Price
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="smallPrice"
@@ -412,8 +347,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdFoodBank /> Medium Price
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="mediumPrice"
@@ -426,8 +360,7 @@ export default function ProfilePage() {
                       <span className="flex items-center ml-2 gap-2">
                         <MdFoodBank /> Full Price
                       </span>
-                      <motion.input
-                        whileFocus={{ scale: 1.02 }}
+                      <input
                         required
                         type="text"
                         name="fullPrice"
@@ -488,32 +421,16 @@ export default function ProfilePage() {
         {isDetailModalOpen && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
-            animate={{
-              opacity: 1,
-              y: 0,
-              transition: {
-                type: "spring",
-                damping: 15,
-                stiffness: 100,
-              },
-            }}
-            exit={{
-              opacity: 0,
-              y: "100%",
-              transition: {
-                type: "spring",
-                damping: 20,
-                stiffness: 100,
-              },
-            }}
+            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
+            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
             className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
           >
             <div className="p-4 w-full scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
                 <h2 className="font-bold text-4xl">Category: {selectedCategory?.title}</h2>
-                <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} onClick={() => setIsModalOpen(false)}>
+                <button onClick={() => setIsDetailModalOpen(false)}>
                   <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
-                </motion.button>
+                </button>
               </div>
               <div className="flex justify-between mb-4">
                 <button
