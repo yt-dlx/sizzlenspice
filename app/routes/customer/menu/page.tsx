@@ -188,7 +188,7 @@ export default function MenuPage() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
               >
-                <Image unoptimized width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+                <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
                 <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-2">
@@ -246,7 +246,7 @@ export default function MenuPage() {
               {cart.map((item: any, index: any) => (
                 <div key={index} className="flex items-center justify-between mb-4">
                   <div className="flex items-center">
-                    <Image unoptimized width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
+                    <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
                     <div className="ml-2">
                       <h3 className="font-bold">{item.title}</h3>
                       <p className="text-sm">{item.selectedSize}</p>
