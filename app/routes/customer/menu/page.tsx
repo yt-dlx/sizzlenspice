@@ -72,7 +72,7 @@ export default function MenuPage() {
             initial={{ opacity: 0, y: "100%" }}
             exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
+            className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
@@ -225,7 +225,7 @@ export default function MenuPage() {
             initial={{ opacity: 0, y: 50 }}
             exit={{ opacity: 0, y: 50, transition: { duration: 0.2 } }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
-            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-2xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[50vh] z-50"
+            className="fixed bottom-0 right-0 w-full sm:w-96 bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[50vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
@@ -286,7 +286,7 @@ export default function MenuPage() {
         )}
       </AnimatePresence>
 
-      {(isModalOpen || isCartOpen) && <div className="fixed inset-0 bg-black bg-opacity-50 backdrop-blur-md z-40"></div>}
+      {(isModalOpen || isCartOpen) && <div className="fixed inset-0 bg-primary/50 backdrop-blur-3xl z-40"></div>}
     </main>
   );
 }
