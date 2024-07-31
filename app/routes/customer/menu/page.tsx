@@ -6,6 +6,7 @@ import Image from "next/image";
 import Loading from "./loading";
 import { MdClose } from "react-icons/md";
 import { useQuery } from "@tanstack/react-query";
+import { TypeAnimation } from "react-type-animation";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
 import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
@@ -141,8 +142,12 @@ export default function MenuPage() {
         )}
       </AnimatePresence>
       <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Sizzle 'n Spice</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
+          <TypeAnimation sequence={["Sizzle 'n Spice", 2000, "Your One Stop Indian", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+        </h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          <TypeAnimation sequence={["Where Every Bite Sizzles With Flavour and Love!", 2000]} repeat={1} wrapper="span" speed={1} />
+        </h2>
       </section>
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
