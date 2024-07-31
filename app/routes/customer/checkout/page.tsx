@@ -11,6 +11,7 @@ import { GiDeliveryDrone } from "react-icons/gi";
 import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
 import { useStore } from "@/app/_assets/others/store";
+import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
@@ -134,14 +135,20 @@ export default function CartPage() {
           </ul>
         </section>
       )}
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <motion.section
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        id="header"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Order Summary</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
           Here's a summary of your order, <span className="underline">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
-      </section>
+      </motion.section>
       {getCartTotal() > 0 && (
         <section id="order-total" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto">
           <p className="text-2xl bg-secondary text-primary px-3 py-2 rounded-xl flex items-center shadow-md shadow-secondary">

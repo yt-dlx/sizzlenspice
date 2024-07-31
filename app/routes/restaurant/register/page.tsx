@@ -4,6 +4,7 @@ import Loading from "@/app/routes/loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import { useMutation } from "@tanstack/react-query";
+import { motion, AnimatePresence } from "framer-motion";
 import React, { useState, useEffect, FormEvent } from "react";
 import { FaEnvelope, FaPhone, FaUtensils } from "react-icons/fa";
 
@@ -59,11 +60,17 @@ export default function RegisterPage() {
   if (loading) return <Loading />;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <motion.section
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Register</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Register your restaurant to start using our services!</h2>
         <img src="/svg/register.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
-      </section>
+      </motion.section>
       <section id="register" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
         <form
           onSubmit={(event: FormEvent) => {
@@ -76,7 +83,8 @@ export default function RegisterPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
             <div className="relative flex-grow">
               <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
-              <input
+              <motion.input
+                whileFocus={{ scale: 1.02 }}
                 required
                 readOnly
                 type="email"
@@ -88,7 +96,8 @@ export default function RegisterPage() {
             </div>
             <div className="relative flex-grow">
               <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
-              <input
+              <motion.input
+                whileFocus={{ scale: 1.02 }}
                 required
                 type="tel"
                 placeholder="Phone Number"
@@ -99,7 +108,8 @@ export default function RegisterPage() {
             </div>
             <div className="relative flex-grow">
               <FaUtensils size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
-              <input
+              <motion.input
+                whileFocus={{ scale: 1.02 }}
                 required
                 type="text"
                 value={userData.name}

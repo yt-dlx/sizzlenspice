@@ -1,13 +1,13 @@
 // app/routes/customer/menu/page.tsx
 "use client";
-import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
+import React, { useRef } from "react";
 import { MdClose } from "react-icons/md";
 import { useQuery } from "@tanstack/react-query";
 import { useStore } from "@/app/_assets/others/store";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence, useInView } from "framer-motion";
 import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
 import { FaPlus, FaMinus, FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
@@ -61,6 +61,58 @@ export default function MenuPage() {
     return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
   }, 0);
 
+  const ItemCard = ({ item, index }: { item: FoodItem; index: number }) => {
+    const ref = useRef(null);
+    const isInView = useInView(ref, { once: true, amount: 0.2 });
+    return (
+      <motion.div
+        ref={ref}
+        initial={{ opacity: 0, y: 50 }}
+        animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 50 }}
+        transition={{ duration: 0.5, ease: "easeOut", delay: index * 0.1 }}
+        whileHover={{ scale: 1.05, transition: { duration: 0.2 } }}
+        className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
+      >
+        <motion.div
+          key={index}
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.3 }}
+          whileHover={{
+            scale: 1.05,
+            transition: { duration: 0.2 },
+          }}
+          className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
+        >
+          <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+          <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
+            <div className="flex justify-between items-center">
+              <div className="flex items-center space-x-2">
+                <div className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                <h2 className="font-bold text-lg">{item.title}</h2>
+              </div>
+              <div className="inline-flex items-center justify-center animate-pulse">
+                <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
+              </div>
+            </div>
+            <p className="text-sm mt-2">{item.description}</p>
+            <div className="flex justify-between items-center mt-4">
+              <button
+                onClick={() => {
+                  setSelectedItem(item);
+                  setIsModalOpen(true);
+                }}
+                className="px-3 py-1 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
+              >
+                Add to Cart
+              </button>
+            </div>
+          </div>
+        </motion.div>
+      </motion.div>
+    );
+  };
+
   if (isLoading) return <Loading />;
   if (error) throw error;
 
@@ -70,16 +122,32 @@ export default function MenuPage() {
         {isModalOpen && selectedItem && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
-            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
-            animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
+            animate={{
+              opacity: 1,
+              y: 0,
+              transition: {
+                type: "spring",
+                damping: 15,
+                stiffness: 100,
+              },
+            }}
+            exit={{
+              opacity: 0,
+              y: "100%",
+              transition: {
+                type: "spring",
+                damping: 20,
+                stiffness: 100,
+              },
+            }}
             className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-4xl">{selectedItem.title}</h2>
-                <button onClick={() => setIsModalOpen(false)}>
+                <motion.button whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }} onClick={() => setIsModalOpen(false)}>
                   <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
-                </button>
+                </motion.button>
               </div>
               <div className="flex items-center mb-4">
                 <div className="flex flex-col">
@@ -140,23 +208,33 @@ export default function MenuPage() {
           </motion.div>
         )}
       </AnimatePresence>
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <motion.section
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Sizzle 'n Spice</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
-      </section>
+      </motion.section>
       <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {categories.map((category, index) => (
-            <button
+            <motion.button
               key={index}
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.95 }}
               onClick={() => setActiveCategory(category.title)}
-              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
+              className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${
+                activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"
+              }`}
             >
               <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden">
                 <Image width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
               </div>
               <span className="text-sm mt-4">{category.title}</span>
-            </button>
+            </motion.button>
           ))}
         </div>
       </section>
@@ -164,7 +242,8 @@ export default function MenuPage() {
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
             <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
-            <input
+            <motion.input
+              whileFocus={{ scale: 1.02 }}
               type="text"
               value={searchTerm}
               placeholder="Search dishes..."
@@ -175,37 +254,22 @@ export default function MenuPage() {
         </div>
       </section>
       <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
-          {filteredItems &&
-            filteredItems.map((item, index) => (
-              <div key={index} className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary">
-                <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
-                <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
-                  <div className="flex justify-between items-center">
-                    <div className="flex items-center space-x-2">
-                      <div className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                      <h2 className="font-bold text-lg">{item.title}</h2>
-                    </div>
-                    <div className="inline-flex items-center justify-center animate-pulse">
-                      <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
-                    </div>
-                  </div>
-                  <p className="text-sm mt-2">{item.description}</p>
-                  <div className="flex justify-between items-center mt-4">
-                    <button
-                      onClick={() => {
-                        setSelectedItem(item);
-                        setIsModalOpen(true);
-                      }}
-                      className="px-3 py-1 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
-                    >
-                      Add to Cart
-                    </button>
-                  </div>
-                </div>
-              </div>
-            ))}
-        </div>
+        <motion.div
+          className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3"
+          variants={{
+            hidden: { opacity: 0 },
+            show: {
+              opacity: 1,
+              transition: {
+                staggerChildren: 0.1,
+              },
+            },
+          }}
+          initial="hidden"
+          animate="show"
+        >
+          {filteredItems && filteredItems.map((item, index) => <ItemCard key={index} item={item} index={index} />)}
+        </motion.div>
       </section>
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2 z-30">

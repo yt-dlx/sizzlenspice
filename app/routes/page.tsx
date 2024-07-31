@@ -3,6 +3,7 @@
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
+import { motion, AnimatePresence } from "framer-motion";
 import type { UserData } from "@/app/_assets/types/cart";
 import React, { useEffect, useState, FormEvent } from "react";
 import { useQuery, useMutation } from "@tanstack/react-query";
@@ -56,11 +57,17 @@ export default function UserPage() {
   if (error) throw error;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <motion.section
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">User Data</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">User data encompasses personal data collected to understand and improve user experiences!</h2>
         <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
-      </section>
+      </motion.section>
       <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
         <form onSubmit={HandleConfirm} className="space-y-1 flex flex-col text-xs py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">

@@ -5,6 +5,7 @@ import Loading from "./loading";
 import { pusherClient } from "@/lib/pusher";
 import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
@@ -111,10 +112,16 @@ export default function RestaurantOrdersPage() {
   // =======================================================================================================================================================================
   const Header = () => {
     return (
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8">
+      <motion.section
+        initial={{ opacity: 0, y: -20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+        id="header"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary mb-8"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Order Management</h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage and track all incoming orders efficiently in one place, all in real-time!</h2>
-      </section>
+      </motion.section>
     );
   };
   const DashboardSummary = () => {
@@ -242,7 +249,7 @@ export default function RestaurantOrdersPage() {
         <div className="lg:col-span-1">
           <div className="bg-secondary/10 rounded-lg shadow-md p-4 text-secondary">
             <h2 className="text-4xl mb-4">Orders</h2>
-            <input type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary" />
+            <motion.input whileFocus={{ scale: 1.02 }} type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary" />
             <div className="space-y-4">
               {orders.map((order) => (
                 <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-[#1C2924]" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
