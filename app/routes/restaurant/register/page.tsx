@@ -1,5 +1,6 @@
 // app/routes/restaurant/register/page.tsx
 "use client";
+import { randomUUID } from "crypto";
 import { motion } from "framer-motion";
 import Loading from "@/app/routes/loading";
 import { useRouter } from "next/navigation";
@@ -11,6 +12,7 @@ import { restaurantRegisterSchema } from "@/app/api/restaurant/register/route";
 import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaMapPin, FaClock, FaUser, FaIdCard } from "react-icons/fa";
 
 const initialUserData = {
+  name: "",
   email: "",
   pincode: "",
   address: "",
@@ -38,11 +40,7 @@ export default function RegisterPage() {
       (async () => {
         try {
           setLoading(true);
-          const response = await fetch("/api/restaurant/auth", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ email: session?.user?.email }),
-          });
+          const response = await fetch("/api/restaurant/auth", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email: session?.user?.email }) });
           const data = await response.json();
           if (data.exists) {
             if (data.verified) router.push("/routes/restaurant/profile");
@@ -58,11 +56,7 @@ export default function RegisterPage() {
   }, [session, router]);
   const registerMutation = useMutation({
     mutationFn: async (data: typeof userData) => {
-      const response = await fetch("/api/restaurant/register", {
-        method: "POST",
-        body: JSON.stringify(data),
-        headers: { "Content-Type": "application/json" },
-      });
+      const response = await fetch("/api/restaurant/register", { method: "POST", body: JSON.stringify(data), headers: { "Content-Type": "application/json" } });
       if (!response.ok) {
         const errorData = await response.json();
         throw new Error(errorData.error);
@@ -76,7 +70,7 @@ export default function RegisterPage() {
   const handleSubmit = async (event: FormEvent) => {
     event.preventDefault();
     setLoading(true);
-    const result = restaurantRegisterSchema.safeParse(userData);
+    const result = restaurantRegisterSchema.safeParse({ ...userData, name: randomUUID() });
     if (!result.success) {
       setLoading(false);
       setErrorMessage("Validation Error: " + result.error.errors.map((e) => e.message).join(", "));

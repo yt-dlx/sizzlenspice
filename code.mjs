@@ -200,3 +200,14 @@ const Alcohols = [
     ],
   },
 ];
+
+
+
+
+// 734003
+// Siliguri, Himachal Colony Railway Bunglow Number 461 A
+// 8250261313
+// 760109785264
+// HFRPD8435P
+// Dutta
+// Shovit
