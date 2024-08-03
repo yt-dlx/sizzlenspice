@@ -2,8 +2,8 @@
 "use client";
 import { useState } from "react";
 import Loading from "@/app/routes/loading";
+import { FaCheck, FaTimes } from "react-icons/fa";
 import { useMutation, useQuery } from "@tanstack/react-query";
-import { FaCheck, FaTimes, FaExclamationTriangle } from "react-icons/fa";
 
 type Restaurant = {
   id: string;
@@ -19,7 +19,6 @@ type Restaurant = {
   panCardNumber: string;
   panCardLastName: string;
   panCardFirstName: string;
-  verificationMessage: string;
 };
 
 export default function CompanyPage() {
@@ -37,11 +36,11 @@ export default function CompanyPage() {
     },
   });
   const verifyMutation = useMutation({
-    mutationFn: async ({ restaurantId, verified, verificationMessage }: { restaurantId: string; verified: boolean; verificationMessage: string }) => {
+    mutationFn: async ({ restaurantId, verified }: { restaurantId: string; verified: boolean }) => {
       const response = await fetch("/api/company/verify", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ restaurantId, verified, verificationMessage }),
+        body: JSON.stringify({ restaurantId, verified }),
       });
       if (!response.ok) {
         throw new Error("Failed to verify restaurant");
@@ -51,7 +50,7 @@ export default function CompanyPage() {
     onError: (error: Error) => setErrorMessage(error.message),
     onSuccess: () => refetch(),
   });
-  const handleVerify = (restaurantId: string, verified: boolean, verificationMessage: string) => verifyMutation.mutate({ restaurantId, verified, verificationMessage });
+  const handleVerify = (restaurantId: string, verified: boolean) => verifyMutation.mutate({ restaurantId, verified });
   if (isLoading) return <Loading />;
   return (
     <main className="max-w-7xl mx-auto p-4 bg-primary text-secondary">
@@ -100,30 +99,17 @@ export default function CompanyPage() {
               </div>
             </div>
             <div className="mt-6 flex items-center space-x-4">
-              <button onClick={() => handleVerify(restaurant.id, true, "")} className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center">
+              <button onClick={() => handleVerify(restaurant.id, true)} className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center">
                 <FaCheck className="mr-2" /> Approve
               </button>
               <button
                 onClick={() => {
                   const message = prompt("Enter rejection reason:");
-                  if (message) {
-                    handleVerify(restaurant.id, false, message);
-                  }
+                  if (message) handleVerify(restaurant.id, false);
                 }}
                 className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded flex items-center"
               >
                 <FaTimes className="mr-2" /> Reject
-              </button>
-              <button
-                onClick={() => {
-                  const message = prompt("Enter message for restaurant:");
-                  if (message) {
-                    handleVerify(restaurant.id, false, message);
-                  }
-                }}
-                className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded flex items-center"
-              >
-                <FaExclamationTriangle className="mr-2" /> Set Message
               </button>
             </div>
           </div>
