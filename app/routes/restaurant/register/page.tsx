@@ -33,26 +33,28 @@ export default function RegisterPage() {
   const [verificationMessage, setVerificationMessage] = useState("");
   const handleInputChange = (field: UserDataKey, value: string | boolean) => setUserData((prev) => ({ ...prev, [field]: value }));
   useEffect(() => {
-    setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
-    (async () => {
-      try {
-        setLoading(true);
-        const response = await fetch("/api/restaurant/auth", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ email: session?.user?.email }),
-        });
-        const data = await response.json();
-        if (data.exists) {
-          if (data.verified) router.push("/routes/restaurant/profile");
-          else setVerificationMessage("Wait for verification");
+    if (session?.user?.email) {
+      setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
+      (async () => {
+        try {
+          setLoading(true);
+          const response = await fetch("/api/restaurant/auth", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ email: session?.user?.email }),
+          });
+          const data = await response.json();
+          if (data.exists) {
+            if (data.verified) router.push("/routes/restaurant/profile");
+            else setVerificationMessage("Wait for verification");
+          }
+        } catch (error) {
+          setLoading(false);
+        } finally {
+          setLoading(false);
         }
-      } catch (error) {
-        setLoading(false);
-      } finally {
-        setLoading(false);
-      }
-    })();
+      })();
+    }
   }, [session, router]);
   const registerMutation = useMutation({
     mutationFn: async (data: typeof userData) => {
@@ -67,8 +69,8 @@ export default function RegisterPage() {
       }
       return response.json();
     },
-    onSuccess: () => router.push("/routes/restaurant/profile"),
     onError: (error: Error) => setErrorMessage(error.message),
+    onSuccess: () => router.push("/routes/restaurant/profile"),
     onSettled: () => setLoading(false),
   });
   const handleSubmit = async (event: FormEvent) => {
@@ -127,7 +129,7 @@ export default function RegisterPage() {
                     value={userData[field]}
                     placeholder="please type here!"
                     onChange={(e) => handleInputChange(field, e.target.value)}
-                    className="w-full py-2 rounded-xl bg-primary border-2 border-primary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-primary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
                   />
                 </div>
               ))}
