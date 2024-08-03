@@ -1,10 +1,11 @@
 // app/routes/page.tsx
 "use client";
+import Image from "next/image";
 import Loading from "./loading";
+import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
 import { TypeAnimation } from "react-type-animation";
-import { motion, AnimatePresence } from "framer-motion";
 import type { UserData } from "@/app/_assets/types/cart";
 import React, { useEffect, useState, FormEvent } from "react";
 import { useQuery, useMutation } from "@tanstack/react-query";
@@ -69,7 +70,7 @@ export default function UserPage() {
           <TypeAnimation sequence={["User Data", 2000]} repeat={Infinity} wrapper="span" speed={2} />
         </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">User data encompasses personal data collected to understand and improve user experiences!</h2>
-        <img src="/svg/user.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
+        <Image src="/svg/user.gif" alt="User data illustration" width={300} height={300} className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>
       <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
         <form onSubmit={HandleConfirm} className="space-y-1 flex flex-col text-xs py-4">
