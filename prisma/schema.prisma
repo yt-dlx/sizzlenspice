@@ -48,7 +48,6 @@ model Restaurant {
   pincode          String
   openingHour      String
   closingHour      String
-  description      String
   aadhaarNumber    String
   panCardNumber    String
   panCardFirstName String

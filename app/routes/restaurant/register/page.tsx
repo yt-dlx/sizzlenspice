@@ -7,7 +7,7 @@ import { useSession } from "next-auth/react";
 import { useMutation } from "@tanstack/react-query";
 import { TypeAnimation } from "react-type-animation";
 import React, { useState, useEffect, FormEvent } from "react";
-import { FaEnvelope, FaPhone, FaUtensils, FaMapMarkerAlt, FaMapPin, FaClock, FaInfo, FaUser, FaIdCard, FaMapSigns } from "react-icons/fa";
+import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaMapPin, FaClock, FaUser, FaIdCard } from "react-icons/fa";
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -15,14 +15,12 @@ export default function RegisterPage() {
   const [loading, setLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
   const [userData, setUserData] = useState({
-    name: "",
     email: "",
     address: "",
     pincode: "",
     phoneNumber: "",
     openingHour: "",
     closingHour: "",
-    description: "",
     aadhaarNumber: "",
     panCardNumber: "",
     panCardFirstName: "",
@@ -93,9 +91,10 @@ export default function RegisterPage() {
           className="space-y-1 flex flex-col text-xs py-4"
         >
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
-            {/* Existing fields */}
-            <div className="relative flex-grow">
-              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaEnvelope size={15} /> Email Address
+              </span>
               <motion.input
                 required
                 readOnly
@@ -104,11 +103,13 @@ export default function RegisterPage() {
                 value={userData.email}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("email", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaPhone size={15} /> Restaurant Phone Number
+              </span>
               <motion.input
                 required
                 type="tel"
@@ -116,23 +117,13 @@ export default function RegisterPage() {
                 whileFocus={{ scale: 1.02 }}
                 value={userData.phoneNumber}
                 onChange={(e) => handleInputChange("phoneNumber", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaUtensils size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
-              <motion.input
-                required
-                type="text"
-                value={userData.name}
-                whileFocus={{ scale: 1.02 }}
-                placeholder="Restaurant Name"
-                onChange={(e) => handleInputChange("name", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-              />
-            </div>
-            <div className="relative flex-grow">
-              <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaMapMarkerAlt size={15} /> Restaurant Address
+              </span>
               <motion.input
                 required
                 type="text"
@@ -140,11 +131,13 @@ export default function RegisterPage() {
                 value={userData.address}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("address", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaMapPin size={15} /> Restaurant Pincode
+              </span>
               <motion.input
                 required
                 type="text"
@@ -152,11 +145,13 @@ export default function RegisterPage() {
                 value={userData.pincode}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("pincode", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaClock size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaClock size={15} /> Restaurant Opening Hour
+              </span>
               <motion.input
                 required
                 type="time"
@@ -164,11 +159,13 @@ export default function RegisterPage() {
                 whileFocus={{ scale: 1.02 }}
                 value={userData.openingHour}
                 onChange={(e) => handleInputChange("openingHour", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaClock size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaClock size={15} /> Restaurant Closing Hour
+              </span>
               <motion.input
                 required
                 type="time"
@@ -176,23 +173,13 @@ export default function RegisterPage() {
                 whileFocus={{ scale: 1.02 }}
                 value={userData.closingHour}
                 onChange={(e) => handleInputChange("closingHour", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaInfo size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
-              <motion.textarea
-                whileFocus={{ scale: 1.02 }}
-                required
-                placeholder="Restaurant Description"
-                value={userData.description}
-                onChange={(e) => handleInputChange("description", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
-              />
-            </div>
-            {/* New fields */}
-            <div className="relative flex-grow">
-              <FaIdCard size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaIdCard size={15} /> Owner Aadhaar Number
+              </span>
               <motion.input
                 required
                 type="text"
@@ -200,11 +187,13 @@ export default function RegisterPage() {
                 value={userData.aadhaarNumber}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("aadhaarNumber", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaIdCard size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaIdCard size={15} /> Owner PAN Card Number
+              </span>
               <motion.input
                 required
                 type="text"
@@ -212,11 +201,13 @@ export default function RegisterPage() {
                 value={userData.panCardNumber}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("panCardNumber", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaUser size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaUser size={15} /> Owner First Name According To PAN Card
+              </span>
               <motion.input
                 required
                 type="text"
@@ -224,11 +215,13 @@ export default function RegisterPage() {
                 value={userData.panCardFirstName}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("panCardFirstName", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
-            <div className="relative flex-grow">
-              <FaUser size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+            <div className="relative flex-grow mb-2">
+              <span className="flex items-center ml-2 gap-2 text-sm">
+                <FaUser size={15} /> Owner Last Name According To PAN Card
+              </span>
               <motion.input
                 required
                 type="text"
@@ -236,7 +229,7 @@ export default function RegisterPage() {
                 value={userData.panCardLastName}
                 whileFocus={{ scale: 1.02 }}
                 onChange={(e) => handleInputChange("panCardLastName", e.target.value)}
-                className="w-full py-2 pl-10 pr-4 rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
+                className="w-full rounded-xl bg-primary border-2 border-secondary shadow-md shadow-secondary text-secondary placeholder-secondary focus:border-primary focus:ring-primary"
               />
             </div>
           </div>
