@@ -107,7 +107,15 @@ export default function RegisterPage() {
         <img src="/svg/register.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>
       <section id="register" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
-        {verificationMessage && <div className="text-red-600">{verificationMessage}</div>}
+        {verificationMessage && (
+          <div className="text-primary">
+            <p>Your registration is currently pending verification.</p>
+            <p>Please wait while our team reviews your information.</p>
+            <p>This process can take up to 24-48 hours.</p>
+            <p>Once your account has been verified, you will be able to visit your restaurant profile page to start using our services.</p>
+            <p>Thank you for your patience.</p>
+          </div>
+        )}
         {!verificationMessage && (
           <form onSubmit={handleSubmit} className="space-y-1 flex flex-col text-xs py-4">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
