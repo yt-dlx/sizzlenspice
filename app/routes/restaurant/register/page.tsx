@@ -1,5 +1,6 @@
 // app/routes/restaurant/register/page.tsx
 "use client";
+import { z } from "zod";
 import { motion } from "framer-motion";
 import Loading from "@/app/routes/loading";
 import { useRouter } from "next/navigation";
@@ -8,6 +9,20 @@ import { useMutation } from "@tanstack/react-query";
 import { TypeAnimation } from "react-type-animation";
 import React, { useState, useEffect, FormEvent } from "react";
 import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaMapPin, FaClock, FaUser, FaIdCard } from "react-icons/fa";
+
+const restaurantRegisterSchema = z.object({
+  email: z.string().email("Invalid email address"),
+  address: z.string().min(1, "Address is required"),
+  name: z.string().min(1, "Restaurant name is required"),
+  panCardLastName: z.string().min(1, "Last name is required"),
+  panCardFirstName: z.string().min(1, "First name is required"),
+  pincode: z.string().regex(/^\d{6}$/, "Pincode must be 6 digits"),
+  closingHour: z.string().regex(/^\d{2}:\d{2}$/, "Invalid time format"),
+  openingHour: z.string().regex(/^\d{2}:\d{2}$/, "Invalid time format"),
+  phoneNumber: z.string().regex(/^\d{10}$/, "Phone number must be 10 digits"),
+  aadhaarNumber: z.string().regex(/^\d{12}$/, "Aadhaar number must be 12 digits"),
+  panCardNumber: z.string().regex(/^[A-Z]{5}\d{4}[A-Z]$/, "Invalid PAN card number"),
+});
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -26,7 +41,9 @@ export default function RegisterPage() {
     panCardFirstName: "",
     panCardLastName: "",
   });
+
   const handleInputChange = (field: string, value: string | boolean) => setUserData((prev) => ({ ...prev, [field]: value }));
+
   useEffect(() => {
     setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
     (async () => {
@@ -46,6 +63,7 @@ export default function RegisterPage() {
       }
     })();
   }, [session, router]);
+
   const registerMutation = useMutation({
     mutationFn: async (data: typeof userData) => {
       const response = await fetch("/api/restaurant/register", {
@@ -65,7 +83,24 @@ export default function RegisterPage() {
     onSuccess: () => router.push("/routes/restaurant/profile"),
     onSettled: () => setLoading(false),
   });
+
   if (loading) return <Loading />;
+
+  const handleSubmit = async (event: FormEvent) => {
+    event.preventDefault();
+    setLoading(true);
+
+    const result = restaurantRegisterSchema.safeParse(userData);
+
+    if (!result.success) {
+      setLoading(false);
+      setErrorMessage("Validation Error: " + result.error.errors.map((e) => e.message).join(", "));
+      return;
+    }
+
+    registerMutation.mutate(result.data);
+  };
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <motion.section
@@ -82,14 +117,7 @@ export default function RegisterPage() {
         <img src="/svg/register.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>
       <section id="register" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
-        <form
-          onSubmit={(event: FormEvent) => {
-            event.preventDefault();
-            setLoading(true);
-            registerMutation.mutate(userData);
-          }}
-          className="space-y-1 flex flex-col text-xs py-4"
-        >
+        <form onSubmit={handleSubmit} className="space-y-1 flex flex-col text-xs py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
             <div className="relative flex-grow mb-2">
               <span className="flex items-center ml-2 gap-2 text-sm">
