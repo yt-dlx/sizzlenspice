@@ -5,9 +5,9 @@ import Image from "next/image";
 import Loading from "./loading";
 import { useRouter } from "next/navigation";
 import { useSession } from "next-auth/react";
-import React, { useState, useEffect } from "react";
 import { TypeAnimation } from "react-type-animation";
 import { motion, AnimatePresence } from "framer-motion";
+import React, { useState, useEffect, FormEvent } from "react";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import type { UserData, Category, FoodItem, Restaurant } from "@/app/_assets/types/cart";
 import { MdEditSquare, MdClose, MdDelete, MdFastfood, MdFoodBank, MdImage, MdCheckCircle, MdRemoveCircle, MdTitle } from "react-icons/md";
@@ -135,7 +135,7 @@ export default function ProfilePage() {
     },
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ["restaurantData"] }),
   });
-  const submitRenderModal = (e: React.FormEvent<HTMLFormElement>) => {
+  const submitRenderModal = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const formData = new FormData(e.currentTarget);
     const data = Object.fromEntries(formData.entries());

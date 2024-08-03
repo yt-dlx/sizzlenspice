@@ -40,12 +40,21 @@ model Order {
 }
 
 model Restaurant {
-  id          String     @id @default(auto()) @map("_id") @db.ObjectId
-  email       String     @unique
-  name        String
-  phoneNumber String?
-  categories  Category[]
-  Item        Item[]
+  id               String     @id @default(auto()) @map("_id") @db.ObjectId
+  email            String     @unique
+  name             String
+  phoneNumber      String?
+  address          String
+  pincode          String
+  openingHour      String
+  closingHour      String
+  description      String
+  aadhaarNumber    String
+  panCardNumber    String
+  panCardFirstName String
+  panCardLastName  String
+  categories       Category[]
+  Item             Item[]
 }
 
 model Category {
