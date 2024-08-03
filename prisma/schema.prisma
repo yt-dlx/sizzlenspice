@@ -40,21 +40,22 @@ model Order {
 }
 
 model Restaurant {
-  id               String     @id @default(auto()) @map("_id") @db.ObjectId
-  verified         Boolean    @default(false)
-  email            String     @unique
-  name             String
-  phoneNumber      String?
-  address          String
-  pincode          String
-  openingHour      String
-  closingHour      String
-  aadhaarNumber    String
-  panCardNumber    String
-  panCardFirstName String
-  panCardLastName  String
-  categories       Category[]
-  Item             Item[]
+  id                  String     @id @default(auto()) @map("_id") @db.ObjectId
+  verified            Boolean    @default(false)
+  email               String     @unique
+  verificationMessage String?
+  name                String
+  phoneNumber         String?
+  address             String
+  pincode             String
+  openingHour         String
+  closingHour         String
+  aadhaarNumber       String
+  panCardNumber       String
+  panCardFirstName    String
+  panCardLastName     String
+  categories          Category[]
+  Item                Item[]
 }
 
 model Category {

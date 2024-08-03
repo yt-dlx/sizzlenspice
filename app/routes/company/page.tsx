@@ -1,171 +1,144 @@
 // app/routes/company/page.tsx
 "use client";
-import React from "react";
-import Link from "next/link";
-import Loading from "./loading";
+import { useRouter } from "next/navigation";
+import Loading from "@/app/routes/loading";
+import { useState, useEffect } from "react";
 import { useSession } from "next-auth/react";
-import { MdFastfood, MdEdit, MdSave } from "react-icons/md";
+import { useMutation, useQuery } from "@tanstack/react-query";
+import { FaCheck, FaTimes, FaExclamationTriangle } from "react-icons/fa";
 
-interface Restaurant {
+type Restaurant = {
   id: string;
+  name: string;
   email: string;
-  address: string;
   pincode: string;
-  ownerName: string;
-  verified: boolean;
+  address: string;
   phoneNumber: string;
-  OperatingHoursEnd: string;
-  OperatingHoursStart: string;
-}
+  openingHour: string;
+  closingHour: string;
+  aadhaarNumber: string;
+  panCardNumber: string;
+  panCardLastName: string;
+  panCardFirstName: string;
+  verified: boolean;
+  verificationMessage: string;
+};
 
-const CompanyPage: React.FC = () => {
-  const { data: session } = useSession();
-  const [error, setError] = React.useState("");
-  const [loading, setLoading] = React.useState(false);
-  const [restaurants, setRestaurants] = React.useState<Restaurant[]>([]);
-  const [editingRestaurant, setEditingRestaurant] = React.useState<string | null>(null);
-  const [editedRestaurant, setEditedRestaurant] = React.useState<Partial<Restaurant>>({});
-  React.useEffect(() => {
-    async function fetchRestaurants() {
-      try {
-        const response = await fetch("/api/restaurant/signin");
-        if (!response.ok) throw new Error("Failed to fetch restaurants");
-        const data = await response.json();
-        setRestaurants(data.restaurants);
-      } catch (error: any) {
-        setError(error.message);
-      } finally {
-        setLoading(false);
+export default function CompanyPage() {
+  const router = useRouter();
+  const { data: session, status } = useSession();
+  const [errorMessage, setErrorMessage] = useState("");
+  useEffect(() => {
+    if (status === "unauthenticated") router.push("/login");
+  }, [status, router]);
+  const {
+    data: restaurants,
+    isLoading,
+    refetch,
+  } = useQuery<Restaurant[]>({
+    queryKey: ["pendingRestaurants"],
+    queryFn: async () => {
+      const response = await fetch("/api/company/pending");
+      if (!response.ok) {
+        throw new Error("Failed to fetch pending restaurants");
       }
-    }
-    fetchRestaurants();
-  }, []);
-  const HandleVerifyToggle = async (restaurant: Restaurant) => {
-    const response = await fetch(`/api/restaurant/signin`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ id: restaurant.id, verified: !restaurant.verified }),
-    });
-    if (!response.ok) throw new Error("Failed to update restaurant");
-    const updatedRestaurant = await response.json();
-    setRestaurants((prev) => prev.map((rest) => (rest.id === restaurant.id ? updatedRestaurant.restaurant : rest)));
-  };
-  const HandleEditToggle = (restaurant: Restaurant) => {
-    if (editingRestaurant === restaurant.id) {
-      setEditingRestaurant(null);
-      setEditedRestaurant({});
-    } else {
-      setEditingRestaurant(restaurant.id);
-      setEditedRestaurant(restaurant);
-    }
-  };
-  const HandleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const { name, value } = e.target;
-    setEditedRestaurant((prev) => ({ ...prev, [name]: value }));
-  };
-  const HandleSave = async (restaurant: Restaurant) => {
-    const response = await fetch(`/api/restaurant/signin`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ...editedRestaurant, id: restaurant.id }),
-    });
-    if (!response.ok) throw new Error("Failed to update restaurant");
-    const updatedRestaurant = await response.json();
-    setRestaurants((prev) => prev.map((rest) => (rest.id === restaurant.id ? updatedRestaurant.restaurant : rest)));
-    setEditingRestaurant(null);
-    setEditedRestaurant({});
-  };
-  if (loading) return <Loading />;
-  if (error) throw new Error(error);
+      return response.json();
+    },
+  });
+  const verifyMutation = useMutation({
+    mutationFn: async ({ restaurantId, verified, verificationMessage }: { restaurantId: string; verified: boolean; verificationMessage: string }) => {
+      const response = await fetch("/api/company/verify", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ restaurantId, verified, verificationMessage }),
+      });
+      if (!response.ok) {
+        throw new Error("Failed to verify restaurant");
+      }
+      return response.json();
+    },
+    onError: (error: Error) => setErrorMessage(error.message),
+    onSuccess: () => refetch(),
+  });
+  const handleVerify = (restaurantId: string, verified: boolean, verificationMessage: string) => verifyMutation.mutate({ restaurantId, verified, verificationMessage });
+  if (status === "loading" || isLoading) return <Loading />;
+
   return (
-    <main className="bg-primary p-4 min-h-screen text-secondary">
-      <section id="header" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center mb-8">
-        <h1 className="text-6xl sm:text-7xl">Our Company</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
-          Welcome to our company page, <span className="underline">{session?.user?.name}</span>! <br />
-          Learn more about us here.
-        </h2>
-      </section>
-      <section id="UserData" className="flex items-center justify-center">
-        <div className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col p-8 bg-secondary/10 rounded-lg">
-          <div className="mb-6">
-            <Link
-              href={"/routes"}
-              className="w-full p-2 transition duration-700 ease-in-out transform rounded-full bg-secondary hover:bg-[#A8B67C] text-primary flex items-center justify-center gap-2"
-            >
-              <MdFastfood size={20} /> Go to Home
-            </Link>
-          </div>
-          <div>
-            <h3 className="text-xl mb-4">Restaurants</h3>
-            <ul className="space-y-4">
-              {restaurants.map((restaurant) => (
-                <li key={restaurant.id} className="border border-secondary rounded p-4">
-                  {editingRestaurant === restaurant.id ? (
-                    <div className="space-y-2">
-                      <input type="text" name="ownerName" value={editedRestaurant.ownerName || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Name" />
-                      <input type="text" name="address" value={editedRestaurant.address || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Address" />
-                      <input
-                        type="text"
-                        name="phoneNumber"
-                        value={editedRestaurant.phoneNumber || ""}
-                        onChange={HandleInputChange}
-                        className="w-full bg-secondary/20 p-2 rounded"
-                        placeholder="Phone"
-                      />
-                      <input type="text" name="email" value={editedRestaurant.email || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Email" />
-                      <input type="text" name="pincode" value={editedRestaurant.pincode || ""} onChange={HandleInputChange} className="w-full bg-secondary/20 p-2 rounded" placeholder="Pincode" />
-                      <div className="flex gap-2">
-                        <input type="time" name="OperatingHoursStart" value={editedRestaurant.OperatingHoursStart || ""} onChange={HandleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
-                        <input type="time" name="OperatingHoursEnd" value={editedRestaurant.OperatingHoursEnd || ""} onChange={HandleInputChange} className="w-1/2 bg-secondary/20 p-2 rounded" />
-                      </div>
-                    </div>
-                  ) : (
-                    <div>
-                      <p>
-                        <strong>Name:</strong> {restaurant.ownerName}
-                      </p>
-                      <p>
-                        <strong>Address:</strong> {restaurant.address}
-                      </p>
-                      <p>
-                        <strong>Phone:</strong> {restaurant.phoneNumber}
-                      </p>
-                      <p>
-                        <strong>Email:</strong> {restaurant.email}
-                      </p>
-                      <p>
-                        <strong>Pincode:</strong> {restaurant.pincode}
-                      </p>
-                      <p>
-                        <strong>Operating Hours:</strong> {restaurant.OperatingHoursStart} - {restaurant.OperatingHoursEnd}
-                      </p>
-                      <p>
-                        <strong>Verified:</strong> {restaurant.verified ? "Yes" : "No"}
-                      </p>
-                    </div>
-                  )}
-                  <div className="flex justify-end mt-4 space-x-2">
-                    {editingRestaurant === restaurant.id ? (
-                      <button onClick={() => HandleSave(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
-                        <MdSave className="inline-block mr-1" /> Save
-                      </button>
-                    ) : (
-                      <button onClick={() => HandleEditToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
-                        <MdEdit className="inline-block mr-1" /> Edit
-                      </button>
-                    )}
-                    <button onClick={() => HandleVerifyToggle(restaurant)} className="bg-secondary text-primary py-1 px-3 rounded hover:bg-[#a0b07e] transition duration-300">
-                      {restaurant.verified ? "Unverify" : "Verify"}
-                    </button>
-                  </div>
-                </li>
-              ))}
-            </ul>
-          </div>
+    <main className="max-w-7xl mx-auto p-4 bg-primary text-secondary">
+      <h1 className="text-4xl font-bold mb-8">Admin Dashboard - Pending Restaurant Verifications</h1>
+      {errorMessage && (
+        <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4" role="alert">
+          <strong className="font-bold">Error: </strong>
+          <span className="block sm:inline">{errorMessage}</span>
         </div>
-      </section>
+      )}
+      <div className="space-y-8">
+        {restaurants?.map((restaurant) => (
+          <div key={restaurant.id} className="bg-secondary text-primary p-6 rounded-lg shadow-md">
+            <h2 className="text-2xl font-semibold mb-4">{restaurant.name}</h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <p>
+                  <strong>Email:</strong> {restaurant.email}
+                </p>
+                <p>
+                  <strong>Phone:</strong> {restaurant.phoneNumber}
+                </p>
+                <p>
+                  <strong>Address:</strong> {restaurant.address}
+                </p>
+                <p>
+                  <strong>Pincode:</strong> {restaurant.pincode}
+                </p>
+              </div>
+              <div>
+                <p>
+                  <strong>Opening Hour:</strong> {restaurant.openingHour}
+                </p>
+                <p>
+                  <strong>Closing Hour:</strong> {restaurant.closingHour}
+                </p>
+                <p>
+                  <strong>Aadhaar Number:</strong> {restaurant.aadhaarNumber}
+                </p>
+                <p>
+                  <strong>PAN Card Number:</strong> {restaurant.panCardNumber}
+                </p>
+                <p>
+                  <strong>PAN Card Name:</strong> {restaurant.panCardFirstName} {restaurant.panCardLastName}
+                </p>
+              </div>
+            </div>
+            <div className="mt-6 flex items-center space-x-4">
+              <button onClick={() => handleVerify(restaurant.id, true, "")} className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center">
+                <FaCheck className="mr-2" /> Approve
+              </button>
+              <button
+                onClick={() => {
+                  const message = prompt("Enter rejection reason:");
+                  if (message) {
+                    handleVerify(restaurant.id, false, message);
+                  }
+                }}
+                className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded flex items-center"
+              >
+                <FaTimes className="mr-2" /> Reject
+              </button>
+              <button
+                onClick={() => {
+                  const message = prompt("Enter message for restaurant:");
+                  if (message) {
+                    handleVerify(restaurant.id, false, message);
+                  }
+                }}
+                className="bg-yellow-500 hover:bg-yellow-600 text-white font-bold py-2 px-4 rounded flex items-center"
+              >
+                <FaExclamationTriangle className="mr-2" /> Set Message
+              </button>
+            </div>
+          </div>
+        ))}
+      </div>
     </main>
   );
-};
-export default CompanyPage;
+}
