@@ -1,9 +1,7 @@
 // app/routes/company/page.tsx
 "use client";
-import { useRouter } from "next/navigation";
+import { useState } from "react";
 import Loading from "@/app/routes/loading";
-import { useState, useEffect } from "react";
-import { useSession } from "next-auth/react";
 import { useMutation, useQuery } from "@tanstack/react-query";
 import { FaCheck, FaTimes, FaExclamationTriangle } from "react-icons/fa";
 
@@ -13,6 +11,7 @@ type Restaurant = {
   email: string;
   pincode: string;
   address: string;
+  verified: boolean;
   phoneNumber: string;
   openingHour: string;
   closingHour: string;
@@ -20,17 +19,11 @@ type Restaurant = {
   panCardNumber: string;
   panCardLastName: string;
   panCardFirstName: string;
-  verified: boolean;
   verificationMessage: string;
 };
 
 export default function CompanyPage() {
-  const router = useRouter();
-  const { data: session, status } = useSession();
   const [errorMessage, setErrorMessage] = useState("");
-  useEffect(() => {
-    if (status === "unauthenticated") router.push("/login");
-  }, [status, router]);
   const {
     data: restaurants,
     isLoading,
@@ -39,9 +32,7 @@ export default function CompanyPage() {
     queryKey: ["pendingRestaurants"],
     queryFn: async () => {
       const response = await fetch("/api/company/pending");
-      if (!response.ok) {
-        throw new Error("Failed to fetch pending restaurants");
-      }
+      if (!response.ok) throw new Error("Failed to fetch pending restaurants");
       return response.json();
     },
   });
@@ -61,8 +52,7 @@ export default function CompanyPage() {
     onSuccess: () => refetch(),
   });
   const handleVerify = (restaurantId: string, verified: boolean, verificationMessage: string) => verifyMutation.mutate({ restaurantId, verified, verificationMessage });
-  if (status === "loading" || isLoading) return <Loading />;
-
+  if (isLoading) return <Loading />;
   return (
     <main className="max-w-7xl mx-auto p-4 bg-primary text-secondary">
       <h1 className="text-4xl font-bold mb-8">Admin Dashboard - Pending Restaurant Verifications</h1>
