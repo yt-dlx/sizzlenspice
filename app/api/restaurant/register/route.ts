@@ -4,7 +4,7 @@ import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
 
-const restaurantRegisterSchema = z.object({
+export const restaurantRegisterSchema = z.object({
   email: z.string().email("Invalid email address"),
   address: z.string().min(1, "Address is required"),
   name: z.string().min(1, "Restaurant name is required"),
