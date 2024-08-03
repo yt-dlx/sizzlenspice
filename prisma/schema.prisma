@@ -41,6 +41,7 @@ model Order {
 
 model Restaurant {
   id               String     @id @default(auto()) @map("_id") @db.ObjectId
+  verified         Boolean    @default(false)
   email            String     @unique
   name             String
   phoneNumber      String?

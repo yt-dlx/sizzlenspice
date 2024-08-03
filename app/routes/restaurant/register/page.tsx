@@ -30,6 +30,7 @@ export default function RegisterPage() {
   const [loading, setLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
   const [userData, setUserData] = useState(initialUserData);
+  const [verificationMessage, setVerificationMessage] = useState("");
   const handleInputChange = (field: UserDataKey, value: string | boolean) => setUserData((prev) => ({ ...prev, [field]: value }));
   useEffect(() => {
     setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
@@ -42,7 +43,10 @@ export default function RegisterPage() {
           body: JSON.stringify({ email: session?.user?.email }),
         });
         const data = await response.json();
-        if (data.exists) router.push("/routes/restaurant/profile");
+        if (data.exists) {
+          if (data.verified) router.push("/routes/restaurant/profile");
+          else setVerificationMessage("Wait for verification");
+        }
       } catch (error) {
         setLoading(false);
       } finally {
@@ -63,11 +67,10 @@ export default function RegisterPage() {
       }
       return response.json();
     },
-    onError: (error: Error) => setErrorMessage(error.message),
     onSuccess: () => router.push("/routes/restaurant/profile"),
+    onError: (error: Error) => setErrorMessage(error.message),
     onSettled: () => setLoading(false),
   });
-  if (loading) return <Loading />;
   const handleSubmit = async (event: FormEvent) => {
     event.preventDefault();
     setLoading(true);
@@ -91,6 +94,7 @@ export default function RegisterPage() {
     { label: "Owner Last Name According To PAN Card", icon: FaUser, type: "text", field: "panCardLastName" as UserDataKey },
     { label: "Owner First Name According To PAN Card", icon: FaUser, type: "text", field: "panCardFirstName" as UserDataKey },
   ];
+  if (loading) return <Loading />;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       <motion.section
@@ -107,33 +111,36 @@ export default function RegisterPage() {
         <img src="/svg/register.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>
       <section id="register" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
-        <form onSubmit={handleSubmit} className="space-y-1 flex flex-col text-xs py-4">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
-            {formFields.map(({ label, icon: Icon, type, field, readOnly }) => (
-              <div key={field} className="relative flex-grow mb-2">
-                <span className="flex items-center m-1 gap-1 text-sm">
-                  <Icon size={20} /> {label}
-                </span>
-                <input
-                  required
-                  type={type}
-                  readOnly={readOnly}
-                  value={userData[field]}
-                  placeholder="please type here!"
-                  onChange={(e) => handleInputChange(field, e.target.value)}
-                  className="w-full py-2 rounded-xl bg-primary border-2 border-primary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
-                />
-              </div>
-            ))}
-          </div>
-          {errorMessage && <div className="text-red-600">{errorMessage}</div>}
-          <button
-            type="submit"
-            className="w-full p-2 mt-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
-          >
-            Register & Continue
-          </button>
-        </form>
+        {verificationMessage && <div className="text-red-600">{verificationMessage}</div>}
+        {!verificationMessage && (
+          <form onSubmit={handleSubmit} className="space-y-1 flex flex-col text-xs py-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
+              {formFields.map(({ label, icon: Icon, type, field, readOnly }) => (
+                <div key={field} className="relative flex-grow mb-2">
+                  <span className="flex items-center m-1 gap-1 text-sm">
+                    <Icon size={20} /> {label}
+                  </span>
+                  <input
+                    required
+                    type={type}
+                    readOnly={readOnly}
+                    value={userData[field]}
+                    placeholder="please type here!"
+                    onChange={(e) => handleInputChange(field, e.target.value)}
+                    className="w-full py-2 rounded-xl bg-primary border-2 border-primary text-primary placeholder-secondary focus:border-primary focus:ring-primary"
+                  />
+                </div>
+              ))}
+            </div>
+            {errorMessage && <div className="text-red-600">{errorMessage}</div>}
+            <button
+              type="submit"
+              className="w-full p-2 mt-4 text-lg transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2 border-2 border-secondary"
+            >
+              Register & Continue
+            </button>
+          </form>
+        )}
       </section>
     </main>
   );
