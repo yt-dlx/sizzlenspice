@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
+import { motion } from "framer-motion";
 import { LuBike } from "react-icons/lu";
 import { MdFastfood } from "react-icons/md";
 import { pusherClient } from "@/lib/pusher";
@@ -12,7 +13,6 @@ import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
 import { TypeAnimation } from "react-type-animation";
 import { useStore } from "@/app/_assets/others/store";
-import { motion, AnimatePresence } from "framer-motion";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { FaRupeeSign, FaPlus, FaMinus, FaEye, FaEyeSlash } from "react-icons/fa";
 import { HiLocationMarker, HiMail, HiPhone, HiGlobe, HiCreditCard } from "react-icons/hi";
@@ -27,6 +27,7 @@ export default function CartPage() {
   const { cart, removeFromCart, updateCartItemQuantity, clearCart, getCartTotal } = useStore();
   const [userData, setUserData] = useState({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
   const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+
   const {
     data: prevOrders,
     isLoading,
@@ -43,6 +44,7 @@ export default function CartPage() {
     },
     enabled: !!session?.user?.email,
   });
+
   const { mutate: placeOrder } = useMutation({
     mutationFn: async () => {
       if (!session?.user?.email) throw new Error("User not logged in!");
@@ -70,6 +72,7 @@ export default function CartPage() {
       queryClient.invalidateQueries({ queryKey: ["orders", session?.user?.email] });
     },
   });
+
   useEffect(() => {
     try {
       if (session?.user?.email) {
@@ -93,6 +96,7 @@ export default function CartPage() {
       }
     };
   }, [session]);
+
   useEffect(() => {
     try {
       const storedOrderTime = localStorage.getItem("OrderPlacedTime");
@@ -112,6 +116,7 @@ export default function CartPage() {
       console.error(error.message);
     }
   }, [showGif, refetch]);
+
   const ConfirmOrder = async () => {
     try {
       setShowGif(true);
@@ -120,9 +125,10 @@ export default function CartPage() {
       console.error(error.message);
     }
   };
+
   if (isLoading) return <Loading />;
   if (error) throw error;
-  // =======================================================================================================================================================================
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       {showGif && (
@@ -173,7 +179,7 @@ export default function CartPage() {
             <div className="flex items-center">
               <button
                 onClick={() => {
-                  updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1);
+                  updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity - 1);
                 }}
                 className="text-secondary px-2"
               >
@@ -182,7 +188,7 @@ export default function CartPage() {
               <span className="mx-2 text-secondary">{item.quantity}</span>
               <button
                 onClick={() => {
-                  updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1);
+                  updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity + 1);
                 }}
                 className="text-secondary px-2"
               >
@@ -190,7 +196,7 @@ export default function CartPage() {
               </button>
               <button
                 onClick={() => {
-                  removeFromCart(item.title, item.selectedSize);
+                  removeFromCart(item.title, item.selectedSize, item.restaurantId);
                 }}
                 className="ml-4 text-red-800 text-xs"
               >
