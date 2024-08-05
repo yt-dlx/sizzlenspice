@@ -2,11 +2,11 @@
 "use client";
 import Image from "next/image";
 import Loading from "./loading";
+import { motion } from "framer-motion";
 import { pusherClient } from "@/lib/pusher";
 import type Order from "@/app/_assets/types/Order";
 import React, { useEffect, useState } from "react";
 import { TypeAnimation } from "react-type-animation";
-import { motion, AnimatePresence } from "framer-motion";
 import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
@@ -110,7 +110,6 @@ export default function RestaurantOrdersPage() {
   };
   if (loading || isLoading) return <Loading />;
   if (error) throw new Error(error);
-  // =======================================================================================================================================================================
   const Header = () => {
     return (
       <motion.section
@@ -277,7 +276,6 @@ export default function RestaurantOrdersPage() {
       </section>
     );
   };
-  // =======================================================================================================================================================================
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
       <Header />
