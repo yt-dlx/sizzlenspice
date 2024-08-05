@@ -45,9 +45,7 @@ export default function ProfilePage() {
   });
   useEffect(() => {
     if (userData && !isRestaurantLoading) {
-      if (!restaurantData) {
-        router.push("/routes/restaurant/register");
-      }
+      if (!restaurantData) router.push("/routes/restaurant/register");
       setIsChecking(false);
     }
   }, [userData, isRestaurantLoading, restaurantData, router]);
