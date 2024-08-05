@@ -26,10 +26,33 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
-  const { userId, cart, totalAmount, locationData, phoneNumber, customerEmail } = await request.json();
+  const { userId, cart, locationData, phoneNumber, customerEmail } = await request.json();
   if (!Array.isArray(cart) || cart.length === 0) return NextResponse.json({ error: "Invalid cart data" }, { status: 400 });
-  const order = await prisma.order.create({ data: { userId, items: cart, phoneNumber, locationData, customerEmail, status: "Pending", total: totalAmount } });
-  return NextResponse.json({ orderId: order.id, total: order.total, createdAt: order.createdAt.toISOString() }, { status: 201 });
+  const groupedItems = cart.reduce((acc, item) => {
+    if (!acc[item.restaurantId]) acc[item.restaurantId] = [];
+    acc[item.restaurantId].push(item);
+    return acc;
+  }, {});
+  const orders = await Promise.all(
+    Object.keys(groupedItems).map(async (restaurantId) => {
+      const order = await prisma.order.create({
+        data: {
+          userId,
+          items: groupedItems[restaurantId],
+          phoneNumber,
+          locationData,
+          customerEmail,
+          status: "Pending",
+          total: groupedItems[restaurantId].reduce((subTotal: number, item: any) => {
+            const itemPrice = parseFloat(item.price[item.selectedSize]);
+            return subTotal + itemPrice * item.quantity;
+          }, 0),
+        },
+      });
+      return order;
+    })
+  );
+  return NextResponse.json({ orders }, { status: 201 });
 }
 
 export async function PUT(request: NextRequest) {

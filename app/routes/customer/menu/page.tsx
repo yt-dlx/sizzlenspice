@@ -9,7 +9,7 @@ import { useQuery } from "@tanstack/react-query";
 import { TypeAnimation } from "react-type-animation";
 import { useStore } from "@/app/_assets/others/store";
 import { motion, AnimatePresence } from "framer-motion";
-import { FoodItem, Category, Restaurant } from "@/app/_assets/types/cart";
+import { FoodItem, Category, Restaurant, CartItem } from "@/app/_assets/types/cart";
 import { FaPlus, FaMinus, FaShoppingCart, FaRupeeSign, FaSearch } from "react-icons/fa";
 
 export default function MenuPage() {
@@ -57,9 +57,25 @@ export default function MenuPage() {
     return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
   }, [categories, activeCategory, searchTerm]);
 
-  const totalCost = cart.reduce((total, item) => {
-    const itemPrice = Number(item.price[item.selectedSize]);
-    return total + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
+  const groupedCart = cart.reduce(
+    (acc, item) => {
+      if (!acc[item.restaurantId]) {
+        acc[item.restaurantId] = [];
+      }
+      acc[item.restaurantId].push(item);
+      return acc;
+    },
+    {} as { [key: string]: CartItem[] }
+  );
+
+  const totalCost = Object.values(groupedCart).reduce((total, items) => {
+    return (
+      total +
+      items.reduce((subTotal, item) => {
+        const itemPrice = Number(item.price[item.selectedSize]);
+        return subTotal + (isNaN(itemPrice) ? 0 : itemPrice) * item.quantity;
+      }, 0)
+    );
   }, 0);
 
   if (isLoading) return <Loading />;
@@ -71,7 +87,7 @@ export default function MenuPage() {
         {isModalOpen && selectedItem && (
           <motion.div
             initial={{ opacity: 0, y: "100%" }}
-            exit={{ opacity: 0, y: "100%", transition: { duration: 0.2 } }}
+            exit={{ opacity: 0, y: "100%" }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.3 } }}
             className="fixed bottom-0 left-0 right-0 w-full max-w-4xl mx-auto bg-secondary/60 backdrop-blur-3xl shadow-md shadow-secondary border-4 border-double border-secondary text-primary rounded-t-xl flex justify-center max-h-[80vh] z-50"
           >
@@ -111,14 +127,14 @@ export default function MenuPage() {
                         {quantity > 0 ? (
                           <div className="flex items-center gap-2">
                             <button
-                              onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity - 1)}
+                              onClick={() => updateCartItemQuantity(selectedItem.title, size, selectedItem.restaurantId, quantity - 1)}
                               className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                             >
                               <FaMinus />
                             </button>
                             <span className="inline-flex text-lg">{quantity}</span>
                             <button
-                              onClick={() => updateCartItemQuantity(selectedItem.title, size, quantity + 1)}
+                              onClick={() => updateCartItemQuantity(selectedItem.title, size, selectedItem.restaurantId, quantity + 1)}
                               className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                             >
                               <FaPlus />
@@ -126,7 +142,7 @@ export default function MenuPage() {
                           </div>
                         ) : (
                           <button
-                            onClick={() => addToCart({ ...selectedItem, selectedSize: size })}
+                            onClick={() => addToCart({ ...selectedItem, selectedSize: size, restaurantId: selectedItem.restaurantId })}
                             className="px-3 py-1 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                           >
                             Add To Cart
@@ -243,33 +259,41 @@ export default function MenuPage() {
                   <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
                 </button>
               </div>
-              {cart.map((item: any, index: any) => (
-                <div key={index} className="flex items-center justify-between mb-4">
-                  <div className="flex items-center">
-                    <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
-                    <div className="ml-2">
-                      <h3 className="font-bold">{item.title}</h3>
-                      <p className="text-sm">{item.selectedSize}</p>
+              {Object.keys(groupedCart).map((restaurantId) => (
+                <div key={restaurantId} className="mb-4">
+                  <h3 className="text-xl font-bold mb-2">{restaurants.find((restaurant) => restaurant.id === restaurantId)?.name}</h3>
+                  {groupedCart[restaurantId].map((item: any, index: any) => (
+                    <div key={index} className="flex items-center justify-between mb-4">
+                      <div className="flex items-center">
+                        <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
+                        <div className="ml-2">
+                          <h3 className="font-bold">{item.title}</h3>
+                          <p className="text-sm">{item.selectedSize}</p>
+                        </div>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <button
+                          onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity - 1)}
+                          className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
+                        >
+                          <FaMinus />
+                        </button>
+                        <span className="inline-flex text-lg">{item.quantity}</span>
+                        <button
+                          onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity + 1)}
+                          className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
+                        >
+                          <FaPlus />
+                        </button>
+                        <button
+                          onClick={() => removeFromCart(item.title, item.selectedSize, item.restaurantId)}
+                          className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-xl transition duration-300"
+                        >
+                          <MdClose size={16} />
+                        </button>
+                      </div>
                     </div>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <button
-                      onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity - 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
-                    >
-                      <FaMinus />
-                    </button>
-                    <span className="inline-flex text-lg">{item.quantity}</span>
-                    <button
-                      onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.quantity + 1)}
-                      className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
-                    >
-                      <FaPlus />
-                    </button>
-                    <button onClick={() => removeFromCart(item.title, item.selectedSize)} className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-xl transition duration-300">
-                      <MdClose size={16} />
-                    </button>
-                  </div>
+                  ))}
                 </div>
               ))}
               <div className="border-t">

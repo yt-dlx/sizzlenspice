@@ -45,7 +45,7 @@ export default function ProfilePage() {
   });
   useEffect(() => {
     if (userData && !isRestaurantLoading) {
-      if (!restaurantData) router.push("/routes/restaurant/register");
+      if (!restaurantData || !restaurantData.verified) router.push("/routes/restaurant/register");
       setIsChecking(false);
     }
   }, [userData, isRestaurantLoading, restaurantData, router]);
@@ -495,10 +495,7 @@ export default function ProfilePage() {
                             <MdRemoveCircle /> Delete Item
                           </button>
                         </div>
-                        <div className="font-bold gap-2 flex items-center justify-center text-center text-lg">
-                          <div className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                          {item.title}
-                        </div>
+                        <div className="font-bold gap-2 flex items-center justify-center text-center text-lg">{item.title}</div>
                         <p className="flex items-center justify-center text-center m-4">{item.description}</p>
                       </div>
                     </div>

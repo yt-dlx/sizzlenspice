@@ -14,10 +14,12 @@ export interface FoodItem {
   genre: string;
   rating: number;
   selectedSize?: string;
+  restaurantId: string;
 }
 export interface CartItem extends FoodItem {
   quantity: number;
   selectedSize: string;
+  restaurantId: string;
 }
 export interface UserData {
   phoneNumber: string;
@@ -41,6 +43,7 @@ export interface Restaurant {
   id: string;
   name: string;
   email: string;
+  verified: Boolean;
   phoneNumber: string;
   categories?: Category[];
 }
@@ -48,7 +51,7 @@ export interface StoreState {
   cart: CartItem[];
   clearCart: () => void;
   getCartTotal: () => number;
-  addToCart: (item: FoodItem & { selectedSize: string }) => void;
-  removeFromCart: (itemTitle: string, selectedSize: string) => void;
-  updateCartItemQuantity: (itemTitle: string, selectedSize: string, quantity: number) => void;
+  addToCart: (item: FoodItem & { selectedSize: string; restaurantId: string }) => void;
+  removeFromCart: (itemTitle: string, selectedSize: string, restaurantId: string) => void;
+  updateCartItemQuantity: (itemTitle: string, selectedSize: string, restaurantId: string, quantity: number) => void;
 }

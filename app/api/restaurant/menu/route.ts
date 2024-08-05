@@ -1,4 +1,4 @@
-// app/api/menu/route.ts
+// app/api/restaurant/menu/route.ts
 import { auth } from "@/auth";
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";

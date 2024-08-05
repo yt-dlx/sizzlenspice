@@ -1,6 +1,6 @@
 // app/routes/restaurant/register/page.tsx
 "use client";
-import { randomUUID } from "crypto";
+import { v4 as uuidv4 } from "uuid";
 import { motion } from "framer-motion";
 import Loading from "@/app/routes/loading";
 import { useRouter } from "next/navigation";
@@ -70,7 +70,7 @@ export default function RegisterPage() {
   const handleSubmit = async (event: FormEvent) => {
     event.preventDefault();
     setLoading(true);
-    const result = restaurantRegisterSchema.safeParse({ ...userData, name: randomUUID() });
+    const result = restaurantRegisterSchema.safeParse({ ...userData, name: uuidv4() });
     if (!result.success) {
       setLoading(false);
       setErrorMessage("Validation Error: " + result.error.errors.map((e) => e.message).join(", "));
