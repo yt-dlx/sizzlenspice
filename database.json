@@ -1,0 +1,952 @@
+{
+  "users": [
+    {
+      "id": "66b0d5db7925c94f3ee94d00",
+      "email": "shovitdutta1@gmail.com",
+      "phoneNumber": "8250261313",
+      "customerEmail": "shovitdutta1@gmail.com",
+      "locationData": {
+        "id": "66b0d5db7925c94f3ee94d01",
+        "latitude": "26.7271012",
+        "longitude": "88.3952861",
+        "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+        "pincode": "734010",
+        "userId": "66b0d5db7925c94f3ee94d00"
+      }
+    },
+    {
+      "id": "66b0d6197925c94f3ee94d08",
+      "email": "yt-dlx@proton.me",
+      "phoneNumber": "8250261313",
+      "customerEmail": "yt-dlx@proton.me",
+      "locationData": {
+        "id": "66b0d6197925c94f3ee94d09",
+        "latitude": "26.7271012",
+        "longitude": "88.3952861",
+        "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+        "pincode": "734010",
+        "userId": "66b0d6197925c94f3ee94d08"
+      }
+    }
+  ],
+  "locationData": [
+    {
+      "id": "66b0d5db7925c94f3ee94d01",
+      "latitude": "26.7271012",
+      "longitude": "88.3952861",
+      "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+      "pincode": "734010",
+      "userId": "66b0d5db7925c94f3ee94d00"
+    },
+    {
+      "id": "66b0d6197925c94f3ee94d09",
+      "latitude": "26.7271012",
+      "longitude": "88.3952861",
+      "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+      "pincode": "734010",
+      "userId": "66b0d6197925c94f3ee94d08"
+    }
+  ],
+  "orders": [
+    {
+      "id": "66b0e1dca128b60a53fa57c1",
+      "userId": "shovitdutta1@gmail.com",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0de64a128b60a53fa579d",
+          "title": "Blenders Pride",
+          "description": "A premium whiskey brand that is favored by many.",
+          "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176",
+          "selectedSize": "small",
+          "quantity": 1
+        }
+      ],
+      "phoneNumber": "8250261313",
+      "locationData": {
+        "id": "66b0d5db7925c94f3ee94d01",
+        "latitude": "26.7271012",
+        "longitude": "88.3952861",
+        "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+        "pincode": "734010",
+        "userId": "66b0d5db7925c94f3ee94d00"
+      },
+      "customerEmail": "shovitdutta1@gmail.com",
+      "status": "Pending",
+      "createdAt": "2024-08-05T14:29:48.830Z",
+      "total": 50
+    },
+    {
+      "id": "66b0e1dca128b60a53fa57c0",
+      "userId": "shovitdutta1@gmail.com",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e114a128b60a53fa57ba",
+          "title": "Romanov",
+          "description": "A popular choice among vodka drinkers for its affordability.",
+          "image": "https://w0.peakpx.com/wallpaper/208/796/HD-wallpaper-vodka-alcohol-drink-russian.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f",
+          "selectedSize": "small",
+          "quantity": 1
+        }
+      ],
+      "phoneNumber": "8250261313",
+      "locationData": {
+        "id": "66b0d5db7925c94f3ee94d01",
+        "latitude": "26.7271012",
+        "longitude": "88.3952861",
+        "address": "Matigara, Siliguri Subdivsion, Darjeeling, West Bengal, 734010, India",
+        "pincode": "734010",
+        "userId": "66b0d5db7925c94f3ee94d00"
+      },
+      "customerEmail": "shovitdutta1@gmail.com",
+      "status": "Pending",
+      "createdAt": "2024-08-05T14:29:48.830Z",
+      "total": 50
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "66ae41315f5dbf5306dd7176",
+      "verified": true,
+      "email": "shovitdutta1@gmail.com",
+      "name": "8433b73e-7637-4e8d-9559-cc41752e47eb",
+      "phoneNumber": "8250261313",
+      "address": "Siliguri, Himachal Colony Railway Bunglow Number 461 A",
+      "pincode": "734003",
+      "openingHour": "11:00",
+      "closingHour": "00:00",
+      "aadhaarNumber": "760109785264",
+      "panCardNumber": "HFRPD8435P",
+      "panCardFirstName": "Shovit",
+      "panCardLastName": "Dutta",
+      "categories": [
+        {
+          "id": "66b0de4aa128b60a53fa579b",
+          "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+          "title": "Whiskey",
+          "active": false,
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "id": "66b0df57a128b60a53fa57ac",
+          "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+          "title": "Beer",
+          "active": false,
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        }
+      ],
+      "Item": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0de64a128b60a53fa579d",
+          "title": "Blenders Pride",
+          "description": "A premium whiskey brand that is favored by many.",
+          "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0de7da128b60a53fa579e",
+          "title": "Royal Stag",
+          "description": "One of the best-selling whiskey brands in India.",
+          "image": "https://i.pinimg.com/originals/26/6d/7a/266d7a24f51c3b7788bd55168471c635.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0dedba128b60a53fa57a9",
+          "title": "Officer's Choice",
+          "description": "Known for its affordability and widespread consumption.",
+          "image": "https://images.squarespace-cdn.com/content/v1/5bf41e2c70e8026f5a08ac41/1567186103640-3N45CHVXFF5ZHUBORMHL/officers-choice.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0def7a128b60a53fa57aa",
+          "title": "McDowell’s No.1",
+          "description": "A highly popular brand known for its smooth taste.",
+          "image": "https://i.pinimg.com/originals/d0/5d/e1/d05de122ff4fcae8b966e995df639059.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0df6fa128b60a53fa57ae",
+          "title": "Kingfisher",
+          "description": "The most widely consumed beer in India, known for its light and refreshing taste.",
+          "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0df7fa128b60a53fa57af",
+          "title": "Haywards 5000",
+          "description": "A strong beer brand that is popular in many parts of India.",
+          "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/inline-images/Haywards.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0dfe9a128b60a53fa57b0",
+          "title": "Bira 91",
+          "description": "A trendy craft beer that has gained popularity for its distinct taste and branding.",
+          "image": "https://c.files.bbci.co.uk/6110/production/_100184842_beernewss.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e000a128b60a53fa57b1",
+          "title": "Simba",
+          "description": "Another popular craft beer brand that has a growing fan base in urban areas.",
+          "image": "https://c0.wallpaperflare.com/preview/56/412/895/wristwatch-drink-bottle-leisure-activities.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        }
+      ]
+    },
+    {
+      "id": "66b0d9d8a128b60a53fa578f",
+      "verified": true,
+      "email": "yt-dlx@proton.me",
+      "name": "853a60aa-9780-4bb6-89b8-b3489ef59797",
+      "phoneNumber": "8250261313",
+      "address": "Siliguri, Himachal Colony Railway Bunglow Number 461 A",
+      "pincode": "734003",
+      "openingHour": "10:00",
+      "closingHour": "22:00",
+      "aadhaarNumber": "760109785264",
+      "panCardNumber": "HFRPD8435P",
+      "panCardFirstName": "Shovit",
+      "panCardLastName": "Dutta",
+      "categories": [
+        {
+          "id": "66b0e030a128b60a53fa57b2",
+          "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+          "title": "Rum",
+          "active": false,
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "id": "66b0e0dba128b60a53fa57b8",
+          "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+          "title": "Vodka",
+          "active": false,
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        }
+      ],
+      "Item": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e04ca128b60a53fa57b4",
+          "title": "Old Monk",
+          "description": "An iconic Indian dark rum known for its rich flavor.",
+          "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e076a128b60a53fa57b5",
+          "title": "McDowell’s No.1 Celebration",
+          "description": "A popular rum brand enjoyed across the country.",
+          "image": "https://i.pinimg.com/736x/da/0f/84/da0f849ed70a034b8339e7a544edd6ec.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e099a128b60a53fa57b6",
+          "title": "Hercules",
+          "description": "Known for its strong taste and popular among defense personnel.",
+          "image": "https://w0.peakpx.com/wallpaper/174/299/HD-wallpaper-drinks-black-bottle-dark-jack.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e0bfa128b60a53fa57b7",
+          "title": "Bacardi",
+          "description": "While an international brand, it is widely consumed in India, especially for cocktails.",
+          "image": "https://w0.peakpx.com/wallpaper/700/399/HD-wallpaper-bacardi-rum-snow.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e0f1a128b60a53fa57b9",
+          "title": "Magic Moments",
+          "description": "A leading vodka brand in India known for its variety of flavors.",
+          "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e114a128b60a53fa57ba",
+          "title": "Romanov",
+          "description": "A popular choice among vodka drinkers for its affordability.",
+          "image": "https://w0.peakpx.com/wallpaper/208/796/HD-wallpaper-vodka-alcohol-drink-russian.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e13da128b60a53fa57bb",
+          "title": "White Mischief",
+          "description": "Known for its smoothness and wide range of flavors.",
+          "image": "https://w0.peakpx.com/wallpaper/72/785/HD-wallpaper-vodka-bottles-beverage-bottle-cool-drink-thirst.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e16ca128b60a53fa57bc",
+          "title": "Smirnoff",
+          "description": "An international brand that is very popular in India.",
+          "image": "https://cdn.wallpapersafari.com/52/71/rRdAW2.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "66b0de4aa128b60a53fa579b",
+      "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+      "title": "Whiskey",
+      "active": false,
+      "restaurantId": "66ae41315f5dbf5306dd7176",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0de64a128b60a53fa579d",
+          "title": "Blenders Pride",
+          "description": "A premium whiskey brand that is favored by many.",
+          "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0de7da128b60a53fa579e",
+          "title": "Royal Stag",
+          "description": "One of the best-selling whiskey brands in India.",
+          "image": "https://i.pinimg.com/originals/26/6d/7a/266d7a24f51c3b7788bd55168471c635.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0dedba128b60a53fa57a9",
+          "title": "Officer's Choice",
+          "description": "Known for its affordability and widespread consumption.",
+          "image": "https://images.squarespace-cdn.com/content/v1/5bf41e2c70e8026f5a08ac41/1567186103640-3N45CHVXFF5ZHUBORMHL/officers-choice.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0def7a128b60a53fa57aa",
+          "title": "McDowell’s No.1",
+          "description": "A highly popular brand known for its smooth taste.",
+          "image": "https://i.pinimg.com/originals/d0/5d/e1/d05de122ff4fcae8b966e995df639059.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0de4aa128b60a53fa579b",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        }
+      ]
+    },
+    {
+      "id": "66b0df57a128b60a53fa57ac",
+      "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+      "title": "Beer",
+      "active": false,
+      "restaurantId": "66ae41315f5dbf5306dd7176",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0df6fa128b60a53fa57ae",
+          "title": "Kingfisher",
+          "description": "The most widely consumed beer in India, known for its light and refreshing taste.",
+          "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0df7fa128b60a53fa57af",
+          "title": "Haywards 5000",
+          "description": "A strong beer brand that is popular in many parts of India.",
+          "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/inline-images/Haywards.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0dfe9a128b60a53fa57b0",
+          "title": "Bira 91",
+          "description": "A trendy craft beer that has gained popularity for its distinct taste and branding.",
+          "image": "https://c.files.bbci.co.uk/6110/production/_100184842_beernewss.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e000a128b60a53fa57b1",
+          "title": "Simba",
+          "description": "Another popular craft beer brand that has a growing fan base in urban areas.",
+          "image": "https://c0.wallpaperflare.com/preview/56/412/895/wristwatch-drink-bottle-leisure-activities.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0df57a128b60a53fa57ac",
+          "restaurantId": "66ae41315f5dbf5306dd7176"
+        }
+      ]
+    },
+    {
+      "id": "66b0e030a128b60a53fa57b2",
+      "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+      "title": "Rum",
+      "active": false,
+      "restaurantId": "66b0d9d8a128b60a53fa578f",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e04ca128b60a53fa57b4",
+          "title": "Old Monk",
+          "description": "An iconic Indian dark rum known for its rich flavor.",
+          "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e076a128b60a53fa57b5",
+          "title": "McDowell’s No.1 Celebration",
+          "description": "A popular rum brand enjoyed across the country.",
+          "image": "https://i.pinimg.com/736x/da/0f/84/da0f849ed70a034b8339e7a544edd6ec.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e099a128b60a53fa57b6",
+          "title": "Hercules",
+          "description": "Known for its strong taste and popular among defense personnel.",
+          "image": "https://w0.peakpx.com/wallpaper/174/299/HD-wallpaper-drinks-black-bottle-dark-jack.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e0bfa128b60a53fa57b7",
+          "title": "Bacardi",
+          "description": "While an international brand, it is widely consumed in India, especially for cocktails.",
+          "image": "https://w0.peakpx.com/wallpaper/700/399/HD-wallpaper-bacardi-rum-snow.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e030a128b60a53fa57b2",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        }
+      ]
+    },
+    {
+      "id": "66b0e0dba128b60a53fa57b8",
+      "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+      "title": "Vodka",
+      "active": false,
+      "restaurantId": "66b0d9d8a128b60a53fa578f",
+      "items": [
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e0f1a128b60a53fa57b9",
+          "title": "Magic Moments",
+          "description": "A leading vodka brand in India known for its variety of flavors.",
+          "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e114a128b60a53fa57ba",
+          "title": "Romanov",
+          "description": "A popular choice among vodka drinkers for its affordability.",
+          "image": "https://w0.peakpx.com/wallpaper/208/796/HD-wallpaper-vodka-alcohol-drink-russian.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e13da128b60a53fa57bb",
+          "title": "White Mischief",
+          "description": "Known for its smoothness and wide range of flavors.",
+          "image": "https://w0.peakpx.com/wallpaper/72/785/HD-wallpaper-vodka-bottles-beverage-bottle-cool-drink-thirst.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        },
+        {
+          "price": {
+            "small": "50",
+            "medium": "100",
+            "full": "200"
+          },
+          "id": "66b0e16ca128b60a53fa57bc",
+          "title": "Smirnoff",
+          "description": "An international brand that is very popular in India.",
+          "image": "https://cdn.wallpapersafari.com/52/71/rRdAW2.jpg",
+          "genre": "veg",
+          "rating": 0,
+          "categoryId": "66b0e0dba128b60a53fa57b8",
+          "restaurantId": "66b0d9d8a128b60a53fa578f"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0de64a128b60a53fa579d",
+      "title": "Blenders Pride",
+      "description": "A premium whiskey brand that is favored by many.",
+      "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0de4aa128b60a53fa579b",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0de7da128b60a53fa579e",
+      "title": "Royal Stag",
+      "description": "One of the best-selling whiskey brands in India.",
+      "image": "https://i.pinimg.com/originals/26/6d/7a/266d7a24f51c3b7788bd55168471c635.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0de4aa128b60a53fa579b",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0dedba128b60a53fa57a9",
+      "title": "Officer's Choice",
+      "description": "Known for its affordability and widespread consumption.",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf41e2c70e8026f5a08ac41/1567186103640-3N45CHVXFF5ZHUBORMHL/officers-choice.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0de4aa128b60a53fa579b",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0def7a128b60a53fa57aa",
+      "title": "McDowell’s No.1",
+      "description": "A highly popular brand known for its smooth taste.",
+      "image": "https://i.pinimg.com/originals/d0/5d/e1/d05de122ff4fcae8b966e995df639059.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0de4aa128b60a53fa579b",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0df6fa128b60a53fa57ae",
+      "title": "Kingfisher",
+      "description": "The most widely consumed beer in India, known for its light and refreshing taste.",
+      "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0df57a128b60a53fa57ac",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0df7fa128b60a53fa57af",
+      "title": "Haywards 5000",
+      "description": "A strong beer brand that is popular in many parts of India.",
+      "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/inline-images/Haywards.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0df57a128b60a53fa57ac",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0dfe9a128b60a53fa57b0",
+      "title": "Bira 91",
+      "description": "A trendy craft beer that has gained popularity for its distinct taste and branding.",
+      "image": "https://c.files.bbci.co.uk/6110/production/_100184842_beernewss.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0df57a128b60a53fa57ac",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e000a128b60a53fa57b1",
+      "title": "Simba",
+      "description": "Another popular craft beer brand that has a growing fan base in urban areas.",
+      "image": "https://c0.wallpaperflare.com/preview/56/412/895/wristwatch-drink-bottle-leisure-activities.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0df57a128b60a53fa57ac",
+      "restaurantId": "66ae41315f5dbf5306dd7176"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e04ca128b60a53fa57b4",
+      "title": "Old Monk",
+      "description": "An iconic Indian dark rum known for its rich flavor.",
+      "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e030a128b60a53fa57b2",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e076a128b60a53fa57b5",
+      "title": "McDowell’s No.1 Celebration",
+      "description": "A popular rum brand enjoyed across the country.",
+      "image": "https://i.pinimg.com/736x/da/0f/84/da0f849ed70a034b8339e7a544edd6ec.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e030a128b60a53fa57b2",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e099a128b60a53fa57b6",
+      "title": "Hercules",
+      "description": "Known for its strong taste and popular among defense personnel.",
+      "image": "https://w0.peakpx.com/wallpaper/174/299/HD-wallpaper-drinks-black-bottle-dark-jack.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e030a128b60a53fa57b2",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e0bfa128b60a53fa57b7",
+      "title": "Bacardi",
+      "description": "While an international brand, it is widely consumed in India, especially for cocktails.",
+      "image": "https://w0.peakpx.com/wallpaper/700/399/HD-wallpaper-bacardi-rum-snow.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e030a128b60a53fa57b2",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e0f1a128b60a53fa57b9",
+      "title": "Magic Moments",
+      "description": "A leading vodka brand in India known for its variety of flavors.",
+      "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e0dba128b60a53fa57b8",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e114a128b60a53fa57ba",
+      "title": "Romanov",
+      "description": "A popular choice among vodka drinkers for its affordability.",
+      "image": "https://w0.peakpx.com/wallpaper/208/796/HD-wallpaper-vodka-alcohol-drink-russian.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e0dba128b60a53fa57b8",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e13da128b60a53fa57bb",
+      "title": "White Mischief",
+      "description": "Known for its smoothness and wide range of flavors.",
+      "image": "https://w0.peakpx.com/wallpaper/72/785/HD-wallpaper-vodka-bottles-beverage-bottle-cool-drink-thirst.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e0dba128b60a53fa57b8",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    },
+    {
+      "price": {
+        "small": "50",
+        "medium": "100",
+        "full": "200"
+      },
+      "id": "66b0e16ca128b60a53fa57bc",
+      "title": "Smirnoff",
+      "description": "An international brand that is very popular in India.",
+      "image": "https://cdn.wallpapersafari.com/52/71/rRdAW2.jpg",
+      "genre": "veg",
+      "rating": 0,
+      "categoryId": "66b0e0dba128b60a53fa57b8",
+      "restaurantId": "66b0d9d8a128b60a53fa578f"
+    }
+  ]
+}
