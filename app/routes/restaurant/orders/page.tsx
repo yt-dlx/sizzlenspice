@@ -12,7 +12,7 @@ import { FaRupeeSign, FaEye, FaEyeSlash } from "react-icons/fa";
 import { MdShoppingCart, MdLocalShipping, MdDoneAll } from "react-icons/md";
 
 export default function RestaurantOrdersPage() {
-  const { data: session } = useSession();
+  const { data: session, status } = useSession();
   const [isLoading, setIsLoading] = useState(true);
   const [orders, setOrders] = useState<Order[]>([]);
   const [loading, setLoading] = React.useState(false);
@@ -22,12 +22,14 @@ export default function RestaurantOrdersPage() {
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
   useEffect(() => {
+    if (status === "authenticated") fetchOrders();
+  }, [status]);
+  useEffect(() => {
     const channel = pusherClient.subscribe("partner-channel");
     channel.bind("order-updated", (data: { orderId: string; status: string }) => {
       setOrders((prevOrders) => prevOrders.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)));
       if (selectedOrder && selectedOrder._id === data.orderId) setSelectedOrder((prev) => (prev ? { ...prev, status: data.status } : null));
     });
-    fetchOrders();
     let timerInterval: string | number | NodeJS.Timeout | undefined;
     try {
       timerInterval = setInterval(() => {
@@ -49,7 +51,7 @@ export default function RestaurantOrdersPage() {
       channel.unsubscribe();
       clearInterval(timerInterval);
     };
-  }, []);
+  }, [orders, selectedOrder]);
   const formatTime = (seconds: number) => {
     const hours = Math.floor(seconds / 3600);
     const minutes = Math.floor((seconds % 3600) / 60);
@@ -80,7 +82,15 @@ export default function RestaurantOrdersPage() {
       const response = await fetch("/api/orders");
       if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
-      const reversedOrders = data.orders.reverse();
+      console.log("Fetched orders:", data);
+      const userEmail = session?.user?.email;
+      console.log("User email:", userEmail);
+      const filteredOrders = data.orders.filter((order: Order) => {
+        console.log("Order email:", order.customerEmail);
+        return order.customerEmail === userEmail;
+      });
+      console.log("Filtered orders:", filteredOrders);
+      const reversedOrders = filteredOrders.reverse();
       setOrders(reversedOrders);
       if (reversedOrders.length > 0) setSelectedOrder(reversedOrders[0]);
     } catch (error: any) {
