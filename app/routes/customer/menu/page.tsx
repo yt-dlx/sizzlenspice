@@ -53,8 +53,15 @@ export default function MenuPage() {
     categories.forEach((category) => {
       if (category.title !== "All") allItems = [...allItems, ...category.items];
     });
-    const categoryItems = activeCategory === "All" ? allItems : categories.find((cat) => cat.title === activeCategory)?.items || [];
-    return categoryItems.filter((item) => item.title.toLowerCase().includes(searchTerm.toLowerCase()) || item.description.toLowerCase().includes(searchTerm.toLowerCase()));
+    const categoryItems =
+      activeCategory === "All"
+        ? allItems
+        : categories.find((cat) => cat.title === activeCategory)?.items || [];
+    return categoryItems.filter(
+      (item) =>
+        item.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        item.description.toLowerCase().includes(searchTerm.toLowerCase())
+    );
   }, [categories, activeCategory, searchTerm]);
 
   const groupedCart = cart.reduce(
@@ -95,14 +102,21 @@ export default function MenuPage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-4xl">{selectedItem.title}</h2>
                 <button onClick={() => setIsModalOpen(false)}>
-                  <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
+                  <MdClose
+                    size={30}
+                    className="text-primary bg-secondary rounded-xl animate-spin"
+                  />
                 </button>
               </div>
               <div className="flex items-center mb-4">
                 <div className="flex flex-col">
                   <div className="flex items-center space-x-2 mb-2">
-                    <div className={`w-4 h-4 rounded-xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
-                    <span className="font-bold">{selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}</span>
+                    <div
+                      className={`w-4 h-4 rounded-xl ${selectedItem.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`}
+                    />
+                    <span className="font-bold">
+                      {selectedItem.genre === "veg" ? "Vegetarian" : "Non-Vegetarian"}
+                    </span>
                   </div>
                   <div className="flex items-center">
                     <span className="text-yellow-400 mr-1">★</span>
@@ -114,11 +128,15 @@ export default function MenuPage() {
               <p className="mb-2 text-xl">Select Size:</p>
               <div className="space-y-2">
                 {Object.entries(selectedItem.price).map(([size, price]) => {
-                  const cartItem = cart.find((item) => item.title === selectedItem.title && item.selectedSize === size);
+                  const cartItem = cart.find(
+                    (item) => item.title === selectedItem.title && item.selectedSize === size
+                  );
                   const quantity = cartItem ? cartItem.quantity : 0;
                   return (
                     <div key={size} className="flex items-center justify-between">
-                      <span className="font-Kurale">{size.charAt(0).toUpperCase() + size.slice(1)}</span>
+                      <span className="font-Kurale">
+                        {size.charAt(0).toUpperCase() + size.slice(1)}
+                      </span>
                       <div className="flex items-center">
                         <span className="font-bold mr-2 inline-flex items-center">
                           <FaRupeeSign size={12} />
@@ -127,14 +145,28 @@ export default function MenuPage() {
                         {quantity > 0 ? (
                           <div className="flex items-center gap-2">
                             <button
-                              onClick={() => updateCartItemQuantity(selectedItem.title, size, selectedItem.restaurantId, quantity - 1)}
+                              onClick={() =>
+                                updateCartItemQuantity(
+                                  selectedItem.title,
+                                  size,
+                                  selectedItem.restaurantId,
+                                  quantity - 1
+                                )
+                              }
                               className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                             >
                               <FaMinus />
                             </button>
                             <span className="inline-flex text-lg">{quantity}</span>
                             <button
-                              onClick={() => updateCartItemQuantity(selectedItem.title, size, selectedItem.restaurantId, quantity + 1)}
+                              onClick={() =>
+                                updateCartItemQuantity(
+                                  selectedItem.title,
+                                  size,
+                                  selectedItem.restaurantId,
+                                  quantity + 1
+                                )
+                              }
                               className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                             >
                               <FaPlus />
@@ -142,7 +174,13 @@ export default function MenuPage() {
                           </div>
                         ) : (
                           <button
-                            onClick={() => addToCart({ ...selectedItem, selectedSize: size, restaurantId: selectedItem.restaurantId })}
+                            onClick={() =>
+                              addToCart({
+                                ...selectedItem,
+                                selectedSize: size,
+                                restaurantId: selectedItem.restaurantId,
+                              })
+                            }
                             className="px-3 py-1 rounded-xl text-sm bg-primary hover:bg-tertiary text-secondary transition duration-300"
                           >
                             Add To Cart
@@ -157,13 +195,26 @@ export default function MenuPage() {
           </motion.div>
         )}
       </AnimatePresence>
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <section
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation sequence={["Sizzle 'n Spice", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+          <TypeAnimation
+            sequence={["Sizzle 'n Spice", 2000]}
+            repeat={Infinity}
+            wrapper="span"
+            speed={2}
+          />
         </h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          Where Every Bite Sizzles With Flavour and Love!
+        </h2>
       </section>
-      <section id="categories" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2">
+      <section
+        id="categories"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl flex items-center justify-center mx-auto py-2"
+      >
         <div className="flex scrollbar-thin scrollbar-thumb-secondary scrollbar-track-primary overflow-x-auto space-x-2 pb-4">
           {categories.map((category, index) => (
             <button
@@ -172,17 +223,30 @@ export default function MenuPage() {
               className={`flex flex-col items-center shadow-md shadow-secondary/20 p-1 rounded-xl w-24 text-primary ${activeCategory === category.title ? "bg-secondary/90" : "bg-secondary/20 text-secondary"}`}
             >
               <div className="w-20 h-20 rounded-xl flex items-center justify-center overflow-hidden">
-                <Image unoptimized width={540} height={540} src={category.image} alt={category.title} className="object-cover w-full h-full" />
+                <Image
+                  unoptimized
+                  width={540}
+                  height={540}
+                  src={category.image}
+                  alt={category.title}
+                  className="object-cover w-full h-full"
+                />
               </div>
               <span className="text-sm mt-4">{category.title}</span>
             </button>
           ))}
         </div>
       </section>
-      <section id="search" className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4">
+      <section
+        id="search"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto space-y-1 flex flex-col text-xs py-4"
+      >
         <div className="flex flex-col gap-1 w-full">
           <div className="relative w-full">
-            <FaSearch size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary" />
+            <FaSearch
+              size={20}
+              className="absolute left-3 top-1/2 transform -translate-y-1/2 text-primary"
+            />
             <input
               type="text"
               value={searchTerm}
@@ -193,7 +257,10 @@ export default function MenuPage() {
           </div>
         </div>
       </section>
-      <section id="items" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
+      <section
+        id="items"
+        className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4"
+      >
         <div className="gap-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
           {filteredItems &&
             filteredItems.map((item, index) => (
@@ -204,15 +271,25 @@ export default function MenuPage() {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="flex flex-col rounded-xl overflow-hidden h-full shadow-md shadow-secondary border-4 border-double border-secondary"
               >
-                <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-full h-48" />
+                <Image
+                  width={540}
+                  height={540}
+                  src={item.image}
+                  alt={item.title}
+                  className="object-cover w-full h-48"
+                />
                 <div className="text-primary flex flex-col justify-between bg-secondary flex-grow p-4">
                   <div className="flex justify-between items-center">
                     <div className="flex items-center space-x-2">
-                      <div className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`} />
+                      <div
+                        className={`w-4 h-4 rounded-xl animate-pulse ${item.genre === "veg" ? "bg-lime-400" : "bg-red-600"}`}
+                      />
                       <h2 className="font-bold text-lg">{item.title}</h2>
                     </div>
                     <div className="inline-flex items-center justify-center animate-pulse">
-                      <span className="text-yellow-400 gap-1 text-sm flex items-center">★ {item.rating.toFixed(1)}</span>
+                      <span className="text-yellow-400 gap-1 text-sm flex items-center">
+                        ★ {item.rating.toFixed(1)}
+                      </span>
                     </div>
                   </div>
                   <p className="text-sm mt-2">{item.description}</p>
@@ -234,10 +311,14 @@ export default function MenuPage() {
       </section>
       {cart.length > 0 && !isCartOpen && (
         <section id="cart-button" className="fixed bottom-14 right-2 z-30">
-          <button onClick={() => setIsCartOpen(!isCartOpen)} className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-xl flex items-center">
+          <button
+            onClick={() => setIsCartOpen(!isCartOpen)}
+            className="bg-primary hover:bg-tertiary transform transition duration-700 text-secondary p-2 rounded-xl flex items-center"
+          >
             <FaShoppingCart size={20} />
             <span className="ml-2 inline-flex items-center">
-              Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} | <FaRupeeSign />
+              Total Items - {cart.reduce((total: any, item: any) => total + item.quantity, 0)} |{" "}
+              <FaRupeeSign />
               {totalCost.toFixed(2)}
             </span>
           </button>
@@ -256,16 +337,27 @@ export default function MenuPage() {
               <div className="flex justify-between items-center mb-4">
                 <h2 className="text-7xl">Cart</h2>
                 <button onClick={() => setIsCartOpen(false)}>
-                  <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
+                  <MdClose
+                    size={30}
+                    className="text-primary bg-secondary rounded-xl animate-spin"
+                  />
                 </button>
               </div>
               {Object.keys(groupedCart).map((restaurantId) => (
                 <div key={restaurantId} className="mb-4">
-                  <h3 className="text-xl font-bold mb-2">{restaurants.find((restaurant) => restaurant.id === restaurantId)?.name}</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    {restaurants.find((restaurant) => restaurant.id === restaurantId)?.name}
+                  </h3>
                   {groupedCart[restaurantId].map((item: any, index: any) => (
                     <div key={index} className="flex items-center justify-between mb-4">
                       <div className="flex items-center">
-                        <Image width={540} height={540} src={item.image} alt={item.title} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
+                        <Image
+                          width={540}
+                          height={540}
+                          src={item.image}
+                          alt={item.title}
+                          className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary"
+                        />
                         <div className="ml-2">
                           <h3 className="font-bold">{item.title}</h3>
                           <p className="text-sm">{item.selectedSize}</p>
@@ -273,20 +365,36 @@ export default function MenuPage() {
                       </div>
                       <div className="flex items-center gap-2">
                         <button
-                          onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity - 1)}
+                          onClick={() =>
+                            updateCartItemQuantity(
+                              item.title,
+                              item.selectedSize,
+                              item.restaurantId,
+                              item.quantity - 1
+                            )
+                          }
                           className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                         >
                           <FaMinus />
                         </button>
                         <span className="inline-flex text-lg">{item.quantity}</span>
                         <button
-                          onClick={() => updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity + 1)}
+                          onClick={() =>
+                            updateCartItemQuantity(
+                              item.title,
+                              item.selectedSize,
+                              item.restaurantId,
+                              item.quantity + 1
+                            )
+                          }
                           className="text-sm bg-primary hover:bg-tertiary text-secondary p-1 rounded-xl transition duration-300"
                         >
                           <FaPlus />
                         </button>
                         <button
-                          onClick={() => removeFromCart(item.title, item.selectedSize, item.restaurantId)}
+                          onClick={() =>
+                            removeFromCart(item.title, item.selectedSize, item.restaurantId)
+                          }
                           className="text-sm bg-red-700 hover:bg-red-800 text-primary p-1 rounded-xl transition duration-300"
                         >
                           <MdClose size={16} />
@@ -318,7 +426,9 @@ export default function MenuPage() {
           </motion.section>
         )}
       </AnimatePresence>
-      {(isModalOpen || isCartOpen) && <div className="fixed inset-0 bg-primary/50 backdrop-blur-3xl z-40"></div>}
+      {(isModalOpen || isCartOpen) && (
+        <div className="fixed inset-0 bg-primary/50 backdrop-blur-3xl z-40"></div>
+      )}
     </main>
   );
 }

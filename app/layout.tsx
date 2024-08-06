@@ -8,11 +8,15 @@ import Footer from "./_assets/components/Footer";
 import AnimatedContentWrapper from "./_assets/components/AnimatedContentWrapper";
 
 const Kurale = LocalFontLoader({ variable: "--font-Kurale", src: "./_assets/fonts/Kurale.ttf" });
-const Brittany = LocalFontLoader({ variable: "--font-Brittany", src: "./_assets/fonts/Brittany.otf" });
+const Brittany = LocalFontLoader({
+  variable: "--font-Brittany",
+  src: "./_assets/fonts/Brittany.otf",
+});
 
 export const metadata: Metadata = {
   title: "Sizzle 'n Spice - Delicious Indian Cuisine Delivered",
-  description: "Order delicious Indian foods like Palak Paneer, Butter Chicken, and more from Sizzle 'n Spice and get them delivered to your doorstep.",
+  description:
+    "Order delicious Indian foods like Palak Paneer, Butter Chicken, and more from Sizzle 'n Spice and get them delivered to your doorstep.",
   keywords: "Indian cuisine, Palak Paneer, Butter Chicken, Paneer Tikka, Biryani, food delivery",
 };
 

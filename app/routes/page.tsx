@@ -14,27 +14,45 @@ import { FaMapMarkerAlt, FaMapPin, FaPhone, FaEnvelope } from "react-icons/fa";
 export default function UserPage() {
   const router = useRouter();
   const { data: session } = useSession();
-  const [userData, setUserData] = useState<UserData>({ phoneNumber: "", customerEmail: "", locationData: { latitude: "", longitude: "", address: "", pincode: "" } });
+  const [userData, setUserData] = useState<UserData>({
+    phoneNumber: "",
+    customerEmail: "",
+    locationData: { latitude: "", longitude: "", address: "", pincode: "" },
+  });
   const { isLoading, error, data } = useQuery({
     queryKey: ["userData"],
     queryFn: async () => {
-      const response = await fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } });
+      const response = await fetch("/api/user", {
+        method: "GET",
+        headers: { "Content-Type": "application/json" },
+      });
       if (!response.ok) throw new Error("Failed to fetch user data");
       return response.json();
     },
     enabled: !!session,
   });
   useEffect(() => {
-    if (data) setUserData((prev) => ({ ...prev, phoneNumber: data.phoneNumber || "", customerEmail: data.customerEmail || session?.user?.email || "" }));
+    if (data)
+      setUserData((prev) => ({
+        ...prev,
+        phoneNumber: data.phoneNumber || "",
+        customerEmail: data.customerEmail || session?.user?.email || "",
+      }));
   }, [data, session]);
   const updateUserMutation = useMutation<void, Error, UserData>({
     mutationFn: async (userData) => {
-      const response = await fetch("/api/user", { method: "POST", body: JSON.stringify(userData), headers: { "Content-Type": "application/json" } });
+      const response = await fetch("/api/user", {
+        method: "POST",
+        body: JSON.stringify(userData),
+        headers: { "Content-Type": "application/json" },
+      });
       if (!response.ok) throw new Error("Failed to update user data");
     },
   });
-  const HandleInputChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, [field]: value }));
-  const HandleLocationChange = (field: string, value: string) => setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
+  const HandleInputChange = (field: string, value: string) =>
+    setUserData((prev) => ({ ...prev, [field]: value }));
+  const HandleLocationChange = (field: string, value: string) =>
+    setUserData((prev) => ({ ...prev, locationData: { ...prev.locationData, [field]: value } }));
   const HandleConfirm = async (event: FormEvent) => {
     event.preventDefault();
     updateUserMutation.mutate(userData, { onSuccess: () => router.push("/routes/customer/menu") });
@@ -45,7 +63,9 @@ export default function UserPage() {
       const lon = position.coords.longitude.toString();
       HandleLocationChange("latitude", lat);
       HandleLocationChange("longitude", lon);
-      const response = await fetch(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`);
+      const response = await fetch(
+        `https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lon}`
+      );
       if (response.ok) {
         const data = await response.json();
         if (data.address) {
@@ -67,16 +87,35 @@ export default function UserPage() {
         className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
       >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation sequence={["User Data", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+          <TypeAnimation
+            sequence={["User Data", 2000]}
+            repeat={Infinity}
+            wrapper="span"
+            speed={2}
+          />
         </h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">User data encompasses personal data collected to understand and improve user experiences!</h2>
-        <Image src="/svg/user.gif" alt="User data illustration" width={300} height={300} className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          User data encompasses personal data collected to understand and improve user experiences!
+        </h2>
+        <Image
+          src="/svg/user.gif"
+          alt="User data illustration"
+          width={300}
+          height={300}
+          className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180"
+        />
       </motion.section>
-      <section id="UserData" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
+      <section
+        id="UserData"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary"
+      >
         <form onSubmit={HandleConfirm} className="space-y-1 flex flex-col text-xs py-4">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full mb-8">
             <div className="relative flex-grow">
-              <FaMapMarkerAlt size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+              <FaMapMarkerAlt
+                size={20}
+                className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary"
+              />
               <input
                 type="text"
                 value={userData.locationData.address}
@@ -87,7 +126,10 @@ export default function UserPage() {
               />
             </div>
             <div className="relative flex-grow">
-              <FaMapPin size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+              <FaMapPin
+                size={20}
+                className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary"
+              />
               <input
                 type="text"
                 value={userData.locationData.pincode}
@@ -98,7 +140,10 @@ export default function UserPage() {
               />
             </div>
             <div className="relative flex-grow">
-              <FaEnvelope size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+              <FaEnvelope
+                size={20}
+                className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary"
+              />
               <input
                 type="email"
                 value={userData.customerEmail}
@@ -109,7 +154,10 @@ export default function UserPage() {
               />
             </div>
             <div className="relative flex-grow">
-              <FaPhone size={20} className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary" />
+              <FaPhone
+                size={20}
+                className="absolute left-3 top-1/2 transform -translate-y-1/2 text-secondary"
+              />
               <input
                 type="tel"
                 value={userData.phoneNumber}

@@ -6,7 +6,12 @@ export const useStore = create<StoreState>((set, get) => ({
   cart: [],
   addToCart: (item: FoodItem & { selectedSize: string; restaurantId: string }) =>
     set((state) => {
-      const existingItemIndex = state.cart.findIndex((cartItem) => cartItem.title === item.title && cartItem.selectedSize === item.selectedSize && cartItem.restaurantId === item.restaurantId);
+      const existingItemIndex = state.cart.findIndex(
+        (cartItem) =>
+          cartItem.title === item.title &&
+          cartItem.selectedSize === item.selectedSize &&
+          cartItem.restaurantId === item.restaurantId
+      );
       if (existingItemIndex > -1) {
         const updatedCart = [...state.cart];
         updatedCart[existingItemIndex].quantity += 1;
@@ -15,12 +20,30 @@ export const useStore = create<StoreState>((set, get) => ({
     }),
   removeFromCart: (itemTitle: string, selectedSize: string, restaurantId: string) =>
     set((state) => ({
-      cart: state.cart.filter((item) => !(item.title === itemTitle && item.selectedSize === selectedSize && item.restaurantId === restaurantId)),
+      cart: state.cart.filter(
+        (item) =>
+          !(
+            item.title === itemTitle &&
+            item.selectedSize === selectedSize &&
+            item.restaurantId === restaurantId
+          )
+      ),
     })),
-  updateCartItemQuantity: (itemTitle: string, selectedSize: string, restaurantId: string, quantity: number) =>
+  updateCartItemQuantity: (
+    itemTitle: string,
+    selectedSize: string,
+    restaurantId: string,
+    quantity: number
+  ) =>
     set((state) => {
       const updatedCart = state.cart
-        .map((item) => (item.title === itemTitle && item.selectedSize === selectedSize && item.restaurantId === restaurantId ? { ...item, quantity: Math.max(0, quantity) } : item))
+        .map((item) =>
+          item.title === itemTitle &&
+          item.selectedSize === selectedSize &&
+          item.restaurantId === restaurantId
+            ? { ...item, quantity: Math.max(0, quantity) }
+            : item
+        )
         .filter((item) => item.quantity > 0);
       return { cart: updatedCart };
     }),

@@ -110,7 +110,8 @@ export default async function HomePage() {
     {
       title: "Butter Chicken",
       image: "/Butter_Chicken.jpg",
-      description: "A rich and creamy dish made with marinated chicken cooked in a spiced tomato sauce.",
+      description:
+        "A rich and creamy dish made with marinated chicken cooked in a spiced tomato sauce.",
     },
     {
       title: "Paneer Tikka",
@@ -125,17 +126,45 @@ export default async function HomePage() {
   ];
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
-      <header id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
-        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">Sizzle 'n Spice</h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Where Every Bite Sizzles With Flavour and Love!</h2>
-        <Image src="/sns.gif" alt="Sizzle 'n Spice logo" width={300} height={300} className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
+      <header
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
+          Sizzle 'n Spice
+        </h1>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          Where Every Bite Sizzles With Flavour and Love!
+        </h2>
+        <Image
+          src="/sns.gif"
+          alt="Sizzle 'n Spice logo"
+          width={300}
+          height={300}
+          className="mx-auto object-cover h-80 sm:h-96 lg:h-112"
+        />
       </header>
-      <section id="menu" className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4">
-        <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">Order delicious foods and get them at your doorsteps</p>
+      <section
+        id="menu"
+        className="flex flex-col items-center justify-center max-w-2xl sm:max-w-4xl md:max-w-6xl lg:max-w-7xl mx-auto py-4"
+      >
+        <p className="text-2xl lg:text-5xl md:text-center gap-2 py-4 text-secondary">
+          Order delicious foods and get them at your doorsteps
+        </p>
         <div className="gap-2 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4">
           {categories.map((category, index) => (
-            <a href="#login" key={index} className="flex flex-col rounded-xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full">
-              <Image src={category.image} width={540} height={540} alt={category.title} className="object-cover w-full h-48" />
+            <a
+              href="#login"
+              key={index}
+              className="flex flex-col rounded-xl shadow-md shadow-secondary border-4 border-double border-secondary overflow-hidden h-full"
+            >
+              <Image
+                src={category.image}
+                width={540}
+                height={540}
+                alt={category.title}
+                className="object-cover w-full h-48"
+              />
               <div className="text-primary flex flex-col justify-between rounded-b py-2 bg-secondary flex-grow text-center">
                 <h2 className="truncate">{category.title}</h2>
                 <p className="text-xs p-1">{category.description}</p>
@@ -144,7 +173,10 @@ export default async function HomePage() {
           ))}
         </div>
       </section>
-      <section id="login" className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-secondary lg:max-w-7xl mx-auto">
+      <section
+        id="login"
+        className="max-w-2xl sm:max-w-4xl md:max-w-6xl text-secondary lg:max-w-7xl mx-auto"
+      >
         <form
           action={async (formData: FormData) => {
             "use server";

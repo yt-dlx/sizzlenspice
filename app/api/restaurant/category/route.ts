@@ -7,7 +7,9 @@ export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { title, image, active, restaurantId } = await request.json();
-  const category = await prisma.category.create({ data: { title, image, active, restaurant: { connect: { id: restaurantId } } } });
+  const category = await prisma.category.create({
+    data: { title, image, active, restaurant: { connect: { id: restaurantId } } },
+  });
   return NextResponse.json(category);
 }
 
@@ -15,7 +17,10 @@ export async function PUT(request: NextRequest) {
   const session = await auth();
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { id, title, image, active, restaurantId } = await request.json();
-  const category = await prisma.category.update({ where: { id }, data: { title, image, active, restaurantId } });
+  const category = await prisma.category.update({
+    where: { id },
+    data: { title, image, active, restaurantId },
+  });
   return NextResponse.json(category);
 }
 

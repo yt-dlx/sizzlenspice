@@ -8,7 +8,10 @@ export async function GET(request: NextRequest) {
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const email = request.nextUrl.searchParams.get("email");
   if (!email) return NextResponse.json({ error: "Email is required" }, { status: 400 });
-  const restaurant = await prisma.restaurant.findUnique({ where: { email }, include: { categories: { include: { items: true } } } });
+  const restaurant = await prisma.restaurant.findUnique({
+    where: { email },
+    include: { categories: { include: { items: true } } },
+  });
   if (!restaurant) return NextResponse.json({ error: "Restaurant not found" }, { status: 404 });
   return NextResponse.json(restaurant);
 }
@@ -19,7 +22,10 @@ export async function POST(request: NextRequest) {
   const { email, phoneNumber, name } = await request.json();
   const user = await prisma.user.findFirst({ where: { OR: [{ email }, { phoneNumber }] } });
   if (!user) return NextResponse.json({ error: "User not found" }, { status: 404 });
-  const restaurant = await prisma.restaurant.findFirst({ where: { name }, include: { categories: { include: { items: true } } } });
+  const restaurant = await prisma.restaurant.findFirst({
+    where: { name },
+    include: { categories: { include: { items: true } } },
+  });
   if (!restaurant) return NextResponse.json({ error: "Restaurant not found" }, { status: 404 });
   return NextResponse.json(restaurant);
 }

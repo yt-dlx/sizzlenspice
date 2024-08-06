@@ -72,7 +72,8 @@ export default function CompanyPage() {
       refetchVerified();
     },
   });
-  const handleVerify = (restaurantId: string, verified: boolean) => verifyMutation.mutate({ restaurantId, verified });
+  const handleVerify = (restaurantId: string, verified: boolean) =>
+    verifyMutation.mutate({ restaurantId, verified });
   const submitRenderModal = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     switch (modalType) {
@@ -89,14 +90,27 @@ export default function CompanyPage() {
   if (pendingLoading || verifiedLoading) return <Loading />;
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 relative">
-      <section id="header" className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary">
+      <section
+        id="header"
+        className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
+      >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation sequence={["Company Page", 2000]} repeat={Infinity} wrapper="span" speed={2} />
+          <TypeAnimation
+            sequence={["Company Page", 2000]}
+            repeat={Infinity}
+            wrapper="span"
+            speed={2}
+          />
         </h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Manage Your Restaurant Verifications</h2>
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
+          Manage Your Restaurant Verifications
+        </h2>
       </section>
       {errorMessage && (
-        <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4" role="alert">
+        <div
+          className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4"
+          role="alert"
+        >
           <strong className="font-bold">Error: </strong>
           <span className="block sm:inline">{errorMessage}</span>
         </div>
@@ -142,7 +156,8 @@ export default function CompanyPage() {
                     <strong>PAN Card Number:</strong> {restaurant.panCardNumber}
                   </p>
                   <p>
-                    <strong>PAN Card Name:</strong> {restaurant.panCardFirstName} {restaurant.panCardLastName}
+                    <strong>PAN Card Name:</strong> {restaurant.panCardFirstName}{" "}
+                    {restaurant.panCardLastName}
                   </p>
                 </div>
               </div>
@@ -221,9 +236,14 @@ export default function CompanyPage() {
           >
             <div className="p-4 w-full overflow-y-auto">
               <div className="flex justify-between items-center mb-4">
-                <h2 className="font-bold text-4xl">{modalType === "approveRestaurant" ? "Approve Restaurant" : "Reject Restaurant"}</h2>
+                <h2 className="font-bold text-4xl">
+                  {modalType === "approveRestaurant" ? "Approve Restaurant" : "Reject Restaurant"}
+                </h2>
                 <button onClick={() => setIsModalOpen(false)}>
-                  <MdClose size={30} className="text-primary bg-secondary rounded-xl animate-spin" />
+                  <MdClose
+                    size={30}
+                    className="text-primary bg-secondary rounded-xl animate-spin"
+                  />
                 </button>
               </div>
               <form onSubmit={submitRenderModal} className="bg-primary/20 rounded-xl p-2">
