@@ -27,3 +27,610 @@ Give Me 50 Categories With 'Marvel' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
+1. **Category Name: Superhero Teams**
+    1. **Avengers Assemble:**
+        1. First Image: The Avengers assembling in New York City, ready for action.
+        2. Second Image: Facing a powerful enemy together, showcasing their teamwork.
+        3. Third Image: An intense battle where the Avengers use their unique abilities.
+        4. Fourth Image: The Avengers standing victorious, with the city cheering them on.
+    2. **Guardians of the Galaxy:**
+        1. First Image: The Guardians aboard their spaceship, preparing for a new mission.
+        2. Second Image: Exploring a colorful alien planet filled with strange creatures.
+        3. Third Image: A dramatic fight against intergalactic villains.
+        4. Fourth Image: The Guardians celebrating their victory with a dance-off.
+
+2. **Category Name: Iconic Battles**
+    1. **Battle of New York:**
+        1. First Image: The Chitauri invading New York City, causing chaos.
+        2. Second Image: The Avengers assembling to defend the city.
+        3. Third Image: An epic showdown between the Avengers and the Chitauri.
+        4. Fourth Image: The city safe, with the Avengers standing triumphantly.
+    2. **Civil War:**
+        1. First Image: Captain America and Iron Man facing off at the airport.
+        2. Second Image: The two factions of heroes preparing for battle.
+        3. Third Image: A fierce fight between the divided Avengers.
+        4. Fourth Image: The aftermath, with the heroes reflecting on their conflict.
+
+3. **Category Name: Legendary Heroes**
+    1. **Spider-Man:**
+        1. First Image: Peter Parker swinging through the streets of New York City.
+        2. Second Image: Spider-Man fighting against the Green Goblin.
+        3. Third Image: A tense moment where Spider-Man saves civilians from danger.
+        4. Fourth Image: Spider-Man standing on a rooftop, looking out over the city.
+    2. **Black Panther:**
+        1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
+        2. Second Image: Black Panther fighting against Erik Killmonger.
+        3. Third Image: A powerful scene where Black Panther leads his people in battle.
+        4. Fourth Image: T’Challa crowned king, with Wakanda celebrating.
+
+4. **Category Name: Cosmic Adventures**
+    1. **Thor:**
+        1. First Image: Thor in Asgard, holding Mjolnir.
+        2. Second Image: Thor battling Loki in the Bifrost Bridge.
+        3. Third Image: An epic fight against the forces of Hela.
+        4. Fourth Image: Thor reigning as the king of Asgard, with the realm at peace.
+    2. **Captain Marvel:**
+        1. First Image: Carol Danvers discovering her powers as Captain Marvel.
+        2. Second Image: Captain Marvel soaring through space, ready for battle.
+        3. Third Image: A showdown with the Skrulls.
+        4. Fourth Image: Captain Marvel standing victorious, with the galaxy safe.
+
+5. **Category Name: Legendary Villains**
+    1. **Thanos:**
+        1. First Image: Thanos sitting on his throne, plotting his next move.
+        2. Second Image: The Mad Titan collecting the Infinity Stones.
+        3. Third Image: A climactic battle where the heroes confront Thanos.
+        4. Fourth Image: The aftermath, with Thanos defeated and balance restored.
+    2. **Loki:**
+        1. First Image: Loki scheming in Asgard, with a mischievous smile.
+        2. Second Image: Loki facing off against Thor in a dramatic battle.
+        3. Third Image: Loki causing chaos in New York City.
+        4. Fourth Image: Loki, redeemed, standing beside Thor as an ally.
+
+6. **Category Name: Heroic Origins**
+    1. **Iron Man:**
+        1. First Image: Tony Stark building his first Iron Man suit in a cave.
+        2. Second Image: Tony perfecting his suit and taking flight for the first time.
+        3. Third Image: Iron Man battling against Obadiah Stane.
+        4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
+    2. **Captain America:**
+        1. First Image: Steve Rogers volunteering for the super-soldier program.
+        2. Second Image: Captain America fighting Hydra forces in World War II.
+        3. Third Image: A heroic moment where Cap saves his fellow soldiers.
+        4. Fourth Image: Captain America waking up in the modern world, ready for new challenges.
+
+7. **Category Name: Mystical Realms**
+    1. **Doctor Strange:**
+        1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
+        2. Second Image: Doctor Strange using the Eye of Agamotto in battle.
+        3. Third Image: A mind-bending fight in the Mirror Dimension.
+        4. Fourth Image: Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
+    2. **Scarlet Witch:**
+        1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
+        2. Second Image: Scarlet Witch fighting alongside the Avengers.
+        3. Third Image: A dramatic moment where Scarlet Witch confronts her inner demons.
+        4. Fourth Image: Scarlet Witch mastering her powers and finding peace.
+
+8. **Category Name: High-Tech Heroes**
+    1. **Ant-Man:**
+        1. First Image: Scott Lang discovering the Ant-Man suit.
+        2. Second Image: Ant-Man shrinking down and exploring the Quantum Realm.
+        3. Third Image: A thrilling heist where Ant-Man must retrieve a crucial item.
+        4. Fourth Image: Ant-Man standing tall with his allies, mission accomplished.
+    2. **War Machine:**
+        1. First Image: James Rhodes suiting up as War Machine.
+        2. Second Image: War Machine fighting alongside Iron Man.
+        3. Third Image: A battle where War Machine’s firepower turns the tide.
+        4. Fourth Image: War Machine standing ready to defend, with the Avengers.
+
+9. **Category Name: Underworld Heroes**
+    1. **Daredevil:**
+        1. First Image: Matt Murdock training to become Daredevil in Hell’s Kitchen.
+        2. Second Image: Daredevil fighting against Kingpin’s thugs.
+        3. Third Image: A tense rooftop battle with Elektra by his side.
+        4. Fourth Image: Daredevil standing watch over the city, vigilant and determined.
+    2. **The Punisher:**
+        1. First Image: Frank Castle gearing up as The Punisher.
+        2. Second Image: The Punisher taking on a gang in a brutal fight.
+        3. Third Image: A showdown with a powerful crime lord.
+        4. Fourth Image: The Punisher walking away from an explosion, mission complete.
+
+10. **Category Name: Alien Worlds**
+    1. **Asgard:**
+        1. First Image: The majestic city of Asgard, with its golden spires.
+        2. Second Image: Thor and Loki standing on the Bifrost Bridge.
+        3. Third Image: An epic battle against the Frost Giants.
+        4. Fourth Image: Asgard celebrating, with Thor as the hero.
+    2. **Xandar:**
+        1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
+        2. Second Image: The Guardians of the Galaxy arriving on Xandar.
+        3. Third Image: A battle against Ronan the Accuser’s forces.
+        4. Fourth Image: Xandar safe and flourishing, with the Nova Corps and Guardians as protectors.
+
+11. **Category Name: Legendary Battles**
+    1. **Battle of Wakanda:**
+        1. First Image: The Avengers and Wakandan forces preparing for battle.
+        2. Second Image: Thanos’ army attacking Wakanda’s shield.
+        3. Third Image: A fierce battle with the Avengers and Wakandans fighting side by side.
+        4. Fourth Image: The battlefield calm, with the heroes standing victorious.
+    2. **Battle of Titan:**
+        1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
+        2. Second Image: A strategic fight against Thanos, with heroes using their unique abilities.
+        3. Third Image: The dramatic moment where Thanos nearly gains the upper hand.
+        4. Fourth Image: The aftermath, with the heroes regrouping and planning their next move.
+
+12. **Category Name: Enigmatic Heroes**
+    1. **Black Widow:**
+        1. First Image: Natasha Romanoff on a covert mission.
+        2. Second Image: Black Widow fighting off attackers with her acrobatic skills.
+        3. Third Image: A tense confrontation with an enemy spy.
+        4. Fourth Image: Black Widow standing strong, having completed her mission.
+    2. **Hawkeye:**
+        1. First Image: Clint Barton preparing his bow and arrows.
+        2. Second Image: Hawkeye taking down enemies with precise shots.
+        3. Third Image: A dramatic rooftop battle with allies
+
+.
+        4. Fourth Image: Hawkeye standing vigilant, ready for the next challenge.
+
+13. **Category Name: Heroes of the Multiverse**
+    1. **Spider-Verse:**
+        1. First Image: Different versions of Spider-Man from various universes meeting.
+        2. Second Image: The Spider-People working together to stop a multiversal threat.
+        3. Third Image: A climactic battle where the Spider-Verse heroes showcase their unique abilities.
+        4. Fourth Image: The multiverse safe, with the Spider-People returning to their respective worlds.
+    2. **Doctor Strange in the Multiverse:**
+        1. First Image: Doctor Strange discovering portals to alternate realities.
+        2. Second Image: Strange encountering alternate versions of himself.
+        3. Third Image: A conflict where Strange must prevent a multiversal collapse.
+        4. Fourth Image: The multiverse stabilized, with Strange standing as its guardian.
+
+14. **Category Name: Futuristic Heroes**
+    1. **Iron Man 2020:**
+        1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
+        2. Second Image: Battling against futuristic villains with advanced technology.
+        3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
+        4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
+    2. **Spider-Man 2099:**
+        1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
+        2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
+        3. Third Image: A showdown with a powerful corporate villain.
+        4. Fourth Image: The city safe, with Spider-Man 2099 standing as its protector.
+
+15. **Category Name: Street-Level Heroes**
+    1. **Luke Cage:**
+        1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
+        2. Second Image: Cage fighting off gang members with his super strength.
+        3. Third Image: A showdown with a powerful crime lord.
+        4. Fourth Image: Harlem safe, with Luke Cage celebrated as a hero.
+    2. **Jessica Jones:**
+        1. First Image: Jessica Jones in her detective office, contemplating her next case.
+        2. Second Image: Investigating a crime scene with her keen intuition.
+        3. Third Image: A confrontation with a dangerous adversary.
+        4. Fourth Image: Case solved, with Jessica Jones ready for her next challenge.
+
+16. **Category Name: Guardians of the Multiverse**
+    1. **Captain Britain:**
+        1. First Image: Brian Braddock discovering the mystical amulet that transforms him into Captain Britain.
+        2. Second Image: Fighting supernatural threats with his new powers.
+        3. Third Image: A battle where Captain Britain defends his homeland.
+        4. Fourth Image: The land safe, with Captain Britain standing as a symbol of hope.
+    2. **Defenders of the Multiverse:**
+        1. First Image: Various heroes from different universes meeting to protect the multiverse.
+        2. Second Image: Coordinating strategies to fend off a multiversal threat.
+        3. Third Image: A climactic battle where each hero uses their unique abilities.
+        4. Fourth Image: The multiverse safe, with the defenders returning to their worlds.
+
+17. **Category Name: Legendary Beasts**
+    1. **Fin Fang Foom:**
+        1. First Image: The ancient dragon Fin Fang Foom awakening from his slumber.
+        2. Second Image: Heroes like Iron Man and Hulk preparing to confront the beast.
+        3. Third Image: A battle where the heroes must combine their strengths to defeat the dragon.
+        4. Fourth Image: The dragon subdued, with the heroes standing victorious.
+    2. **The Phoenix:**
+        1. First Image: Jean Grey transforming into the Phoenix.
+        2. Second Image: The X-Men trying to reach Jean and control the Phoenix’s power.
+        3. Third Image: A battle where the Phoenix’s power threatens to consume everything.
+        4. Fourth Image: Jean regaining control, with the Phoenix force stabilized.
+
+18. **Category Name: Mystical Artifacts**
+    1. **Infinity Gauntlet:**
+        1. First Image: Thanos wielding the Infinity Gauntlet with all the stones.
+        2. Second Image: Heroes strategizing to remove the Gauntlet from Thanos.
+        3. Third Image: A battle where the Gauntlet’s power is showcased.
+        4. Fourth Image: The Gauntlet destroyed, with the universe safe once again.
+    2. **Eye of Agamotto:**
+        1. First Image: Doctor Strange using the Eye of Agamotto to manipulate time.
+        2. Second Image: A moment where Strange must use the Eye to prevent a catastrophe.
+        3. Third Image: A battle where the Eye’s power is crucial to the heroes’ success.
+        4. Fourth Image: The Eye safely kept, with Strange standing as its guardian.
+
+19. **Category Name: Heroes Reborn**
+    1. **Old Man Logan:**
+        1. First Image: An older Wolverine in a post-apocalyptic world.
+        2. Second Image: Logan fighting off enemies despite his age.
+        3. Third Image: A dramatic moment where Logan’s past haunts him.
+        4. Fourth Image: Logan standing as a lone hero, ready to protect the innocent.
+    2. **Spider-Gwen:**
+        1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
+        2. Second Image: Spider-Gwen fighting crime in her universe.
+        3. Third Image: A showdown with a familiar villain from her past.
+        4. Fourth Image: Spider-Gwen swinging through the city, ready for new challenges.
+
+20. **Category Name: Time-Travel Heroes**
+    1. **Kang the Conqueror:**
+        1. First Image: Kang arriving in the present day with plans to conquer time.
+        2. Second Image: Heroes from different eras teaming up to stop Kang.
+        3. Third Image: A battle across multiple time periods.
+        4. Fourth Image: Kang defeated, with the timeline restored.
+    2. **Cable:**
+        1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
+        2. Second Image: Cable teaming up with modern-day heroes.
+        3. Third Image: A battle where Cable’s futuristic weapons are key to victory.
+        4. Fourth Image: Cable returning to his time, mission accomplished.
+
+21. **Category Name: Legendary Allies**
+    1. **Falcon:**
+        1. First Image: Sam Wilson soaring through the sky with his Falcon suit.
+        2. Second Image: Falcon fighting alongside Captain America.
+        3. Third Image: A dramatic moment where Falcon’s aerial skills save the day.
+        4. Fourth Image: Falcon standing tall, ready for the next mission.
+    2. **Winter Soldier:**
+        1. First Image: Bucky Barnes as the Winter Soldier, battling his inner demons.
+        2. Second Image: Winter Soldier fighting alongside the Avengers.
+        3. Third Image: A confrontation with a past enemy.
+        4. Fourth Image: Bucky finding peace and redemption.
+
+22. **Category Name: Cosmic Heroes**
+    1. **Silver Surfer:**
+        1. First Image: Silver Surfer gliding through space on his cosmic board.
+        2. Second Image: Encountering Galactus and other cosmic beings.
+        3. Third Image: A battle where the Surfer’s cosmic powers are crucial.
+        4. Fourth Image: The cosmos safe, with Silver Surfer continuing his journey.
+    2. **Adam Warlock:**
+        1. First Image: Adam Warlock emerging from his cocoon.
+        2. Second Image: Warlock facing off against Thanos.
+        3. Third Image: A moment where Warlock’s powers are tested to the limit.
+        4. Fourth Image: Warlock standing as a protector of the universe.
+
+23. **Category Name: Elemental Heroes**
+    1. **Storm:**
+        1. First Image: Ororo Munroe discovering her powers over the weather.
+        2. Second Image: Storm using her abilities to protect her village.
+        3. Third Image: A dramatic battle where Storm’s powers turn the tide.
+        4. Fourth Image: Storm joining the X-Men, ready to fight for mutantkind.
+    2. **Iceman:**
+        1. First Image: Bobby Drake discovering his ability to control ice.
+        2. Second Image: Iceman creating ice structures to protect civilians.
+        3. Third Image: A showdown where Iceman’s powers are crucial to victory.
+        4. Fourth Image: Iceman standing with his fellow X-Men, confident in his abilities.
+
+24. **Category Name: Heroic Duos**
+    1. **Ant-Man and the Wasp:**
+        1. First Image: Scott Lang and Hope van Dyne suiting up as Ant-Man and the Wasp.
+        2. Second Image: The duo shrinking and flying to infiltrate a high-security facility.
+        3. Third Image: A battle where their combined skills
+
+ are key to success.
+        4. Fourth Image: Ant-Man and the Wasp standing victorious, ready for their next mission.
+    2. **Rocket and Groot:**
+        1. First Image: Rocket and Groot on a new adventure in space.
+        2. Second Image: Rocket using his gadgets while Groot provides backup.
+        3. Third Image: A conflict where Groot’s strength and Rocket’s brains save the day.
+        4. Fourth Image: The duo celebrating their victory with the Guardians of the Galaxy.
+
+25. **Category Name: Legendary Teachers**
+    1. **Professor X:**
+        1. First Image: Charles Xavier founding the Xavier Institute for Gifted Youngsters.
+        2. Second Image: Teaching young mutants to control their powers.
+        3. Third Image: A conflict where Professor X must use his powers to protect his students.
+        4. Fourth Image: The institute thriving, with Professor X as its wise leader.
+    2. **Nick Fury:**
+        1. First Image: Nick Fury assembling a team of heroes for a top-secret mission.
+        2. Second Image: Coordinating strategies and guiding the team.
+        3. Third Image: A battle where Fury’s leadership is crucial to victory.
+        4. Fourth Image: The team standing strong, ready for future missions with Fury.
+
+26. **Category Name: Anti-Heroes**
+    1. **Deadpool:**
+        1. First Image: Wade Wilson becoming Deadpool.
+        2. Second Image: Deadpool taking on mercenary missions with his unique style.
+        3. Third Image: A battle where Deadpool’s unorthodox methods save the day.
+        4. Fourth Image: Deadpool standing triumphant, with a witty comment.
+    2. **Venom:**
+        1. First Image: Eddie Brock bonding with the symbiote to become Venom.
+        2. Second Image: Venom fighting against other symbiotes and criminals.
+        3. Third Image: A confrontation with Spider-Man.
+        4. Fourth Image: Venom finding a balance between his human and alien sides.
+
+27. **Category Name: Mystical Realms**
+    1. **Doctor Strange:**
+        1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
+        2. Second Image: Doctor Strange using the Eye of Agamotto in battle.
+        3. Third Image: A mind-bending fight in the Mirror Dimension.
+        4. Fourth Image: Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
+    2. **Scarlet Witch:**
+        1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
+        2. Second Image: Scarlet Witch fighting alongside the Avengers.
+        3. Third Image: A dramatic moment where Scarlet Witch confronts her inner demons.
+        4. Fourth Image: Scarlet Witch mastering her powers and finding peace.
+
+28. **Category Name: Heroes of Wakanda**
+    1. **Shuri:**
+        1. First Image: Shuri in her lab, working on advanced technology.
+        2. Second Image: Shuri using her inventions to aid Black Panther in battle.
+        3. Third Image: A conflict where Shuri’s tech expertise saves the day.
+        4. Fourth Image: Shuri standing as a respected leader in Wakanda.
+    2. **Okoye:**
+        1. First Image: Okoye leading the Dora Milaje in Wakanda.
+        2. Second Image: Okoye fighting alongside Black Panther against enemies.
+        3. Third Image: A dramatic battle where Okoye’s skills are crucial.
+        4. Fourth Image: Okoye honored as a hero of Wakanda.
+
+29. **Category Name: Multiverse Guardians**
+    1. **Loki:**
+        1. First Image: Loki discovering the existence of the multiverse.
+        2. Second Image: Loki navigating through different realities.
+        3. Third Image: A conflict where Loki must save the multiverse from a looming threat.
+        4. Fourth Image: Loki standing as a protector of the multiverse, embracing his destiny.
+    2. **Spider-Man (Miles Morales):**
+        1. First Image: Miles Morales discovering his Spider-Man powers.
+        2. Second Image: Miles learning to control his abilities with the help of Peter Parker.
+        3. Third Image: A battle where Miles proves himself as a true Spider-Man.
+        4. Fourth Image: Miles swinging through the city, ready to protect his world.
+
+30. **Category Name: Cosmic Enforcers**
+    1. **Nova:**
+        1. First Image: Richard Rider receiving the Nova Force.
+        2. Second Image: Nova patrolling the galaxy as a member of the Nova Corps.
+        3. Third Image: A battle against cosmic threats where Nova’s powers are crucial.
+        4. Fourth Image: Nova standing as a protector of the galaxy.
+    2. **Quasar:**
+        1. First Image: Wendell Vaughn becoming Quasar and wielding the Quantum Bands.
+        2. Second Image: Quasar exploring the far reaches of space.
+        3. Third Image: A showdown with a powerful cosmic enemy.
+        4. Fourth Image: Quasar standing as a guardian of the universe.
+
+31. **Category Name: Legendary Warriors**
+    1. **Hercules:**
+        1. First Image: Hercules arriving on Earth from Olympus.
+        2. Second Image: Hercules fighting alongside the Avengers.
+        3. Third Image: A battle where Hercules’ strength is key to victory.
+        4. Fourth Image: Hercules celebrated as a hero both on Earth and Olympus.
+    2. **Ares:**
+        1. First Image: Ares, the god of war, arriving in the modern world.
+        2. Second Image: Ares joining forces with heroes to combat a greater threat.
+        3. Third Image: A battle where Ares’ warrior skills are crucial.
+        4. Fourth Image: Ares finding a new purpose as a hero.
+
+32. **Category Name: Legendary Heroes**
+    1. **Spider-Man:**
+        1. First Image: Peter Parker swinging through the streets of New York City.
+        2. Second Image: Spider-Man fighting against the Green Goblin.
+        3. Third Image: A tense moment where Spider-Man saves civilians from danger.
+        4. Fourth Image: Spider-Man standing on a rooftop, looking out over the city.
+    2. **Black Panther:**
+        1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
+        2. Second Image: Black Panther fighting against Erik Killmonger.
+        3. Third Image: A powerful scene where Black Panther leads his people in battle.
+        4. Fourth Image: T’Challa crowned king, with Wakanda celebrating.
+
+33. **Category Name: Heroes of the Night**
+    1. **Moon Knight:**
+        1. First Image: Marc Spector embracing his identity as Moon Knight.
+        2. Second Image: Moon Knight fighting criminals under the moonlight.
+        3. Third Image: A battle where Moon Knight’s multiple identities play a crucial role.
+        4. Fourth Image: Moon Knight standing vigilant as a protector of the night.
+    2. **Blade:**
+        1. First Image: Blade preparing his weapons to hunt vampires.
+        2. Second Image: Blade fighting against a horde of vampires.
+        3. Third Image: A confrontation with a powerful vampire lord.
+        4. Fourth Image: Blade standing as the ultimate vampire hunter, ready for the next battle.
+
+34. **Category Name: Legendary Heroes**
+    1. **Iron Man:**
+        1. First Image: Tony Stark building his first Iron Man suit in a cave.
+        2. Second Image: Tony perfecting his suit and taking flight for the first time.
+        3. Third Image: Iron Man battling against Obadiah Stane.
+        4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
+    2. **Captain America:**
+        1. First Image: Steve Rogers volunteering for the super-soldier program.
+        2. Second Image: Captain America fighting Hydra forces in World War II.
+        3. Third Image: A heroic moment where Cap saves his fellow soldiers.
+        4. Fourth Image: Captain America waking up in the modern world, ready for new challenges.
+
+35. **Category Name: Futuristic Heroes**
+    1. **Iron Man 2020:**
+        1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
+        2. Second Image: Battling against futuristic villains with advanced technology.
+        3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
+        4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
+    2. **Spider-Man 2099:**
+        1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
+        2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
+        3. Third Image: A showdown with a powerful corporate villain.
+        4. Fourth Image: The city safe, with Spider-Man 2099 standing as its protector.
+
+36. **Category Name: Cosmic Adventures**
+    1. **Thor:**
+        1. First Image: Thor in Asgard, holding
+
+ Mjolnir.
+        2. Second Image: Thor battling Loki in the Bifrost Bridge.
+        3. Third Image: An epic fight against the forces of Hela.
+        4. Fourth Image: Thor reigning as the king of Asgard, with the realm at peace.
+    2. **Captain Marvel:**
+        1. First Image: Carol Danvers discovering her powers as Captain Marvel.
+        2. Second Image: Captain Marvel soaring through space, ready for battle.
+        3. Third Image: A showdown with the Skrulls.
+        4. Fourth Image: Captain Marvel standing victorious, with the galaxy safe.
+
+37. **Category Name: Multiverse Guardians**
+    1. **Spider-Man (Miles Morales):**
+        1. First Image: Miles Morales discovering his Spider-Man powers.
+        2. Second Image: Miles learning to control his abilities with the help of Peter Parker.
+        3. Third Image: A battle where Miles proves himself as a true Spider-Man.
+        4. Fourth Image: Miles swinging through the city, ready to protect his world.
+    2. **Doctor Strange in the Multiverse:**
+        1. First Image: Doctor Strange discovering portals to alternate realities.
+        2. Second Image: Strange encountering alternate versions of himself.
+        3. Third Image: A conflict where Strange must prevent a multiversal collapse.
+        4. Fourth Image: The multiverse stabilized, with Strange standing as its guardian.
+
+38. **Category Name: Legendary Heroes**
+    1. **Iron Man:**
+        1. First Image: Tony Stark building his first Iron Man suit in a cave.
+        2. Second Image: Tony perfecting his suit and taking flight for the first time.
+        3. Third Image: Iron Man battling against Obadiah Stane.
+        4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
+    2. **Captain America:**
+        1. First Image: Steve Rogers volunteering for the super-soldier program.
+        2. Second Image: Captain America fighting Hydra forces in World War II.
+        3. Third Image: A heroic moment where Cap saves his fellow soldiers.
+        4. Fourth Image: Captain America waking up in the modern world, ready for new challenges.
+
+39. **Category Name: Legendary Villains**
+    1. **Thanos:**
+        1. First Image: Thanos sitting on his throne, plotting his next move.
+        2. Second Image: The Mad Titan collecting the Infinity Stones.
+        3. Third Image: A climactic battle where the heroes confront Thanos.
+        4. Fourth Image: The aftermath, with Thanos defeated and balance restored.
+    2. **Loki:**
+        1. First Image: Loki scheming in Asgard, with a mischievous smile.
+        2. Second Image: Loki facing off against Thor in a dramatic battle.
+        3. Third Image: Loki causing chaos in New York City.
+        4. Fourth Image: Loki, redeemed, standing beside Thor as an ally.
+
+40. **Category Name: Time-Travel Heroes**
+    1. **Kang the Conqueror:**
+        1. First Image: Kang arriving in the present day with plans to conquer time.
+        2. Second Image: Heroes from different eras teaming up to stop Kang.
+        3. Third Image: A battle across multiple time periods.
+        4. Fourth Image: Kang defeated, with the timeline restored.
+    2. **Cable:**
+        1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
+        2. Second Image: Cable teaming up with modern-day heroes.
+        3. Third Image: A battle where Cable’s futuristic weapons are key to victory.
+        4. Fourth Image: Cable returning to his time, mission accomplished.
+
+41. **Category Name: Heroic Origins**
+    1. **Iron Man:**
+        1. First Image: Tony Stark building his first Iron Man suit in a cave.
+        2. Second Image: Tony perfecting his suit and taking flight for the first time.
+        3. Third Image: Iron Man battling against Obadiah Stane.
+        4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
+    2. **Captain America:**
+        1. First Image: Steve Rogers volunteering for the super-soldier program.
+        2. Second Image: Captain America fighting Hydra forces in World War II.
+        3. Third Image: A heroic moment where Cap saves his fellow soldiers.
+        4. Fourth Image: Captain America waking up in the modern world, ready for new challenges.
+
+42. **Category Name: Iconic Battles**
+    1. **Battle of New York:**
+        1. First Image: The Chitauri invading New York City, causing chaos.
+        2. Second Image: The Avengers assembling to defend the city.
+        3. Third Image: An epic showdown between the Avengers and the Chitauri.
+        4. Fourth Image: The city safe, with the Avengers standing triumphantly.
+    2. **Civil War:**
+        1. First Image: Captain America and Iron Man facing off at the airport.
+        2. Second Image: The two factions of heroes preparing for battle.
+        3. Third Image: A fierce fight between the divided Avengers.
+        4. Fourth Image: The aftermath, with the heroes reflecting on their conflict.
+
+43. **Category Name: Enigmatic Heroes**
+    1. **Black Widow:**
+        1. First Image: Natasha Romanoff on a covert mission.
+        2. Second Image: Black Widow fighting off attackers with her acrobatic skills.
+        3. Third Image: A tense confrontation with an enemy spy.
+        4. Fourth Image: Black Widow standing strong, having completed her mission.
+    2. **Hawkeye:**
+        1. First Image: Clint Barton preparing his bow and arrows.
+        2. Second Image: Hawkeye taking down enemies with precise shots.
+        3. Third Image: A dramatic rooftop battle with allies.
+        4. Fourth Image: Hawkeye standing vigilant, ready for the next challenge.
+
+44. **Category Name: Alien Worlds**
+    1. **Asgard:**
+        1. First Image: The majestic city of Asgard, with its golden spires.
+        2. Second Image: Thor and Loki standing on the Bifrost Bridge.
+        3. Third Image: An epic battle against the Frost Giants.
+        4. Fourth Image: Asgard celebrating, with Thor as the hero.
+    2. **Xandar:**
+        1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
+        2. Second Image: The Guardians of the Galaxy arriving on Xandar.
+        3. Third Image: A battle against Ronan the Accuser’s forces.
+        4. Fourth Image: Xandar safe and flourishing, with the Nova Corps and Guardians as protectors.
+
+45. **Category Name: Legendary Battles**
+    1. **Battle of Wakanda:**
+        1. First Image: The Avengers and Wakandan forces preparing for battle.
+        2. Second Image: Thanos’ army attacking Wakanda’s shield.
+        3. Third Image: A fierce battle with the Avengers and Wakandans fighting side by side.
+        4. Fourth Image: The battlefield calm, with the heroes standing victorious.
+    2. **Battle of Titan:**
+        1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
+        2. Second Image: A strategic fight against Thanos, with heroes using their unique abilities.
+        3. Third Image: The dramatic moment where Thanos nearly gains the upper hand.
+        4. Fourth Image: The aftermath, with the heroes regrouping and planning their next move.
+
+46. **Category Name: Heroes of the Multiverse**
+    1. **Spider-Verse:**
+        1. First Image: Different versions of Spider-Man from various universes meeting.
+        2. Second Image: The Spider-People working together to stop a multiversal threat.
+        3. Third Image: A climactic battle where the Spider-Verse heroes showcase their unique abilities.
+        4. Fourth Image: The multiverse safe, with the Spider-People returning to their respective worlds.
+    2. **Doctor Strange in the Multiverse:**
+        1. First Image: Doctor Strange discovering portals to alternate realities.
+        2. Second Image: Strange encountering alternate versions of himself.
+        3. Third Image: A conflict where Strange must prevent a multiversal collapse.
+        4. Fourth Image: The multiverse stabilized, with Strange standing as its guardian.
+
+47. **Category Name: Futuristic Heroes**
+    1. **Iron Man 2020:**
+        1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
+        2. Second Image: Battling against futuristic villains with advanced technology.
+        3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
+        4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
+    2. **Spider-Man 2099:**
+        1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
+        2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
+        3. Third Image: A showdown with a powerful corporate villain.
+        4. Fourth Image: The city
+
+ safe, with Spider-Man 2099 standing as its protector.
+
+48. **Category Name: Street-Level Heroes**
+    1. **Luke Cage:**
+        1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
+        2. Second Image: Cage fighting off gang members with his super strength.
+        3. Third Image: A showdown with a powerful crime lord.
+        4. Fourth Image: Harlem safe, with Luke Cage celebrated as a hero.
+    2. **Jessica Jones:**
+        1. First Image: Jessica Jones in her detective office, contemplating her next case.
+        2. Second Image: Investigating a crime scene with her keen intuition.
+        3. Third Image: A confrontation with a dangerous adversary.
+        4. Fourth Image: Case solved, with Jessica Jones ready for her next challenge.
+
+49. **Category Name: Heroes Reborn**
+    1. **Old Man Logan:**
+        1. First Image: An older Wolverine in a post-apocalyptic world.
+        2. Second Image: Logan fighting off enemies despite his age.
+        3. Third Image: A dramatic moment where Logan’s past haunts him.
+        4. Fourth Image: Logan standing as a lone hero, ready to protect the innocent.
+    2. **Spider-Gwen:**
+        1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
+        2. Second Image: Spider-Gwen fighting crime in her universe.
+        3. Third Image: A showdown with a familiar villain from her past.
+        4. Fourth Image: Spider-Gwen swinging through the city, ready for new challenges.
+
+50. **Category Name: Cosmic Heroes**
+    1. **Silver Surfer:**
+        1. First Image: Silver Surfer gliding through space on his cosmic board.
+        2. Second Image: Encountering Galactus and other cosmic beings.
+        3. Third Image: A battle where the Surfer’s cosmic powers are crucial.
+        4. Fourth Image: The cosmos safe, with Silver Surfer continuing his journey.
+    2. **Adam Warlock:**
+        1. First Image: Adam Warlock emerging from his cocoon.
+        2. Second Image: Warlock facing off against Thanos.
+        3. Third Image: A moment where Warlock’s powers are tested to the limit.
+        4. Fourth Image: Warlock standing as a protector of the universe.
