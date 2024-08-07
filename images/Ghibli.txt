@@ -29,15 +29,15 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Enchanted Forests
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Whispering Trees:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Whispering Trees:
     1. First Image: The Protagonist Entering A Mystical Forest With Towering Trees That Seem To Whisper Ancient Secrets.
     2. Second Image: Transition From The First Image, Encountering Friendly Forest Spirits And Magical Creatures.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Forest From An Encroaching Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Peace, With The Protagonist Gaining The Forest Spirits Gratitude.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit Grove:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit Grove:
     1. First Image: The Protagonist Discovering A Hidden Grove Filled With Glowing Plants And Ethereal Spirits.
     2. Second Image: Transition From The First Image, Learning About The Grove’S Magical Properties From A Wise Old Spirit.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Use Newfound Knowledge To Save The Grove.
@@ -45,15 +45,15 @@ Title: Spirit Grove:
 ================================================================ X ================================================================
 2. Category Name: Magical Towns
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Market:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Market:
     1. First Image: The Protagonist Arriving At A Bustling Market Town Filled With Whimsical Shops And Vibrant Stalls.
     2. Second Image: Transition From The First Image, Exploring The Town’S Unique Magical Goods And Meeting Eccentric Characters.
     3. Third Image: Transition From The Second Image, A Problem Where The Protagonist Helps The Townsfolk Solve A Mystery.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Market Thriving, With The Protagonist Celebrated As A Town Hero.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Village:
     1. First Image: The Protagonist Discovering A Charming Village Hidden By A Magical Barrier.
     2. Second Image: Transition From The First Image, Befriending The Villagers And Learning About Their Enchanting Way Of Life.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Protects The Village From An Outside Threat.
@@ -61,15 +61,15 @@ Title: Enchanted Village:
 ================================================================ X ================================================================
 3. Category Name: Sky Adventures
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Flying Castle:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Flying Castle:
     1. First Image: The Protagonist Discovering An Ancient Castle Floating Among The Clouds.
     2. Second Image: Transition From The First Image, Exploring The Castle’S Many Wonders And Encountering Magical Beings.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Prevent The Castle From Falling To Earth.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Secure And Floating Majestically, With The Protagonist As Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Airship Journey:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Airship Journey:
     1. First Image: The Protagonist Boarding A Grand Airship For An Adventurous Journey.
     2. Second Image: Transition From The First Image, Navigating Through Stunning Cloudscapes And Facing Aerial Challenges.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Defend The Airship From Sky Pirates.
@@ -77,15 +77,15 @@ Title: Airship Journey:
 ================================================================ X ================================================================
 4. Category Name: Mysterious Islands
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Lost Isle:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Lost Isle:
     1. First Image: The Protagonist Arriving At A Mysterious, Uncharted Island Surrounded By Mist.
     2. Second Image: Transition From The First Image, Exploring The Island’S Magical Flora And Fauna.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Uncovers The Island’S Ancient Secrets To Save It.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Island Thriving, With The Protagonist Becoming Its Protector.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Shore:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Shore:
     1. First Image: The Protagonist Discovering A Serene Beach On A Magical Island.
     2. Second Image: Transition From The First Image, Meeting Mystical Creatures That Inhabit The Island.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Island From Intruders.
@@ -93,15 +93,15 @@ Title: Enchanted Shore:
 ================================================================ X ================================================================
 5. Category Name: Magical Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit World:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit World:
     1. First Image: The Protagonist Accidentally Entering A Realm Filled With Spirits And Magical Beings.
     2. Second Image: Transition From The First Image, Navigating The Spirit World’S Unique Landscapes And Customs.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Help The Spirits Resolve An Ancient Conflict.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirit World In Harmony, With The Protagonist Returning Home With Newfound Wisdom.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Valley:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Valley:
     1. First Image: The Protagonist Discovering A Hidden Valley With Vibrant, Magical Flora.
     2. Second Image: Transition From The First Image, Learning The Valley’S Secrets From Wise, Mystical Creatures.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Prevent The Valley From Being Destroyed.
@@ -109,15 +109,15 @@ Title: Mystic Valley:
 ================================================================ X ================================================================
 6. Category Name: Enchanted Castles
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Castle In The Clouds:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Castle In The Clouds:
     1. First Image: The Protagonist Discovering A Magnificent Castle Floating In The Sky.
     2. Second Image: Transition From The First Image, Exploring The Castle’S Wonders And Meeting Its Magical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Castle From A Looming Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Remaining Safe And Enchanting, With The Protagonist Becoming Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Fortress:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Fortress:
     1. First Image: The Protagonist Entering A Hidden Fortress Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, Uncovering The Fortress’S Secrets And Meeting Its Enigmatic Keepers.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Fortress From Invaders.
@@ -125,15 +125,15 @@ Title: Mystic Fortress:
 ================================================================ X ================================================================
 7. Category Name: Nature’S Magic
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Guardians:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Guardians:
     1. First Image: The Protagonist Discovering A Forest Protected By Ancient, Magical Guardians.
     2. Second Image: Transition From The First Image, Learning About The Guardians’ Powers And Their Connection To The Forest.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Forest From A Destructive Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest And Its Guardians Flourishing, With The Protagonist Becoming A Protector.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic River:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic River:
     1. First Image: The Protagonist Discovering A River With Magical, Healing Properties.
     2. Second Image: Transition From The First Image, Learning The River’S Secrets From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The River From Pollution.
@@ -141,15 +141,15 @@ Title: Mystic River:
 ================================================================ X ================================================================
 8. Category Name: Enchanted Objects
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Magic Lantern:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Magic Lantern:
     1. First Image: The Protagonist Finding An Ancient Lantern That Emits Magical Light.
     2. Second Image: Transition From The First Image, Learning About The Lantern’S Powers From A Wise, Old Mentor.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Uses The Lantern To Overcome A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lantern Shining Brightly, With The Protagonist Revered As A Hero.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Amulet:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Amulet:
     1. First Image: The Protagonist Discovering A Mysterious Amulet With Enchanting Powers.
     2. Second Image: Transition From The First Image, Uncovering The Amulet’S Secrets And Its Connection To An Ancient Prophecy.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Uses The Amulet To Save Their Village.
@@ -157,15 +157,15 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 9. Category Name: Magical Gardens
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Orchard:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Orchard:
     1. First Image: The Protagonist Discovering An Orchard Where The Trees Bear Magical Fruit.
     2. Second Image: Transition From The First Image, Learning About The Orchard’S Magical Properties From Its Mystical Caretaker.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Orchard From A Magical Pest.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard Thriving, With The Protagonist Gaining The Orchard’S Blessings.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Garden:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Garden:
     1. First Image: The Protagonist Discovering A Hidden Garden Filled With Enchanted Flowers.
     2. Second Image: Transition From The First Image, Learning The Secrets Of The Garden From A Wise Old Gardener.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Protects The Garden From A Destructive Force.
@@ -173,15 +173,15 @@ Title: Mystic Garden:
 ================================================================ X ================================================================
 10. Category Name: Spirit Companions
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Guardian Spirits:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Guardian Spirits:
     1. First Image: The Protagonist Befriending A Protective Spirit That Guides Them On Their Journey.
     2. Second Image: Transition From The First Image, Learning From The Spirit And Uncovering Hidden Realms.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist And The Spirit Face A Powerful Adversary.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirit And Protagonist Triumphing, With Their Bond Stronger Than Ever.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Companions:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Companions:
     1. First Image: The Protagonist Meeting A Group Of Playful, Magical Creatures In An Enchanted Forest.
     2. Second Image: Transition From The First Image, Exploring The Forest And Learning Its Secrets With Their New Companions.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist And The Creatures Work Together To Protect Their Home.
@@ -189,15 +189,15 @@ Title: Mystic Companions:
 ================================================================ X ================================================================
 11. Category Name: Enchanted Journeys
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Path:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Path:
     1. First Image: The Protagonist Embarking On A Journey Along A Path That Glows With Magical Light.
     2. Second Image: Transition From The First Image, Meeting Various Magical Beings And Overcoming Enchanted Obstacles.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Solve Ancient Riddles To Proceed.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Reaching The Journey’S End With Newfound Wisdom And Magical Gifts.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit Trail:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit Trail:
     1. First Image: The Protagonist Following A Trail Of Glowing Spirits Through A Mystical Landscape.
     2. Second Image: Transition From The First Image, Learning The History And Lore Of The Land From The Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Spirits Resolve An Ancient Conflict.
@@ -205,15 +205,15 @@ Title: Spirit Trail:
 ================================================================ X ================================================================
 12. Category Name: Enchanted Lakes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Waters:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Waters:
     1. First Image: The Protagonist Discovering A Serene Lake With Crystal-Clear, Magical Waters.
     2. Second Image: Transition From The First Image, Learning About The Lake’S Healing Properties From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Lake From A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Glowing With Purity, With The Protagonist Honored As Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Shore:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Shore:
     1. First Image: The Protagonist Arriving At A Hidden Lakeshore Surrounded By Enchanted Flora.
     2. Second Image: Transition From The First Image, Exploring The Lake’S Secrets With The Help Of Friendly Water Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Defends The Lake From Intruders.
@@ -221,15 +221,15 @@ Title: Enchanted Shore:
 ================================================================ X ================================================================
 13. Category Name: Magical Beasts
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Guardian:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Guardian:
     1. First Image: The Protagonist Encountering A Giant, Mystical Beast In An Enchanted Forest.
     2. Second Image: Transition From The First Image, Forming A Bond With The Beast And Learning Its Powers.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist And The Beast Protect The Forest From Danger.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Flourishing, With The Protagonist And Beast As Its Protectors.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Companions:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Companions:
     1. First Image: The Protagonist Befriending A Group Of Magical Creatures.
     2. Second Image: Transition From The First Image, Exploring The Mystical Lands Together.
     3. Third Image: Transition From The Second Image, Facing A Challenge Where The Protagonist And Creatures Work Together To Overcome It.
@@ -237,15 +237,15 @@ Title: Mystic Companions:
 ================================================================ X ================================================================
 14. Category Name: Enchanted Forests
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Glade:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Glade:
     1. First Image: The Protagonist Discovering A Hidden Glade Filled With Glowing Flowers And Mystical Beings.
     2. Second Image: Transition From The First Image, Learning The Ancient Magic Of The Glade From Its Guardians.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Protect The Glade From Intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Glade Thriving, With The Protagonist Honored By Its Inhabitants.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Whispering Woods:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Whispering Woods:
     1. First Image: The Protagonist Entering A Mysterious Forest Where The Trees Seem To Whisper Secrets.
     2. Second Image: Transition From The First Image, Encountering Magical Creatures And Learning About The Forest’S Enchantments.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Forest From Dark Forces.
@@ -253,15 +253,15 @@ Title: Whispering Woods:
 ================================================================ X ================================================================
 15. Category Name: Enchanted Villages
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Village:
     1. First Image: The Protagonist Discovering A Hidden Village Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, The Protagonist Gaining The Trust Of The Villagers And Learning Their Ways.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Village From Invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Safe, With The Protagonist Becoming An Honorary Member.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Secret Sanctuary:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Secret Sanctuary:
     1. First Image: The Protagonist Finding A Secret Sanctuary Hidden Deep Within The Mountains.
     2. Second Image: Transition From The First Image, The Protagonist Learning The Sanctuary’S Ancient Secrets And Its Guardians.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Defend The Sanctuary From Dark Forces.
@@ -269,15 +269,15 @@ Title: Secret Sanctuary:
 ================================================================ X ================================================================
 16. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Stars:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Stars:
     1. First Image: The Protagonist Discovering A Portal To A Realm Filled With Stars And Celestial Beings.
     2. Second Image: Transition From The First Image, The Protagonist Learning Celestial Magic And Exploring The Realm.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Realm From Dark Cosmic Forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm Safe, With The Protagonist Honored By Celestial Beings.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Moonlit Realm:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Moonlit Realm:
     1. First Image: The Protagonist Entering A Realm Illuminated By The Light Of The Full Moon.
     2. Second Image: Transition From The First Image, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Protect The Realm From Dark Forces.
@@ -285,15 +285,15 @@ Title: Moonlit Realm:
 ================================================================ X ================================================================
 17. Category Name: Enchanted Temples
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Temple Of Light:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Temple Of Light:
     1. First Image: The Protagonist Discovering An Ancient Temple Filled With Glowing, Sacred Light.
     2. Second Image: Transition From The First Image, Learning The Temple’S History And Its Magical Significance From A Wise Sage.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Protects The Temple From Dark Invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Temple Shining Brightly, With The Protagonist Revered As A Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Shrine:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Shrine:
     1. First Image: The Protagonist Arriving At A Hidden Shrine Dedicated To Ancient Spirits.
     2. Second Image: Transition From The First Image, Learning The Shrine’S Rituals And Powers From Its Keepers.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Shrine From Desecration.
@@ -301,15 +301,15 @@ Title: Mystic Shrine:
 ================================================================ X ================================================================
 18. Category Name: Enchanted Castles
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Castle In The Clouds:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Castle In The Clouds:
     1. First Image: The Protagonist Discovering A Magnificent Castle Floating In The Sky.
     2. Second Image: Transition From The First Image, Exploring The Castle’S Wonders And Meeting Its Magical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Castle From A Looming Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Remaining Safe And Enchanting, With The Protagonist Becoming Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Fortress:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Fortress:
     1. First Image: The Protagonist Entering A Hidden Fortress Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, Uncovering The Fortress’S Secrets And Meeting Its Enigmatic Keepers.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Fortress From Invaders.
@@ -317,15 +317,15 @@ Title: Mystic Fortress:
 ================================================================ X ================================================================
 19. Category Name: Enchanted Objects
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Magic Sword:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Magic Sword:
     1. First Image: The Protagonist Discovering An Ancient, Enchanted Sword In A Forgotten Cave.
     2. Second Image: Transition From The First Image, The Protagonist Learning The History And Powers Of The Sword.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Uses The Sword To Defeat A Powerful Enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Sword Glowing With Power, With The Protagonist Becoming A Legendary Hero.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Amulet:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Amulet:
     1. First Image: The Protagonist Finding A Mysterious Amulet In An Old, Dusty Library.
     2. Second Image: Transition From The First Image, The Protagonist Uncovering The Amulet’S Magical Abilities And Its Connection To An Ancient Prophecy.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Uses The Amulet To Protect Their Village From A Dark Force.
@@ -333,15 +333,15 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 20. Category Name: Enchanted Towns
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Whimsical Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Whimsical Village:
     1. First Image: The Protagonist Arriving In A Charming Village Where Magic Is A Part Of Everyday Life.
     2. Second Image: Transition From The First Image, Befriending The Villagers And Experiencing Their Magical Customs.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Villagers Overcome A Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Celebrating With A Grand Festival, With The Protagonist As The Guest Of Honor.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Harbor:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Harbor:
     1. First Image: The Protagonist Discovering A Harbor Town Filled With Enchanted Ships And Sea Creatures.
     2. Second Image: Transition From The First Image, Exploring The Town’S Unique Magical Artifacts And Legends.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Town From A Supernatural Storm.
@@ -349,15 +349,15 @@ Title: Mystic Harbor:
 ================================================================ X ================================================================
 21. Category Name: Enchanted Landscapes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Mountains:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Mountains:
     1. First Image: The Protagonist Climbing A Range Of Mystical Mountains Filled With Ancient Magic.
     2. Second Image: Transition From The First Image, Discovering Hidden Valleys And Magical Creatures Along The Way.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Mountains From A Destructive Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Standing Tall And Serene, With The Protagonist Becoming Their Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Meadow:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Meadow:
     1. First Image: The Protagonist Discovering A Serene Meadow Where Flowers Bloom With Magical Light.
     2. Second Image: Transition From The First Image, Learning About The Meadow’S Magic From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Meadow From Intruders.
@@ -365,15 +365,15 @@ Title: Enchanted Meadow:
 ================================================================ X ================================================================
 22. Category Name: Enchanted Beings
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Spirits:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Spirits:
     1. First Image: The Protagonist Meeting Gentle Forest Spirits Who Guide Them Through An Enchanted Forest.
     2. Second Image: Transition From The First Image, Learning The Forest’S Secrets And The Spirits’ History.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Helps The Spirits Protect Their Home.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirits And Forest Thriving, With The Protagonist Honored As A Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Water Nymphs:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Water Nymphs:
     1. First Image: The Protagonist Encountering Playful Water Nymphs In A Magical River.
     2. Second Image: Transition From The First Image, Discovering The Nymphs’ Powers And Their Connection To The River.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Nymphs Protect The River From Pollution.
@@ -381,15 +381,15 @@ Title: Water Nymphs:
 ================================================================ X ================================================================
 23. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Dreams:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Dreams:
     1. First Image: The Protagonist Entering A Realm Where Dreams Come To Life With Vivid Colors And Magical Beings.
     2. Second Image: Transition From The First Image, Exploring The Realm And Encountering Whimsical Creatures.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Realm From A Nightmare Invasion.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm At Peace, With The Protagonist Celebrated As A Dream Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Kingdom:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Kingdom:
     1. First Image: The Protagonist Discovering A Hidden Kingdom Where Magic Is Woven Into The Very Fabric Of Life.
     2. Second Image: Transition From The First Image, Learning The Kingdom’S Secrets And Befriending Its Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Kingdom From Dark Forces.
@@ -397,15 +397,15 @@ Title: Mystic Kingdom:
 ================================================================ X ================================================================
 24. Category Name: Enchanted Journeys
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit Path:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit Path:
     1. First Image: The Protagonist Embarking On A Journey Along A Path Illuminated By Guiding Spirits.
     2. Second Image: Transition From The First Image, Meeting Various Magical Beings And Overcoming Enchanted Obstacles.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Solve Ancient Riddles To Proceed.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Reaching The Journey’S End With Newfound Wisdom And Magical Gifts.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Voyage:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Voyage:
     1. First Image: The Protagonist Setting Sail On A Mystical Ship Bound For Enchanted Lands.
     2. Second Image: Transition From The First Image, Exploring Magical Islands And Meeting Their Whimsical Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Ship From A Supernatural Storm.
@@ -413,15 +413,15 @@ Title: Mystic Voyage:
 ================================================================ X ================================================================
 25. Category Name: Enchanted Gardens
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Grove:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Grove:
     1. First Image: The Protagonist Discovering A Hidden Grove Filled With Glowing Plants And Magical Creatures.
     2. Second Image: Transition From The First Image, Learning The Grove’S Secrets And Its Ancient Magic From A Wise Old Guardian.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Grove From Intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Flourishing, With The Protagonist Becoming A Guardian Of Its Beauty.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Orchard:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Orchard:
     1. First Image: The Protagonist Discovering An Orchard Where The Trees Bear Magical Fruit.
     2. Second Image: Transition From The First Image, Learning About The Orchard’S Magical Properties From Its Mystical Caretaker.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Orchard From A Magical Pest.
@@ -429,15 +429,15 @@ Title: Enchanted Orchard:
 ================================================================ X ================================================================
 26. Category Name: Enchanted Lakes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Waters:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Waters:
     1. First Image: The Protagonist Discovering A Serene Lake With Crystal-Clear, Magical Waters.
     2. Second Image: Transition From The First Image, Learning About The Lake’S Healing Properties From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Lake From A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Glowing With Purity, With The Protagonist Honored As Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Shore:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Shore:
     1. First Image: The Protagonist Arriving At A Hidden Lakeshore Surrounded By Enchanted Flora.
     2. Second Image: Transition From The First Image, Exploring The Lake’S Secrets With The Help Of Friendly Water Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Defends The Lake From Intruders.
@@ -445,15 +445,15 @@ Title: Enchanted Shore:
 ================================================================ X ================================================================
 27. Category Name: Enchanted Creatures
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Companions:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Companions:
     1. First Image: The Protagonist Befriending A Group Of Playful, Magical Creatures In An Enchanted Forest.
     2. Second Image: Transition From The First Image, Exploring The Forest And Learning Its Secrets With Their New Companions.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist And The Creatures Work Together To Protect Their Home.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Flourishing, With The Protagonist And Their Companions Celebrated As Heroes.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Guardians:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Guardians:
     1. First Image: The Protagonist Discovering A Group Of Mystical Creatures That Protect The Forest.
     2. Second Image: Transition From The First Image, Learning About The Creatures’ Powers And Their Connection To The Forest.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Forest From A Destructive Force.
@@ -461,15 +461,15 @@ Title: Forest Guardians:
 ================================================================ X ================================================================
 28. Category Name: Enchanted Castles
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Castle In The Clouds:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Castle In The Clouds:
     1. First Image: The Protagonist Discovering A Magnificent Castle Floating In The Sky.
     2. Second Image: Transition From The First Image, Exploring The Castle’S Wonders And Meeting Its Magical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Castle From A Looming Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Remaining Safe And Enchanting, With The Protagonist Becoming Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Fortress:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Fortress:
     1. First Image: The Protagonist Entering A Hidden Fortress Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, Uncovering The Fortress’S Secrets And Meeting Its Enigmatic Keepers.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Fortress From Invaders.
@@ -477,15 +477,15 @@ Title: Mystic Fortress:
 ================================================================ X ================================================================
 29. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Dreams:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Dreams:
     1. First Image: The Protagonist Entering A Realm Where Dreams Come To Life With Vivid Colors And Magical Beings.
     2. Second Image: Transition From The First Image, Exploring The Realm And Encountering Whimsical Creatures.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Realm From A Nightmare Invasion.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm At Peace, With The Protagonist Celebrated As A Dream Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Kingdom:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Kingdom:
     1. First Image: The Protagonist Discovering A Hidden Kingdom Where Magic Is Woven Into The Very Fabric Of Life.
     2. Second Image: Transition From The First Image, Learning The Kingdom’S Secrets And Befriending Its Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Kingdom From Dark Forces.
@@ -493,15 +493,15 @@ Title: Mystic Kingdom:
 ================================================================ X ================================================================
 30. Category Name: Enchanted Forests
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Whispering Woods:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Whispering Woods:
     1. First Image: The Protagonist Entering A Mysterious Forest Where The Trees Seem To Whisper Secrets.
     2. Second Image: Transition From The First Image, Encountering Magical Creatures And Learning About The Forest’S Enchantments.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Forest From Dark Forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Flourishing, With The Protagonist Becoming A Guardian Of The Woods.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Glade:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Glade:
     1. First Image: The Protagonist Discovering A Hidden Glade Filled With Glowing Flowers And Mystical Beings.
     2. Second Image: Transition From The First Image, Learning The Ancient Magic Of The Glade From Its Guardians.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Protect The Glade From Intruders.
@@ -509,15 +509,15 @@ Title: Mystic Glade:
 ================================================================ X ================================================================
 31. Category Name: Enchanted Gardens
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Grove:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Grove:
     1. First Image: The Protagonist Discovering A Hidden Grove Filled With Glowing Plants And Magical Creatures.
     2. Second Image: Transition From The First Image, Learning The Grove’S Secrets And Its Ancient Magic From A Wise Old Guardian.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Grove From Intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Flourishing, With The Protagonist Becoming A Guardian Of Its Beauty.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Orchard:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Orchard:
     1. First Image: The Protagonist Discovering An Orchard Where The Trees Bear Magical Fruit.
     2. Second Image: Transition From The First Image, Learning About The Orchard’S Magical Properties From Its Mystical Caretaker.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Orchard From A Magical Pest.
@@ -525,15 +525,15 @@ Title: Enchanted Orchard:
 ================================================================ X ================================================================
 32. Category Name: Enchanted Lakes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Waters:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Waters:
     1. First Image: The Protagonist Discovering A Serene Lake With Crystal-Clear, Magical Waters.
     2. Second Image: Transition From The First Image, Learning About The Lake’S Healing Properties From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Lake From A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Glowing With Purity, With The Protagonist Honored As Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Shore:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Shore:
     1. First Image: The Protagonist Arriving At A Hidden Lakeshore Surrounded By Enchanted Flora.
     2. Second Image: Transition From The First Image, Exploring The Lake’S Secrets With The Help Of Friendly Water Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Defends The Lake From Intruders.
@@ -541,15 +541,15 @@ Title: Enchanted Shore:
 ================================================================ X ================================================================
 33. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Dreams:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Dreams:
     1. First Image: The Protagonist Entering A Realm Where Dreams Come To Life With Vivid Colors And Magical Beings.
     2. Second Image: Transition From The First Image, Exploring The Realm And Encountering Whimsical Creatures.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Realm From A Nightmare Invasion.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm At Peace, With The Protagonist Celebrated As A Dream Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Kingdom:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Kingdom:
     1. First Image: The Protagonist Discovering A Hidden Kingdom Where Magic Is Woven Into The Very Fabric Of Life.
     2. Second Image: Transition From The First Image, Learning The Kingdom’S Secrets And Befriending Its Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Kingdom From Dark Forces.
@@ -557,15 +557,15 @@ Title: Mystic Kingdom:
 ================================================================ X ================================================================
 34. Category Name: Enchanted Beings
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Spirits:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Spirits:
     1. First Image: The Protagonist Meeting Gentle Forest Spirits Who Guide Them Through An Enchanted Forest.
     2. Second Image: Transition From The First Image, Learning The Forest’S Secrets And The Spirits’ History.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Helps The Spirits Protect Their Home.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirits And Forest Thriving, With The Protagonist Honored As A Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Water Nymphs:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Water Nymphs:
     1. First Image: The Protagonist Encountering Playful Water Nymphs In A Magical River.
     2. Second Image: Transition From The First Image, Discovering The Nymphs’ Powers And Their Connection To The River.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Nymphs Protect The River From Pollution.
@@ -573,15 +573,15 @@ Title: Water Nymphs:
 ================================================================ X ================================================================
 35. Category Name: Enchanted Villages
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Village:
     1. First Image: The Protagonist Discovering A Hidden Village Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, The Protagonist Gaining The Trust Of The Villagers And Learning Their Ways.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Village From Invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Safe, With The Protagonist Becoming An Honorary Member.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Secret Sanctuary:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Secret Sanctuary:
     1. First Image: The Protagonist Finding A Secret Sanctuary Hidden Deep Within The Mountains.
     2. Second Image: Transition From The First Image, The Protagonist Learning The Sanctuary’S Ancient Secrets And Its Guardians.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Defend The Sanctuary From Dark Forces.
@@ -589,15 +589,15 @@ Title: Secret Sanctuary:
 ================================================================ X ================================================================
 36. Category Name: Enchanted Objects
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Magic Lantern:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Magic Lantern:
     1. First Image: The Protagonist Finding An Ancient Lantern That Emits Magical Light.
     2. Second Image: Transition From The First Image, Learning About The Lantern’S Powers From A Wise, Old Mentor.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Uses The Lantern To Overcome A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lantern Shining Brightly, With The Protagonist Revered As A Hero.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Amulet:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Amulet:
     1. First Image: The Protagonist Discovering A Mysterious Amulet With Enchanting Powers.
     2. Second Image: Transition From The First Image, Uncovering The Amulet’S Secrets And Its Connection To An Ancient Prophecy.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Uses The Amulet To Save Their Village.
@@ -605,15 +605,15 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 37. Category Name: Enchanted Companions
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Guardians:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Guardians:
     1. First Image: The Protagonist Befriending A Protective Spirit That Guides Them On Their Journey.
     2. Second Image: Transition From The First Image, Learning From The Spirit And Uncovering Hidden Realms.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist And The Spirit Face A Powerful Adversary.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirit And Protagonist Triumphing, With Their Bond Stronger Than Ever.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Companions:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Companions:
     1. First Image: The Protagonist Meeting A Group Of Magical Creatures That Protect The Forest.
     2. Second Image: Transition From The First Image, Learning About The Creatures’ Powers And Their Connection To The Forest.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Creatures Defend Their Home From A Dark Force.
@@ -621,15 +621,15 @@ Title: Forest Companions:
 ================================================================ X ================================================================
 38. Category Name: Enchanted Landscapes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Mountains:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Mountains:
     1. First Image: The Protagonist Climbing A Range Of Mystical Mountains Filled With Ancient Magic.
     2. Second Image: Transition From The First Image, Discovering Hidden Valleys And Magical Creatures Along The Way.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Mountains From A Destructive Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Standing Tall And Serene, With The Protagonist Becoming Their Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Meadow:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Meadow:
     1. First Image: The Protagonist Discovering A Serene Meadow Where Flowers Bloom With Magical Light.
     2. Second Image: Transition From The First Image, Learning About The Meadow’S Magic From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Meadow From Intruders.
@@ -637,15 +637,15 @@ Title: Enchanted Meadow:
 ================================================================ X ================================================================
 39. Category Name: Enchanted Journeys
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Path:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Path:
     1. First Image: The Protagonist Embarking On A Journey Along A Path That Glows With Magical Light.
     2. Second Image: Transition From The First Image, Meeting Various Magical Beings And Overcoming Enchanted Obstacles.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Solve Ancient Riddles To Proceed.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Reaching The Journey’S End With Newfound Wisdom And Magical Gifts.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit Trail:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit Trail:
     1. First Image: The Protagonist Following A Trail Of Glowing Spirits Through A Mystical Landscape.
     2. Second Image: Transition From The First Image, Learning The History And Lore Of The Land From The Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Spirits Resolve An Ancient Conflict.
@@ -653,15 +653,15 @@ Title: Spirit Trail:
 ================================================================ X ================================================================
 40. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Stars:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Stars:
     1. First Image: The Protagonist Discovering A Portal To A Realm Filled With Stars And Celestial Beings.
     2. Second Image: Transition From The First Image, The Protagonist Learning Celestial Magic And Exploring The Realm.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Realm From Dark Cosmic Forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm Safe, With The Protagonist Honored By Celestial Beings.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Moonlit Realm:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Moonlit Realm:
     1. First Image: The Protagonist Entering A Realm Illuminated By The Light Of The Full Moon.
     2. Second Image: Transition From The First Image, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Protect The Realm From Dark Forces.
@@ -669,15 +669,15 @@ Title: Moonlit Realm:
 ================================================================ X ================================================================
 41. Category Name: Enchanted Objects
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Magic Sword:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Magic Sword:
     1. First Image: The Protagonist Discovering An Ancient, Enchanted Sword In A Forgotten Cave.
     2. Second Image: Transition From The First Image, The Protagonist Learning The History And Powers Of The Sword.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Uses The Sword To Defeat A Powerful Enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Sword Glowing With Power, With The Protagonist Becoming A Legendary Hero.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Amulet:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Amulet:
     1. First Image: The Protagonist Finding A Mysterious Amulet In An Old, Dusty Library.
     2. Second Image: Transition From The First Image, The Protagonist Uncovering The Amulet’S Magical Abilities And Its Connection To An Ancient Prophecy.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Uses The Amulet To Protect Their Village From A Dark Force.
@@ -685,15 +685,15 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 42. Category Name: Enchanted Towns
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Whimsical Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Whimsical Village:
     1. First Image: The Protagonist Arriving In A Charming Village Where Magic Is A Part Of Everyday Life.
     2. Second Image: Transition From The First Image, Befriending The Villagers And Experiencing Their Magical Customs.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Villagers Overcome A Threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Celebrating With A Grand Festival, With The Protagonist As The Guest Of Honor.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Harbor:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Harbor:
     1. First Image: The Protagonist Discovering A Harbor Town Filled With Enchanted Ships And Sea Creatures.
     2. Second Image: Transition From The First Image, Exploring The Town’S Unique Magical Artifacts And Legends.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Town From A Supernatural Storm.
@@ -701,15 +701,15 @@ Title: Mystic Harbor:
 ================================================================ X ================================================================
 43. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Dreams:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Dreams:
     1. First Image: The Protagonist Entering A Realm Where Dreams Come To Life With Vivid Colors And Magical Beings.
     2. Second Image: Transition From The First Image, Exploring The Realm And Encountering Whimsical Creatures.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Realm From A Nightmare Invasion.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm At Peace, With The Protagonist Celebrated As A Dream Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Kingdom:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Kingdom:
     1. First Image: The Protagonist Discovering A Hidden Kingdom Where Magic Is Woven Into The Very Fabric Of Life.
     2. Second Image: Transition From The First Image, Learning The Kingdom’S Secrets And Befriending Its Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps Defend The Kingdom From Dark Forces.
@@ -717,15 +717,15 @@ Title: Mystic Kingdom:
 ================================================================ X ================================================================
 44. Category Name: Enchanted Companions
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Guardians:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Guardians:
     1. First Image: The Protagonist Befriending A Protective Spirit That Guides Them On Their Journey.
     2. Second Image: Transition From The First Image, Learning From The Spirit And Uncovering Hidden Realms.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist And The Spirit Face A Powerful Adversary.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Spirit And Protagonist Triumphing, With Their Bond Stronger Than Ever.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Forest Companions:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Forest Companions:
     1. First Image: The Protagonist Meeting A Group Of Magical Creatures That Protect The Forest.
     2. Second Image: Transition From The First Image, Learning About The Creatures’ Powers And Their Connection To The Forest.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Creatures Defend Their Home From A Dark Force.
@@ -733,15 +733,15 @@ Title: Forest Companions:
 ================================================================ X ================================================================
 45. Category Name: Enchanted Journeys
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Path:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Path:
     1. First Image: The Protagonist Embarking On A Journey Along A Path That Glows With Magical Light.
     2. Second Image: Transition From The First Image, Meeting Various Magical Beings And Overcoming Enchanted Obstacles.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Solve Ancient Riddles To Proceed.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Reaching The Journey’S End With Newfound Wisdom And Magical Gifts.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Spirit Trail:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Spirit Trail:
     1. First Image: The Protagonist Following A Trail Of Glowing Spirits Through A Mystical Landscape.
     2. Second Image: Transition From The First Image, Learning The History And Lore Of The Land From The Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Helps The Spirits Resolve An Ancient Conflict.
@@ -749,15 +749,15 @@ Title: Spirit Trail:
 ================================================================ X ================================================================
 46. Category Name: Enchanted Landscapes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Mountains:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Mountains:
     1. First Image: The Protagonist Climbing A Range Of Mystical Mountains Filled With Ancient Magic.
     2. Second Image: Transition From The First Image, Discovering Hidden Valleys And Magical Creatures Along The Way.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Mountains From A Destructive Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Standing Tall And Serene, With The Protagonist Becoming Their Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Meadow:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Meadow:
     1. First Image: The Protagonist Discovering A Serene Meadow Where Flowers Bloom With Magical Light.
     2. Second Image: Transition From The First Image, Learning About The Meadow’S Magic From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Meadow From Intruders.
@@ -765,15 +765,15 @@ Title: Enchanted Meadow:
 ================================================================ X ================================================================
 47. Category Name: Enchanted Villages
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Village:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Village:
     1. First Image: The Protagonist Discovering A Hidden Village Protected By Ancient Magic.
     2. Second Image: Transition From The First Image, The Protagonist Gaining The Trust Of The Villagers And Learning Their Ways.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Village From Invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Safe, With The Protagonist Becoming An Honorary Member.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Secret Sanctuary:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Secret Sanctuary:
     1. First Image: The Protagonist Finding A Secret Sanctuary Hidden Deep Within The Mountains.
     2. Second Image: Transition From The First Image, The Protagonist Learning The Sanctuary’S Ancient Secrets And Its Guardians.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Defend The Sanctuary From Dark Forces.
@@ -781,15 +781,15 @@ Title: Secret Sanctuary:
 ================================================================ X ================================================================
 48. Category Name: Enchanted Gardens
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Grove:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Grove:
     1. First Image: The Protagonist Discovering A Hidden Grove Filled With Glowing Plants And Magical Creatures.
     2. Second Image: Transition From The First Image, Learning The Grove’S Secrets And Its Ancient Magic From A Wise Old Guardian.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Grove From Intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Flourishing, With The Protagonist Becoming A Guardian Of Its Beauty.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Orchard:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Orchard:
     1. First Image: The Protagonist Discovering An Orchard Where The Trees Bear Magical Fruit.
     2. Second Image: Transition From The First Image, Learning About The Orchard’S Magical Properties From Its Mystical Caretaker.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Protects The Orchard From A Magical Pest.
@@ -797,15 +797,15 @@ Title: Enchanted Orchard:
 ================================================================ X ================================================================
 49. Category Name: Enchanted Realms
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Realm Of Stars:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Realm Of Stars:
     1. First Image: The Protagonist Discovering A Portal To A Realm Filled With Stars And Celestial Beings.
     2. Second Image: Transition From The First Image, The Protagonist Learning Celestial Magic And Exploring The Realm.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Must Protect The Realm From Dark Cosmic Forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Realm Safe, With The Protagonist Honored By Celestial Beings.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Moonlit Realm:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Moonlit Realm:
     1. First Image: The Protagonist Entering A Realm Illuminated By The Light Of The Full Moon.
     2. Second Image: Transition From The First Image, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
     3. Third Image: Transition From The Second Image, A Battle Where The Protagonist Must Protect The Realm From Dark Forces.
@@ -813,15 +813,15 @@ Title: Moonlit Realm:
 ================================================================ X ================================================================
 50. Category Name: Enchanted Lakes
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Mystic Waters:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Mystic Waters:
     1. First Image: The Protagonist Discovering A Serene Lake With Crystal-Clear, Magical Waters.
     2. Second Image: Transition From The First Image, Learning About The Lake’S Healing Properties From Its Mystical Inhabitants.
     3. Third Image: Transition From The Second Image, A Challenge Where The Protagonist Must Protect The Lake From A Dark Force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Glowing With Purity, With The Protagonist Honored As Its Guardian.
 
-Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
-Title: Enchanted Shore:
+Prompt: Create 4 Separate Images In A Storybook Style With Ghibli Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Story Title: Enchanted Shore:
     1. First Image: The Protagonist Arriving At A Hidden Lakeshore Surrounded By Enchanted Flora.
     2. Second Image: Transition From The First Image, Exploring The Lake’S Secrets With The Help Of Friendly Water Spirits.
     3. Third Image: Transition From The Second Image, A Conflict Where The Protagonist Defends The Lake From Intruders.
