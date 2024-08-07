@@ -21,9 +21,11 @@ export default function RestaurantOrdersPage() {
   const [orderTimers, setOrderTimers] = useState<{ [key: string]: number }>({});
   const [visualizedOrders, setVisualizedOrders] = useState<{ [key: string]: boolean }>({});
   const toggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+
   useEffect(() => {
     if (status === "authenticated") fetchOrders();
   }, [status]);
+
   useEffect(() => {
     const channel = pusherClient.subscribe("partner-channel");
     channel.bind("order-updated", (data: { orderId: string; status: string }) => {
@@ -52,18 +54,21 @@ export default function RestaurantOrdersPage() {
       clearInterval(timerInterval);
     };
   }, [orders, selectedOrder]);
+
   const formatTime = (seconds: number) => {
     const hours = Math.floor(seconds / 3600);
     const minutes = Math.floor((seconds % 3600) / 60);
     const remainingSeconds = seconds % 60;
     return `${hours.toString().padStart(2, "0")}:${minutes.toString().padStart(2, "0")}:${remainingSeconds.toString().padStart(2, "0")}`;
   };
+
   const statusOptions = ["Preparing", "Delivering", "Completed"];
   const statusIcons = {
     Preparing: <MdShoppingCart />,
     Delivering: <MdLocalShipping />,
     Completed: <MdDoneAll />,
   };
+
   const formatCreatedAt = (createdAt: string | number | Date) => {
     const formattedDate = new Date(createdAt).toLocaleString("en-IN", {
       timeZone: "Asia/Kolkata",
@@ -76,6 +81,7 @@ export default function RestaurantOrdersPage() {
     });
     return formattedDate;
   };
+
   const fetchOrders = async () => {
     try {
       setIsLoading(true);
@@ -83,9 +89,7 @@ export default function RestaurantOrdersPage() {
       if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
       const userEmail = session?.user?.email;
-      const filteredOrders = data.orders.filter((order: Order) => {
-        return order.customerEmail === userEmail;
-      });
+      const filteredOrders = data.orders.filter((order: Order) => order.customerEmail === userEmail);
       const reversedOrders = filteredOrders.reverse();
       setOrders(reversedOrders);
       if (reversedOrders.length > 0) setSelectedOrder(reversedOrders[0]);
@@ -95,6 +99,7 @@ export default function RestaurantOrdersPage() {
       setIsLoading(false);
     }
   };
+
   const updateOrderStatus = async (orderId: string, newStatus: string, userId: string) => {
     try {
       const response = await fetch("/api/orders", {
@@ -128,8 +133,17 @@ export default function RestaurantOrdersPage() {
       setError(error.message);
     }
   };
+
+  const groupedOrders = orders.reduce((acc: { [key: string]: Order[] }, order) => {
+    const email = order.customerEmail;
+    if (!acc[email]) acc[email] = [];
+    acc[email].push(order);
+    return acc;
+  }, {});
+
   if (loading || isLoading) return <Loading />;
   if (error) throw new Error(error);
+
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4 text-secondary">
       <motion.section
@@ -172,20 +186,25 @@ export default function RestaurantOrdersPage() {
               <h2 className="text-4xl mb-4">Orders</h2>
               <motion.input whileFocus={{ scale: 1.02 }} type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary" />
               <div className="space-y-4">
-                {orders.map((order) => (
-                  <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-[#1C2924]" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
-                    <div className="flex justify-between items-center">
-                      <div className="font-bold">
-                        <ul className="list-disc ml-4">
-                          <li>
-                            Status: <span className="text-semibold animate-pulse">#{order.status}</span>
-                          </li>
-                          <li>
-                            OrderID: <span className="text-semibold">#{order._id}</span>
-                          </li>
-                        </ul>
+                {Object.keys(groupedOrders).map((email) => (
+                  <div key={email}>
+                    <h3 className="font-bold text-lg mb-2">{email}</h3>
+                    {groupedOrders[email].map((order) => (
+                      <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-[#1C2924]" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
+                        <div className="flex justify-between items-center">
+                          <div className="font-bold">
+                            <ul className="list-disc ml-4">
+                              <li>
+                                Status: <span className="text-semibold animate-pulse">#{order.status}</span>
+                              </li>
+                              <li>
+                                OrderID: <span className="text-semibold">#{order._id}</span>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
                       </div>
-                    </div>
+                    ))}
                   </div>
                 ))}
               </div>
