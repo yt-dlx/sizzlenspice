@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category: Geometric Patterns
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fractal Dreams:
     1. First Image: A Swirl Of Geometric Shapes In Vibrant Colors, Creating An Intricate Fractal Design.
     2. Second Image: Transition From The First Image, The Shapes Start Morphing, Blending Into A More Complex Pattern With Additional Layers.
     3. Third Image: Transition From The Second Image, The Fractal Expands, Showing A Larger Section Of The Intricate Design, With More Vibrant Hues.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Pattern Settles Into A Balanced, Symmetrical Design, Ending With A Burst Of Color.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Symmetry In Chaos:
     1. First Image: An Array Of Symmetrical Shapes In Monochrome Tones, Laid Out In A Seemingly Chaotic Pattern.
     2. Second Image: Transition From The First Image, The Shapes Begin To Align, Forming A More Recognizable Symmetrical Design.
@@ -45,14 +45,14 @@ Title: Symmetry In Chaos:
 ================================================================ X ================================================================
 2. Category: Fluid Dynamics
         
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Liquid Harmony:
     1. First Image: Soft Waves Of Color Flow Across The Canvas, Creating A Sense Of Fluidity.
     2. Second Image: Transition From The First Image, The Colors Begin To Mix, Forming New Shades And Patterns.
     3. Third Image: Transition From The Second Image, The Flow Intensifies, Creating A Dynamic, Swirling Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Waves Settle Into A Calm, Harmonious Blend Of Colors, Ending The Movement.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ethereal Currents:
     1. First Image: Gentle Streams Of Translucent Colors Intertwine, Resembling Underwater Currents.
     2. Second Image: Transition From The First Image, The Currents Become More Vibrant, Weaving Together In A More Complex Pattern.
@@ -62,7 +62,7 @@ Title: Ethereal Currents:
 3. Category: Abstract Landscapes
         
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Surreal Horizon:
     1. First Image: An Abstract Landscape With A Hazy Horizon And Undefined Shapes.
     2. Second Image: Transition From The First Image, Elements Of The Landscape Begin To Take Form, Adding More Detail.
@@ -70,7 +70,7 @@ Title: Surreal Horizon:
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Solidifies Into A Dreamlike Panorama, With Bold Colors And Sharp Lines.
         
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mystic Mountains:
     1. First Image: A Series Of Abstract Shapes Resembling Mountains In Pastel Tones.
     2. Second Image: Transition From The First Image, The Shapes Gain Definition, With Sharper Edges And More Contrast.
@@ -79,14 +79,14 @@ Title: Mystic Mountains:
 ================================================================ X ================================================================
 4. Category: Cosmic Designs
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Stellar Dreams:
     1. First Image: A Starry Night Sky With Abstract Constellations And Nebulas.
     2. Second Image: Transition From The First Image, The Stars Begin To Swirl, Creating Patterns And Shapes.
     3. Third Image: Transition From The Second Image, Bright Colors Emerge, Forming A Cosmic Tapestry.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Design Settles Into A Vibrant, Abstract Representation Of The Cosmos.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Galactic Waves:
     1. First Image: Gentle Waves Of Color Against A Dark Background, Resembling A Galaxy.
     2. Second Image: Transition From The First Image, The Waves Intensify, Forming Swirling Patterns.
@@ -95,14 +95,14 @@ Title: Galactic Waves:
 ================================================================ X ================================================================
 5. Category: Organic Forms
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Floral Abstractions:
     1. First Image: Soft, Abstract Shapes Resembling Flowers In Muted Colors.
     2. Second Image: Transition From The First Image, The Shapes Begin To Take Form, Adding More Detail And Vibrancy.
     3. Third Image: Transition From The Second Image, Additional Elements Like Leaves And Stems Appear, Enhancing The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Floral Pattern Settles Into A Harmonious, Colorful Arrangement.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Nature's Whimsy:
     1. First Image: Abstract Shapes Inspired By Natural Elements Like Leaves And Vines.
     2. Second Image: Transition From The First Image, The Shapes Intertwine, Creating A Complex Pattern.
@@ -111,14 +111,14 @@ Title: Nature's Whimsy:
 ================================================================ X ================================================================
 6. Category: Urban Abstracts
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: City Lights:
     1. First Image: Abstract Representations Of City Lights And Buildings In Dark Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Form More Defined Structures.
     3. Third Image: Transition From The Second Image, Bright Lights And Colors Appear, Highlighting The Urban Landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Cityscape Solidifies Into A Vibrant, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Street Art:
     1. First Image: Abstract Graffiti-Style Shapes And Colors On A Textured Background.
     2. Second Image: Transition From The First Image, The Shapes Become More Defined, Adding Layers Of Detail.
@@ -127,14 +127,14 @@ Title: Street Art:
 ================================================================ X ================================================================
 7. Category: Temporal Shifts
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Time Warp:
     1. First Image: Abstract Shapes And Lines Representing The Flow Of Time.
     2. Second Image: Transition From The First Image, The Shapes Begin To Distort, Creating A Sense Of Motion.
     3. Third Image: Transition From The Second Image, Bright Colors And Additional Elements Appear, Enhancing The Sense Of Time Distortion.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Design Settles Into A Cohesive, Vibrant Representation Of Time.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Eternal Moment:
     1. First Image: Abstract Representation Of A Frozen Moment In Time.
     2. Second Image: Transition From The First Image, The Shapes And Colors Begin To Evolve, Adding Layers Of Detail.
@@ -143,14 +143,14 @@ Title: Eternal Moment:
 ================================================================ X ================================================================
 8. Category: Abstract Portraits
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Faceless Forms:
     1. First Image: Abstract Shapes Resembling Human Faces In Muted Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Gain Definition, Adding More Detail.
     3. Third Image: Transition From The Second Image, Additional Elements Like Eyes And Lips Appear, Enhancing The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Abstract Portraits Settle Into A Cohesive, Colorful Arrangement.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Emotional Echoes:
     1. First Image: Abstract Shapes Representing Various Emotions In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Evolve, Adding More Detail And Contrast.
@@ -159,14 +159,14 @@ Title: Emotional Echoes:
 ================================================================ X ================================================================
 9. Category: Kinetic Energy
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Motion Blur:
     1. First Image: Abstract Shapes And Lines Suggesting Movement In Soft Colors.
     2. Second Image: Transition From The First Image, The Shapes Begin To Blur, Creating A Sense Of Speed.
     3. Third Image: Transition From The Second Image, Bright Accents Appear, Adding Energy To The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Motion Settles Into A Cohesive, Dynamic Pattern.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Dynamic Flow:
     1. First Image: Gentle, Flowing Lines And Shapes In Muted Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Move, Creating A Sense Of Fluidity.
@@ -175,14 +175,14 @@ Title: Dynamic Flow:
 ================================================================ X ================================================================
 10. Category: Light And Shadow
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Illuminated Dreams:
     1. First Image: Soft, Glowing Shapes Against A Dark Background.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Play Of Light And Shadow.
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Illuminated Shapes Settle Into A Cohesive, Vibrant Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Shadow Play:
     1. First Image: Dark Shapes And Lines Creating Abstract Patterns.
     2. Second Image: Transition From The First Image, The Shadows Begin To Shift, Forming More Defined Structures.
@@ -191,14 +191,14 @@ Title: Shadow Play:
 ================================================================ X ================================================================
 11. Category: Celestial Bodies
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lunar Phases:
     1. First Image: Abstract Shapes Representing The Phases Of The Moon In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Change, Illustrating The Lunar Cycle.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Moon Phases.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lunar Phases Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Solar Flares:
     1. First Image: Abstract Representations Of Solar Flares In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Flares Begin To Expand, Creating Dynamic Shapes.
@@ -207,14 +207,14 @@ Title: Solar Flares:
 ================================================================ X ================================================================
 12. Category: Elemental Forces
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fiery Spirit:
     1. First Image: Abstract Shapes And Lines Resembling Flames In Warm Tones.
     2. Second Image: Transition From The First Image, The Flames Begin To Move, Creating A Sense Of Energy.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Fiery Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Flames Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Watery Essence:
     1. First Image: Soft, Flowing Shapes And Lines In Cool Tones, Resembling Water.
     2. Second Image: Transition From The First Image, The Shapes Begin To Move, Creating A Sense Of Fluidity.
@@ -223,14 +223,14 @@ Title: Watery Essence:
 ================================================================ X ================================================================
 13. Category: Optical Illusions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mind Maze:
     1. First Image: Intricate, Maze-Like Patterns In Monochrome Tones.
     2. Second Image: Transition From The First Image, The Patterns Begin To Shift, Creating An Illusion Of Movement.
     3. Third Image: Transition From The Second Image, Additional Layers Appear, Enhancing The Complexity.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Maze Settles Into A Detailed, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Perceptual Drift:
     1. First Image: Abstract Shapes And Lines Creating An Optical Illusion In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Enhancing The Illusion.
@@ -239,14 +239,14 @@ Title: Perceptual Drift:
 ================================================================ X ================================================================
 14. Category: Dreamscapes
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ethereal Visions:
     1. First Image: Soft, Abstract Shapes Resembling Dream-Like Scenes In Muted Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Gain Definition, Adding More Detail.
     3. Third Image: Transition From The Second Image, Bright Colors Appear, Enhancing The Dream-Like Quality.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dreamscape Solidifies Into A Vibrant, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Surreal Slumber:
     1. First Image: Abstract Shapes And Elements Resembling Surreal Dream Scenes.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Fluidity.
@@ -255,14 +255,14 @@ Title: Surreal Slumber:
 ================================================================ X ================================================================
 15. Category: Fragmented Realities
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Shattered Glass:
     1. First Image: Abstract Shapes And Lines Resembling Shattered Glass In Monochrome Tones.
     2. Second Image: Transition From The First Image, The Shards Begin To Move, Creating A Sense Of Fragmentation.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Shattered Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Glass Shards Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Broken Mirrors:
     1. First Image: Abstract Shapes Resembling Broken Mirrors In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Fragmented Pattern.
@@ -271,14 +271,14 @@ Title: Broken Mirrors:
 ================================================================ X ================================================================
 16. Category: Chromatic Abstractions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Rainbow Dreams:
     1. First Image: Soft, Colorful Shapes Resembling A Rainbow In Muted Tones.
     2. Second Image: Transition From The First Image, The Colors Begin To Blend, Creating A Sense Of Fluidity.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Rainbow Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Rainbow Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Burst:
     1. First Image: Vibrant, Abstract Shapes And Lines In Bold Colors.
     2. Second Image: Transition From The First Image, The Colors Begin To Blend, Creating Dynamic Patterns.
@@ -287,14 +287,14 @@ Title: Color Burst:
 ================================================================ X ================================================================
 17. Category: Musical Notes
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Waves:
     1. First Image: Abstract Shapes And Lines Resembling Musical Notes In Soft Tones.
     2. Second Image: Transition From The First Image, The Notes Begin To Move, Creating A Sense Of Rhythm.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Musical Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Musical Notes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Melodic Patterns:
     1. First Image: Abstract Shapes And Elements Resembling Musical Instruments.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Melody.
@@ -303,14 +303,14 @@ Title: Melodic Patterns:
 ================================================================ X ================================================================
 18. Category: Textured Abstracts
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Rough Edges:
     1. First Image: Abstract Shapes And Lines With A Textured, Rough Appearance.
     2. Second Image: Transition From The First Image, The Textures Begin To Shift, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Accents Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Textured Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Smooth Surfaces:
     1. First Image: Soft, Abstract Shapes With A Smooth, Polished Appearance.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating Fluid Patterns.
@@ -319,14 +319,14 @@ Title: Smooth Surfaces:
 ================================================================ X ================================================================
 19. Category: Digital Dreams
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Cyber Waves:
     1. First Image: Abstract Shapes And Lines Resembling Digital Waves In Soft Tones.
     2. Second Image: Transition From The First Image, The Waves Begin To Move, Creating A Sense Of Flow.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Digital Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Digital Waves Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Virtual Realities:
     1. First Image: Abstract Shapes And Elements Resembling Virtual Landscapes.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating Dynamic Patterns.
@@ -335,14 +335,14 @@ Title: Virtual Realities:
 ================================================================ X ================================================================
 20. Category: Ethereal Elements
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mystic Fog:
     1. First Image: Soft, Abstract Shapes Resembling Fog In Muted Tones.
     2. Second Image: Transition From The First Image, The Fog Begins To Move, Creating A Sense Of Mystery.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Foggy Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fog Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Celestial Glow:
     1. First Image: Abstract Shapes And Lines With A Glowing Appearance.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Fluidity.
@@ -351,14 +351,14 @@ Title: Celestial Glow:
 ================================================================ X ================================================================
 21. Category: Fragmented Light
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Prism Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Light Refracted Through A Prism.
     2. Second Image: Transition From The First Image, The Light Begins To Move, Creating A Spectrum Of Colors.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Prismatic Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Prismatic Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Rainbow Shards:
     1. First Image: Abstract Shapes And Elements Resembling Shards Of Rainbow-Colored Glass.
     2. Second Image: Transition From The First Image, The Shards Begin To Morph, Creating Dynamic Patterns.
@@ -367,14 +367,14 @@ Title: Rainbow Shards:
 ================================================================ X ================================================================
 22. Category: Abstract Reflections
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mirror Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Reflections In Muted Tones.
     2. Second Image: Transition From The First Image, The Reflections Begin To Shift, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Reflective Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Reflective Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Water Reflections:
     1. First Image: Abstract Shapes And Elements Resembling Reflections On Water.
     2. Second Image: Transition From The First Image, The Reflections Begin To Move, Creating A Sense Of Fluidity.
@@ -383,14 +383,14 @@ Title: Water Reflections:
 ================================================================ X ================================================================
 23. Category: Abstract Dreams
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lucid Visions:
     1. First Image: Soft, Abstract Shapes Resembling Dream-Like Scenes In Muted Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Gain Definition, Adding More Detail.
     3. Third Image: Transition From The Second Image, Bright Colors Appear, Enhancing The Dream-Like Quality.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dreamscape Solidifies Into A Vibrant, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Surreal Dreams:
     1. First Image: Abstract Shapes And Elements Resembling Surreal Dream Scenes.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Fluidity.
@@ -399,14 +399,14 @@ Title: Surreal Dreams:
 ================================================================ X ================================================================
 24. Category: Abstract Energies
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Vibrant Waves:
     1. First Image: Abstract Shapes And Lines Resembling Waves Of Energy In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Waves Begin To Move, Creating A Sense Of Dynamic Energy.
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Enhancing The Vibrant Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Energy Waves Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Dynamic Energies:
     1. First Image: Abstract Shapes And Lines Representing Dynamic Energy In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Movement.
@@ -415,14 +415,14 @@ Title: Dynamic Energies:
 ================================================================ X ================================================================
 25. Category: Abstract Dimensions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Parallel Worlds:
     1. First Image: Abstract Shapes And Lines Representing Different Dimensions In Muted Tones.
     2. Second Image: Transition From The First Image, The Dimensions Begin To Merge, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Dimensional Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dimensional Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Infinite Spaces:
     1. First Image: Abstract Shapes And Elements Representing Infinite Spaces In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Vastness.
@@ -431,14 +431,14 @@ Title: Infinite Spaces:
 ================================================================ X ================================================================
 26. Category: Abstract Rhythms
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Beats:
     1. First Image: Abstract Shapes And Lines Resembling Rhythmic Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Rhythms Begin To Move, Creating A Sense Of Music.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Rhythmic Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Rhythmic Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Melodic Echoes:
     1. First Image: Abstract Shapes And Elements Resembling Musical Echoes In Soft Tones.
     2. Second Image: Transition From The First Image, The Echoes Begin To Morph, Creating A Sense Of Melody.
@@ -447,14 +447,14 @@ Title: Melodic Echoes:
 ================================================================ X ================================================================
 27. Category: Abstract Whimsy
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Playful Patterns:
     1. First Image: Abstract Shapes And Lines Resembling Playful Patterns In Bright Colors.
     2. Second Image: Transition From The First Image, The Patterns Begin To Move, Creating A Sense Of Fun.
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Enhancing The Playful Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Playful Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Whimsical Waves:
     1. First Image: Abstract Shapes And Elements Resembling Whimsical Waves In Soft Tones.
     2. Second Image: Transition From The First Image, The Waves Begin To Morph, Creating A Sense Of Movement.
@@ -463,14 +463,14 @@ Title: Whimsical Waves:
 ================================================================ X ================================================================
 28. Category: Abstract Refractions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Bends:
     1. First Image: Abstract Shapes And Lines Resembling Light Bending In Soft Tones.
     2. Second Image: Transition From The First Image, The Light Begins To Move, Creating A Sense Of Fluidity.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Bending Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Bending Light Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Refractions:
     1. First Image: Abstract Shapes And Elements Resembling Color Refractions In Soft Tones.
     2. Second Image: Transition From The First Image, The Colors Begin To Move, Creating Dynamic Patterns.
@@ -479,14 +479,14 @@ Title: Color Refractions:
 ================================================================ X ================================================================
 29. Category: Abstract Connections
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Network Patterns:
     1. First Image: Abstract Shapes And Lines Resembling Network Connections In Soft Tones.
     2. Second Image: Transition From The First Image, The Connections Begin To Move, Creating A Sense Of Flow.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Network Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Network Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Web Of Dreams:
     1. First Image: Abstract Shapes And Elements Resembling A Web Of Connections In Soft Tones.
     2. Second Image: Transition From The First Image, The Web Begins To Morph, Creating Dynamic Patterns.
@@ -495,14 +495,14 @@ Title: Web Of Dreams:
 ================================================================ X ================================================================
 30. Category: Abstract Explorations
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mystery Patterns:
     1. First Image: Abstract Shapes And Lines Resembling Mysterious Patterns In Muted Tones.
     2. Second Image: Transition From The First Image, The Patterns Begin To Shift, Creating A Sense Of Exploration.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Mysterious Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mysterious Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Journey Of Shapes:
     1. First Image: Abstract Shapes And Elements Resembling A Journey In Soft Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Movement.
@@ -511,14 +511,14 @@ Title: Journey Of Shapes:
 ================================================================ X ================================================================
 31. Category: Abstract Dimensions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Alternate Realities:
     1. First Image: Abstract Shapes And Lines Resembling Alternate Realities In Muted Tones.
     2. Second Image: Transition From The First Image, The Realities Begin To Merge, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Dimensional Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dimensional Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Infinite Dimensions:
     1. First Image: Abstract Shapes And Elements Representing Infinite Dimensions In Soft Tones.
     2. Second Image: Transition From The First Image, The Dimensions Begin To Morph, Creating A Sense Of Vastness.
@@ -527,14 +527,14 @@ Title: Infinite Dimensions:
 ================================================================ X ================================================================
 32. Category: Abstract Fusion
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Elemental Fusion:
     1. First Image: Abstract Shapes And Lines Representing The Fusion Of Elements In Soft Tones.
     2. Second Image: Transition From The First Image, The Elements Begin To Merge, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Fusion Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Elemental Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Cosmic Fusion:
     1. First Image: Abstract Shapes And Elements Representing Cosmic Fusion In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Cosmic Elements Begin To Blend, Creating Dynamic Patterns.
@@ -543,14 +543,14 @@ Title: Cosmic Fusion:
 ================================================================ X ================================================================
 33. Category: Abstract Whirlpools
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Whirl:
     1. First Image: Abstract Shapes And Lines Resembling A Whirlpool Of Colors In Soft Tones.
     2. Second Image: Transition From The First Image, The Whirlpool Begins To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Whirlpool Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Whirl Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Energy Whirlpools:
     1. First Image: Abstract Shapes And Elements Resembling Energy Whirlpools In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Whirlpools Begin To Merge, Creating Dynamic Patterns.
@@ -559,18 +559,18 @@ Title: Energy Whirlpools:
 ================================================================ X ================================================================
 34. Category: Abstract Movement
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fluid Movement:
     1. First Image: Abstract Shapes And Lines Resembling Fluid Movement In Soft Tones.
     2. Second Image: Transition From The First Image, The Fluid Shapes Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Fluid Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fluid Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Dynamic Motion:
     1. First Image: Abstract Shapes And Elements Representing Dynamic Motion In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Motion Shapes Begin To Blend, Creating Dynamic Patterns.
@@ -580,7 +580,7 @@ Title: Dynamic Motion:
 35. Category: Abstract Waves
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ocean Waves:
     1. First Image: Abstract Shapes And Lines Resembling Ocean Waves In Soft Tones.
     2. Second Image: Transition From The First Image, The Waves Begin To Move, Creating Dynamic Patterns.
@@ -588,7 +588,7 @@ Title: Ocean Waves:
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ocean Wave Shapes Settle Into A Harmonious, Abstract Design.
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Energy Waves:
     1. First Image: Abstract Shapes And Elements Resembling Energy Waves In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Waves Begin To Merge, Creating Dynamic Patterns.
@@ -598,7 +598,7 @@ Title: Energy Waves:
 36. Category: Abstract Lights
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Neon Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Neon Lights In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Neon Lights Begin To Move, Creating Dynamic Patterns.
@@ -606,7 +606,7 @@ Title: Neon Dreams:
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Neon Light Shapes Settle Into A Harmonious, Abstract Design.
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Glowing Patterns:
     1. First Image: Abstract Shapes And Elements Resembling Glowing Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Glowing Shapes Begin To Blend, Creating Dynamic Patterns.
@@ -616,7 +616,7 @@ Title: Glowing Patterns:
 37. Category: Abstract Geometry
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Geometric Harmony:
     1. First Image: Abstract Shapes And Lines Resembling Geometric Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Geometric Shapes Begin To Move, Creating Dynamic Patterns.
@@ -624,7 +624,7 @@ Title: Geometric Harmony:
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Geometric Patterns Settle Into A Harmonious, Abstract Design.
 
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Geometric Dreams:
     1. First Image: Abstract Shapes And Elements Resembling Geometric Dreams In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Geometric Shapes Begin To Merge, Creating Dynamic Patterns.
@@ -633,14 +633,14 @@ Title: Geometric Dreams:
 ================================================================ X ================================================================
 38. Category: Abstract Reflections
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mirror Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Reflections In Muted Tones.
     2. Second Image: Transition From The First Image, The Reflections Begin To Shift, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Reflective Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Reflective Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Water Reflections:
     1. First Image: Abstract Shapes And Elements Resembling Reflections On Water.
     2. Second Image: Transition From The First Image, The Reflections Begin To Move, Creating A Sense Of Fluidity.
@@ -649,14 +649,14 @@ Title: Water Reflections:
 ================================================================ X ================================================================
 39. Category: Abstract Waves
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ocean Waves:
     1. First Image: Abstract Shapes And Lines Resembling Ocean Waves In Soft Tones.
     2. Second Image: Transition From The First Image, The Waves Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Wave Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ocean Wave Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Energy Waves:
     1. First Image: Abstract Shapes And Elements Resembling Energy Waves In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Waves Begin To Merge, Creating Dynamic Patterns.
@@ -665,14 +665,14 @@ Title: Energy Waves:
 ================================================================ X ================================================================
 40. Category: Abstract Refractions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Bends:
     1. First Image: Abstract Shapes And Lines Resembling Light Bending In Soft Tones.
     2. Second Image: Transition From The First Image, The Light Begins To Move, Creating A Sense Of Fluidity.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Bending Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Bending Light Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Refractions:
     1. First Image: Abstract Shapes And Elements Resembling Color Refractions In Soft Tones.
     2. Second Image: Transition From The First Image, The Colors Begin To Move, Creating Dynamic Patterns.
@@ -681,14 +681,14 @@ Title: Color Refractions:
 ================================================================ X ================================================================
 41. Category: Abstract Energy
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Electric Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Electric Energy In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Electric Shapes Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Enhancing The Electric Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Electric Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Energy Patterns:
     1. First Image: Abstract Shapes And Elements Resembling Energy Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Energy Shapes Begin To Merge, Creating Dynamic Patterns.
@@ -697,14 +697,14 @@ Title: Energy Patterns:
 ================================================================ X ================================================================
 42. Category: Abstract Nature
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Nature's Whimsy:
     1. First Image: Abstract Shapes Inspired By Natural Elements Like Leaves And Vines.
     2. Second Image: Transition From The First Image, The Shapes Intertwine, Creating A Complex Pattern.
     3. Third Image: Transition From The Second Image, Colors Deepen, Adding Texture And Depth To The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Abstract Forms Merge Into A Cohesive, Vibrant Representation Of Nature.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Floral Abstractions:
     1. First Image: Soft, Abstract Shapes Resembling Flowers In Muted Colors.
     2. Second Image: Transition From The First Image, The Shapes Begin To Take Form, Adding More Detail And Vibrancy.
@@ -713,14 +713,14 @@ Title: Floral Abstractions:
 ================================================================ X ================================================================
 43. Category: Abstract Dreams
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lucid Visions:
     1. First Image: Soft, Abstract Shapes Resembling Dream-Like Scenes In Muted Tones.
     2. Second Image: Transition From The First Image, The Shapes Begin To Gain Definition, Adding More Detail.
     3. Third Image: Transition From The Second Image, Bright Colors Appear, Enhancing The Dream-Like Quality.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dreamscape Solidifies Into A Vibrant, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Surreal Dreams:
     1. First Image: Abstract Shapes And Elements Resembling Surreal Dream Scenes.
     2. Second Image: Transition From The First Image, The Shapes Begin To Morph, Creating A Sense Of Fluidity.
@@ -729,14 +729,14 @@ Title: Surreal Dreams:
 ================================================================ X ================================================================
 44. Category: Abstract Motion
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fluid Movement:
     1. First Image: Abstract Shapes And Lines Resembling Fluid Movement In Soft Tones.
     2. Second Image: Transition From The First Image, The Fluid Shapes Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Fluid Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fluid Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Dynamic Motion:
     1. First Image: Abstract Shapes And Elements Representing Dynamic Motion In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Motion Shapes Begin To Blend, Creating Dynamic Patterns.
@@ -745,14 +745,14 @@ Title: Dynamic Motion:
 ================================================================ X ================================================================
 45. Category: Abstract Rhythms
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Waves:
     1. First Image: Abstract Shapes And Lines Resembling Rhythmic Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Rhythms Begin To Move, Creating A Sense Of Music.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Rhythmic Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Rhythmic Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Melodic Echoes:
     1. First Image: Abstract Shapes And Elements Resembling Musical Echoes In Soft Tones.
     2. Second Image: Transition From The First Image, The Echoes Begin To Morph, Creating A Sense Of Melody.
@@ -761,14 +761,14 @@ Title: Melodic Echoes:
 ================================================================ X ================================================================
 46. Category: Abstract Colors
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Harmony:
     1. First Image: Abstract Shapes And Lines Resembling Color Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Color Shapes Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Color Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Patterns Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Dreams:
     1. First Image: Abstract Shapes And Elements Resembling Color Dreams In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Color Shapes Begin To Merge, Creating Dynamic Patterns.
@@ -777,14 +777,14 @@ Title: Color Dreams:
 ================================================================ X ================================================================
 47. Category: Abstract Illusions
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Optical Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Optical Illusions In Soft Tones.
     2. Second Image: Transition From The First Image, The Illusions Begin To Move, Creating Dynamic Patterns.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Optical Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Optical Illusions Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Illusionary Patterns:
     1. First Image: Abstract Shapes And Elements Resembling Illusionary Patterns In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Patterns Begin To Merge, Creating Dynamic Shapes.
@@ -793,14 +793,14 @@ Title: Illusionary Patterns:
 ================================================================ X ================================================================
 48. Category: Abstract Light
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Light Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Light Patterns Begin To Move, Creating Dynamic Shapes.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Light Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Light Patterns Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Reflections:
     1. First Image: Abstract Shapes And Elements Resembling Light Reflections In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Light Reflections Begin To Merge, Creating Dynamic Patterns.
@@ -809,14 +809,14 @@ Title: Light Reflections:
 ================================================================ X ================================================================
 49. Category: Abstract Forms
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Form Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Form Patterns In Soft Tones.
     2. Second Image: Transition From The First Image, The Form Patterns Begin To Move, Creating Dynamic Shapes.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Form Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Form Patterns Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Form Reflections:
     1. First Image: Abstract Shapes And Elements Resembling Form Reflections In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Form Reflections Begin To Merge, Creating Dynamic Patterns.
@@ -825,14 +825,14 @@ Title: Form Reflections:
 ================================================================ X ================================================================
 50. Category: Abstract Patterns
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Pattern Dreams:
     1. First Image: Abstract Shapes And Lines Resembling Pattern Designs In Soft Tones.
     2. Second Image: Transition From The First Image, The Pattern Shapes Begin To Move, Creating Dynamic Designs.
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Enhancing The Pattern Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Pattern Shapes Settle Into A Harmonious, Abstract Design.
 
-Prompt: Using The Attached Content To Create 4 Seperate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Pattern Reflections:
     1. First Image: Abstract Shapes And Elements Resembling Pattern Reflections In Vibrant Colors.
     2. Second Image: Transition From The First Image, The Pattern Reflections Begin To Merge, Creating Dynamic Designs.
