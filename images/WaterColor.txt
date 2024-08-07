@@ -3,826 +3,826 @@ Prompt 1:
 Give Me 50 Categories With Watercolor Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 2. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
 1. Category Name: Serene Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Calm Lake:
-    1. First Image: A Tranquil Lake Surrounded By Mountains And Trees.
-    2. Second Image: Transition From The First Image, Gentle Ripples On The Water Reflecting A Golden Sunset.
-    3. Third Image: Transition From The Second Image, A Small Boat Drifting Peacefully On The Lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Under A Starry Night Sky, With Reflections Shimmering.
+    1. First Wallpaper: A Tranquil Lake Surrounded By Mountains And Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, Gentle Ripples On The Water Reflecting A Golden Sunset.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Boat Drifting Peacefully On The Lake.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Lake Under A Starry Night Sky, With Reflections Shimmering.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Misty Forest:
-    1. First Image: A Dense Forest With A Light Mist Hanging In The Air.
-    2. Second Image: Transition From The First Image, Sunlight Filtering Through The Trees, Creating Dappled Patterns.
-    3. Third Image: Transition From The Second Image, A Deer Standing Still, Partially Obscured By The Mist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest As Night Falls, With Fireflies Beginning To Glow.
+    1. First Wallpaper: A Dense Forest With A Light Mist Hanging In The Air.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Filtering Through The Trees, Creating Dappled Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Deer Standing Still, Partially Obscured By The Mist.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest As Night Falls, With Fireflies Beginning To Glow.
 ================================================================ X ================================================================
 2. Category Name: Coastal Scenes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sunny Beach:
-    1. First Image: A Wide, Sandy Beach With Gentle Waves Lapping At The Shore.
-    2. Second Image: Transition From The First Image, Seagulls Flying Overhead, Casting Shadows On The Sand.
-    3. Third Image: Transition From The Second Image, A Beach Umbrella And A Few People Relaxing Near The Water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With The Sky Ablaze In Oranges And Pinks.
+    1. First Wallpaper: A Wide, Sandy Beach With Gentle Waves Lapping At The Shore.
+    2. Second Wallpaper: Transition From The First Wallpaper, Seagulls Flying Overhead, Casting Shadows On The Sand.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Beach Umbrella And A Few People Relaxing Near The Water.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Beach At Sunset, With The Sky Ablaze In Oranges And Pinks.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rocky Shoreline:
-    1. First Image: A Rugged Coastline With Waves Crashing Against Rocks.
-    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
-    3. Third Image: Transition From The Second Image, A Lighthouse Standing Tall Against The Elements.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shoreline Under A Moonlit Sky, With The Lighthouse Beam Cutting Through The Darkness.
+    1. First Wallpaper: A Rugged Coastline With Waves Crashing Against Rocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, Tide Pools Forming In The Rocky Crevices.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Lighthouse Standing Tall Against The Elements.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Shoreline Under A Moonlit Sky, With The Lighthouse Beam Cutting Through The Darkness.
 ================================================================ X ================================================================
 3. Category Name: Tranquil Gardens
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Japanese Garden:
-    1. First Image: A Serene Japanese Garden With A Koi Pond And Arched Bridges.
-    2. Second Image: Transition From The First Image, Cherry Blossom Petals Falling Gently Onto The Water.
-    3. Third Image: Transition From The Second Image, A Tea House Nestled Among The Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Illuminated By Soft Lanterns At Dusk.
+    1. First Wallpaper: A Serene Japanese Garden With A Koi Pond And Arched Bridges.
+    2. Second Wallpaper: Transition From The First Wallpaper, Cherry Blossom Petals Falling Gently Onto The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tea House Nestled Among The Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Garden Illuminated By Soft Lanterns At Dusk.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: English Cottage Garden:
-    1. First Image: A Quaint Cottage Surrounded By Blooming Flowers.
-    2. Second Image: Transition From The First Image, A Cobblestone Path Leading To A Wooden Gate.
-    3. Third Image: Transition From The Second Image, Bees Buzzing Around Vibrant, Colorful Blooms.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Quaint Cottage Surrounded By Blooming Flowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Cobblestone Path Leading To A Wooden Gate.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Bees Buzzing Around Vibrant, Colorful Blooms.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Garden Bathed In The Golden Light Of Late Afternoon.
 ================================================================ X ================================================================
 4. Category Name: Urban Scenes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Street:
-    1. First Image: A Bustling City Street With Rain Pouring Down.
-    2. Second Image: Transition From The First Image, Umbrellas And Reflections On The Wet Pavement.
-    3. Third Image: Transition From The Second Image, A Café With A Warm Glow Inviting Passersby.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Streetlights Creating A Hazy, Romantic Atmosphere.
+    1. First Wallpaper: A Bustling City Street With Rain Pouring Down.
+    2. Second Wallpaper: Transition From The First Wallpaper, Umbrellas And Reflections On The Wet Pavement.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Café With A Warm Glow Inviting Passersby.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Streetlights Creating A Hazy, Romantic Atmosphere.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sunset Skyline:
-    1. First Image: A City Skyline Against A Vibrant Sunset.
-    2. Second Image: Transition From The First Image, Skyscrapers Reflecting The Colorful Sky.
-    3. Third Image: Transition From The Second Image, A River Running Through The City, Catching The Last Light Of Day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Skyline Transitioning Into The Night, With City Lights Twinkling.
+    1. First Wallpaper: A City Skyline Against A Vibrant Sunset.
+    2. Second Wallpaper: Transition From The First Wallpaper, Skyscrapers Reflecting The Colorful Sky.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A River Running Through The City, Catching The Last Light Of Day.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Skyline Transitioning Into The Night, With City Lights Twinkling.
 ================================================================ X ================================================================
 5. Category Name: Wildlife Wonders
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Jungle Animals:
-    1. First Image: A Dense Jungle With Exotic Animals Peeking Through The Foliage.
-    2. Second Image: Transition From The First Image, A Majestic Tiger Drinking From A Clear Stream.
-    3. Third Image: Transition From The Second Image, Colorful Birds Perched On Branches, Their Feathers Vivid Against The Green.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Jungle Under A Dusky Sky, With Nocturnal Animals Beginning To Stir.
+    1. First Wallpaper: A Dense Jungle With Exotic Animals Peeking Through The Foliage.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Majestic Tiger Drinking From A Clear Stream.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Colorful Birds Perched On Branches, Their Feathers Vivid Against The Green.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Jungle Under A Dusky Sky, With Nocturnal Animals Beginning To Stir.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Desert Wildlife:
-    1. First Image: A Vast Desert With Rolling Dunes And Sparse Vegetation.
-    2. Second Image: Transition From The First Image, A Caravan Of Camels Trekking Across The Sand.
-    3. Third Image: Transition From The Second Image, A Desert Fox Standing Alert On A Dune.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Desert Landscape At Sunset, With Long Shadows Stretching Across The Sand.
+    1. First Wallpaper: A Vast Desert With Rolling Dunes And Sparse Vegetation.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Caravan Of Camels Trekking Across The Sand.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Desert Fox Standing Alert On A Dune.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Desert Landscape At Sunset, With Long Shadows Stretching Across The Sand.
 ================================================================ X ================================================================
 6. Category Name: Winter Wonderland
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Snowy Forest:
-    1. First Image: A Forest Blanketed In Fresh Snow.
-    2. Second Image: Transition From The First Image, Animal Tracks Winding Through The Snow.
-    3. Third Image: Transition From The Second Image, A Small Cabin With Smoke Rising From The Chimney.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Twilight, With A Soft, Ethereal Glow.
+    1. First Wallpaper: A Forest Blanketed In Fresh Snow.
+    2. Second Wallpaper: Transition From The First Wallpaper, Animal Tracks Winding Through The Snow.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Cabin With Smoke Rising From The Chimney.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Twilight, With A Soft, Ethereal Glow.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Frozen Lake:
-    1. First Image: A Lake Frozen Over With A Smooth, Reflective Surface.
-    2. Second Image: Transition From The First Image, Ice Skaters Gliding Gracefully Across The Ice.
-    3. Third Image: Transition From The Second Image, Snowflakes Gently Falling Onto The Frozen Lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Under A Clear, Starry Night Sky.
+    1. First Wallpaper: A Lake Frozen Over With A Smooth, Reflective Surface.
+    2. Second Wallpaper: Transition From The First Wallpaper, Ice Skaters Gliding Gracefully Across The Ice.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Snowflakes Gently Falling Onto The Frozen Lake.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Lake Under A Clear, Starry Night Sky.
 ================================================================ X ================================================================
 7. Category Name: Underwater World
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Coral Reef:
-    1. First Image: A Vibrant Coral Reef Teeming With Colorful Fish.
-    2. Second Image: Transition From The First Image, A Sea Turtle Swimming Gracefully Among The Corals.
-    3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Water, Creating A Shimmering Effect.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Reef At Dusk, With Bioluminescent Creatures Glowing Softly.
+    1. First Wallpaper: A Vibrant Coral Reef Teeming With Colorful Fish.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Sea Turtle Swimming Gracefully Among The Corals.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Sunlight Filtering Through The Water, Creating A Shimmering Effect.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Reef At Dusk, With Bioluminescent Creatures Glowing Softly.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Deep Ocean:
-    1. First Image: The Deep Ocean With Mysterious, Dark Waters.
-    2. Second Image: Transition From The First Image, Strange, Otherworldly Creatures Drifting Through The Deep.
-    3. Third Image: Transition From The Second Image, A Sunken Ship Covered In Marine Life.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Deep Ocean Illuminated By The Glow Of A Submersible’S Lights.
+    1. First Wallpaper: The Deep Ocean With Mysterious, Dark Waters.
+    2. Second Wallpaper: Transition From The First Wallpaper, Strange, Otherworldly Creatures Drifting Through The Deep.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Sunken Ship Covered In Marine Life.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Deep Ocean Illuminated By The Glow Of A Submersible’S Lights.
 ================================================================ X ================================================================
 8. Category Name: Majestic Mountains
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Snow-Capped Peaks:
-    1. First Image: Tall, Snow-Capped Mountains Against A Clear Blue Sky.
-    2. Second Image: Transition From The First Image, A Climber Making Their Way Up A Steep Incline.
-    3. Third Image: Transition From The Second Image, A Pristine Mountain Lake Reflecting The Peaks.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains At Sunrise, With The First Light Hitting The Peaks.
+    1. First Wallpaper: Tall, Snow-Capped Mountains Against A Clear Blue Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Climber Making Their Way Up A Steep Incline.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Pristine Mountain Lake Reflecting The Peaks.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mountains At Sunrise, With The First Light Hitting The Peaks.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Misty Highlands:
-    1. First Image: Rolling Highlands Shrouded In Mist.
-    2. Second Image: Transition From The First Image, A Herd Of Sheep Grazing On The Green Slopes.
-    3. Third Image: Transition From The Second Image, Ancient Stone Ruins Perched On A Hilltop.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Highlands Bathed In The Soft Light Of Early Evening.
+    1. First Wallpaper: Rolling Highlands Shrouded In Mist.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Herd Of Sheep Grazing On The Green Slopes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Ancient Stone Ruins Perched On A Hilltop.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Highlands Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 9. Category Name: Enchanted Forests
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fairy Glade:
-    1. First Image: A Magical Glade With Sparkling Lights And Whimsical Creatures.
-    2. Second Image: Transition From The First Image, Fairies Flitting Among The Flowers And Trees.
-    3. Third Image: Transition From The Second Image, A Crystal-Clear Stream Winding Through The Glade.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Glade Under A Full Moon, With A Mystical Glow.
+    1. First Wallpaper: A Magical Glade With Sparkling Lights And Whimsical Creatures.
+    2. Second Wallpaper: Transition From The First Wallpaper, Fairies Flitting Among The Flowers And Trees.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Crystal-Clear Stream Winding Through The Glade.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Glade Under A Full Moon, With A Mystical Glow.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Woods:
-    1. First Image: A Dense, Ancient Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, Strange, Glowing Plants And Fungi Growing In The Underbrush.
-    3. Third Image: Transition From The Second Image, An Owl Perched On A Gnarled Branch, Watching Silently.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Dusk, With Eerie, Beautiful Light Filtering Through.
+    1. First Wallpaper: A Dense, Ancient Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, Strange, Glowing Plants And Fungi Growing In The Underbrush.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Owl Perched On A Gnarled Branch, Watching Silently.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Dusk, With Eerie, Beautiful Light Filtering Through.
 ================================================================ X ================================================================
 10. Category Name: Idyllic Countryside
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rolling Hills:
-    1. First Image: Gentle Rolling Hills Covered In Lush, Green Grass.
-    2. Second Image: Transition From The First Image, A Winding Path Leading Through The Hills.
-    3. Third Image: Transition From The Second Image, A Quaint Farmhouse Nestled Among The Hills.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Hills At Sunset, With Golden Light Washing Over The Landscape.
+    1. First Wallpaper: Gentle Rolling Hills Covered In Lush, Green Grass.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Winding Path Leading Through The Hills.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Quaint Farmhouse Nestled Among The Hills.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hills At Sunset, With Golden Light Washing Over The Landscape.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Peaceful Valley:
-    1. First Image: A Serene Valley With A River Running Through It.
-    2. Second Image: Transition From The First Image, Wildflowers Blooming Along The Riverbanks.
-    3. Third Image: Transition From The Second Image, A Rustic Bridge Crossing The River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Valley Under A Sky Filled With Soft, Pastel Clouds.
+    1. First Wallpaper: A Serene Valley With A River Running Through It.
+    2. Second Wallpaper: Transition From The First Wallpaper, Wildflowers Blooming Along The Riverbanks.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Rustic Bridge Crossing The River.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Valley Under A Sky Filled With Soft, Pastel Clouds.
 ================================================================ X ================================================================
 11. Category Name: Vibrant Cityscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Paris In Spring:
-    1. First Image: The Eiffel Tower Surrounded By Blooming Cherry Blossoms.
-    2. Second Image: Transition From The First Image, Café Tables Lining A Charming Parisian Street.
-    3. Third Image: Transition From The Second Image, Artists Painting By The Seine River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Lights Reflecting On The River At Dusk.
+    1. First Wallpaper: The Eiffel Tower Surrounded By Blooming Cherry Blossoms.
+    2. Second Wallpaper: Transition From The First Wallpaper, Café Tables Lining A Charming Parisian Street.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Artists Painting By The Seine River.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Lights Reflecting On The River At Dusk.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: New York At Night:
-    1. First Image: The New York City Skyline Lit Up Against A Night Sky.
-    2. Second Image: Transition From The First Image, Times Square With Its Bright Neon Lights And Bustling Crowds.
-    3. Third Image: Transition From The Second Image, A Yellow Taxi Making Its Way Through The City Streets.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Central Park Under The Soft Glow Of Street Lamps.
+    1. First Wallpaper: The New York City Skyline Lit Up Against A Night Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, Times Square With Its Bright Neon Lights And Bustling Crowds.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Yellow Taxi Making Its Way Through The City Streets.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Central Park Under The Soft Glow Of Street Lamps.
 ================================================================ X ================================================================
 12. Category Name: Beautiful Sunsets
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Beach Sunset:
-    1. First Image: A Beach With The Sun Setting Over The Horizon.
-    2. Second Image: Transition From The First Image, The Sky Filled With Vibrant Oranges, Pinks, And Purples.
-    3. Third Image: Transition From The Second Image, Silhouettes Of Palm Trees Against The Colorful Sky.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Last Light Of The Sun Reflecting On The Gentle Waves.
+    1. First Wallpaper: A Beach With The Sun Setting Over The Horizon.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Sky Filled With Vibrant Oranges, Pinks, And Purples.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Silhouettes Of Palm Trees Against The Colorful Sky.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Last Light Of The Sun Reflecting On The Gentle Waves.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Sunset:
-    1. First Image: A Mountain Range With The Sun Setting Behind The Peaks.
-    2. Second Image: Transition From The First Image, The Sky Ablaze With Warm, Golden Hues.
-    3. Third Image: Transition From The Second Image, The Mountains Casting Long Shadows Over The Valleys.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sky Transitioning To Twilight, With Stars Beginning To Appear.
+    1. First Wallpaper: A Mountain Range With The Sun Setting Behind The Peaks.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Sky Ablaze With Warm, Golden Hues.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Mountains Casting Long Shadows Over The Valleys.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sky Transitioning To Twilight, With Stars Beginning To Appear.
 ================================================================ X ================================================================
 13. Category Name: Dynamic Weather
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Stormy Seas:
-    1. First Image: A Turbulent Sea With Dark, Stormy Clouds Overhead.
-    2. Second Image: Transition From The First Image, Waves Crashing Against A Rocky Shore.
-    3. Third Image: Transition From The Second Image, A Ship Battling The Fierce Waves.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sea Calming As The Storm Begins To Pass.
+    1. First Wallpaper: A Turbulent Sea With Dark, Stormy Clouds Overhead.
+    2. Second Wallpaper: Transition From The First Wallpaper, Waves Crashing Against A Rocky Shore.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Ship Battling The Fierce Waves.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sea Calming As The Storm Begins To Pass.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Autumn Rain:
-    1. First Image: A Quiet Street Lined With Autumn Trees, With Leaves Starting To Fall.
-    2. Second Image: Transition From The First Image, Raindrops Creating Ripples In Puddles On The Ground.
-    3. Third Image: Transition From The Second Image, People Walking Under Umbrellas, Leaves Swirling Around Them.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Street Lights Reflecting Off The Wet Pavement.
+    1. First Wallpaper: A Quiet Street Lined With Autumn Trees, With Leaves Starting To Fall.
+    2. Second Wallpaper: Transition From The First Wallpaper, Raindrops Creating Ripples In Puddles On The Ground.
+    3. Third Wallpaper: Transition From The Second Wallpaper, People Walking Under Umbrellas, Leaves Swirling Around Them.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Street Lights Reflecting Off The Wet Pavement.
 ================================================================ X ================================================================
 14. Category Name: Rustic Charm
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old Barn:
-    1. First Image: A Weathered Barn Standing In A Field Of Tall Grass.
-    2. Second Image: Transition From The First Image, Sunlight Streaming Through The Gaps In The Wooden Walls.
-    3. Third Image: Transition From The Second Image, Farm Animals Grazing Nearby.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Barn Bathed In The Warm Light Of Late Afternoon.
+    1. First Wallpaper: A Weathered Barn Standing In A Field Of Tall Grass.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Streaming Through The Gaps In The Wooden Walls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Farm Animals Grazing Nearby.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Barn Bathed In The Warm Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Country Road:
-    1. First Image: A Dirt Road Winding Through The Countryside.
-    2. Second Image: Transition From The First Image, Wildflowers Growing Along The Roadside.
-    3. Third Image: Transition From The Second Image, A Horse-Drawn Carriage Making Its Way Down The Road.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Road Disappearing Into The Distance Under A Pastel Sky.
+    1. First Wallpaper: A Dirt Road Winding Through The Countryside.
+    2. Second Wallpaper: Transition From The First Wallpaper, Wildflowers Growing Along The Roadside.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Horse-Drawn Carriage Making Its Way Down The Road.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Road Disappearing Into The Distance Under A Pastel Sky.
 ================================================================ X ================================================================
 15. Category Name: Romantic Vignettes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lovers Park:
-    1. First Image: A Beautiful Park With Blooming Flowers And A Picturesque Gazebo.
-    2. Second Image: Transition From The First Image, A Couple Walking Hand-In-Hand Along A Tree-Lined Path.
-    3. Third Image: Transition From The Second Image, The Couple Sitting On A Bench, Enjoying The View.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Park At Twilight, With Soft, Romantic Lighting.
+    1. First Wallpaper: A Beautiful Park With Blooming Flowers And A Picturesque Gazebo.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Couple Walking Hand-In-Hand Along A Tree-Lined Path.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Couple Sitting On A Bench, Enjoying The View.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Park At Twilight, With Soft, Romantic Lighting.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Evening Stroll:
-    1. First Image: A Cobblestone Street In A Charming Old Town.
-    2. Second Image: Transition From The First Image, A Couple Walking Arm-In-Arm Under The Glow Of Street Lamps.
-    3. Third Image: Transition From The Second Image, A Small Café With Candlelit Tables Spilling Onto The Sidewalk.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Square With A Beautiful Fountain, Illuminated By Soft Lights.
+    1. First Wallpaper: A Cobblestone Street In A Charming Old Town.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Couple Walking Arm-In-Arm Under The Glow Of Street Lamps.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Café With Candlelit Tables Spilling Onto The Sidewalk.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Town Square With A Beautiful Fountain, Illuminated By Soft Lights.
 ================================================================ X ================================================================
 16. Category Name: Colorful Markets
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Flower Market:
-    1. First Image: A Bustling Market Filled With Stalls Of Vibrant Flowers.
-    2. Second Image: Transition From The First Image, People Browsing And Buying Bouquets.
-    3. Third Image: Transition From The Second Image, A Vendor Arranging A Beautiful Floral Display.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Market At Dusk, With Lanterns Illuminating The Colorful Blooms.
+    1. First Wallpaper: A Bustling Market Filled With Stalls Of Vibrant Flowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, People Browsing And Buying Bouquets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Vendor Arranging A Beautiful Floral Display.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Market At Dusk, With Lanterns Illuminating The Colorful Blooms.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Spice Bazaar:
-    1. First Image: A Lively Bazaar With Stalls Piled High With Colorful Spices.
-    2. Second Image: Transition From The First Image, The Rich, Aromatic Scents Filling The Air.
-    3. Third Image: Transition From The Second Image, Shoppers Haggling With Vendors Over Prices.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bazaar Under A Canopy Of Twinkling Lights.
+    1. First Wallpaper: A Lively Bazaar With Stalls Piled High With Colorful Spices.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Rich, Aromatic Scents Filling The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Shoppers Haggling With Vendors Over Prices.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bazaar Under A Canopy Of Twinkling Lights.
 ================================================================ X ================================================================
 17. Category Name: Tranquil Lakes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Lake:
-    1. First Image: A Serene Lake Surrounded By Towering Mountains.
-    2. Second Image: Transition From The First Image, The Water Perfectly Reflecting The Mountain Peaks.
-    3. Third Image: Transition From The Second Image, A Canoe Gliding Across The Still Surface.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake At Sunset, With Golden Light On The Water.
+    1. First Wallpaper: A Serene Lake Surrounded By Towering Mountains.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Water Perfectly Reflecting The Mountain Peaks.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Canoe Gliding Across The Still Surface.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Lake At Sunset, With Golden Light On The Water.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Lake:
-    1. First Image: A Quiet Lake Nestled In A Dense Forest.
-    2. Second Image: Transition From The First Image, Birds Flying Low Over The Water.
-    3. Third Image: Transition From The Second Image, A Small Dock Extending Into The Lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest And Lake Bathed In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Quiet Lake Nestled In A Dense Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, Birds Flying Low Over The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Dock Extending Into The Lake.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest And Lake Bathed In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 18. Category Name: Idyllic Villages
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tuscan Village:
-    1. First Image: A Picturesque Village Nestled In The Rolling Hills Of Tuscany.
-    2. Second Image: Transition From The First Image, Vineyards Stretching Out As Far As The Eye Can See.
-    3. Third Image: Transition From The Second Image, A Cobblestone Street Lined With Charming Stone Houses.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village At Sunset, With The Sky Painted In Warm Hues.
+    1. First Wallpaper: A Picturesque Village Nestled In The Rolling Hills Of Tuscany.
+    2. Second Wallpaper: Transition From The First Wallpaper, Vineyards Stretching Out As Far As The Eye Can See.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Cobblestone Street Lined With Charming Stone Houses.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Village At Sunset, With The Sky Painted In Warm Hues.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Alpine Village:
-    1. First Image: A Quaint Village Surrounded By Snow-Capped Mountains.
-    2. Second Image: Transition From The First Image, A Cozy Chalet With Smoke Rising From The Chimney.
-    3. Third Image: Transition From The Second Image, Villagers Going About Their Daily Activities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Illuminated By The Glow Of Street Lamps At Dusk.
+    1. First Wallpaper: A Quaint Village Surrounded By Snow-Capped Mountains.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Cozy Chalet With Smoke Rising From The Chimney.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Villagers Going About Their Daily Activities.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Village Illuminated By The Glow Of Street Lamps At Dusk.
 ================================================================ X ================================================================
 19. Category Name: Exotic Locations
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tropical Paradise:
-    1. First Image: A White Sandy Beach With Turquoise Waters.
-    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
-    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Palm Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With Vibrant Colors In The Sky.
+    1. First Wallpaper: A White Sandy Beach With Turquoise Waters.
+    2. Second Wallpaper: Transition From The First Wallpaper, Palm Trees Swaying Gently In The Breeze.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hammock Strung Between Two Palm Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Beach At Sunset, With Vibrant Colors In The Sky.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Desert Oasis:
-    1. First Image: A Lush Oasis In The Middle Of A Vast Desert.
-    2. Second Image: Transition From The First Image, Palm Trees And A Clear Pool Of Water.
-    3. Third Image: Transition From The Second Image, Camels Resting Near The Waters Edge.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Oasis Under The Soft Glow Of The Setting Sun.
+    1. First Wallpaper: A Lush Oasis In The Middle Of A Vast Desert.
+    2. Second Wallpaper: Transition From The First Wallpaper, Palm Trees And A Clear Pool Of Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Camels Resting Near The Waters Edge.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Oasis Under The Soft Glow Of The Setting Sun.
 ================================================================ X ================================================================
 20. Category Name: Majestic Waterfalls
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Jungle Waterfall:
-    1. First Image: A Powerful Waterfall Cascading Into A Pool In The Jungle.
-    2. Second Image: Transition From The First Image, Mist Rising From The Base Of The Waterfall.
-    3. Third Image: Transition From The Second Image, Exotic Birds Flying Through The Spray.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Waterfall Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Powerful Waterfall Cascading Into A Pool In The Jungle.
+    2. Second Wallpaper: Transition From The First Wallpaper, Mist Rising From The Base Of The Waterfall.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Exotic Birds Flying Through The Spray.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Waterfall Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Falls:
-    1. First Image: A Stunning Waterfall Flowing Down A Rocky Mountain Face.
-    2. Second Image: Transition From The First Image, The Water Crashing Into The Rocks Below.
-    3. Third Image: Transition From The Second Image, A Rainbow Forming In The Mist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Falls At Sunset, With The Surrounding Mountains Glowing Softly.
+    1. First Wallpaper: A Stunning Waterfall Flowing Down A Rocky Mountain Face.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Water Crashing Into The Rocks Below.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Rainbow Forming In The Mist.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Falls At Sunset, With The Surrounding Mountains Glowing Softly.
 ================================================================ X ================================================================
 21. Category Name: Mystical Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted Meadow:
-    1. First Image: A Lush Meadow Filled With Vibrant Wildflowers.
-    2. Second Image: Transition From The First Image, A Soft, Golden Light Filtering Through The Trees.
-    3. Third Image: Transition From The Second Image, A Unicorn Grazing Peacefully In The Meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Under A Starry Sky, With Fireflies Glowing Softly.
+    1. First Wallpaper: A Lush Meadow Filled With Vibrant Wildflowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Soft, Golden Light Filtering Through The Trees.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Unicorn Grazing Peacefully In The Meadow.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Meadow Under A Starry Sky, With Fireflies Glowing Softly.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Foggy Moor:
-    1. First Image: A Vast Moorland Shrouded In Fog.
-    2. Second Image: Transition From The First Image, Mysterious Shapes And Shadows Moving Through The Mist.
-    3. Third Image: Transition From The Second Image, A Lone Figure Walking Across The Moor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fog Lifting To Reveal A Hidden, Magical Landscape.
+    1. First Wallpaper: A Vast Moorland Shrouded In Fog.
+    2. Second Wallpaper: Transition From The First Wallpaper, Mysterious Shapes And Shadows Moving Through The Mist.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Lone Figure Walking Across The Moor.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fog Lifting To Reveal A Hidden, Magical Landscape.
 ================================================================ X ================================================================
 22. Category Name: Majestic Wildlife
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lions On The Savannah:
-    1. First Image: A Pride Of Lions Resting In The Tall Grass.
-    2. Second Image: Transition From The First Image, The Lions Alert And Watching The Horizon.
-    3. Third Image: Transition From The Second Image, A Lioness Leading Her Cubs To A Waterhole.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Savannah Bathed In The Warm Light Of Sunset.
+    1. First Wallpaper: A Pride Of Lions Resting In The Tall Grass.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Lions Alert And Watching The Horizon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Lioness Leading Her Cubs To A Waterhole.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Savannah Bathed In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eagles In Flight:
-    1. First Image: A Pair Of Eagles Soaring High Above A Mountain Range.
-    2. Second Image: Transition From The First Image, The Eagles Diving And Playing In The Air.
-    3. Third Image: Transition From The Second Image, An Eagle Perched On A Rocky Outcrop, Surveying Its Territory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Eagles Flying Off Into The Distance As The Sun Sets.
+    1. First Wallpaper: A Pair Of Eagles Soaring High Above A Mountain Range.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Eagles Diving And Playing In The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Eagle Perched On A Rocky Outcrop, Surveying Its Territory.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Eagles Flying Off Into The Distance As The Sun Sets.
 ================================================================ X ================================================================
 23. Category Name: Cultural Festivals
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chinese New Year:
-    1. First Image: A Bustling Street Decorated With Red Lanterns.
-    2. Second Image: Transition From The First Image, A Dragon Dance Procession Making Its Way Through The Crowd.
-    3. Third Image: Transition From The Second Image, Fireworks Lighting Up The Night Sky.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Families Gathered Around A Table, Sharing A Festive Meal.
+    1. First Wallpaper: A Bustling Street Decorated With Red Lanterns.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Dragon Dance Procession Making Its Way Through The Crowd.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Fireworks Lighting Up The Night Sky.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Families Gathered Around A Table, Sharing A Festive Meal.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Diwali Celebration:
-    1. First Image: A Street Lined With Homes Decorated With Colorful Lights.
-    2. Second Image: Transition From The First Image, People Lighting Diyas (Oil Lamps) And Placing Them Along The Path.
-    3. Third Image: Transition From The Second Image, A Spectacular Fireworks Display.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Celebration Continuing Into The Night With Music And Dance.
+    1. First Wallpaper: A Street Lined With Homes Decorated With Colorful Lights.
+    2. Second Wallpaper: Transition From The First Wallpaper, People Lighting Diyas (Oil Lamps) And Placing Them Along The Path.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Spectacular Fireworks Display.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Celebration Continuing Into The Night With Music And Dance.
 ================================================================ X ================================================================
 24. Category Name: Majestic Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Grand Canyon:
-    1. First Image: The Vast Expanse Of The Grand Canyon With Its Layered Rock Formations.
-    2. Second Image: Transition From The First Image, A Hiker Standing On The Edge, Looking Out Over The Canyon.
-    3. Third Image: Transition From The Second Image, The Colorado River Winding Through The Canyon.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon At Sunset, With The Rocks Glowing In Warm Colors.
+    1. First Wallpaper: The Vast Expanse Of The Grand Canyon With Its Layered Rock Formations.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Hiker Standing On The Edge, Looking Out Over The Canyon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Colorado River Winding Through The Canyon.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canyon At Sunset, With The Rocks Glowing In Warm Colors.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Aurora Borealis:
-    1. First Image: A Snowy Landscape Under A Clear Night Sky.
-    2. Second Image: Transition From The First Image, The Northern Lights Beginning To Dance Across The Sky.
-    3. Third Image: Transition From The Second Image, The Sky Filled With Vibrant Greens, Pinks, And Purples.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aurora Reflecting On A Frozen Lake.
+    1. First Wallpaper: A Snowy Landscape Under A Clear Night Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Northern Lights Beginning To Dance Across The Sky.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Sky Filled With Vibrant Greens, Pinks, And Purples.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Aurora Reflecting On A Frozen Lake.
 ================================================================ X ================================================================
 25. Category Name: Dreamy Gardens
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Garden:
-    1. First Image: A Hidden Garden Behind An Ivy-Covered Wall.
-    2. Second Image: Transition From The First Image, A Wrought-Iron Gate Leading Into The Garden.
-    3. Third Image: Transition From The Second Image, The Garden Filled With Blooming Flowers And A Bubbling Fountain.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Bathed In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Hidden Garden Behind An Ivy-Covered Wall.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Wrought-Iron Gate Leading Into The Garden.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Garden Filled With Blooming Flowers And A Bubbling Fountain.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Garden Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rose Garden:
-    1. First Image: Rows Of Rose Bushes In Full Bloom.
-    2. Second Image: Transition From The First Image, A Path Winding Through The Garden, Lined With Roses.
-    3. Third Image: Transition From The Second Image, A Gazebo Covered In Climbing Roses.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden At Sunset, With The Roses Glowing In The Warm Light.
+    1. First Wallpaper: Rows Of Rose Bushes In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Path Winding Through The Garden, Lined With Roses.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Gazebo Covered In Climbing Roses.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Garden At Sunset, With The Roses Glowing In The Warm Light.
 ================================================================ X ================================================================
 26. Category Name: Captivating Cityscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Venice Canals:
-    1. First Image: The Iconic Canals Of Venice With Gondolas Gliding Through The Water.
-    2. Second Image: Transition From The First Image, Beautiful Buildings Lining The Canals, Reflected In The Water.
-    3. Third Image: Transition From The Second Image, A Gondolier Serenading Passengers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canals At Dusk, With Lights Twinkling In The Water.
+    1. First Wallpaper: The Iconic Canals Of Venice With Gondolas Gliding Through The Water.
+    2. Second Wallpaper: Transition From The First Wallpaper, Beautiful Buildings Lining The Canals, Reflected In The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Gondolier Serenading Passengers.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canals At Dusk, With Lights Twinkling In The Water.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Kyoto In Autumn:
-    1. First Image: A Traditional Japanese Street With Autumn Foliage.
-    2. Second Image: Transition From The First Image, Red And Orange Leaves Creating A Vibrant Canopy.
-    3. Third Image: Transition From The Second Image, A Temple Surrounded By Colorful Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Street Illuminated By Lanterns As Night Falls.
+    1. First Wallpaper: A Traditional Japanese Street With Autumn Foliage.
+    2. Second Wallpaper: Transition From The First Wallpaper, Red And Orange Leaves Creating A Vibrant Canopy.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Temple Surrounded By Colorful Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Street Illuminated By Lanterns As Night Falls.
 ================================================================ X ================================================================
 27. Category Name: Ancient Ruins
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Machu Picchu:
-    1. First Image: The Ancient Incan City Of Machu Picchu Nestled In The Mountains.
-    2. Second Image: Transition From The First Image, The Stone Structures And Terraces Bathed In Early Morning Light.
-    3. Third Image: Transition From The Second Image, Llamas Grazing Among The Ruins.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Under A Starry Sky, With The Mountains Silhouetted In The Background.
+    1. First Wallpaper: The Ancient Incan City Of Machu Picchu Nestled In The Mountains.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Stone Structures And Terraces Bathed In Early Morning Light.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Llamas Grazing Among The Ruins.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Under A Starry Sky, With The Mountains Silhouetted In The Background.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Petra:
-    1. First Image: The Ancient City Of Petra With Its Rock-Cut Architecture.
-    2. Second Image: Transition From The First Image, The Iconic Treasury Building Illuminated By The Sun.
-    3. Third Image: Transition From The Second Image, A Narrow Canyon Leading Into The City.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, With Candles Lighting The Way.
+    1. First Wallpaper: The Ancient City Of Petra With Its Rock-Cut Architecture.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Iconic Treasury Building Illuminated By The Sun.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Narrow Canyon Leading Into The City.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City At Night, With Candles Lighting The Way.
 ================================================================ X ================================================================
 28. Category Name: Stunning Coastlines
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cliffs Of Moher:
-    1. First Image: The Dramatic Cliffs Of Moher Rising Above The Atlantic Ocean.
-    2. Second Image: Transition From The First Image, Waves Crashing Against The Base Of The Cliffs.
-    3. Third Image: Transition From The Second Image, Birds Soaring High Above The Cliffs.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cliffs Bathed In The Golden Light Of Sunset.
+    1. First Wallpaper: The Dramatic Cliffs Of Moher Rising Above The Atlantic Ocean.
+    2. Second Wallpaper: Transition From The First Wallpaper, Waves Crashing Against The Base Of The Cliffs.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Birds Soaring High Above The Cliffs.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Cliffs Bathed In The Golden Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Santorini:
-    1. First Image: The White-Washed Buildings Of Santorini Overlooking The Aegean Sea.
-    2. Second Image: Transition From The First Image, A Winding Path Leading Through The Picturesque Town.
-    3. Third Image: Transition From The Second Image, Blue-Domed Churches Contrasting With The White Buildings.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Glowing In The Warm Light Of Dusk.
+    1. First Wallpaper: The White-Washed Buildings Of Santorini Overlooking The Aegean Sea.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Winding Path Leading Through The Picturesque Town.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Blue-Domed Churches Contrasting With The White Buildings.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Town Glowing In The Warm Light Of Dusk.
 ================================================================ X ================================================================
 29. Category Name: Breathtaking Vistas
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Swiss Alps:
-    1. First Image: The Majestic Peaks Of The Swiss Alps Covered In Snow.
-    2. Second Image: Transition From The First Image, A Charming Alpine Village Nestled In A Valley.
-    3. Third Image: Transition From The Second Image, Skiers Making Their Way Down The Slopes.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Glowing In The Light Of The Setting Sun.
+    1. First Wallpaper: The Majestic Peaks Of The Swiss Alps Covered In Snow.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Charming Alpine Village Nestled In A Valley.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Skiers Making Their Way Down The Slopes.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mountains Glowing In The Light Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Norwegian Fjords:
-    1. First Image: The Stunning Fjords Of Norway With Their Steep Cliffs And Deep Waters.
-    2. Second Image: Transition From The First Image, A Boat Making Its Way Through The Narrow Passage.
-    3. Third Image: Transition From The Second Image, Waterfalls Cascading Down The Cliffs.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fjords Bathed In The Soft Light Of Early Evening.
+    1. First Wallpaper: The Stunning Fjords Of Norway With Their Steep Cliffs And Deep Waters.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Boat Making Its Way Through The Narrow Passage.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Waterfalls Cascading Down The Cliffs.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fjords Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 30. Category Name: Autumn Splendor
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Maple Forest:
-    1. First Image: A Forest Of Maple Trees With Vibrant Autumn Foliage.
-    2. Second Image: Transition From The First Image, A Carpet Of Red And Orange Leaves Covering The Ground.
-    3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Colorful Canopy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Sunset, With The Leaves Glowing In The Warm Light.
+    1. First Wallpaper: A Forest Of Maple Trees With Vibrant Autumn Foliage.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Carpet Of Red And Orange Leaves Covering The Ground.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Sunlight Filtering Through The Colorful Canopy.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Sunset, With The Leaves Glowing In The Warm Light.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pumpkin Patch:
-    1. First Image: A Sprawling Pumpkin Patch With Rows Of Pumpkins Ready For Harvest.
-    2. Second Image: Transition From The First Image, Families Picking Out The Perfect Pumpkins.
-    3. Third Image: Transition From The Second Image, A Hayride Making Its Way Through The Patch.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Patch Illuminated By The Soft Light Of Dusk.
+    1. First Wallpaper: A Sprawling Pumpkin Patch With Rows Of Pumpkins Ready For Harvest.
+    2. Second Wallpaper: Transition From The First Wallpaper, Families Picking Out The Perfect Pumpkins.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hayride Making Its Way Through The Patch.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Patch Illuminated By The Soft Light Of Dusk.
 ================================================================ X ================================================================
 31. Category Name: Charming Towns
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Provencal Village:
-    1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
-    2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
-    3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Charming Village In Provence With Lavender Fields In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Stone Houses With Colorful Shutters.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Bustling Market Square With Stalls Selling Local Produce.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dutch Canal Town:
-    1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
-    2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
-    3. Third Image: Transition From The Second Image, Boats Gently Floating On The Water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
+    1. First Wallpaper: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bicycles Lined Up Along The Canal.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Boats Gently Floating On The Water.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
 ================================================================ X ================================================================
 32. Category Name: Serene Rivers
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tranquil River:
-    1. First Image: A Peaceful River Winding Through A Lush Landscape.
-    2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
-    3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
+    1. First Wallpaper: A Peaceful River Winding Through A Lush Landscape.
+    2. Second Wallpaper: Transition From The First Wallpaper, Ducks Swimming Gracefully On The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Wooden Dock Extending Into The River.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Stream:
-    1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
-    2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
-    3. Third Image: Transition From The Second Image, A Small Waterfall Cascading Into A Pool.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Clear Mountain Stream Flowing Over Smooth Rocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Stream Surrounded By Vibrant Wildflowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Waterfall Cascading Into A Pool.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 33. Category Name: Enchanting Castles
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Scottish Highlands Castle:
-    1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
-    2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
-    3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
+    1. First Wallpaper: A Majestic Castle Standing On A Hill In The Scottish Highlands.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Castle Surrounded By Rolling Green Hills.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Misty Landscape With The Castle Looming In The Distance.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bavarian Castle:
-    1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
-    2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
-    3. Third Image: Transition From The Second Image, A Winding Path Leading Up To The Castle Gates.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
+    1. First Wallpaper: A Fairytale-Like Castle In The Bavarian Countryside.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Castle Nestled Among Forested Hills.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Winding Path Leading Up To The Castle Gates.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
 ================================================================ X ================================================================
 34. Category Name: Blossoming Orchards
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Apple Orchard:
-    1. First Image: Rows Of Apple Trees In Full Bloom.
-    2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
-    3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
+    1. First Wallpaper: Rows Of Apple Trees In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bees Buzzing Among The Blossoms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Families Picking Apples From The Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cherry Blossom Grove:
-    1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
-    2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
-    3. Third Image: Transition From The Second Image, A Path Winding Through The Grove.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
+    1. First Wallpaper: A Grove Of Cherry Trees Covered In Pink Blossoms.
+    2. Second Wallpaper: Transition From The First Wallpaper, Petals Gently Falling To The Ground.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Path Winding Through The Grove.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 35. Category Name: Peaceful Ponds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lily Pond:
-    1. First Image: A Serene Pond Covered In Water Lilies.
-    2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
-    3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
+    1. First Wallpaper: A Serene Pond Covered In Water Lilies.
+    2. Second Wallpaper: Transition From The First Wallpaper, Dragonflies Flitting Over The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Frog Sitting On A Lily Pad.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Koi Pond:
-    1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
-    2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
-    3. Third Image: Transition From The Second Image, A Small Wooden Bridge Crossing The Pond.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
+    1. First Wallpaper: A Tranquil Pond Filled With Colorful Koi Fish.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Fish Swimming Gracefully Among The Plants.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Wooden Bridge Crossing The Pond.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
 ================================================================ X ================================================================
 36. Category Name: Majestic Canyons
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bryce Canyon:
-    1. First Image: The Unique Rock Formations Of Bryce Canyon.
-    2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
-    3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: The Unique Rock Formations Of Bryce Canyon.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Casting Dramatic Shadows In The Canyon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hiker Standing At The Edge, Looking Out Over The Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Antelope Canyon:
-    1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
-    2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
-    3. Third Image: Transition From The Second Image, The Swirling, Colorful Patterns In The Rock Walls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
+    1. First Wallpaper: The Narrow, Winding Passages Of Antelope Canyon.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunbeams Filtering Through The Openings Above.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Swirling, Colorful Patterns In The Rock Walls.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
 ================================================================ X ================================================================
 37. Category Name: Idyllic Meadows
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Spring Meadow:
-    1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
-    2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
-    3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Vibrant Meadow Filled With Blooming Wildflowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, Butterflies Fluttering Among The Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Stream Winding Through The Meadow.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Summer Field:
-    1. First Image: A Sunny Field With Tall, Swaying Grasses.
-    2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
-    3. Third Image: Transition From The Second Image, A Wooden Fence Dividing The Field.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: A Sunny Field With Tall, Swaying Grasses.
+    2. Second Wallpaper: Transition From The First Wallpaper, Birds Singing In The Trees At The Edge Of The Field.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Wooden Fence Dividing The Field.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
 ================================================================ X ================================================================
 38. Category Name: Enchanting Forests
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Birch Forest:
-    1. First Image: A Dense Forest Of Tall Birch Trees.
-    2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
-    3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Dense Forest Of Tall Birch Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Filtering Through The White Trunks.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Carpet Of Fallen Leaves Covering The Forest Floor.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pine Woods:
-    1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
-    2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
-    3. Third Image: Transition From The Second Image, A Path Winding Through The Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
+    1. First Wallpaper: A Tranquil Pine Forest With Tall, Straight Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Scent Of Pine Needles Filling The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Path Winding Through The Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
 ================================================================ X ================================================================
 39. Category Name: Colorful Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lavender Fields:
-    1. First Image: Endless Rows Of Lavender In Full Bloom.
-    2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
-    3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: Endless Rows Of Lavender In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bees Buzzing Among The Purple Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Farmhouse Nestled In The Middle Of The Fields.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tulip Fields:
-    1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
-    2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
-    3. Third Image: Transition From The Second Image, Families Walking Through The Colorful Rows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
+    1. First Wallpaper: Vibrant Tulip Fields Stretching Out To The Horizon.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Windmill Standing Tall Among The Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Families Walking Through The Colorful Rows.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 40. Category Name: Serene Beaches
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secluded Cove:
-    1. First Image: A Hidden Cove With Clear, Turquoise Waters.
-    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
-    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: A Hidden Cove With Clear, Turquoise Waters.
+    2. Second Wallpaper: Transition From The First Wallpaper, Palm Trees Swaying Gently In The Breeze.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hammock Strung Between Two Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rocky Shore:
-    1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
-    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
-    3. Third Image: Transition From The Second Image, Seagulls Flying Above The Water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.
+    1. First Wallpaper: A Rugged Shore With Waves Crashing Against The Rocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, Tide Pools Forming In The Rocky Crevices.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Seagulls Flying Above The Water.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 41. Category Name: Idyllic Villages
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Provencal Village:
-    1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
-    2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
-    3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Charming Village In Provence With Lavender Fields In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Stone Houses With Colorful Shutters.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Bustling Market Square With Stalls Selling Local Produce.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dutch Canal Town:
-    1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
-    2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
-    3. Third Image: Transition From The Second Image, Boats Gently Floating On The Water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
+    1. First Wallpaper: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bicycles Lined Up Along The Canal.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Boats Gently Floating On The Water.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
 ================================================================ X ================================================================
 42. Category Name: Tranquil Rivers
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tranquil River:
-    1. First Image: A Peaceful River Winding Through A Lush Landscape.
-    2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
-    3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
+    1. First Wallpaper: A Peaceful River Winding Through A Lush Landscape.
+    2. Second Wallpaper: Transition From The First Wallpaper, Ducks Swimming Gracefully On The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Wooden Dock Extending Into The River.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Stream:
-    1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
-    2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
-    3. Third Image: Transition From The Second Image, A Small Waterfall Cascading Into A Pool.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Clear Mountain Stream Flowing Over Smooth Rocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Stream Surrounded By Vibrant Wildflowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Waterfall Cascading Into A Pool.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 43. Category Name: Enchanting Castles
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Scottish Highlands Castle:
-    1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
-    2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
-    3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
+    1. First Wallpaper: A Majestic Castle Standing On A Hill In The Scottish Highlands.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Castle Surrounded By Rolling Green Hills.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Misty Landscape With The Castle Looming In The Distance.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bavarian Castle:
-    1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
-    2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
-    3. Third Image: Transition From The Second Image, A Winding Path Leading Up To The Castle Gates.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
+    1. First Wallpaper: A Fairytale-Like Castle In The Bavarian Countryside.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Castle Nestled Among Forested Hills.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Winding Path Leading Up To The Castle Gates.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
 ================================================================ X ================================================================
 44. Category Name: Blossoming Orchards
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Apple Orchard:
-    1. First Image: Rows Of Apple Trees In Full Bloom.
-    2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
-    3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
+    1. First Wallpaper: Rows Of Apple Trees In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bees Buzzing Among The Blossoms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Families Picking Apples From The Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cherry Blossom Grove:
-    1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
-    2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
-    3. Third Image: Transition From The Second Image, A Path Winding Through The Grove.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
+    1. First Wallpaper: A Grove Of Cherry Trees Covered In Pink Blossoms.
+    2. Second Wallpaper: Transition From The First Wallpaper, Petals Gently Falling To The Ground.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Path Winding Through The Grove.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 45. Category Name: Peaceful Ponds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lily Pond:
-    1. First Image: A Serene Pond Covered In Water Lilies.
-    2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
-    3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
+    1. First Wallpaper: A Serene Pond Covered In Water Lilies.
+    2. Second Wallpaper: Transition From The First Wallpaper, Dragonflies Flitting Over The Water.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Frog Sitting On A Lily Pad.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Koi Pond:
-    1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
-    2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
-    3. Third Image: Transition From The Second Image, A Small Wooden Bridge Crossing The Pond.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
+    1. First Wallpaper: A Tranquil Pond Filled With Colorful Koi Fish.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Fish Swimming Gracefully Among The Plants.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Wooden Bridge Crossing The Pond.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
 ================================================================ X ================================================================
 46. Category Name: Majestic Canyons
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bryce Canyon:
-    1. First Image: The Unique Rock Formations Of Bryce Canyon.
-    2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
-    3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: The Unique Rock Formations Of Bryce Canyon.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Casting Dramatic Shadows In The Canyon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hiker Standing At The Edge, Looking Out Over The Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Antelope Canyon:
-    1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
-    2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
-    3. Third Image: Transition From The Second Image, The Swirling, Colorful Patterns In The Rock Walls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
+    1. First Wallpaper: The Narrow, Winding Passages Of Antelope Canyon.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunbeams Filtering Through The Openings Above.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Swirling, Colorful Patterns In The Rock Walls.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
 ================================================================ X ================================================================
 47. Category Name: Idyllic Meadows
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Spring Meadow:
-    1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
-    2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
-    3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
+    1. First Wallpaper: A Vibrant Meadow Filled With Blooming Wildflowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, Butterflies Fluttering Among The Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Small Stream Winding Through The Meadow.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Summer Field:
-    1. First Image: A Sunny Field With Tall, Swaying Grasses.
-    2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
-    3. Third Image: Transition From The Second Image, A Wooden Fence Dividing The Field.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: A Sunny Field With Tall, Swaying Grasses.
+    2. Second Wallpaper: Transition From The First Wallpaper, Birds Singing In The Trees At The Edge Of The Field.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Wooden Fence Dividing The Field.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
 ================================================================ X ================================================================
 48. Category Name: Enchanting Forests
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Birch Forest:
-    1. First Image: A Dense Forest Of Tall Birch Trees.
-    2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
-    3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
+    1. First Wallpaper: A Dense Forest Of Tall Birch Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, Sunlight Filtering Through The White Trunks.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Carpet Of Fallen Leaves Covering The Forest Floor.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pine Woods:
-    1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
-    2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
-    3. Third Image: Transition From The Second Image, A Path Winding Through The Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
+    1. First Wallpaper: A Tranquil Pine Forest With Tall, Straight Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Scent Of Pine Needles Filling The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Path Winding Through The Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
 ================================================================ X ================================================================
 49. Category Name: Colorful Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lavender Fields:
-    1. First Image: Endless Rows Of Lavender In Full Bloom.
-    2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
-    3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: Endless Rows Of Lavender In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, Bees Buzzing Among The Purple Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Farmhouse Nestled In The Middle Of The Fields.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tulip Fields:
-    1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
-    2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
-    3. Third Image: Transition From The Second Image, Families Walking Through The Colorful Rows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
+    1. First Wallpaper: Vibrant Tulip Fields Stretching Out To The Horizon.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Windmill Standing Tall Among The Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Families Walking Through The Colorful Rows.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 50. Category Name: Serene Beaches
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secluded Cove:
-    1. First Image: A Hidden Cove With Clear, Turquoise Waters.
-    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
-    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
+    1. First Wallpaper: A Hidden Cove With Clear, Turquoise Waters.
+    2. Second Wallpaper: Transition From The First Wallpaper, Palm Trees Swaying Gently In The Breeze.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Hammock Strung Between Two Trees.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Watercolor Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rocky Shore:
-    1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
-    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
-    3. Third Image: Transition From The Second Image, Seagulls Flying Above The Water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.
+    1. First Wallpaper: A Rugged Shore With Waves Crashing Against The Rocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, Tide Pools Forming In The Rocky Crevices.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Seagulls Flying Above The Water.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.

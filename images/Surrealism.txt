@@ -3,826 +3,826 @@ Prompt 1:
 Give Me 50 Categories With Surrealism Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 2. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
 1. Category Name: Dreamscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
-    1. First Image: An Otherworldly Scene With Floating Islands In A Cloudy Sky.
-    2. Second Image: Transition From The First Image, Surreal Bridges Connecting The Islands, With Dreamlike Creatures Moving Between Them.
-    3. Third Image: Transition From The Second Image, The Protagonist Navigating Through The Islands, Discovering Hidden Wonders.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A Majestic Island With A Glowing Temple, Radiating An Ethereal Light.
+    1. First Wallpaper: An Otherworldly Scene With Floating Islands In A Cloudy Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, Surreal Bridges Connecting The Islands, With Dreamlike Creatures Moving Between Them.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Navigating Through The Islands, Discovering Hidden Wonders.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Majestic Island With A Glowing Temple, Radiating An Ethereal Light.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Endless Staircase:
-    1. First Image: An Endless, Spiraling Staircase Floating In A Void.
-    2. Second Image: Transition From The First Image, Strange, Surreal Figures Climbing And Descending The Staircase.
-    3. Third Image: Transition From The Second Image, The Protagonist Encountering Bizarre Scenes On Each Step.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Staircase Leading To A Surreal, Dreamlike Portal.
+    1. First Wallpaper: An Endless, Spiraling Staircase Floating In A Void.
+    2. Second Wallpaper: Transition From The First Wallpaper, Strange, Surreal Figures Climbing And Descending The Staircase.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Encountering Bizarre Scenes On Each Step.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Staircase Leading To A Surreal, Dreamlike Portal.
 ================================================================ X ================================================================
 2. Category Name: Metamorphosis
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Morphing Landscape:
-    1. First Image: A Tranquil Landscape With Rolling Hills And A Clear Sky.
-    2. Second Image: Transition From The First Image, The Hills And Sky Starting To Morph Into Bizarre Shapes And Forms.
-    3. Third Image: Transition From The Second Image, The Landscape Transforming Into A Surreal, Abstract World.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Through The Transformed Landscape, Awe-Struck.
+    1. First Wallpaper: A Tranquil Landscape With Rolling Hills And A Clear Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Hills And Sky Starting To Morph Into Bizarre Shapes And Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Landscape Transforming Into A Surreal, Abstract World.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Through The Transformed Landscape, Awe-Struck.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Human-Animal Hybrids:
-    1. First Image: A Calm Forest With Ordinary Animals.
-    2. Second Image: Transition From The First Image, The Animals Beginning To Transform Into Human-Animal Hybrids.
-    3. Third Image: Transition From The Second Image, The Hybrids Interacting In Strange, Surreal Ways.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Meeting A Wise, Surreal Hybrid Creature.
+    1. First Wallpaper: A Calm Forest With Ordinary Animals.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Animals Beginning To Transform Into Human-Animal Hybrids.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Hybrids Interacting In Strange, Surreal Ways.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Meeting A Wise, Surreal Hybrid Creature.
 ================================================================ X ================================================================
 3. Category Name: Bizarre Worlds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Upside-Down City:
-    1. First Image: A Cityscape With Normal, Bustling Activity.
-    2. Second Image: Transition From The First Image, Buildings And Streets Starting To Flip Upside Down.
-    3. Third Image: Transition From The Second Image, The City Fully Transformed, With People Walking On Inverted Surfaces.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Inverted City, Discovering Its Secrets.
+    1. First Wallpaper: A Cityscape With Normal, Bustling Activity.
+    2. Second Wallpaper: Transition From The First Wallpaper, Buildings And Streets Starting To Flip Upside Down.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The City Fully Transformed, With People Walking On Inverted Surfaces.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Inverted City, Discovering Its Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Melting Structures:
-    1. First Image: A City With Grand, Ornate Buildings.
-    2. Second Image: Transition From The First Image, The Buildings Beginning To Melt And Distort.
-    3. Third Image: Transition From The Second Image, The Melted Structures Creating Surreal, Abstract Shapes.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Transformed City, Finding New Paths.
+    1. First Wallpaper: A City With Grand, Ornate Buildings.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings Beginning To Melt And Distort.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Melted Structures Creating Surreal, Abstract Shapes.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Transformed City, Finding New Paths.
 ================================================================ X ================================================================
 4. Category Name: Time Distortion
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Melting Clocks:
-    1. First Image: A Serene Landscape With A Few Standing Clocks.
-    2. Second Image: Transition From The First Image, The Clocks Starting To Melt And Drip Over Surfaces.
-    3. Third Image: Transition From The Second Image, The Entire Landscape Transforming With Distorted Timepieces.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Moving Through The Scene, Interacting With The Melting Clocks.
+    1. First Wallpaper: A Serene Landscape With A Few Standing Clocks.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Clocks Starting To Melt And Drip Over Surfaces.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Landscape Transforming With Distorted Timepieces.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Moving Through The Scene, Interacting With The Melting Clocks.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Frozen Time:
-    1. First Image: A Bustling City Street Frozen In A Moment Of Time.
-    2. Second Image: Transition From The First Image, People And Objects Suspended In Mid-Action.
-    3. Third Image: Transition From The Second Image, The Protagonist Moving Through The Frozen World, Examining Details.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Time Gradually Unfreezing, The City Coming Back To Life In Surreal Slow Motion.
+    1. First Wallpaper: A Bustling City Street Frozen In A Moment Of Time.
+    2. Second Wallpaper: Transition From The First Wallpaper, People And Objects Suspended In Mid-Action.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Moving Through The Frozen World, Examining Details.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Time Gradually Unfreezing, The City Coming Back To Life In Surreal Slow Motion.
 ================================================================ X ================================================================
 5. Category Name: Surreal Portraits
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fragmented Faces:
-    1. First Image: A Gallery Of Portraits With Normal Human Faces.
-    2. Second Image: Transition From The First Image, The Faces Starting To Fragment And Rearrange.
-    3. Third Image: Transition From The Second Image, The Portraits Fully Transformed Into Abstract, Fragmented Images.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Reflecting On The Surreal, Distorted Portraits.
+    1. First Wallpaper: A Gallery Of Portraits With Normal Human Faces.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Faces Starting To Fragment And Rearrange.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Portraits Fully Transformed Into Abstract, Fragmented Wallpapers.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Reflecting On The Surreal, Distorted Portraits.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mirror Reflections:
-    1. First Image: A Room Filled With Mirrors Reflecting Ordinary Scenes.
-    2. Second Image: Transition From The First Image, The Reflections Starting To Show Bizarre, Surreal Images.
-    3. Third Image: Transition From The Second Image, The Protagonist Seeing Multiple Surreal Versions Of Themselves In The Mirrors.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mirrors Merging Into A Single, Fantastical Reflection.
+    1. First Wallpaper: A Room Filled With Mirrors Reflecting Ordinary Scenes.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections Starting To Show Bizarre, Surreal Wallpapers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Seeing Multiple Surreal Versions Of Themselves In The Mirrors.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mirrors Merging Into A Single, Fantastical Reflection.
 ================================================================ X ================================================================
 6. Category Name: Dream Beings
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whimsical Creatures:
-    1. First Image: A Peaceful Meadow With Ordinary Animals.
-    2. Second Image: Transition From The First Image, The Animals Beginning To Morph Into Whimsical, Surreal Creatures.
-    3. Third Image: Transition From The Second Image, The Meadow Filled With Fantastical Beings, Each Unique And Bizarre.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Dream Creatures, Forming A Bond.
+    1. First Wallpaper: A Peaceful Meadow With Ordinary Animals.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Animals Beginning To Morph Into Whimsical, Surreal Creatures.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Meadow Filled With Fantastical Beings, Each Unique And Bizarre.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Dream Creatures, Forming A Bond.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Otherworldly Giants:
-    1. First Image: A Vast Landscape With A Few Small Figures In The Distance.
-    2. Second Image: Transition From The First Image, Gigantic, Surreal Beings Emerging From The Horizon.
-    3. Third Image: Transition From The Second Image, The Giants Interacting With The Environment In Strange, Dreamlike Ways.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Standing Before A Giant, Feeling A Mix Of Awe And Wonder.
+    1. First Wallpaper: A Vast Landscape With A Few Small Figures In The Distance.
+    2. Second Wallpaper: Transition From The First Wallpaper, Gigantic, Surreal Beings Emerging From The Horizon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Giants Interacting With The Environment In Strange, Dreamlike Ways.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Standing Before A Giant, Feeling A Mix Of Awe And Wonder.
 ================================================================ X ================================================================
 7. Category Name: Surreal Nature
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Trees:
-    1. First Image: A Dense Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, The Trees Starting To Move And Take On Human-Like Forms.
-    3. Third Image: Transition From The Second Image, The Forest Transformed Into A Living, Breathing Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Sentient Trees.
+    1. First Wallpaper: A Dense Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees Starting To Move And Take On Human-Like Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transformed Into A Living, Breathing Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Sentient Trees.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Flora:
-    1. First Image: A Beautiful Garden With Vibrant Flowers.
-    2. Second Image: Transition From The First Image, The Flowers Lifting Off The Ground, Floating In The Air.
-    3. Third Image: Transition From The Second Image, The Garden Filled With Levitating, Glowing Flora.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Through The Surreal Garden, Mesmerized By The Floating Plants.
+    1. First Wallpaper: A Beautiful Garden With Vibrant Flowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flowers Lifting Off The Ground, Floating In The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Garden Filled With Levitating, Glowing Flora.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Through The Surreal Garden, Mesmerized By The Floating Plants.
 ================================================================ X ================================================================
 8. Category Name: Abstract Concepts
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Emotional Landscapes:
-    1. First Image: A Barren Landscape Reflecting Sadness And Despair.
-    2. Second Image: Transition From The First Image, The Landscape Morphing To Reflect Different Emotions Like Joy, Anger, And Peace.
-    3. Third Image: Transition From The Second Image, The Protagonist Experiencing The Landscapes Emotional Shifts.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Settling Into A State Of Calm, The Protagonist Finding Peace.
+    1. First Wallpaper: A Barren Landscape Reflecting Sadness And Despair.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Landscape Morphing To Reflect Different Emotions Like Joy, Anger, And Peace.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Experiencing The Landscapes Emotional Shifts.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Settling Into A State Of Calm, The Protagonist Finding Peace.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Thought Forms:
-    1. First Image: A Blank, Empty Space.
-    2. Second Image: Transition From The First Image, Abstract Shapes And Forms Beginning To Materialize, Representing Thoughts.
-    3. Third Image: Transition From The Second Image, The Space Filled With A Chaotic Array Of Surreal Thought Forms.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Thought Forms, Finding Clarity.
+    1. First Wallpaper: A Blank, Empty Space.
+    2. Second Wallpaper: Transition From The First Wallpaper, Abstract Shapes And Forms Beginning To Materialize, Representing Thoughts.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Space Filled With A Chaotic Array Of Surreal Thought Forms.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Thought Forms, Finding Clarity.
 ================================================================ X ================================================================
 9. Category Name: Surreal Structures
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Impossible Architecture:
-    1. First Image: A City With Normal, Realistic Buildings.
-    2. Second Image: Transition From The First Image, The Buildings Starting To Twist And Turn In Impossible Ways.
-    3. Third Image: Transition From The Second Image, The City Transformed Into A Surreal Landscape Of Impossible Structures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Fantastical Architecture.
+    1. First Wallpaper: A City With Normal, Realistic Buildings.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings Starting To Twist And Turn In Impossible Ways.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The City Transformed Into A Surreal Landscape Of Impossible Structures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Fantastical Architecture.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Endless Hallways:
-    1. First Image: A Grand Mansion With Long, Elegant Hallways.
-    2. Second Image: Transition From The First Image, The Hallways Beginning To Extend Endlessly, Looping In On Themselves.
-    3. Third Image: Transition From The Second Image, The Protagonist Getting Lost In The Endless Corridors.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Finding A Door Leading To A Surreal, Dreamlike Realm.
+    1. First Wallpaper: A Grand Mansion With Long, Elegant Hallways.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Hallways Beginning To Extend Endlessly, Looping In On Themselves.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Getting Lost In The Endless Corridors.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Finding A Door Leading To A Surreal, Dreamlike Realm.
 ================================================================ X ================================================================
 10. Category Name: Cosmic Surrealism
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Oceans:
-    1. First Image: A Serene Beach With Ordinary Waves.
-    2. Second Image: Transition From The First Image, The Ocean Transforming Into A Swirling Galaxy With Stars And Planets.
-    3. Third Image: Transition From The Second Image, The Protagonist Diving Into The Cosmic Waters, Exploring The Depths.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Emerging On A Distant Shore, Under A Sky Filled With Otherworldly Constellations.
+    1. First Wallpaper: A Serene Beach With Ordinary Waves.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Ocean Transforming Into A Swirling Galaxy With Stars And Planets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Diving Into The Cosmic Waters, Exploring The Depths.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Emerging On A Distant Shore, Under A Sky Filled With Otherworldly Constellations.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Celestial Beings:
-    1. First Image: A Clear Night Sky With Twinkling Stars.
-    2. Second Image: Transition From The First Image, The Stars Beginning To Move And Form Shapes Of Celestial Beings.
-    3. Third Image: Transition From The Second Image, The Sky Filled With Majestic, Surreal Figures Made Of Stardust.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Feeling A Connection With The Celestial Beings, A Sense Of Cosmic Unity.
+    1. First Wallpaper: A Clear Night Sky With Twinkling Stars.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Stars Beginning To Move And Form Shapes Of Celestial Beings.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Sky Filled With Majestic, Surreal Figures Made Of Stardust.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Feeling A Connection With The Celestial Beings, A Sense Of Cosmic Unity.
 ================================================================ X ================================================================
 11. Category Name: Surreal Reflections
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Water Mirrors:
-    1. First Image: A Tranquil Lake Reflecting A Clear Sky And Mountains.
-    2. Second Image: Transition From The First Image, The Reflections Starting To Show Surreal, Dreamlike Scenes.
-    3. Third Image: Transition From The Second Image, The Lake Transforming Into A Portal To Another World Through Its Reflections.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stepping Into The Water, Entering The Surreal World.
+    1. First Wallpaper: A Tranquil Lake Reflecting A Clear Sky And Mountains.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections Starting To Show Surreal, Dreamlike Scenes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Lake Transforming Into A Portal To Another World Through Its Reflections.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Stepping Into The Water, Entering The Surreal World.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Glass Worlds:
-    1. First Image: A Room Filled With Mirrors And Glass Objects.
-    2. Second Image: Transition From The First Image, The Reflections And Glass Starting To Warp And Show Alternate Realities.
-    3. Third Image: Transition From The Second Image, The Protagonist Seeing Multiple Versions Of Themselves Through The Glass.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Glass Merging Into A Single, Cohesive Surreal Landscape.
+    1. First Wallpaper: A Room Filled With Mirrors And Glass Objects.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections And Glass Starting To Warp And Show Alternate Realities.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Seeing Multiple Versions Of Themselves Through The Glass.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Glass Merging Into A Single, Cohesive Surreal Landscape.
 ================================================================ X ================================================================
 12. Category Name: Surreal Dualities
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Light And Shadow:
-    1. First Image: A Landscape Divided By A Stark Line Of Light And Shadow.
-    2. Second Image: Transition From The First Image, The Light And Shadow Beginning To Blend And Create Surreal Patterns.
-    3. Third Image: Transition From The Second Image, The Protagonist Moving Between The Light And Shadow, Experiencing Their Effects.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Transforming Into A Harmonious Blend Of Light And Dark.
+    1. First Wallpaper: A Landscape Divided By A Stark Line Of Light And Shadow.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Light And Shadow Beginning To Blend And Create Surreal Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Moving Between The Light And Shadow, Experiencing Their Effects.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Transforming Into A Harmonious Blend Of Light And Dark.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Day And Night:
-    1. First Image: A Cityscape With A Clear Division Between Day And Night.
-    2. Second Image: Transition From The First Image, The Boundaries Of Day And Night Starting To Blur And Intermingle.
-    3. Third Image: Transition From The Second Image, The Protagonist Experiencing The Surreal Transition Between Time.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City In A State Of Perpetual Twilight, Blending Elements Of Both Day And Night.
+    1. First Wallpaper: A Cityscape With A Clear Division Between Day And Night.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Boundaries Of Day And Night Starting To Blur And Intermingle.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Experiencing The Surreal Transition Between Time.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City In A State Of Perpetual Twilight, Blending Elements Of Both Day And Night.
 ================================================================ X ================================================================
 13. Category Name: Surreal Interiors
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Morphing Rooms:
-    1. First Image: A Normal, Elegant Room In A Grand Mansion.
-    2. Second Image: Transition From The First Image, The Furniture And Decor Starting To Morph And Twist Into Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Entire Room Transforming Into An Abstract, Dreamlike Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Morphing Objects, Uncovering Hidden Meanings.
+    1. First Wallpaper: A Normal, Elegant Room In A Grand Mansion.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Furniture And Decor Starting To Morph And Twist Into Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Room Transforming Into An Abstract, Dreamlike Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Morphing Objects, Uncovering Hidden Meanings.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Infinite Library:
-    1. First Image: A Grand Library With Towering Bookshelves.
-    2. Second Image: Transition From The First Image, The Bookshelves Extending Infinitely In All Directions.
-    3. Third Image: Transition From The Second Image, The Protagonist Exploring The Endless Rows Of Books, Finding Surreal Stories.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Discovering A Book That Opens A Portal To A Fantastical Realm.
+    1. First Wallpaper: A Grand Library With Towering Bookshelves.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Bookshelves Extending Infinitely In All Directions.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Exploring The Endless Rows Of Books, Finding Surreal Stories.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Discovering A Book That Opens A Portal To A Fantastical Realm.
 ================================================================ X ================================================================
 14. Category Name: Surreal Seasons
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eternal Spring:
-    1. First Image: A Beautiful Meadow In Full Bloom.
-    2. Second Image: Transition From The First Image, The Flowers And Trees Starting To Change Into Surreal, Otherworldly Forms.
-    3. Third Image: Transition From The Second Image, The Meadow Transformed Into A Fantastical Spring Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Wandering Through The Surreal Spring, Feeling A Sense Of Renewal.
+    1. First Wallpaper: A Beautiful Meadow In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flowers And Trees Starting To Change Into Surreal, Otherworldly Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Meadow Transformed Into A Fantastical Spring Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Wandering Through The Surreal Spring, Feeling A Sense Of Renewal.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Frozen Time:
-    1. First Image: A Winter Landscape Frozen In Time.
-    2. Second Image: Transition From The First Image, The Snow And Ice Beginning To Show Surreal Patterns And Shapes.
-    3. Third Image: Transition From The Second Image, The Protagonist Moving Through The Frozen Landscape, Experiencing Its Stillness.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Slowly Coming To Life, The Ice Melting Into A Surreal Spring.
+    1. First Wallpaper: A Winter Landscape Frozen In Time.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Snow And Ice Beginning To Show Surreal Patterns And Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Moving Through The Frozen Landscape, Experiencing Its Stillness.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Slowly Coming To Life, The Ice Melting Into A Surreal Spring.
 ================================================================ X ================================================================
 15. Category Name: Surreal Elements
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Fire:
-    1. First Image: A Campfire Burning Brightly In The Night.
-    2. Second Image: Transition From The First Image, The Flames Starting To Take On Surreal, Sentient Forms.
-    3. Third Image: Transition From The Second Image, The Fire Transforming Into A Living, Moving Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Living Fire, Uncovering Hidden Truths.
+    1. First Wallpaper: A Campfire Burning Brightly In The Night.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flames Starting To Take On Surreal, Sentient Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Fire Transforming Into A Living, Moving Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Living Fire, Uncovering Hidden Truths.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Breathing Earth:
-    1. First Image: A Calm, Serene Landscape With Mountains And Valleys.
-    2. Second Image: Transition From The First Image, The Ground And Mountains Beginning To Move And Breathe.
-    3. Third Image: Transition From The Second Image, The Entire Landscape Transforming Into A Living, Breathing Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Feeling A Deep Connection With The Surreal, Living Earth.
+    1. First Wallpaper: A Calm, Serene Landscape With Mountains And Valleys.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Ground And Mountains Beginning To Move And Breathe.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Landscape Transforming Into A Living, Breathing Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Feeling A Deep Connection With The Surreal, Living Earth.
 ================================================================ X ================================================================
 16. Category Name: Surreal Flora And Fauna
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Walking Trees:
-    1. First Image: A Dense Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, The Trees Starting To Uproot And Walk Around.
-    3. Third Image: Transition From The Second Image, The Forest Transformed Into A Surreal, Moving Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Walking Trees, Discovering Their Secrets.
+    1. First Wallpaper: A Dense Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees Starting To Uproot And Walk Around.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transformed Into A Surreal, Moving Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Walking Trees, Discovering Their Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Flowers:
-    1. First Image: A Beautiful Garden In Full Bloom.
-    2. Second Image: Transition From The First Image, The Flowers Lifting Off The Ground And Floating In The Air.
-    3. Third Image: Transition From The Second Image, The Garden Filled With Floating, Glowing Flowers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Through The Surreal Garden, Feeling A Sense Of Wonder.
+    1. First Wallpaper: A Beautiful Garden In Full Bloom.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flowers Lifting Off The Ground And Floating In The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Garden Filled With Floating, Glowing Flowers.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Through The Surreal Garden, Feeling A Sense Of Wonder.
 ================================================================ X ================================================================
 17. Category Name: Surreal Underworlds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Caves:
-    1. First Image: A Dark Cave With Sparkling Crystals.
-    2. Second Image: Transition From The First Image, The Crystals Beginning To Grow And Form Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Cave Transformed Into A Glowing, Crystalline Wonderland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Surreal Caves, Finding Hidden Treasures.
+    1. First Wallpaper: A Dark Cave With Sparkling Crystals.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Crystals Beginning To Grow And Form Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Cave Transformed Into A Glowing, Crystalline Wonderland.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Surreal Caves, Finding Hidden Treasures.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Subterranean Cities:
-    1. First Image: An Underground City With Normal Architecture.
-    2. Second Image: Transition From The First Image, The Buildings And Streets Starting To Morph Into Surreal Forms.
-    3. Third Image: Transition From The Second Image, The Entire City Transformed Into A Fantastical, Dreamlike Realm.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering The Mysteries Of The Surreal Underground City.
+    1. First Wallpaper: An Underground City With Normal Architecture.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings And Streets Starting To Morph Into Surreal Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire City Transformed Into A Fantastical, Dreamlike Realm.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering The Mysteries Of The Surreal Underground City.
 ================================================================ X ================================================================
 18. Category Name: Surreal Weather
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Colorful Rain:
-    1. First Image: A Normal, Rainy Day In A City.
-    2. Second Image: Transition From The First Image, The Raindrops Starting To Change Color And Shape.
-    3. Third Image: Transition From The Second Image, The Rain Transforming Into A Surreal, Colorful Downpour.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Magical, Colorful Rain, Feeling Rejuvenated.
+    1. First Wallpaper: A Normal, Rainy Day In A City.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Raindrops Starting To Change Color And Shape.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Rain Transforming Into A Surreal, Colorful Downpour.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Magical, Colorful Rain, Feeling Rejuvenated.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Wind:
-    1. First Image: A Windy Day In An Open Field.
-    2. Second Image: Transition From The First Image, The Wind Starting To Form Visible, Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Wind Transforming Into A Living, Moving Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Living Wind, Uncovering Hidden Wisdom.
+    1. First Wallpaper: A Windy Day In An Open Field.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Wind Starting To Form Visible, Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Wind Transforming Into A Living, Moving Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Living Wind, Uncovering Hidden Wisdom.
 ================================================================ X ================================================================
 19. Category Name: Surreal Dreams
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Endless Fields:
-    1. First Image: A Vast Field Stretching Out To The Horizon.
-    2. Second Image: Transition From The First Image, The Field Starting To Change Into A Surreal, Abstract Landscape.
-    3. Third Image: Transition From The Second Image, The Field Filled With Dreamlike, Otherworldly Elements.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Wandering Through The Endless Fields, Lost In A Dream.
+    1. First Wallpaper: A Vast Field Stretching Out To The Horizon.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Field Starting To Change Into A Surreal, Abstract Landscape.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Field Filled With Dreamlike, Otherworldly Elements.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Wandering Through The Endless Fields, Lost In A Dream.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Castles:
-    1. First Image: A Grand Castle On A Hilltop.
-    2. Second Image: Transition From The First Image, The Castle Starting To Lift Off The Ground And Float In The Sky.
-    3. Third Image: Transition From The Second Image, The Protagonist Exploring The Floating Castle, Discovering Its Mysteries.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Floating Away Into The Distance, Leaving A Sense Of Wonder.
+    1. First Wallpaper: A Grand Castle On A Hilltop.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Castle Starting To Lift Off The Ground And Float In The Sky.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Exploring The Floating Castle, Discovering Its Mysteries.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Castle Floating Away Into The Distance, Leaving A Sense Of Wonder.
 ================================================================ X ================================================================
 20. Category Name: Surreal Journeys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Path To Nowhere:
-    1. First Image: A Winding Path Leading Through A Forest.
-    2. Second Image: Transition From The First Image, The Path Starting To Twist And Turn In Impossible Ways.
-    3. Third Image: Transition From The Second Image, The Protagonist Following The Surreal Path, Encountering Strange Sights.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Path Leading To A Fantastical, Dreamlike Destination.
+    1. First Wallpaper: A Winding Path Leading Through A Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Path Starting To Twist And Turn In Impossible Ways.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Following The Surreal Path, Encountering Strange Sights.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Path Leading To A Fantastical, Dreamlike Destination.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sea Of Stars:
-    1. First Image: A Calm Ocean Under A Clear Night Sky.
-    2. Second Image: Transition From The First Image, The Ocean Starting To Reflect The Stars, Creating A Sea Of Stars.
-    3. Third Image: Transition From The Second Image, The Protagonist Sailing Through The Surreal, Starlit Waters.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Boat Reaching A Magical Island, Filled With Wonder And Mystery.
+    1. First Wallpaper: A Calm Ocean Under A Clear Night Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Ocean Starting To Reflect The Stars, Creating A Sea Of Stars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Sailing Through The Surreal, Starlit Waters.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Boat Reaching A Magical Island, Filled With Wonder And Mystery.
 ================================================================ X ================================================================
 21. Category Name: Surreal Perspectives
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Distorted Reflections:
-    1. First Image: A Normal Room With Mirrors On The Walls.
-    2. Second Image: Transition From The First Image, The Reflections In The Mirrors Starting To Distort And Twist.
-    3. Third Image: Transition From The Second Image, The Room Itself Transforming Into A Surreal, Warped Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Distorted Room, Finding Hidden Secrets.
+    1. First Wallpaper: A Normal Room With Mirrors On The Walls.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections In The Mirrors Starting To Distort And Twist.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Itself Transforming Into A Surreal, Warped Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Distorted Room, Finding Hidden Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Infinite Horizons:
-    1. First Image: A Vast Desert With A Clear Horizon.
-    2. Second Image: Transition From The First Image, The Horizon Starting To Extend Infinitely In All Directions.
-    3. Third Image: Transition From The Second Image, The Protagonist Walking Towards The Horizon, Never Reaching The End.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Desert Transforming Into A Surreal Landscape With Multiple Horizons.
+    1. First Wallpaper: A Vast Desert With A Clear Horizon.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Horizon Starting To Extend Infinitely In All Directions.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Walking Towards The Horizon, Never Reaching The End.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Desert Transforming Into A Surreal Landscape With Multiple Horizons.
 ================================================================ X ================================================================
 22. Category Name: Surreal Illusions
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Phantom Shadows:
-    1. First Image: A Sunny Street With Clear Shadows.
-    2. Second Image: Transition From The First Image, The Shadows Starting To Move Independently Of Their Objects.
-    3. Third Image: Transition From The Second Image, The Shadows Transforming Into Surreal, Sentient Beings.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Phantom Shadows, Uncovering Their Secrets.
+    1. First Wallpaper: A Sunny Street With Clear Shadows.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Shadows Starting To Move Independently Of Their Objects.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Shadows Transforming Into Surreal, Sentient Beings.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Phantom Shadows, Uncovering Their Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Shifting Shapes:
-    1. First Image: A Room With Ordinary Furniture And Decor.
-    2. Second Image: Transition From The First Image, The Objects In The Room Starting To Shift And Change Shapes.
-    3. Third Image: Transition From The Second Image, The Entire Room Transforming Into A Surreal, Abstract Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Shifting Shapes, Discovering Hidden Meanings.
+    1. First Wallpaper: A Room With Ordinary Furniture And Decor.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Objects In The Room Starting To Shift And Change Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Room Transforming Into A Surreal, Abstract Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Shifting Shapes, Discovering Hidden Meanings.
 ================================================================ X ================================================================
 23. Category Name: Surreal Journeys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Stairway To Nowhere:
-    1. First Image: An Elegant Staircase In A Grand Hall.
-    2. Second Image: Transition From The First Image, The Staircase Starting To Twist And Turn In Impossible Ways.
-    3. Third Image: Transition From The Second Image, The Protagonist Climbing The Surreal Staircase, Encountering Strange Sights.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Staircase Leading To A Fantastical, Dreamlike Destination.
+    1. First Wallpaper: An Elegant Staircase In A Grand Hall.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Staircase Starting To Twist And Turn In Impossible Ways.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Climbing The Surreal Staircase, Encountering Strange Sights.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Staircase Leading To A Fantastical, Dreamlike Destination.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bridge To Another World:
-    1. First Image: A Bridge Spanning A Calm River.
-    2. Second Image: Transition From The First Image, The Bridge Starting To Extend Into The Sky, Disappearing Into The Clouds.
-    3. Third Image: Transition From The Second Image, The Protagonist Crossing The Surreal Bridge, Entering Another World.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bridge Leading To A Magical Realm, Filled With Wonder And Mystery.
+    1. First Wallpaper: A Bridge Spanning A Calm River.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Bridge Starting To Extend Into The Sky, Disappearing Into The Clouds.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Crossing The Surreal Bridge, Entering Another World.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bridge Leading To A Magical Realm, Filled With Wonder And Mystery.
 ================================================================ X ================================================================
 24. Category Name: Surreal Metaphors
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Time As A River:
-    1. First Image: A Tranquil River Flowing Through A Landscape.
-    2. Second Image: Transition From The First Image, The River Starting To Reflect Different Times And Eras.
-    3. Third Image: Transition From The Second Image, The Protagonist Experiencing The Flow Of Time Through The Surreal River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The River Merging Past, Present, And Future Into One Continuous Stream.
+    1. First Wallpaper: A Tranquil River Flowing Through A Landscape.
+    2. Second Wallpaper: Transition From The First Wallpaper, The River Starting To Reflect Different Times And Eras.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Experiencing The Flow Of Time Through The Surreal River.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The River Merging Past, Present, And Future Into One Continuous Stream.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Heart Of The Forest:
-    1. First Image: A Dense Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, The Trees Starting To Reveal A Giant, Beating Heart At The Center.
-    3. Third Image: Transition From The Second Image, The Protagonist Exploring The Surreal Forest, Feeling Its Pulse.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Transforming Into A Living Entity, Its Heart Guiding The Way.
+    1. First Wallpaper: A Dense Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees Starting To Reveal A Giant, Beating Heart At The Center.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Exploring The Surreal Forest, Feeling Its Pulse.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Transforming Into A Living Entity, Its Heart Guiding The Way.
 ================================================================ X ================================================================
 25. Category Name: Surreal Machines
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Clockwork Creatures:
-    1. First Image: A Workshop Filled With Mechanical Parts And Tools.
-    2. Second Image: Transition From The First Image, The Parts Starting To Assemble Themselves Into Clockwork Creatures.
-    3. Third Image: Transition From The Second Image, The Creatures Coming To Life, Moving In Surreal Ways.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Clockwork Creatures, Uncovering Their Purpose.
+    1. First Wallpaper: A Workshop Filled With Mechanical Parts And Tools.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Parts Starting To Assemble Themselves Into Clockwork Creatures.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Creatures Coming To Life, Moving In Surreal Ways.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Clockwork Creatures, Uncovering Their Purpose.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Machines:
-    1. First Image: A Factory With Large, Industrial Machines.
-    2. Second Image: Transition From The First Image, The Machines Starting To Show Signs Of Life, Moving Independently.
-    3. Third Image: Transition From The Second Image, The Factory Transforming Into A Surreal Landscape Of Living Machinery.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Living Machines, Discovering Their Secrets.
+    1. First Wallpaper: A Factory With Large, Industrial Machines.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Machines Starting To Show Signs Of Life, Moving Independently.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Factory Transforming Into A Surreal Landscape Of Living Machinery.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Living Machines, Discovering Their Secrets.
 ================================================================ X ================================================================
 26. Category Name: Surreal Elements
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whispering Winds:
-    1. First Image: A Calm Landscape With Gentle Breezes.
-    2. Second Image: Transition From The First Image, The Winds Starting To Form Visible, Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Winds Whispering Secrets To The Protagonist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Transformed By The Surreal, Whispering Winds.
+    1. First Wallpaper: A Calm Landscape With Gentle Breezes.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Winds Starting To Form Visible, Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Winds Whispering Secrets To The Protagonist.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Transformed By The Surreal, Whispering Winds.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dancing Flames:
-    1. First Image: A Campfire Burning Brightly In The Night.
-    2. Second Image: Transition From The First Image, The Flames Starting To Take On Surreal, Dancing Forms.
-    3. Third Image: Transition From The Second Image, The Flames Transforming Into Living, Moving Entities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Dancing Flames, Uncovering Hidden Truths.
+    1. First Wallpaper: A Campfire Burning Brightly In The Night.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flames Starting To Take On Surreal, Dancing Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Flames Transforming Into Living, Moving Entities.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Dancing Flames, Uncovering Hidden Truths.
 ================================================================ X ================================================================
 27. Category Name: Surreal Soundscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Echoing Voices:
-    1. First Image: A Quiet, Empty Hall.
-    2. Second Image: Transition From The First Image, The Hall Starting To Fill With Echoing, Surreal Voices.
-    3. Third Image: Transition From The Second Image, The Protagonist Hearing The Voices Speak In Strange, Dreamlike Patterns.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Hall Transforming Into A Surreal Soundscape, The Voices Guiding The Way.
+    1. First Wallpaper: A Quiet, Empty Hall.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Hall Starting To Fill With Echoing, Surreal Voices.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Hearing The Voices Speak In Strange, Dreamlike Patterns.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hall Transforming Into A Surreal Soundscape, The Voices Guiding The Way.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Musical Forest:
-    1. First Image: A Serene Forest With A Gentle Breeze.
-    2. Second Image: Transition From The First Image, The Trees And Plants Starting To Produce Musical Notes.
-    3. Third Image: Transition From The Second Image, The Forest Transforming Into A Surreal, Living Orchestra.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Moving Through The Musical Forest, Feeling The Harmony.
+    1. First Wallpaper: A Serene Forest With A Gentle Breeze.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees And Plants Starting To Produce Musical Notes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transforming Into A Surreal, Living Orchestra.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Moving Through The Musical Forest, Feeling The Harmony.
 ================================================================ X ================================================================
 28. Category Name: Surreal Dreams
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
-    1. First Image: An Otherworldly Scene With Floating Islands In A Cloudy Sky.
-    2. Second Image: Transition From The First Image, Surreal Bridges Connecting The Islands, With Dreamlike Creatures Moving Between Them.
-    3. Third Image: Transition From The Second Image, The Protagonist Navigating Through The Islands, Discovering Hidden Wonders.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A Majestic Island With A Glowing Temple, Radiating An Ethereal Light.
+    1. First Wallpaper: An Otherworldly Scene With Floating Islands In A Cloudy Sky.
+    2. Second Wallpaper: Transition From The First Wallpaper, Surreal Bridges Connecting The Islands, With Dreamlike Creatures Moving Between Them.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Navigating Through The Islands, Discovering Hidden Wonders.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Majestic Island With A Glowing Temple, Radiating An Ethereal Light.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Endless Staircase:
-    1. First Image: An Endless, Spiraling Staircase Floating In A Void.
-    2. Second Image: Transition From The First Image, Strange, Surreal Figures Climbing And Descending The Staircase.
-    3. Third Image: Transition From The Second Image, The Protagonist Encountering Bizarre Scenes On Each Step.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Staircase Leading To A Surreal, Dreamlike Portal.
+    1. First Wallpaper: An Endless, Spiraling Staircase Floating In A Void.
+    2. Second Wallpaper: Transition From The First Wallpaper, Strange, Surreal Figures Climbing And Descending The Staircase.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Encountering Bizarre Scenes On Each Step.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Staircase Leading To A Surreal, Dreamlike Portal.
 ================================================================ X ================================================================
 29. Category Name: Surreal Creatures
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Morphing Beasts:
-    1. First Image: A Tranquil Meadow With Grazing Animals.
-    2. Second Image: Transition From The First Image, The Animals Starting To Morph Into Surreal, Otherworldly Creatures.
-    3. Third Image: Transition From The Second Image, The Meadow Filled With Fantastical Beasts, Each Unique And Bizarre.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Morphing Creatures, Forming A Bond.
+    1. First Wallpaper: A Tranquil Meadow With Grazing Animals.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Animals Starting To Morph Into Surreal, Otherworldly Creatures.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Meadow Filled With Fantastical Beasts, Each Unique And Bizarre.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Morphing Creatures, Forming A Bond.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sentient Shadows:
-    1. First Image: A Normal, Sunny Day With Clear Shadows.
-    2. Second Image: Transition From The First Image, The Shadows Starting To Move And Interact With Their Surroundings.
-    3. Third Image: Transition From The Second Image, The Shadows Transforming Into Sentient, Surreal Beings.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Sentient Shadows, Uncovering Their Secrets.
+    1. First Wallpaper: A Normal, Sunny Day With Clear Shadows.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Shadows Starting To Move And Interact With Their Surroundings.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Shadows Transforming Into Sentient, Surreal Beings.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Sentient Shadows, Uncovering Their Secrets.
 ================================================================ X ================================================================
 30. Category Name: Surreal Cities
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mirror Metropolis:
-    1. First Image: A Bustling City With Towering Skyscrapers.
-    2. Second Image: Transition From The First Image, The Buildings Starting To Reflect Surreal, Dreamlike Images.
-    3. Third Image: Transition From The Second Image, The City Transforming Into A Mirror-Filled Wonderland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Surreal Metropolis, Finding Hidden Dimensions.
+    1. First Wallpaper: A Bustling City With Towering Skyscrapers.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings Starting To Reflect Surreal, Dreamlike Wallpapers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The City Transforming Into A Mirror-Filled Wonderland.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Surreal Metropolis, Finding Hidden Dimensions.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Invisible Streets:
-    1. First Image: A Crowded City Street With People Going About Their Day.
-    2. Second Image: Transition From The First Image, The Street Starting To Fade And Become Invisible.
-    3. Third Image: Transition From The Second Image, The Protagonist Navigating Through The Invisible City, Discovering Hidden Paths.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Transforming Into A Surreal, Transparent World.
+    1. First Wallpaper: A Crowded City Street With People Going About Their Day.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Street Starting To Fade And Become Invisible.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Navigating Through The Invisible City, Discovering Hidden Paths.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Transforming Into A Surreal, Transparent World.
 ================================================================ X ================================================================
 31. Category Name: Surreal Architecture
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Twisting Towers:
-    1. First Image: A Skyline With Tall, Elegant Towers.
-    2. Second Image: Transition From The First Image, The Towers Starting To Twist And Contort Into Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Skyline Transformed Into A Fantastical, Dreamlike Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Twisting Towers, Uncovering Their Secrets.
+    1. First Wallpaper: A Skyline With Tall, Elegant Towers.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Towers Starting To Twist And Contort Into Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Skyline Transformed Into A Fantastical, Dreamlike Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Twisting Towers, Uncovering Their Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Structures:
-    1. First Image: A Normal Cityscape With Various Buildings.
-    2. Second Image: Transition From The First Image, The Buildings Starting To Lift Off The Ground And Float In The Air.
-    3. Third Image: Transition From The Second Image, The City Transformed Into A Surreal, Floating Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Floating Structures, Discovering Hidden Worlds.
+    1. First Wallpaper: A Normal Cityscape With Various Buildings.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings Starting To Lift Off The Ground And Float In The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The City Transformed Into A Surreal, Floating Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Floating Structures, Discovering Hidden Worlds.
 ================================================================ X ================================================================
 32. Category Name: Surreal Seasons
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Blossoming Snow:
-    1. First Image: A Winter Landscape With Snow-Covered Trees.
-    2. Second Image: Transition From The First Image, The Snow Starting To Blossom Into Surreal, Colorful Flowers.
-    3. Third Image: Transition From The Second Image, The Winter Landscape Transforming Into A Fantastical Spring.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Wandering Through The Blossoming Snow, Feeling A Sense Of Renewal.
+    1. First Wallpaper: A Winter Landscape With Snow-Covered Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Snow Starting To Blossom Into Surreal, Colorful Flowers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Winter Landscape Transforming Into A Fantastical Spring.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Wandering Through The Blossoming Snow, Feeling A Sense Of Renewal.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Golden Autumn:
-    1. First Image: A Forest With Vibrant Autumn Leaves.
-    2. Second Image: Transition From The First Image, The Leaves Starting To Turn Into Gold And Glow With A Surreal Light.
-    3. Third Image: Transition From The Second Image, The Forest Transforming Into A Golden Wonderland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Magical, Golden Autumn, Feeling A Sense Of Wonder.
+    1. First Wallpaper: A Forest With Vibrant Autumn Leaves.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Leaves Starting To Turn Into Gold And Glow With A Surreal Light.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transforming Into A Golden Wonderland.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Magical, Golden Autumn, Feeling A Sense Of Wonder.
 ================================================================ X ================================================================
 33. Category Name: Surreal Elements
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Water:
-    1. First Image: A Calm Lake With Clear, Blue Water.
-    2. Second Image: Transition From The First Image, The Water Starting To Move And Take On Sentient Forms.
-    3. Third Image: Transition From The Second Image, The Lake Transforming Into A Surreal, Living Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Living Water, Uncovering Hidden Truths.
+    1. First Wallpaper: A Calm Lake With Clear, Blue Water.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Water Starting To Move And Take On Sentient Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Lake Transforming Into A Surreal, Living Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Living Water, Uncovering Hidden Truths.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Breathing Earth:
-    1. First Image: A Calm, Serene Landscape With Mountains And Valleys.
-    2. Second Image: Transition From The First Image, The Ground And Mountains Beginning To Move And Breathe.
-    3. Third Image: Transition From The Second Image, The Entire Landscape Transforming Into A Living, Breathing Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Feeling A Deep Connection With The Surreal, Living Earth.
+    1. First Wallpaper: A Calm, Serene Landscape With Mountains And Valleys.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Ground And Mountains Beginning To Move And Breathe.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Landscape Transforming Into A Living, Breathing Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Feeling A Deep Connection With The Surreal, Living Earth.
 ================================================================ X ================================================================
 34. Category Name: Surreal Interiors
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Shifting Walls:
-    1. First Image: A Normal, Elegant Room In A Grand Mansion.
-    2. Second Image: Transition From The First Image, The Walls Starting To Move And Shift Into Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Entire Room Transforming Into An Abstract, Dreamlike Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Shifting Walls, Uncovering Hidden Meanings.
+    1. First Wallpaper: A Normal, Elegant Room In A Grand Mansion.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Walls Starting To Move And Shift Into Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire Room Transforming Into An Abstract, Dreamlike Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Shifting Walls, Uncovering Hidden Meanings.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Infinite Mirrors:
-    1. First Image: A Room Filled With Mirrors Reflecting Ordinary Scenes.
-    2. Second Image: Transition From The First Image, The Reflections Starting To Show Surreal, Dreamlike Images.
-    3. Third Image: Transition From The Second Image, The Mirrors Extending Infinitely, Creating An Endless Reflection.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stepping Through A Mirror, Entering A Surreal World.
+    1. First Wallpaper: A Room Filled With Mirrors Reflecting Ordinary Scenes.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections Starting To Show Surreal, Dreamlike Wallpapers.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Mirrors Extending Infinitely, Creating An Endless Reflection.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Stepping Through A Mirror, Entering A Surreal World.
 ================================================================ X ================================================================
 35. Category Name: Surreal Journeys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Path To The Stars:
-    1. First Image: A Winding Path Leading Through A Forest.
-    2. Second Image: Transition From The First Image, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
-    3. Third Image: Transition From The Second Image, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
+    1. First Wallpaper: A Winding Path Leading Through A Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bridge To The Moon:
-    1. First Image: A Bridge Spanning A Calm River.
-    2. Second Image: Transition From The First Image, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
-    3. Third Image: Transition From The Second Image, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
+    1. First Wallpaper: A Bridge Spanning A Calm River.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
 ================================================================ X ================================================================
 36. Category Name: Surreal Landscapes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Forest:
-    1. First Image: A Dense Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, The Trees Starting To Lift Off The Ground And Float In The Air.
-    3. Third Image: Transition From The Second Image, The Forest Transformed Into A Surreal, Floating Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Floating Forest, Discovering Hidden Paths.
+    1. First Wallpaper: A Dense Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees Starting To Lift Off The Ground And Float In The Air.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transformed Into A Surreal, Floating Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Floating Forest, Discovering Hidden Paths.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Desert:
-    1. First Image: A Vast Desert With Rolling Dunes.
-    2. Second Image: Transition From The First Image, The Sand Starting To Turn Into Sparkling Crystals.
-    3. Third Image: Transition From The Second Image, The Desert Transformed Into A Surreal, Crystalline Wonderland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Crystal Desert, Finding Hidden Treasures.
+    1. First Wallpaper: A Vast Desert With Rolling Dunes.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Sand Starting To Turn Into Sparkling Crystals.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Desert Transformed Into A Surreal, Crystalline Wonderland.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Crystal Desert, Finding Hidden Treasures.
 ================================================================ X ================================================================
 37. Category Name: Surreal Nature
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Mountains:
-    1. First Image: A Mountain Range With Towering Peaks.
-    2. Second Image: Transition From The First Image, The Mountains Starting To Move And Take On Sentient Forms.
-    3. Third Image: Transition From The Second Image, The Mountain Range Transforming Into A Surreal, Living Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Living Mountains, Uncovering Their Secrets.
+    1. First Wallpaper: A Mountain Range With Towering Peaks.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Mountains Starting To Move And Take On Sentient Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Mountain Range Transforming Into A Surreal, Living Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Living Mountains, Uncovering Their Secrets.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whispering Trees:
-    1. First Image: A Dense Forest With Towering Trees.
-    2. Second Image: Transition From The First Image, The Trees Starting To Whisper And Communicate With Each Other.
-    3. Third Image: Transition From The Second Image, The Forest Transformed Into A Surreal, Living Entity.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Listening To The Whispering Trees, Discovering Hidden Wisdom.
+    1. First Wallpaper: A Dense Forest With Towering Trees.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Trees Starting To Whisper And Communicate With Each Other.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Forest Transformed Into A Surreal, Living Entity.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Listening To The Whispering Trees, Discovering Hidden Wisdom.
 ================================================================ X ================================================================
 38. Category Name: Surreal Flora And Fauna
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Glowing Plants:
-    1. First Image: A Beautiful Garden With Vibrant Flowers.
-    2. Second Image: Transition From The First Image, The Flowers Starting To Glow With A Surreal, Magical Light.
-    3. Third Image: Transition From The Second Image, The Garden Filled With Glowing, Otherworldly Plants.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Through The Surreal Garden, Feeling A Sense Of Wonder.
+    1. First Wallpaper: A Beautiful Garden With Vibrant Flowers.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Flowers Starting To Glow With A Surreal, Magical Light.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Garden Filled With Glowing, Otherworldly Plants.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Through The Surreal Garden, Feeling A Sense Of Wonder.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Talking Animals:
-    1. First Image: A Tranquil Meadow With Grazing Animals.
-    2. Second Image: Transition From The First Image, The Animals Starting To Talk And Communicate With Each Other.
-    3. Third Image: Transition From The Second Image, The Meadow Filled With Sentient, Surreal Creatures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Talking Animals, Forming A Bond.
+    1. First Wallpaper: A Tranquil Meadow With Grazing Animals.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Animals Starting To Talk And Communicate With Each Other.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Meadow Filled With Sentient, Surreal Creatures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Talking Animals, Forming A Bond.
 ================================================================ X ================================================================
 39. Category Name: Surreal Underworlds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Glowworm Caves:
-    1. First Image: A Dark Cave With Sparkling Glowworms.
-    2. Second Image: Transition From The First Image, The Glowworms Starting To Form Surreal, Luminous Patterns.
-    3. Third Image: Transition From The Second Image, The Cave Transformed Into A Glowing, Otherworldly Wonderland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Exploring The Glowworm Caves, Finding Hidden Treasures.
+    1. First Wallpaper: A Dark Cave With Sparkling Glowworms.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Glowworms Starting To Form Surreal, Luminous Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Cave Transformed Into A Glowing, Otherworldly Wonderland.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Exploring The Glowworm Caves, Finding Hidden Treasures.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Subterranean Gardens:
-    1. First Image: An Underground City With Normal Architecture.
-    2. Second Image: Transition From The First Image, The Buildings And Streets Starting To Transform Into Lush, Surreal Gardens.
-    3. Third Image: Transition From The Second Image, The Entire City Transformed Into A Fantastical, Subterranean Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering The Mysteries Of The Surreal Underground Gardens.
+    1. First Wallpaper: An Underground City With Normal Architecture.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings And Streets Starting To Transform Into Lush, Surreal Gardens.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Entire City Transformed Into A Fantastical, Subterranean Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering The Mysteries Of The Surreal Underground Gardens.
 ================================================================ X ================================================================
 40. Category Name: Surreal Weather
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Rain:
-    1. First Image: A Normal, Rainy Day In A City.
-    2. Second Image: Transition From The First Image, The Raindrops Starting To Turn Into Sparkling Crystals.
-    3. Third Image: Transition From The Second Image, The Rain Transforming Into A Surreal, Crystalline Downpour.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Magical, Crystal Rain, Feeling Rejuvenated.
+    1. First Wallpaper: A Normal, Rainy Day In A City.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Raindrops Starting To Turn Into Sparkling Crystals.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Rain Transforming Into A Surreal, Crystalline Downpour.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Magical, Crystal Rain, Feeling Rejuvenated.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Clouds:
-    1. First Image: A Cloudy Sky Over An Open Field.
-    2. Second Image: Transition From The First Image, The Clouds Starting To Take On Sentient, Surreal Forms.
-    3. Third Image: Transition From The Second Image, The Sky Filled With Living, Moving Cloud Creatures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Living Clouds, Uncovering Hidden Wisdom.
+    1. First Wallpaper: A Cloudy Sky Over An Open Field.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Clouds Starting To Take On Sentient, Surreal Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Sky Filled With Living, Moving Cloud Creatures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Living Clouds, Uncovering Hidden Wisdom.
 ================================================================ X ================================================================
 41. Category Name: Surreal Journeys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Path To The Stars:
-    1. First Image: A Winding Path Leading Through A Forest.
-    2. Second Image: Transition From The First Image, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
-    3. Third Image: Transition From The Second Image, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
+    1. First Wallpaper: A Winding Path Leading Through A Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bridge To The Moon:
-    1. First Image: A Bridge Spanning A Calm River.
-    2. Second Image: Transition From The First Image, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
-    3. Third Image: Transition From The Second Image, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
+    1. First Wallpaper: A Bridge Spanning A Calm River.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
 ================================================================ X ================================================================
 42. Category Name: Surreal Reflections
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Water Mirrors:
-    1. First Image: A Tranquil Lake Reflecting A Clear Sky And Mountains.
-    2. Second Image: Transition From The First Image, The Reflections Starting To Show Surreal, Dreamlike Scenes.
-    3. Third Image: Transition From The Second Image, The Lake Transforming Into A Portal To Another World Through Its Reflections.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stepping Into The Water, Entering The Surreal World.
+    1. First Wallpaper: A Tranquil Lake Reflecting A Clear Sky And Mountains.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections Starting To Show Surreal, Dreamlike Scenes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Lake Transforming Into A Portal To Another World Through Its Reflections.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Stepping Into The Water, Entering The Surreal World.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Glass Worlds:
-    1. First Image: A Room Filled With Mirrors And Glass Objects.
-    2. Second Image: Transition From The First Image, The Reflections And Glass Starting To Warp And Show Alternate Realities.
-    3. Third Image: Transition From The Second Image, The Protagonist Seeing Multiple Versions Of Themselves Through The Glass.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Glass Merging Into A Single, Cohesive Surreal Landscape.
+    1. First Wallpaper: A Room Filled With Mirrors And Glass Objects.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Reflections And Glass Starting To Warp And Show Alternate Realities.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Seeing Multiple Versions Of Themselves Through The Glass.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Glass Merging Into A Single, Cohesive Surreal Landscape.
 ================================================================ X ================================================================
 43. Category Name: Surreal Transformations
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Human To Nature:
-    1. First Image: A Person Standing In A Forest.
-    2. Second Image: Transition From The First Image, The Person Starting To Transform Into A Tree.
-    3. Third Image: Transition From The Second Image, The Person Fully Transformed Into A Surreal, Sentient Tree.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Filled With Human-Nature Hybrids, Living In Harmony.
+    1. First Wallpaper: A Person Standing In A Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Person Starting To Transform Into A Tree.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Person Fully Transformed Into A Surreal, Sentient Tree.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Filled With Human-Nature Hybrids, Living In Harmony.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Object To Life:
-    1. First Image: A Room Filled With Ordinary Objects.
-    2. Second Image: Transition From The First Image, The Objects Starting To Come To Life And Move Independently.
-    3. Third Image: Transition From The Second Image, The Room Transformed Into A Surreal, Living Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Living Objects, Uncovering Their Secrets.
+    1. First Wallpaper: A Room Filled With Ordinary Objects.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Objects Starting To Come To Life And Move Independently.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Transformed Into A Surreal, Living Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Living Objects, Uncovering Their Secrets.
 ================================================================ X ================================================================
 44. Category Name: Surreal Light
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Light:
-    1. First Image: A Dark Room With A Single Light Source.
-    2. Second Image: Transition From The First Image, The Light Starting To Move And Take On Sentient Forms.
-    3. Third Image: Transition From The Second Image, The Room Filled With Living, Moving Light Entities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Communicating With The Living Light, Uncovering Hidden Truths.
+    1. First Wallpaper: A Dark Room With A Single Light Source.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Light Starting To Move And Take On Sentient Forms.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Living, Moving Light Entities.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Communicating With The Living Light, Uncovering Hidden Truths.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Glowing Shadows:
-    1. First Image: A Room With Normal Shadows Cast By Objects.
-    2. Second Image: Transition From The First Image, The Shadows Starting To Glow With A Surreal, Magical Light.
-    3. Third Image: Transition From The Second Image, The Room Transformed Into A Glowing, Otherworldly Space.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Interacting With The Glowing Shadows, Uncovering Hidden Meanings.
+    1. First Wallpaper: A Room With Normal Shadows Cast By Objects.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Shadows Starting To Glow With A Surreal, Magical Light.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Transformed Into A Glowing, Otherworldly Space.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Interacting With The Glowing Shadows, Uncovering Hidden Meanings.
 ================================================================ X ================================================================
 45. Category Name: Surreal Sounds
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whispering Wind:
-    1. First Image: A Calm Landscape With Gentle Breezes.
-    2. Second Image: Transition From The First Image, The Winds Starting To Form Visible, Surreal Shapes.
-    3. Third Image: Transition From The Second Image, The Winds Whispering Secrets To The Protagonist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Transformed By The Surreal, Whispering Winds.
+    1. First Wallpaper: A Calm Landscape With Gentle Breezes.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Winds Starting To Form Visible, Surreal Shapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Winds Whispering Secrets To The Protagonist.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Transformed By The Surreal, Whispering Winds.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Singing Stones:
-    1. First Image: A Rocky Landscape With Scattered Stones.
-    2. Second Image: Transition From The First Image, The Stones Starting To Produce Musical Notes.
-    3. Third Image: Transition From The Second Image, The Landscape Transforming Into A Surreal, Living Orchestra.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Moving Through The Singing Stones, Feeling The Harmony.
+    1. First Wallpaper: A Rocky Landscape With Scattered Stones.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Stones Starting To Produce Musical Notes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Landscape Transforming Into A Surreal, Living Orchestra.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Moving Through The Singing Stones, Feeling The Harmony.
 ================================================================ X ================================================================
 46. Category Name: Surreal Dualities
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Day And Night:
-    1. First Image: A Cityscape With A Clear Division Between Day And Night.
-    2. Second Image: Transition From The First Image, The Boundaries Of Day And Night Starting To Blur And Intermingle.
-    3. Third Image: Transition From The Second Image, The Protagonist Experiencing The Surreal Transition Between Time.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The City In A State Of Perpetual Twilight, Blending Elements Of Both Day And Night.
+    1. First Wallpaper: A Cityscape With A Clear Division Between Day And Night.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Boundaries Of Day And Night Starting To Blur And Intermingle.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Experiencing The Surreal Transition Between Time.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City In A State Of Perpetual Twilight, Blending Elements Of Both Day And Night.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Light And Shadow:
-    1. First Image: A Landscape Divided By A Stark Line Of Light And Shadow.
-    2. Second Image: Transition From The First Image, The Light And Shadow Beginning To Blend And Create Surreal Patterns.
-    3. Third Image: Transition From The Second Image, The Protagonist Moving Between The Light And Shadow, Experiencing Their Effects.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Landscape Transforming Into A Harmonious Blend Of Light And Dark.
+    1. First Wallpaper: A Landscape Divided By A Stark Line Of Light And Shadow.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Light And Shadow Beginning To Blend And Create Surreal Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Moving Between The Light And Shadow, Experiencing Their Effects.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Landscape Transforming Into A Harmonious Blend Of Light And Dark.
 ================================================================ X ================================================================
 47. Category Name: Surreal Dimensions
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fourth Dimension:
-    1. First Image: A Normal Three-Dimensional Room.
-    2. Second Image: Transition From The First Image, The Room Starting To Extend Into A Surreal, Fourth Dimension.
-    3. Third Image: Transition From The Second Image, The Room Filled With Impossible, Otherworldly Shapes And Forms.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Navigating Through The Fourth-Dimensional Space, Uncovering Its Mysteries.
+    1. First Wallpaper: A Normal Three-Dimensional Room.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Room Starting To Extend Into A Surreal, Fourth Dimension.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Impossible, Otherworldly Shapes And Forms.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Navigating Through The Fourth-Dimensional Space, Uncovering Its Mysteries.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Time Warp:
-    1. First Image: A City Street With People Going About Their Day.
-    2. Second Image: Transition From The First Image, The Street Starting To Warp And Distort Through Time.
-    3. Third Image: Transition From The Second Image, The City Transformed Into A Surreal, Time-Warped Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Moving Through The Time Warp, Discovering Different Eras.
+    1. First Wallpaper: A City Street With People Going About Their Day.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Street Starting To Warp And Distort Through Time.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The City Transformed Into A Surreal, Time-Warped Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Moving Through The Time Warp, Discovering Different Eras.
 ================================================================ X ================================================================
 48. Category Name: Surreal Memories
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fragmented Memories:
-    1. First Image: A Room Filled With Photographs And Mementos.
-    2. Second Image: Transition From The First Image, The Photographs Starting To Fragment And Rearrange Into Surreal Patterns.
-    3. Third Image: Transition From The Second Image, The Room Filled With Abstract, Fragmented Memories.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Piecing Together The Memories, Uncovering Hidden Stories.
+    1. First Wallpaper: A Room Filled With Photographs And Mementos.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Photographs Starting To Fragment And Rearrange Into Surreal Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Abstract, Fragmented Memories.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Piecing Together The Memories, Uncovering Hidden Stories.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Living Past:
-    1. First Image: A Quiet, Abandoned House.
-    2. Second Image: Transition From The First Image, The House Starting To Come To Life With Scenes From The Past.
-    3. Third Image: Transition From The Second Image, The House Filled With Surreal, Living Memories.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Living Past, Feeling A Deep Connection.
+    1. First Wallpaper: A Quiet, Abandoned House.
+    2. Second Wallpaper: Transition From The First Wallpaper, The House Starting To Come To Life With Scenes From The Past.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The House Filled With Surreal, Living Memories.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Living Past, Feeling A Deep Connection.
 ================================================================ X ================================================================
 49. Category Name: Surreal Journeys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Path To The Stars:
-    1. First Image: A Winding Path Leading Through A Forest.
-    2. Second Image: Transition From The First Image, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
-    3. Third Image: Transition From The Second Image, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
+    1. First Wallpaper: A Winding Path Leading Through A Forest.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Path Starting To Extend Into The Sky, Disappearing Into The Stars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Walking The Surreal Path, Encountering Cosmic Wonders.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Path Leading To A Fantastical Realm Among The Stars.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bridge To The Moon:
-    1. First Image: A Bridge Spanning A Calm River.
-    2. Second Image: Transition From The First Image, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
-    3. Third Image: Transition From The Second Image, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
+    1. First Wallpaper: A Bridge Spanning A Calm River.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Bridge Starting To Extend Into The Night Sky, Towards The Moon.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Crossing The Surreal Bridge, Entering A Lunar Landscape.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bridge Leading To A Magical World On The Moon, Filled With Mystery.
 ================================================================ X ================================================================
 50. Category Name: Surreal Cycles
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eternal Seasons:
-    1. First Image: A Landscape Divided Into Four Sections, Each Representing A Different Season.
-    2. Second Image: Transition From The First Image, The Sections Starting To Blend And Create Surreal Transitions Between Seasons.
-    3. Third Image: Transition From The Second Image, The Landscape Transforming Into A Harmonious Blend Of All Four Seasons.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Eternal Cycle Of Seasons, Feeling A Deep Connection To Nature.
+    1. First Wallpaper: A Landscape Divided Into Four Sections, Each Representing A Different Season.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Sections Starting To Blend And Create Surreal Transitions Between Seasons.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Landscape Transforming Into A Harmonious Blend Of All Four Seasons.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Eternal Cycle Of Seasons, Feeling A Deep Connection To Nature.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Surrealism Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Surrealism Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Life And Death:
-    1. First Image: A Field With Blooming Flowers And A Nearby Cemetery.
-    2. Second Image: Transition From The First Image, The Field And Cemetery Starting To Merge And Create Surreal Patterns.
-    3. Third Image: Transition From The Second Image, The Landscape Transforming Into A Harmonious Blend Of Life And Death.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Experiencing The Eternal Cycle Of Life And Death, Feeling A Sense Of Peace.
+    1. First Wallpaper: A Field With Blooming Flowers And A Nearby Cemetery.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Field And Cemetery Starting To Merge And Create Surreal Patterns.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Landscape Transforming Into A Harmonious Blend Of Life And Death.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Experiencing The Eternal Cycle Of Life And Death, Feeling A Sense Of Peace.

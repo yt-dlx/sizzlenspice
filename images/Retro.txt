@@ -3,826 +3,826 @@ Prompt 1:
 Give Me 50 Categories With Retro Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 2. Category Name:
     1. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
     2. Wallpaper Name:
-        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
-        2. Second Image: Transition From The First Image, Continue The Story.
-        3. Third Image: Transition From The Second Image, Continue The Story.
-        4. Fourth Image: Transition From The Third Image, Ending The Story.
+        1. First Wallpaper: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Wallpaper: Transition From The First Wallpaper, Continue The Story.
+        3. Third Wallpaper: Transition From The Second Wallpaper, Continue The Story.
+        4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story.
 
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
 1. Category Name: Retro Gaming
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Arcade Nights:
-    1. First Image: A Vibrant 80s Arcade With Neon Lights And Rows Of Arcade Machines.
-    2. Second Image: Transition From The First Image, Players Intensely Focused On A Competitive Game.
-    3. Third Image: Transition From The Second Image, A Dramatic Moment Of A High Score Being Beaten.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As Closing Time Approaches.
+    1. First Wallpaper: A Vibrant 80s Arcade With Neon Lights And Rows Of Arcade Machines.
+    2. Second Wallpaper: Transition From The First Wallpaper, Players Intensely Focused On A Competitive Game.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment Of A High Score Being Beaten.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Arcade Quieting Down As Closing Time Approaches.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Console:
-    1. First Image: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
-    2. Second Image: Transition From The First Image, Kids Gathered Around, Playing A Classic 8-Bit Game.
-    3. Third Image: Transition From The Second Image, An Intense Gaming Moment With Everyone Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
+    1. First Wallpaper: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Gathered Around, Playing A Classic 8-Bit Game.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Intense Gaming Moment With Everyone Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
 ================================================================ X ================================================================
 2. Category Name: Retro Fashion
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 70s Disco:
-    1. First Image: A Bustling Disco With A Light-Up Dance Floor And Disco Ball.
-    2. Second Image: Transition From The First Image, Dancers In Colorful 70s Attire Grooving To The Music.
-    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Disco Floor Emptying As The Night Ends.
+    1. First Wallpaper: A Bustling Disco With A Light-Up Dance Floor And Disco Ball.
+    2. Second Wallpaper: Transition From The First Wallpaper, Dancers In Colorful 70s Attire Grooving To The Music.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Disco Floor Emptying As The Night Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 80s Workout:
-    1. First Image: A Group In A Retro Aerobics Class With Bright Leotards And Leg Warmers.
-    2. Second Image: Transition From The First Image, The Instructor Leading High-Energy Exercises.
-    3. Third Image: Transition From The Second Image, Everyone In Sync, Following The Workout Moves.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Class Winding Down With Stretches And Cool-Down.
+    1. First Wallpaper: A Group In A Retro Aerobics Class With Bright Leotards And Leg Warmers.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Instructor Leading High-Energy Exercises.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Everyone In Sync, Following The Workout Moves.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Class Winding Down With Stretches And Cool-Down.
 ================================================================ X ================================================================
 3. Category Name: Retro Music
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vinyl Revival:
-    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
-    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
-    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
+    1. First Wallpaper: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Record Spinning, Filling The Room With Music.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Rock Concert:
-    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
-    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
-    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
+    1. First Wallpaper: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Lead Singer Belting Out A Powerful Song.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Audience Waving Lighters And Singing Along.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 4. Category Name: Retro Technology
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Office:
-    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Computers:
-    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 5. Category Name: Retro Travel
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Road Trip:
-    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
-    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
-    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
+    1. First Wallpaper: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Train Journey:
-    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
-    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
-    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
+    1. First Wallpaper: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Train Moving Through Picturesque Landscapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 6. Category Name: Retro Sports
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Basketball:
-    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
-    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
-    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
+    1. First Wallpaper: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Wallpaper: Transition From The First Wallpaper, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Boxing:
-    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
-    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
-    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
+    1. First Wallpaper: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Wallpaper: Transition From The First Wallpaper, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 7. Category Name: Retro Lifestyle
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Diner:
-    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
-    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
-    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
+    1. First Wallpaper: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Wallpaper: Transition From The First Wallpaper, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Living Room:
-    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
-    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
-    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
+    1. First Wallpaper: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 8. Category Name: Retro Toys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Toy Store:
-    1. First Image: A Vintage Toy Store With Shelves Filled With Retro Toys.
-    2. Second Image: Transition From The First Image, Kids Excitedly Exploring The Toy Aisles.
-    3. Third Image: Transition From The Second Image, A Child Finding Their Favorite Toy And Showing It To Their Parents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
+    1. First Wallpaper: A Vintage Toy Store With Shelves Filled With Retro Toys.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Excitedly Exploring The Toy Aisles.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Child Finding Their Favorite Toy And Showing It To Their Parents.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Arcade:
-    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
-    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
-    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
+    1. First Wallpaper: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 ================================================================ X ================================================================
 9. Category Name: Retro Celebrations
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Sock Hop:
-    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
-    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
-    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
+    1. First Wallpaper: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Wallpaper: Transition From The First Wallpaper, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 70s Disco Party:
-    1. First Image: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
-    2. Second Image: Transition From The First Image, Guests In Colorful 70s Outfits Dancing To Disco Hits.
-    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
+    1. First Wallpaper: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
+    2. Second Wallpaper: Transition From The First Wallpaper, Guests In Colorful 70s Outfits Dancing To Disco Hits.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
 ================================================================ X ================================================================
 10. Category Name: Retro Tv Shows
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Sitcom:
-    1. First Image: A 60s Living Room With A Black-And-White Tv Playing A Classic Sitcom.
-    2. Second Image: Transition From The First Image, The Family Laughing Together At A Funny Scene.
-    3. Third Image: Transition From The Second Image, The Show’S Iconic Moment With The Audience Clapping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Tv Turned Off, The Family Reminiscing About The Episode.
+    1. First Wallpaper: A 60s Living Room With A Black-And-White Tv Playing A Classic Sitcom.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Family Laughing Together At A Funny Scene.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Show’S Iconic Moment With The Audience Clapping.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Tv Turned Off, The Family Reminiscing About The Episode.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Saturday Morning Cartoons:
-    1. First Image: Kids In Pajamas Gathered Around The Tv, Eagerly Waiting For Cartoons.
-    2. Second Image: Transition From The First Image, Iconic Cartoon Characters On The Screen, Vibrant And Animated.
-    3. Third Image: Transition From The Second Image, Kids Laughing And Enjoying The Shows With Cereal Bowls In Hand.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cartoons Ending, Kids Still Talking About Their Favorite Moments.
+    1. First Wallpaper: Kids In Pajamas Gathered Around The Tv, Eagerly Waiting For Cartoons.
+    2. Second Wallpaper: Transition From The First Wallpaper, Iconic Cartoon Characters On The Screen, Vibrant And Animated.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Laughing And Enjoying The Shows With Cereal Bowls In Hand.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Cartoons Ending, Kids Still Talking About Their Favorite Moments.
 ================================================================ X ================================================================
 11. Category Name: Retro Road Trips
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Route 66 Adventure:
-    1. First Image: A Classic Car Driving Down The Iconic Route 66.
-    2. Second Image: Transition From The First Image, Roadside Attractions Like Vintage Motels And Diners.
-    3. Third Image: Transition From The Second Image, A Stop At A Famous Landmark For Photos.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Scenic Overlook, The Sun Setting In The Distance.
+    1. First Wallpaper: A Classic Car Driving Down The Iconic Route 66.
+    2. Second Wallpaper: Transition From The First Wallpaper, Roadside Attractions Like Vintage Motels And Diners.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Stop At A Famous Landmark For Photos.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Parked At A Scenic Overlook, The Sun Setting In The Distance.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Coastal Cruise:
-    1. First Image: A Convertible Cruising Along A Scenic Coastal Highway.
-    2. Second Image: Transition From The First Image, The Ocean Waves Crashing Against The Rocks Below.
-    3. Third Image: Transition From The Second Image, A Stop At A Beach For A Picnic.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Driving Off Into The Sunset, The Sky Painted With Vibrant Colors.
+    1. First Wallpaper: A Convertible Cruising Along A Scenic Coastal Highway.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Ocean Waves Crashing Against The Rocks Below.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Stop At A Beach For A Picnic.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Driving Off Into The Sunset, The Sky Painted With Vibrant Colors.
 ================================================================ X ================================================================
 12. Category Name: Retro Education
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Classroom:
-    1. First Image: A Classroom With Wooden Desks, A Chalkboard, And A Globe.
-    2. Second Image: Transition From The First Image, Students Raising Their Hands To Answer Questions.
-    3. Third Image: Transition From The Second Image, A Teacher Writing On The Chalkboard.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The School Bell Ringing, Students Packing Up To Leave.
+    1. First Wallpaper: A Classroom With Wooden Desks, A Chalkboard, And A Globe.
+    2. Second Wallpaper: Transition From The First Wallpaper, Students Raising Their Hands To Answer Questions.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Teacher Writing On The Chalkboard.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The School Bell Ringing, Students Packing Up To Leave.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Science Fair:
-    1. First Image: A Gymnasium Filled With Science Fair Projects And Displays.
-    2. Second Image: Transition From The First Image, Students Presenting Their Projects To Judges.
-    3. Third Image: Transition From The Second Image, A Tense Moment As The Winners Are Announced.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Winners Celebrating With Their Trophies.
+    1. First Wallpaper: A Gymnasium Filled With Science Fair Projects And Displays.
+    2. Second Wallpaper: Transition From The First Wallpaper, Students Presenting Their Projects To Judges.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Winners Are Announced.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Winners Celebrating With Their Trophies.
 ================================================================ X ================================================================
 13. Category Name: Retro Communication
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rotary Phones:
-    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
-    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
-    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
+    1. First Wallpaper: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Dialing A Number On The Rotary Phone.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pen Pals:
-    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
-    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
-    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
+    1. First Wallpaper: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 14. Category Name: Retro Automobiles
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Car Show:
-    1. First Image: A Lineup Of Vintage Cars At A Car Show.
-    2. Second Image: Transition From The First Image, Enthusiasts Admiring And Discussing The Cars.
-    3. Third Image: Transition From The Second Image, A Car Being Awarded A Trophy For Best In Show.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting, Cars Driving Away.
+    1. First Wallpaper: A Lineup Of Vintage Cars At A Car Show.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Admiring And Discussing The Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Car Being Awarded A Trophy For Best In Show.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sun Setting, Cars Driving Away.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Drive-In Theater:
-    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
-    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
-    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
+    1. First Wallpaper: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 ================================================================ X ================================================================
 15. Category Name: Retro Vacations
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Beach Day:
-    1. First Image: A 60s Beach Scene With Colorful Umbrellas And Retro Swimsuits.
-    2. Second Image: Transition From The First Image, Families Playing Beach Games And Building Sandcastles.
-    3. Third Image: Transition From The Second Image, A Surfboard Lying On The Sand, Ready For Action.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting Over The Ocean, Casting A Golden Glow.
+    1. First Wallpaper: A 60s Beach Scene With Colorful Umbrellas And Retro Swimsuits.
+    2. Second Wallpaper: Transition From The First Wallpaper, Families Playing Beach Games And Building Sandcastles.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Surfboard Lying On The Sand, Ready For Action.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sun Setting Over The Ocean, Casting A Golden Glow.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Ski Trip:
-    1. First Image: A Snowy Mountain With Skiers In Retro Ski Gear.
-    2. Second Image: Transition From The First Image, Skiers Navigating Down The Slopes With Ease.
-    3. Third Image: Transition From The Second Image, A Cozy Cabin With A Roaring Fire And Hot Cocoa.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Group Relaxing After A Day Of Skiing, Reminiscing About The Fun.
+    1. First Wallpaper: A Snowy Mountain With Skiers In Retro Ski Gear.
+    2. Second Wallpaper: Transition From The First Wallpaper, Skiers Navigating Down The Slopes With Ease.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Cozy Cabin With A Roaring Fire And Hot Cocoa.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Group Relaxing After A Day Of Skiing, Reminiscing About The Fun.
 ================================================================ X ================================================================
 16. Category Name: Retro Dining
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Diner:
-    1. First Image: A Classic Diner With Checkered Floors, Neon Signs, And Red Booths.
-    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Milkshakes, And Fries.
-    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits From The 50s.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Staff Serving Food With A Smile.
+    1. First Wallpaper: A Classic Diner With Checkered Floors, Neon Signs, And Red Booths.
+    2. Second Wallpaper: Transition From The First Wallpaper, Patrons Enjoying Burgers, Milkshakes, And Fries.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Jukebox Playing Hits From The 50s.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Diner Staff Serving Food With A Smile.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Picnic:
-    1. First Image: A Vintage Picnic Setup With A Checkered Blanket And Wicker Basket.
-    2. Second Image: Transition From The First Image, A Family Enjoying Sandwiches, Lemonade, And Pie.
-    3. Third Image: Transition From The Second Image, Kids Playing Catch And Flying Kites.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Packing Up As The Sun Sets, Leaving The Park.
+    1. First Wallpaper: A Vintage Picnic Setup With A Checkered Blanket And Wicker Basket.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Family Enjoying Sandwiches, Lemonade, And Pie.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Playing Catch And Flying Kites.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Family Packing Up As The Sun Sets, Leaving The Park.
 ================================================================ X ================================================================
 17. Category Name: Retro Communication
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rotary Phones:
-    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
-    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
-    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
+    1. First Wallpaper: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Dialing A Number On The Rotary Phone.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pen Pals:
-    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
-    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
-    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
+    1. First Wallpaper: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 18. Category Name: Retro Architecture
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mid-Century Modern Home:
-    1. First Image: A Mid-Century Modern Home With Clean Lines And Large Windows.
-    2. Second Image: Transition From The First Image, The Interior With Minimalist Furniture And A Sunken Living Room.
-    3. Third Image: Transition From The Second Image, A Family Enjoying Time Together In The Living Room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
+    1. First Wallpaper: A Mid-Century Modern Home With Clean Lines And Large Windows.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Interior With Minimalist Furniture And A Sunken Living Room.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Family Enjoying Time Together In The Living Room.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Art Deco Building:
-    1. First Image: An Iconic Art Deco Skyscraper In A City Skyline.
-    2. Second Image: Transition From The First Image, The Buildings Ornate Lobby With Geometric Patterns And Rich Colors.
-    3. Third Image: Transition From The Second Image, Visitors Admiring The Architectural Details.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Building Lit Up At Night, Highlighting Its Grandeur.
+    1. First Wallpaper: An Iconic Art Deco Skyscraper In A City Skyline.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Buildings Ornate Lobby With Geometric Patterns And Rich Colors.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Visitors Admiring The Architectural Details.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Building Lit Up At Night, Highlighting Its Grandeur.
 ================================================================ X ================================================================
 19. Category Name: Retro Nightlife
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Speakeasy:
-    1. First Image: A Hidden Entrance To A 1920s Speakeasy.
-    2. Second Image: Transition From The First Image, Patrons Enjoying Jazz Music And Cocktails In A Dimly Lit Room.
-    3. Third Image: Transition From The Second Image, A Jazz Band Playing On A Small Stage.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Speakeasy Closing For The Night, With Patrons Leaving Quietly.
+    1. First Wallpaper: A Hidden Entrance To A 1920s Speakeasy.
+    2. Second Wallpaper: Transition From The First Wallpaper, Patrons Enjoying Jazz Music And Cocktails In A Dimly Lit Room.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Jazz Band Playing On A Small Stage.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Speakeasy Closing For The Night, With Patrons Leaving Quietly.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 70s Nightclub:
-    1. First Image: A Packed Nightclub With A Light-Up Dance Floor And Disco Ball.
-    2. Second Image: Transition From The First Image, People Dancing In Colorful 70s Attire.
-    3. Third Image: Transition From The Second Image, A Dj Spinning Records, Keeping The Energy High.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Club Winding Down As The Night Ends.
+    1. First Wallpaper: A Packed Nightclub With A Light-Up Dance Floor And Disco Ball.
+    2. Second Wallpaper: Transition From The First Wallpaper, People Dancing In Colorful 70s Attire.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dj Spinning Records, Keeping The Energy High.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Club Winding Down As The Night Ends.
 ================================================================ X ================================================================
 20. Category Name: Retro Transportation
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Roadster:
-    1. First Image: A Vintage Roadster Driving Along A Scenic Highway.
-    2. Second Image: Transition From The First Image, The Car Parked At A Lookout Point, The Driver Admiring The View.
-    3. Third Image: Transition From The Second Image, A Roadside Picnic Next To The Roadster.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Roadster Driving Off Into The Sunset.
+    1. First Wallpaper: A Vintage Roadster Driving Along A Scenic Highway.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Car Parked At A Lookout Point, The Driver Admiring The View.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Roadside Picnic Next To The Roadster.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Roadster Driving Off Into The Sunset.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Bicycle:
-    1. First Image: A Retro Bicycle Leaning Against A Fence.
-    2. Second Image: Transition From The First Image, A Person Riding The Bicycle Through A Countryside.
-    3. Third Image: Transition From The Second Image, The Rider Stopping At A Small Café For A Break.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bicycle Parked Outside A Home, The Rider Walking In.
+    1. First Wallpaper: A Retro Bicycle Leaning Against A Fence.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Riding The Bicycle Through A Countryside.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Rider Stopping At A Small Café For A Break.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bicycle Parked Outside A Home, The Rider Walking In.
 ================================================================ X ================================================================
 21. Category Name: Retro Festivities
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Beach Party:
-    1. First Image: A Beach Scene With Colorful Umbrellas And Retro Swimsuits.
-    2. Second Image: Transition From The First Image, People Playing Beach Volleyball And Surfing.
-    3. Third Image: Transition From The Second Image, A Beach Bonfire With Everyone Gathered Around.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Continuing Into The Night With Music And Dancing.
+    1. First Wallpaper: A Beach Scene With Colorful Umbrellas And Retro Swimsuits.
+    2. Second Wallpaper: Transition From The First Wallpaper, People Playing Beach Volleyball And Surfing.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Beach Bonfire With Everyone Gathered Around.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Party Continuing Into The Night With Music And Dancing.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Sock Hop:
-    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
-    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
-    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
+    1. First Wallpaper: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Wallpaper: Transition From The First Wallpaper, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 ================================================================ X ================================================================
 22. Category Name: Retro Shopping
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Market:
-    1. First Image: A Bustling Vintage Market With Stalls Selling Retro Goods.
-    2. Second Image: Transition From The First Image, Shoppers Browsing Through Vinyl Records, Antiques, And Clothing.
-    3. Third Image: Transition From The Second Image, A Buyer Haggling Over A Prized Item.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Market Winding Down, With Vendors Packing Up.
+    1. First Wallpaper: A Bustling Vintage Market With Stalls Selling Retro Goods.
+    2. Second Wallpaper: Transition From The First Wallpaper, Shoppers Browsing Through Vinyl Records, Antiques, And Clothing.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Buyer Haggling Over A Prized Item.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Market Winding Down, With Vendors Packing Up.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Department Store:
-    1. First Image: A Department Store With Nostalgic Window Displays.
-    2. Second Image: Transition From The First Image, Shoppers Exploring Different Departments.
-    3. Third Image: Transition From The Second Image, A Busy Checkout Line With A Classic Cash Register.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Evening, Lights Dimming.
+    1. First Wallpaper: A Department Store With Nostalgic Window Displays.
+    2. Second Wallpaper: Transition From The First Wallpaper, Shoppers Exploring Different Departments.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Busy Checkout Line With A Classic Cash Register.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Store Closing For The Evening, Lights Dimming.
 ================================================================ X ================================================================
 23. Category Name: Retro Offices
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Office:
-    1. First Image: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 80s Startup:
-    1. First Image: A Startup Office With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Startup Office With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 24. Category Name: Retro Broadcasting
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old Time Radio:
-    1. First Image: A Radio Studio With Vintage Microphones And Equipment.
-    2. Second Image: Transition From The First Image, A Radio Host Broadcasting Live.
-    3. Third Image: Transition From The Second Image, Guests Being Interviewed On Air.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Show Ending, With The Host Signing Off.
+    1. First Wallpaper: A Radio Studio With Vintage Microphones And Equipment.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Radio Host Broadcasting Live.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Guests Being Interviewed On Air.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Show Ending, With The Host Signing Off.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Black-And-White Tv:
-    1. First Image: A Living Room Setup With A Black-And-White Tv.
-    2. Second Image: Transition From The First Image, A Family Gathered Around, Watching A Classic Show.
-    3. Third Image: Transition From The Second Image, An Intense Moment On The Tv Screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Show Ends.
+    1. First Wallpaper: A Living Room Setup With A Black-And-White Tv.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Family Gathered Around, Watching A Classic Show.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Intense Moment On The Tv Screen.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Family Relaxing As The Show Ends.
 ================================================================ X ================================================================
 25. Category Name: Retro Entertainments
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Drive-In Movies:
-    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
-    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
-    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
+    1. First Wallpaper: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Movie Theater:
-    1. First Image: A Retro Theater Marquee Advertising A Classic Film.
-    2. Second Image: Transition From The First Image, The Audience Seated, Waiting For The Movie To Start.
-    3. Third Image: Transition From The Second Image, An Iconic Scene From The Film Playing On The Big Screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crowd Applauding As The Credits Roll.
+    1. First Wallpaper: A Retro Theater Marquee Advertising A Classic Film.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Audience Seated, Waiting For The Movie To Start.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Iconic Scene From The Film Playing On The Big Screen.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crowd Applauding As The Credits Roll.
 ================================================================ X ================================================================
 26. Category Name: Retro Socials
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Sock Hop:
-    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
-    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
-    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
+    1. First Wallpaper: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Wallpaper: Transition From The First Wallpaper, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Love-In:
-    1. First Image: A Park Filled With People In Colorful 60s Attire.
-    2. Second Image: Transition From The First Image, Participants Sitting On Blankets, Playing Guitars And Singing.
-    3. Third Image: Transition From The Second Image, A Moment Of Peace And Love, With Everyone Joining Hands.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Event Winding Down As The Sun Sets, People Leaving With Smiles.
+    1. First Wallpaper: A Park Filled With People In Colorful 60s Attire.
+    2. Second Wallpaper: Transition From The First Wallpaper, Participants Sitting On Blankets, Playing Guitars And Singing.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Moment Of Peace And Love, With Everyone Joining Hands.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Event Winding Down As The Sun Sets, People Leaving With Smiles.
 ================================================================ X ================================================================
 27. Category Name: Retro Sports
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Basketball:
-    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
-    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
-    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
+    1. First Wallpaper: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Wallpaper: Transition From The First Wallpaper, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Boxing:
-    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
-    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
-    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
+    1. First Wallpaper: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Wallpaper: Transition From The First Wallpaper, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 28. Category Name: Retro Automobiles
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Car Show:
-    1. First Image: A Lineup Of Vintage Cars At A Car Show.
-    2. Second Image: Transition From The First Image, Enthusiasts Admiring And Discussing The Cars.
-    3. Third Image: Transition From The Second Image, A Car Being Awarded A Trophy For Best In Show.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting, Cars Driving Away.
+    1. First Wallpaper: A Lineup Of Vintage Cars At A Car Show.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Admiring And Discussing The Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Car Being Awarded A Trophy For Best In Show.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sun Setting, Cars Driving Away.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Drive-In Theater:
-    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
-    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
-    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
+    1. First Wallpaper: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 ================================================================ X ================================================================
 29. Category Name: Retro Workplaces
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Office:
-    1. First Image: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 80s Startup:
-    1. First Image: A Startup Office With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Startup Office With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 30. Category Name: Retro Technology
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Office:
-    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Computers:
-    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 31. Category Name: Retro Toys
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Toy Store:
-    1. First Image: A Vintage Toy Store With Shelves Filled With Retro Toys.
-    2. Second Image: Transition From The First Image, Kids Excitedly Exploring The Toy Aisles.
-    3. Third Image: Transition From The Second Image, A Child Finding Their Favorite Toy And Showing It To Their Parents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
+    1. First Wallpaper: A Vintage Toy Store With Shelves Filled With Retro Toys.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Excitedly Exploring The Toy Aisles.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Child Finding Their Favorite Toy And Showing It To Their Parents.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Arcade:
-    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
-    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
-    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
+    1. First Wallpaper: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 ================================================================ X ================================================================
 32. Category Name: Retro Lifestyle
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Diner:
-    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
-    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
-    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
+    1. First Wallpaper: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Wallpaper: Transition From The First Wallpaper, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Living Room:
-    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
-    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
-    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
+    1. First Wallpaper: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 33. Category Name: Retro Communication
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rotary Phones:
-    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
-    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
-    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
+    1. First Wallpaper: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Dialing A Number On The Rotary Phone.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pen Pals:
-    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
-    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
-    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
+    1. First Wallpaper: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 34. Category Name: Retro Music
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vinyl Revival:
-    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
-    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
-    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
+    1. First Wallpaper: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Record Spinning, Filling The Room With Music.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Rock Concert:
-    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
-    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
-    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
+    1. First Wallpaper: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Lead Singer Belting Out A Powerful Song.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Audience Waving Lighters And Singing Along.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 35. Category Name: Retro Travel
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Road Trip:
-    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
-    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
-    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
+    1. First Wallpaper: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Train Journey:
-    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
-    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
-    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
+    1. First Wallpaper: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Train Moving Through Picturesque Landscapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 36. Category Name: Retro Sports
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Basketball:
-    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
-    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
-    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
+    1. First Wallpaper: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Wallpaper: Transition From The First Wallpaper, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Boxing:
-    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
-    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
-    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
+    1. First Wallpaper: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Wallpaper: Transition From The First Wallpaper, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 37. Category Name: Retro Lifestyle
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Diner:
-    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
-    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
-    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
+    1. First Wallpaper: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Wallpaper: Transition From The First Wallpaper, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 60s Living Room:
-    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
-    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
-    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
+    1. First Wallpaper: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 38. Category Name: Retro Music
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vinyl Revival:
-    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
-    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
-    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
+    1. First Wallpaper: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Record Spinning, Filling The Room With Music.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Rock Concert:
-    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
-    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
-    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
+    1. First Wallpaper: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Lead Singer Belting Out A Powerful Song.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Audience Waving Lighters And Singing Along.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 39. Category Name: Retro Technology
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Office:
-    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Computers:
-    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 40. Category Name: Retro Communication
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rotary Phones:
-    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
-    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
-    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
+    1. First Wallpaper: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Dialing A Number On The Rotary Phone.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pen Pals:
-    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
-    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
-    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
+    1. First Wallpaper: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 41. Category Name: Retro Games
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Arcade:
-    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
-    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
-    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
+    1. First Wallpaper: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Console:
-    1. First Image: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
-    2. Second Image: Transition From The First Image, Kids Gathered Around, Playing A Classic 8-Bit Game.
-    3. Third Image: Transition From The Second Image, An Intense Gaming Moment With Everyone Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
+    1. First Wallpaper: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
+    2. Second Wallpaper: Transition From The First Wallpaper, Kids Gathered Around, Playing A Classic 8-Bit Game.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Intense Gaming Moment With Everyone Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
 ================================================================ X ================================================================
 42. Category Name: Retro Celebrations
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Sock Hop:
-    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
-    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
-    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
+    1. First Wallpaper: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Wallpaper: Transition From The First Wallpaper, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 70s Disco Party:
-    1. First Image: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
-    2. Second Image: Transition From The First Image, Guests In Colorful 70s Outfits Dancing To Disco Hits.
-    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
+    1. First Wallpaper: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
+    2. Second Wallpaper: Transition From The First Wallpaper, Guests In Colorful 70s Outfits Dancing To Disco Hits.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
 ================================================================ X ================================================================
 43. Category Name: Retro Sports
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Basketball:
-    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
-    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
-    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
+    1. First Wallpaper: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Wallpaper: Transition From The First Wallpaper, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Boxing:
-    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
-    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
-    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
+    1. First Wallpaper: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Wallpaper: Transition From The First Wallpaper, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 44. Category Name: Retro Travel
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Road Trip:
-    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
-    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
-    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
+    1. First Wallpaper: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Retro Train Journey:
-    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
-    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
-    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
+    1. First Wallpaper: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Train Moving Through Picturesque Landscapes.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 45. Category Name: Retro Technology
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Old School Office:
-    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
-    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
-    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
+    1. First Wallpaper: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Wallpaper: Transition From The First Wallpaper, Employees Busy Typing And Making Phone Calls.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment During A Business Meeting.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Computers:
-    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
-    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
+    1. First Wallpaper: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Wallpaper: Transition From The First Wallpaper, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 46. Category Name: Retro Communication
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rotary Phones:
-    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
-    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
-    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
+    1. First Wallpaper: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Person Dialing A Number On The Rotary Phone.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Pen Pals:
-    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
-    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
-    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
+    1. First Wallpaper: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 47. Category Name: Retro Entertainment
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Drive-In Movies:
-    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
-    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
-    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
+    1. First Wallpaper: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Wallpaper: Transition From The First Wallpaper, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Classic Movie Theater:
-    1. First Image: A Retro Theater Marquee Advertising A Classic Film.
-    2. Second Image: Transition From The First Image, The Audience Seated, Waiting For The Movie To Start.
-    3. Third Image: Transition From The Second Image, An Iconic Scene From The Film Playing On The Big Screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crowd Applauding As The Credits Roll.
+    1. First Wallpaper: A Retro Theater Marquee Advertising A Classic Film.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Audience Seated, Waiting For The Movie To Start.
+    3. Third Wallpaper: Transition From The Second Wallpaper, An Iconic Scene From The Film Playing On The Big Screen.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crowd Applauding As The Credits Roll.
 ================================================================ X ================================================================
 48. Category Name: Retro Festivals
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 50s Carnival:
-    1. First Image: A Vintage Carnival With Classic Rides And Game Booths.
-    2. Second Image: Transition From The First Image, Families Enjoying The Ferris Wheel And Carousel.
-    3. Third Image: Transition From The Second Image, Kids Playing Games And Winning Prizes.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Carnival Lit Up At Night, With People Still Having Fun.
+    1. First Wallpaper: A Vintage Carnival With Classic Rides And Game Booths.
+    2. Second Wallpaper: Transition From The First Wallpaper, Families Enjoying The Ferris Wheel And Carousel.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Kids Playing Games And Winning Prizes.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Carnival Lit Up At Night, With People Still Having Fun.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: 70s Music Festival:
-    1. First Image: A Large Outdoor Stage With A Band Performing.
-    2. Second Image: Transition From The First Image, The Crowd Dancing And Enjoying The Music.
-    3. Third Image: Transition From The Second Image, A Memorable Performance With Everyone Singing Along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Festival Grounds Emptying As The Night Ends.
+    1. First Wallpaper: A Large Outdoor Stage With A Band Performing.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Crowd Dancing And Enjoying The Music.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Memorable Performance With Everyone Singing Along.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Festival Grounds Emptying As The Night Ends.
 ================================================================ X ================================================================
 49. Category Name: Retro Homes
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mid-Century Modern House:
-    1. First Image: A Stylish Mid-Century Modern Home With Clean Lines And Large Windows.
-    2. Second Image: Transition From The First Image, The Interior With Minimalist Furniture And Vintage Décor.
-    3. Third Image: Transition From The Second Image, A Family Enjoying Time Together In The Living Room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
+    1. First Wallpaper: A Stylish Mid-Century Modern Home With Clean Lines And Large Windows.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Interior With Minimalist Furniture And Vintage Décor.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Family Enjoying Time Together In The Living Room.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Victorian House:
-    1. First Image: A Beautiful Victorian House With Ornate Details And A Wrap-Around Porch.
-    2. Second Image: Transition From The First Image, The Interior With Antique Furniture And Classic Wallpaper.
-    3. Third Image: Transition From The Second Image, A Family Gathered For A Traditional Dinner.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The House Lit Up With Candles, Creating A Cozy Atmosphere.
+    1. First Wallpaper: A Beautiful Victorian House With Ornate Details And A Wrap-Around Porch.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Interior With Antique Furniture And Classic Wallpaper.
+    3. Third Wallpaper: Transition From The Second Wallpaper, A Family Gathered For A Traditional Dinner.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The House Lit Up With Candles, Creating A Cozy Atmosphere.
 ================================================================ X ================================================================
 50. Category Name: Retro Adventures
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Time Traveler:
-    1. First Image: A Person Discovering An Old, Mysterious Device In An Attic.
-    2. Second Image: Transition From The First Image, The Device Activating, Showing A Portal To The Past.
-    3. Third Image: Transition From The Second Image, The Person Stepping Through The Portal, Arriving In A Different Era.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Time Traveler Exploring The New Time Period, Blending In.
+    1. First Wallpaper: A Person Discovering An Old, Mysterious Device In An Attic.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Device Activating, Showing A Portal To The Past.
+    3. Third Wallpaper: Transition From The Second Wallpaper, The Person Stepping Through The Portal, Arriving In A Different Era.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Time Traveler Exploring The New Time Period, Blending In.
 
-Prompt: Create 4 Separate Images In A Storybook Style With Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Wallpapers In A Storybook Style With Retro Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunter:
-    1. First Image: A Map Leading To Hidden Treasure In An Old, Dusty Book.
-    2. Second Image: Transition From The First Image, The Adventurer Deciphering Clues And Setting Off On The Journey.
-    3. Third Image: Transition From The Second Image, Facing Challenges And Traps Along The Way.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Discovering The Treasure, With A Triumphant Smile.
+    1. First Wallpaper: A Map Leading To Hidden Treasure In An Old, Dusty Book.
+    2. Second Wallpaper: Transition From The First Wallpaper, The Adventurer Deciphering Clues And Setting Off On The Journey.
+    3. Third Wallpaper: Transition From The Second Wallpaper, Facing Challenges And Traps Along The Way.
+    4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Discovering The Treasure, With A Triumphant Smile.
