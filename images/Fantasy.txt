@@ -27,7 +27,7 @@ Give Me 50 Categories With 'Fantasy' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. Category: Magical Forests
+1. Category Name: Magical Forests
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Enchanted Grove:
@@ -43,7 +43,7 @@ Title: Fairy Realm:
         3. Third Image: A conflict where the protagonist helps the fairies fend off a threat.
         4. Fourth Image: The fairies celebrating their victory with a grand festival.
 ================================================================ X ================================================================
-2. Category: Dragon Adventures
+2. Category Name: Dragon Adventures
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Dragon’s Lair:
@@ -59,7 +59,7 @@ Title: Sky Riders:
         3. Third Image: A battle in the skies against other riders, showcasing intense aerial combat.
         4. Fourth Image: The protagonist and dragon emerging victorious, with a sense of unity and power.
 ================================================================ X ================================================================
-3. Category: Epic Quests
+3. Category Name: Epic Quests
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Hero’s Journey:
@@ -75,7 +75,7 @@ Title: Sacred Relic:
         3. Third Image: A confrontation with a rival who also seeks the relic, showcasing high stakes.
         4. Fourth Image: The protagonist obtaining the relic, with a sense of accomplishment and awe.
 ================================================================ X ================================================================
-4. Category: Kingdom Conflicts
+4. Category Name: Kingdom Conflicts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Royal Betrayal:
@@ -91,7 +91,7 @@ Title: Siege of the Castle:
         3. Third Image: A climactic fight within the castle, with the protagonist facing the enemy leader.
         4. Fourth Image: The castle standing strong, with the protagonist hailed as a savior.
 ================================================================ X ================================================================
-5. Category: Mythical Creatures
+5. Category Name: Mythical Creatures
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Unicorn Valley:
@@ -107,7 +107,7 @@ Title: Phoenix Rebirth:
         3. Third Image: A battle against dark forces trying to capture the phoenix, showcasing intense action.
         4. Fourth Image: The phoenix flying free, with the protagonist basking in its magical aura.
 ================================================================ X ================================================================
-6. Category: Dark Magic
+6. Category Name: Dark Magic
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Cursed Forest:
@@ -123,7 +123,7 @@ Title: Haunted Manor:
         3. Third Image: A battle against the manor’s dark lord, showcasing intense ghostly combat.
         4. Fourth Image: The spirits finding peace, with the protagonist emerging as the manor’s new guardian.
 ================================================================ X ================================================================
-7. Category: Elemental Forces
+7. Category Name: Elemental Forces
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Fire and Ice:
@@ -139,7 +139,7 @@ Title: Storm Chasers:
         3. Third Image: A dramatic showdown with the Storm King, showcasing intense elemental combat.
         4. Fourth Image: The skies clearing, with the protagonist hailed as a hero.
 ================================================================ X ================================================================
-8. Category: Ancient Ruins
+8. Category Name: Ancient Ruins
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Lost City:
@@ -155,7 +155,7 @@ Title: Temple of the Sun:
         3. Third Image: A battle against a powerful guardian protecting the temple’s sacred relic.
         4. Fourth Image: The temple glowing with restored power, with the protagonist honored by ancient spirits.
 ================================================================ X ================================================================
-9. Category: Underwater Realms
+9. Category Name: Underwater Realms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Mermaid Kingdom:
@@ -171,7 +171,7 @@ Title: Sunken Treasure:
         3. Third Image: A battle against sea monsters guarding the treasure, showcasing intense action.
         4. Fourth Image: The protagonist emerging with the treasure, with the underwater realm at peace.
 ================================================================ X ================================================================
-10. Category: Time Travel
+10. Category Name: Time Travel
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Temporal Quest:
@@ -187,7 +187,7 @@ Title: Eternal Moment:
         3. Third Image: A dramatic choice where the protagonist must decide whether to use or relinquish their power.
         4. Fourth Image: The protagonist making peace with their decision, with time flowing naturally again.
 ================================================================ X ================================================================
-11. Category: Celestial Beings
+11. Category Name: Celestial Beings
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Star Guardians:
@@ -203,7 +203,7 @@ Title: Moonlit Path:
         3. Third Image: A conflict where the protagonist must protect the moon from dark forces.
         4. Fourth Image: The moon glowing with restored power, with the protagonist honored by lunar beings.
 ================================================================ X ================================================================
-12. Category: Magical Schools
+12. Category Name: Magical Schools
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Wizard Academy:
@@ -219,7 +219,7 @@ Title: Enchanted University:
         3. Third Image: A dramatic showdown with a rival group threatening the university.
         4. Fourth Image: The university flourishing, with the protagonist graduating with honors.
 ================================================================ X ================================================================
-13. Category: Elemental Guardians
+13. Category Name: Elemental Guardians
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Fire Guardian:
@@ -235,7 +235,7 @@ Title: Water Guardian:
         3. Third Image: A conflict where the protagonist must protect the temple from pollution and dark forces.
         4. Fourth Image: The lake and temple thriving, with the protagonist honored as the new water guardian.
 ================================================================ X ================================================================
-14. Category: Enchanted Objects
+14. Category Name: Enchanted Objects
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Magic Sword:
@@ -251,7 +251,7 @@ Title: Mystic Amulet:
         3. Third Image: A conflict where the protagonist uses the amulet to protect their village from a dark force.
         4. Fourth Image: The amulet radiating with energy, with the protagonist revered as a savior.
 ================================================================ X ================================================================
-15. Category: Royalty and Nobility
+15. Category Name: Royalty and Nobility
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Royal Heir:
@@ -267,7 +267,7 @@ Title: Noble Quest:
         3. Third Image: A climactic battle where the protagonist proves their valor and honor.
         4. Fourth Image: The protagonist returning home as a celebrated hero, with their nobility affirmed.
 ================================================================ X ================================================================
-16. Category: Enchanted Forests
+16. Category Name: Enchanted Forests
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Whispering Woods:
@@ -283,7 +283,7 @@ Title: Mystic Glade:
         3. Third Image: A battle where the protagonist must protect the glade from intruders.
         4. Fourth Image: The glade thriving, with the protagonist honored by its inhabitants.
 ================================================================ X ================================================================
-17. Category: Ancient Prophecies
+17. Category Name: Ancient Prophecies
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Chosen One:
@@ -299,7 +299,7 @@ Title: Sacred Scrolls:
         3. Third Image: A dramatic confrontation where the protagonist and their allies fight to prevent the prophecy’s dark outcome.
         4. Fourth Image: The world safe, with the protagonist honored for their courage and wisdom.
 ================================================================ X ================================================================
-18. Category: Mystical Journeys
+18. Category Name: Mystical Journeys
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Ethereal Path:
@@ -315,7 +315,7 @@ Title: Journey of Light:
         3. Third Image: A conflict where the protagonist must use their newfound knowledge to save a village.
         4. Fourth Image: The village celebrating their savior, with the protagonist continuing their journey.
 ================================================================ X ================================================================
-19. Category: Elemental Wars
+19. Category Name: Elemental Wars
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: War of Fire and Ice:
@@ -331,7 +331,7 @@ Title: Storm and Earth:
         3. Third Image: A dramatic showdown where the protagonist mediates peace between the factions.
         4. Fourth Image: The land flourishing, with the protagonist honored by the elemental lords.
 ================================================================ X ================================================================
-20. Category: Enchanted Castles
+20. Category Name: Enchanted Castles
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Mystic Fortress:
@@ -347,7 +347,7 @@ Title: Castle of Shadows:
         3. Third Image: A conflict where the protagonist must cleanse the castle of its dark curse.
         4. Fourth Image: The castle restored to its former glory, with the protagonist as its new master.
 ================================================================ X ================================================================
-21. Category: Legendary Artifacts
+21. Category Name: Legendary Artifacts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Sword of Legends:
@@ -363,7 +363,7 @@ Title: Shield of Valor:
         3. Third Image: A conflict where the protagonist uses the shield to protect their kingdom from invaders.
         4. Fourth Image: The kingdom safe, with the protagonist revered as a savior.
 ================================================================ X ================================================================
-22. Category: Celestial Realms
+22. Category Name: Celestial Realms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Realm of Stars:
@@ -379,7 +379,7 @@ Title: Moonlit Realm:
         3. Third Image: A battle where the protagonist must protect the realm from dark forces.
         4. Fourth Image: The realm glowing with restored power, with the protagonist honored by lunar beings.
 ================================================================ X ================================================================
-23. Category: Elemental Creatures
+23. Category Name: Elemental Creatures
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Phoenix Rebirth:
@@ -395,7 +395,7 @@ Title: Dragon’s Roar:
         3. Third Image: A battle where the protagonist and dragon must defend their land from invaders.
         4. Fourth Image: The dragon growing powerful, with the protagonist as a legendary dragon rider.
 ================================================================ X ================================================================
-24. Category: Mythical Realms
+24. Category Name: Mythical Realms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Land of Giants:
@@ -411,7 +411,7 @@ Title: Fairy Kingdom:
         3. Third Image: A battle where the protagonist must protect the kingdom from dark forces.
         4. Fourth Image: The kingdom celebrating their victory, with the protagonist honored by the fairies.
 ================================================================ X ================================================================
-25. Category: Legendary Beasts
+25. Category Name: Legendary Beasts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Griffin’s Call:
@@ -427,7 +427,7 @@ Title: Chimera Hunt:
         3. Third Image: A fierce battle where the protagonist must outwit and defeat the chimera.
         4. Fourth Image: The chimera captured or slain, with the protagonist hailed as a great hunter.
 ================================================================ X ================================================================
-26. Category: Enchanted Items
+26. Category Name: Enchanted Items
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Crystal Ball:
@@ -443,7 +443,7 @@ Title: Magic Staff:
         3. Third Image: A battle where the protagonist uses the staff to defeat a dark sorcerer.
         4. Fourth Image: The staff glowing with energy, with the protagonist recognized as a powerful mage.
 ================================================================ X ================================================================
-27. Category: Legendary Heroes
+27. Category Name: Legendary Heroes
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Warrior’s Legacy:
@@ -459,7 +459,7 @@ Title: Champion’s Quest:
         3. Third Image: A confrontation with a powerful enemy guarding the artifact.
         4. Fourth Image: The protagonist returning home with the artifact, celebrated as a hero.
 ================================================================ X ================================================================
-28. Category: Ancient Spirits
+28. Category Name: Ancient Spirits
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Spirit of the Forest:
@@ -475,7 +475,7 @@ Title: Ghostly Guardian:
         3. Third Image: A battle where the protagonist helps the guardian fulfill their duty.
         4. Fourth Image: The guardian finding peace, with the protagonist gaining a powerful ally.
 ================================================================ X ================================================================
-29. Category: Hidden Villages
+29. Category Name: Hidden Villages
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Mystic Village:
@@ -491,7 +491,7 @@ Title: Secret Sanctuary:
         3. Third Image: A battle where the protagonist must defend the sanctuary from dark forces.
         4. Fourth Image: The sanctuary thriving, with the protagonist becoming its protector.
 ================================================================ X ================================================================
-30. Category: Elemental Realms
+30. Category Name: Elemental Realms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Realm of Fire:
@@ -507,7 +507,7 @@ Title: Realm of Water:
         3. Third Image: A conflict where the protagonist must protect the realm from dark forces.
         4. Fourth Image: The realm flourishing, with the protagonist honored as a guardian.
 ================================================================ X ================================================================
-31. Category: Legendary Cities
+31. Category Name: Legendary Cities
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: City of Gold:
@@ -523,7 +523,7 @@ Title: Crystal City:
         3. Third Image: A conflict where the protagonist must protect the city from invaders.
         4. Fourth Image: The city glowing with power, with the protagonist honored as a guardian.
 ================================================================ X ================================================================
-32. Category: Magical Portals
+32. Category Name: Magical Portals
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Portal to Another World:
@@ -539,7 +539,7 @@ Title: Gateway to the Past:
         3. Third Image: A battle where the protagonist must protect the gateway from invaders.
         4. Fourth Image: The gateway secured, with the protagonist honored by both timelines.
 ================================================================ X ================================================================
-33. Category: Enchanted Gardens
+33. Category Name: Enchanted Gardens
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Garden of Wonders:
@@ -555,7 +555,7 @@ Title: Mystic Orchard:
         3. Third Image: A battle where the protagonist must defend the orchard from dark forces.
         4. Fourth Image: The orchard thriving, with the protagonist honored as its protector.
 ================================================================ X ================================================================
-34. Category: Celestial Beings
+34. Category Name: Celestial Beings
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Star Guardians:
@@ -571,7 +571,7 @@ Title: Moonlit Path:
         3. Third Image: A conflict where the protagonist must protect the moon from dark forces.
         4. Fourth Image: The moon glowing with restored power, with the protagonist honored by lunar beings.
 ================================================================ X ================================================================
-35. Category: Elemental Guardians
+35. Category Name: Elemental Guardians
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Fire Guardian:
@@ -587,7 +587,7 @@ Title: Water Guardian:
         3. Third Image: A conflict where the protagonist must protect the temple from pollution and dark forces.
         4. Fourth Image: The lake and temple thriving, with the protagonist honored as the new water guardian.
 ================================================================ X ================================================================
-36. Category: Mythical Creatures
+36. Category Name: Mythical Creatures
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Unicorn Valley:
@@ -603,7 +603,7 @@ Title: Phoenix Rebirth:
         3. Third Image: A battle against dark forces trying to capture the phoenix, showcasing intense action.
         4. Fourth Image: The phoenix flying free, with the protagonist basking in its magical aura.
 ================================================================ X ================================================================
-37. Category: Dark Magic
+37. Category Name: Dark Magic
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Cursed Forest:
@@ -619,7 +619,7 @@ Title: Haunted Manor:
         3. Third Image: A battle against the manor’s dark lord, showcasing intense ghostly combat.
         4. Fourth Image: The spirits finding peace, with the protagonist emerging as the manor’s new guardian.
 ================================================================ X ================================================================
-38. Category: Elemental Forces
+38. Category Name: Elemental Forces
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Fire and Ice:
@@ -635,7 +635,7 @@ Title: Storm Chasers:
         3. Third Image: A dramatic showdown with the Storm King, showcasing intense elemental combat.
         4. Fourth Image: The skies clearing, with the protagonist hailed as a hero.
 ================================================================ X ================================================================
-39. Category: Ancient Ruins
+39. Category Name: Ancient Ruins
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Lost City:
@@ -651,7 +651,7 @@ Title: Temple of the Sun:
         3. Third Image: A battle against a powerful guardian protecting the temple’s sacred relic.
         4. Fourth Image: The temple glowing with restored power, with the protagonist honored by ancient spirits.
 ================================================================ X ================================================================
-40. Category: Underwater Realms
+40. Category Name: Underwater Realms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Mermaid Kingdom:
@@ -667,7 +667,7 @@ Title: Sunken Treasure:
         3. Third Image: A battle against sea monsters guarding the treasure, showcasing intense action.
         4. Fourth Image: The protagonist emerging with the treasure, with the underwater realm at peace.
 ================================================================ X ================================================================
-41. Category: Time Travel
+41. Category Name: Time Travel
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Temporal Quest:
@@ -683,7 +683,7 @@ Title: Eternal Moment:
         3. Third Image: A dramatic choice where the protagonist must decide whether to use or relinquish their power.
         4. Fourth Image: The protagonist making peace with their decision, with time flowing naturally again.
 ================================================================ X ================================================================
-42. Category: Celestial Beings
+42. Category Name: Celestial Beings
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Star Guardians:
@@ -699,7 +699,7 @@ Title: Moonlit Path:
         3. Third Image: A conflict where the protagonist must protect the moon from dark forces.
         4. Fourth Image: The moon glowing with restored power, with the protagonist honored by lunar beings.
 ================================================================ X ================================================================
-43. Category: Magical Schools
+43. Category Name: Magical Schools
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Wizard Academy:
@@ -715,7 +715,7 @@ Title: Enchanted University:
         3. Third Image: A dramatic showdown with a rival group threatening the university.
         4. Fourth Image: The university flourishing, with the protagonist graduating with honors.
 ================================================================ X ================================================================
-44. Category: Elemental Guardians
+44. Category Name: Elemental Guardians
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Fire Guardian:
@@ -731,7 +731,7 @@ Title: Water Guardian:
         3. Third Image: A conflict where the protagonist must protect the temple from pollution and dark forces.
         4. Fourth Image: The lake and temple thriving, with the protagonist honored as the new water guardian.
 ================================================================ X ================================================================
-45. Category: Enchanted Objects
+45. Category Name: Enchanted Objects
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Magic Sword:
@@ -747,7 +747,7 @@ Title: Mystic Amulet:
         3. Third Image: A conflict where the protagonist uses the amulet to protect their village from a dark force.
         4. Fourth Image: The amulet radiating with energy, with the protagonist revered as a savior.
 ================================================================ X ================================================================
-46. Category: Royalty and Nobility
+46. Category Name: Royalty and Nobility
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Royal Heir:
@@ -763,7 +763,7 @@ Title: Noble Quest:
         3. Third Image: A climactic battle where the protagonist proves their valor and honor.
         4. Fourth Image: The protagonist returning home as a celebrated hero, with their nobility affirmed.
 ================================================================ X ================================================================
-47. Category: Enchanted Forests
+47. Category Name: Enchanted Forests
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Whispering Woods:
@@ -779,7 +779,7 @@ Title: Mystic Glade:
         3. Third Image: A battle where the protagonist must protect the glade from intruders.
         4. Fourth Image: The glade thriving, with the protagonist honored by its inhabitants.
 ================================================================ X ================================================================
-48. Category: Ancient Prophecies
+48. Category Name: Ancient Prophecies
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Chosen One:
@@ -795,7 +795,7 @@ Title: Sacred Scrolls:
         3. Third Image: A dramatic confrontation where the protagonist and their allies fight to prevent the prophecy’s dark outcome.
         4. Fourth Image: The world safe, with the protagonist honored for their courage and wisdom.
 ================================================================ X ================================================================
-49. Category: Mystical Journeys
+49. Category Name: Mystical Journeys
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: Ethereal Path:
@@ -811,7 +811,7 @@ Title: Journey of Light:
         3. Third Image: A conflict where the protagonist must use their newfound knowledge to save a village.
         4. Fourth Image: The village celebrating their savior, with the protagonist continuing their journey.
 ================================================================ X ================================================================
-50. Category: Elemental Wars
+50. Category Name: Elemental Wars
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Fantasy' Art Style.
 Title: War of Fire and Ice:

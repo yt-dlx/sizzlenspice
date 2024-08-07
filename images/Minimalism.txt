@@ -28,600 +28,800 @@ Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
 1. Category Name: Nature
-    1. Serene Forest:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Serene Forest:
         1. First Image: A single tree standing tall in a vast, open meadow under a clear sky.
         2. Second Image: The tree in the evening light, casting long shadows.
         3. Third Image: The tree at night, illuminated by moonlight.
         4. Fourth Image: The tree in early morning fog, barely visible.
-    2. Calm Ocean:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Calm Ocean:
         1. First Image: A small boat floating on an endless, tranquil sea.
         2. Second Image: The boat with a single, seagull flying overhead.
         3. Third Image: The boat during sunset, with warm hues reflecting on the water.
         4. Fourth Image: The boat at night, under a starry sky.
 ================================================================ X ================================================================
 2. Category Name: Urban
-    1. Cityscape:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Cityscape:
         1. First Image: A simple skyline with a few iconic buildings silhouetted against a plain background.
         2. Second Image: The skyline at dusk, with lights starting to flicker on.
         3. Third Image: The skyline at night, with a few lit windows.
         4. Fourth Image: The skyline at dawn, with soft light and long shadows.
-    2. Quiet Street:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Quiet Street:
         1. First Image: An empty street with just one bench and a single street lamp.
         2. Second Image: The street lamp casting light on the bench as night falls.
         3. Third Image: The street in the early morning, with the bench casting a long shadow.
         4. Fourth Image: The street under a light drizzle, with the bench and lamp creating reflections on the wet pavement.
 ================================================================ X ================================================================
 3. Category Name: Abstract
-    1. Geometric Shapes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Geometric Shapes:
         1. First Image: A single black circle in the center of a white background.
         2. Second Image: The circle transforming into a series of overlapping circles.
         3. Third Image: The circles morphing into a pattern of concentric rings.
         4. Fourth Image: The rings breaking apart into scattered dots.
-    2. Lines and Angles:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Lines and Angles:
         1. First Image: A simple grid of black lines on a white background.
         2. Second Image: The lines shifting to form a single triangle in the center.
         3. Third Image: The triangle transforming into a complex pattern of interlocking shapes.
         4. Fourth Image: The shapes dissolving back into a random array of lines.
 ================================================================ X ================================================================
 4. Category Name: Nature
-    1. Mountain Range:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Mountain Range:
         1. First Image: A single, minimalist silhouette of a mountain against a clear sky.
         2. Second Image: The mountain in twilight, with a gradient of colors in the sky.
         3. Third Image: The mountain in moonlight, with stark contrasts.
         4. Fourth Image: The mountain in early morning light, with soft shadows.
-    2. Desert Dunes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Desert Dunes:
         1. First Image: A single sand dune against a clear sky.
         2. Second Image: The dune casting a long shadow in the setting sun.
         3. Third Image: The dune under a star-filled night sky.
         4. Fourth Image: The dune at dawn, with gentle light and soft shadows.
 ================================================================ X ================================================================
 5. Category Name: Architecture
-    1. Minimalist House:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist House:
         1. First Image: A simple white cube house with a single large window.
         2. Second Image: The house at dusk, with warm light spilling from the window.
         3. Third Image: The house at night, with the window illuminating the surroundings.
         4. Fourth Image: The house in the early morning, casting a long shadow.
-    2. Modern Bridge:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Modern Bridge:
         1. First Image: A sleek, minimalist bridge spanning across a calm river.
         2. Second Image: The bridge at sunset, reflecting warm colors on the water.
         3. Third Image: The bridge under the night sky, with subtle lighting.
         4. Fourth Image: The bridge at dawn, with soft light highlighting its structure.
 ================================================================ X ================================================================
 6. Category Name: Minimalist Landscapes
-    1. Open Field:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Open Field:
         1. First Image: A vast, empty field with a single tree in the distance.
         2. Second Image: The field at sunset, with the tree casting a long shadow.
         3. Third Image: The field under a clear, starry night sky.
         4. Fourth Image: The field in early morning fog, with the tree barely visible.
-    2. Lonely Road:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Lonely Road:
         1. First Image: A long, straight road disappearing into the horizon.
         2. Second Image: The road at dusk, with soft colors in the sky.
         3. Third Image: The road under a full moon, casting eerie shadows.
         4. Fourth Image: The road at dawn, with gentle light illuminating the path.
 ================================================================ X ================================================================
 7. Category Name: Objects
-    1. Single Chair:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Chair:
         1. First Image: A simple wooden chair in the center of an empty room.
         2. Second Image: The chair casting a long shadow as the sun sets.
         3. Third Image: The chair under a single overhead light at night.
         4. Fourth Image: The chair in early morning light, with soft shadows.
-    2. Old Lamp:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Old Lamp:
         1. First Image: An old-fashioned lamp on a small table in an empty room.
         2. Second Image: The lamp turned on, casting a warm glow.
         3. Third Image: The lamp at night, illuminating the corner of the room.
         4. Fourth Image: The lamp at dawn, with gentle light filling the room.
 ================================================================ X ================================================================
 8. Category Name: Minimalist Icons
-    1. Single Feather:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Feather:
         1. First Image: A delicate feather lying on a plain surface.
         2. Second Image: The feather with a gentle breeze, slightly moving.
         3. Third Image: The feather under soft, diffused light.
         4. Fourth Image: The feather casting a long shadow in the setting sun.
-    2. Empty Frame:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Empty Frame:
         1. First Image: A simple, empty frame hanging on a blank wall.
         2. Second Image: The frame casting a shadow as the sun sets.
         3. Third Image: The frame under a single spotlight at night.
         4. Fourth Image: The frame in early morning light, with soft shadows.
 ================================================================ X ================================================================
 9. Category Name: Minimalist Animals
-    1. Solitary Bird:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Solitary Bird:
         1. First Image: A single bird perched on a wire against a clear sky.
         2. Second Image: The bird silhouetted against the setting sun.
         3. Third Image: The bird flying across a full moon.
         4. Fourth Image: The bird in early morning light, taking flight.
-    2. Minimalist Cat:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Cat:
         1. First Image: A simple outline of a cat sitting on a windowsill.
         2. Second Image: The cat’s silhouette against a sunset.
         3. Third Image: The cat under a single overhead light at night.
         4. Fourth Image: The cat in early morning light, stretching.
 ================================================================ X ================================================================
 10. Category Name: Minimalist Seasons
-    1. Winter:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Winter:
         1. First Image: A single snowflake against a plain background.
         2. Second Image: A barren tree with snow-covered branches.
         3. Third Image: A simple snow-covered field under a full moon.
         4. Fourth Image: A lone cabin with smoke rising, surrounded by snow.
-    2. Summer:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Summer:
         1. First Image: A single sunbeam breaking through a cloud.
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
 ================================================================ X ================================================================
 11. Category Name: Minimalist Flora
-    1. Single Flower:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Flower:
         1. First Image: A single daisy in a small pot on a plain surface.
         2. Second Image: The daisy in soft, evening light.
         3. Third Image: The daisy under a full moon, casting delicate shadows.
         4. Fourth Image: The daisy in early morning light, with gentle shadows.
-    2. Leaf:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Leaf:
         1. First Image: A single leaf on a plain white background.
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
 ================================================================ X ================================================================
 12. Category Name: Minimalist Adventures
-    1. Lonely Hiker:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Lonely Hiker:
         1. First Image: A lone hiker standing on a vast, empty trail.
         2. Second Image: The hiker silhouetted against a sunset.
         3. Third Image: The hiker under a starry night sky.
         4. Fourth Image: The hiker at dawn, with soft light illuminating the path.
-    2. Sailboat:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Sailboat:
         1. First Image: A single sailboat on a calm, open sea.
         2. Second Image: The sailboat in the evening, with warm light reflecting on the water.
         3. Third Image: The sailboat under a full moon.
         4. Fourth Image: The sailboat at dawn, with gentle light and soft shadows.
 ================================================================ X ================================================================
 13. Category Name: Minimalist Expressions
-    1. Quiet Moment:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Quiet Moment:
         1. First Image: A single figure sitting alone on a bench.
         2. Second Image: The figure at sunset, with long shadows.
         3. Third Image: The figure under a single overhead light at night.
         4. Fourth Image: The figure at dawn, with soft light and gentle shadows.
-    2. Reflection:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Reflection:
         1. First Image: A solitary figure standing by a calm lake, reflecting.
         2. Second Image: The figure at sunset, with warm hues reflecting on the water.
         3. Third Image: The figure under a starry sky, with clear reflections in the water.
         4. Fourth Image: The figure at dawn, with soft light illuminating the scene.
 ================================================================ X ================================================================
 14. Category Name: Minimalist Tools
-    1. Single Hammer:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Hammer:
         1. First Image: A single hammer on a plain surface.
         2. Second Image: The hammer casting a shadow as the sun sets.
         3. Third Image: The hammer under a single overhead light at night.
         4. Fourth Image: The hammer in early morning light, with soft shadows.
-    2. Old Scissors:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Old Scissors:
         1. First Image: A pair of old scissors on a plain background.
         2. Second Image: The scissors casting a long shadow as the sun sets.
         3. Third Image: The scissors under a single overhead light at night.
         4. Fourth Image: The scissors in early morning light, with gentle shadows.
 ================================================================ X ================================================================
 15. Category Name: Minimalist Symbols
-    1. Single Heart:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Heart:
         1. First Image: A simple heart shape on a plain background.
         2. Second Image: The heart casting a shadow as the sun sets.
         3. Third Image: The heart under a single spotlight at night.
         4. Fourth Image: The heart in early morning light, with soft shadows.
-    2. Peace Symbol:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Peace Symbol:
         1. First Image: A minimalist peace symbol on a plain background.
         2. Second Image: The symbol casting a shadow as the sun sets.
         3. Third Image: The symbol under a single spotlight at night.
         4. Fourth Image: The symbol in early morning light, with soft shadows.
 ================================================================ X ================================================================
 16. Category Name: Minimalist Travel
-    1. Single Suitcase:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
         2. Second Image: The suitcase casting a long shadow as the sun sets.
         3. Third Image: The suitcase under a single overhead light at night.
         4. Fourth Image: The suitcase in early morning light, with soft shadows.
-    2. Empty Train Station:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Empty Train Station:
         1. First Image: An empty train station with a single bench.
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
 ================================================================ X ================================================================
 17. Category Name: Minimalist Memories
-    1. Old Photograph:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Old Photograph:
         1. First Image: A single old photograph lying on a plain surface.
         2. Second Image: The photograph casting a shadow as the sun sets.
         3. Third Image: The photograph under a single spotlight at night.
         4. Fourth Image: The photograph in early morning light, with soft shadows.
-    2. Vintage Key:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Vintage Key:
         1. First Image: A single vintage key on a plain background.
         2. Second Image: The key casting a long shadow as the sun sets.
         3. Third Image: The key under a single overhead light at night.
         4. Fourth Image: The key in early morning light, with gentle shadows.
 ================================================================ X ================================================================
 18. Category Name: Minimalist Hobbies
-    1. Single Book:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Book:
         1. First Image: A single book lying on a plain surface.
         2. Second Image: The book casting a shadow as the sun sets.
         3. Third Image: The book under a single overhead light at night.
         4. Fourth Image: The book in early morning light, with soft shadows.
-    2. Old Guitar:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Old Guitar:
         1. First Image: An old guitar standing alone against a plain background.
         2. Second Image: The guitar casting a long shadow as the sun sets.
         3. Third Image: The guitar under a single spotlight at night.
         4. Fourth Image: The guitar in early morning light, with gentle shadows.
 ================================================================ X ================================================================
 19. Category Name: Minimalist Love
-    1. Holding Hands:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Holding Hands:
         1. First Image: Two hands gently holding each other against a plain background.
         2. Second Image: The hands casting a shadow as the sun sets.
         3. Third Image: The hands under a single overhead light at night.
         4. Fourth Image: The hands in early morning light, with soft shadows.
-    2. Simple Hug:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Hug:
         1. First Image: A silhouette of two people hugging.
         2. Second Image: The hug casting a long shadow as the sun sets.
         3. Third Image: The hug under a single spotlight at night.
         4. Fourth Image: The hug in early morning light, with gentle shadows.
 ================================================================ X ================================================================
 20. Category Name: Minimalist Dreams
-    1. Simple Bed:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Bed:
         1. First Image: A plain, made bed in an empty room.
         2. Second Image: The bed casting a long shadow as the sun sets.
         3. Third Image: The bed under a single overhead light at night.
         4. Fourth Image: The bed in early morning light, with soft shadows.
-    2. Single Star:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Star:
         1. First Image: A single star shining brightly in a dark sky.
         2. Second Image: The star casting a soft glow on a calm sea.
         3. Third Image: The star under a clear, moonlit night.
         4. Fourth Image: The star fading as dawn approaches, with soft morning light.
 ================================================================ X ================================================================
 21. Category Name: Minimalist Flora
-    1. Single Flower:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Flower:
         1. First Image: A single daisy in a small pot on a plain surface.
         2. Second Image: The daisy in soft, evening light.
         3. Third Image: The daisy under a full moon, casting delicate shadows.
         4. Fourth Image: The daisy in early morning light, with gentle shadows.
-    2. Leaf:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Leaf:
         1. First Image: A single leaf on a plain white background.
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
 ================================================================ X ================================================================
 22. Category Name: Minimalist Animals
-    1. Solitary Bird:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Solitary Bird:
         1. First Image: A single bird perched on a wire against a clear sky.
         2. Second Image: The bird silhouetted against the setting sun.
         3. Third Image: The bird flying across a full moon.
         4. Fourth Image: The bird in early morning light, taking flight.
-    2. Minimalist Cat:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Cat:
         1. First Image: A simple outline of a cat sitting on a windowsill.
         2. Second Image: The cat’s silhouette against a sunset.
         3. Third Image: The cat under a single overhead light at night.
         4. Fourth Image: The cat in early morning light, stretching.
 ================================================================ X ================================================================
 23. Category Name: Minimalist Seasons
-    1. Winter:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Winter:
         1. First Image: A single snowflake against a plain background.
         2. Second Image: A barren tree with snow-covered branches.
         3. Third Image: A simple snow-covered field under a full moon.
         4. Fourth Image: A lone cabin with smoke rising, surrounded by snow.
-    2. Summer:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Summer:
         1. First Image: A single sunbeam breaking through a cloud.
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
 ================================================================ X ================================================================
 24. Category Name: Minimalist Expressions
-    1. Quiet Moment:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Quiet Moment:
         1. First Image: A single figure sitting alone on a bench.
         2. Second Image: The figure at sunset, with long shadows.
         3. Third Image: The figure under a single overhead light at night.
         4. Fourth Image: The figure at dawn, with soft light and gentle shadows.
-    2. Reflection:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Reflection:
         1. First Image: A solitary figure standing by a calm lake, reflecting.
         2. Second Image: The figure at sunset, with warm hues reflecting on the water.
         3. Third Image: The figure under a starry sky, with clear reflections in the water.
         4. Fourth Image: The figure at dawn, with soft light illuminating the scene.
 ================================================================ X ================================================================
 25. Category Name: Minimalist Art
-    1. Simple Brushstrokes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Brushstrokes:
         1. First Image: A single, bold brushstroke on a plain canvas.
         2. Second Image: The brushstroke expanding into a pattern of simple lines.
         3. Third Image: The lines forming a minimalist landscape.
         4. Fourth Image: The landscape dissolving back into a single brushstroke.
-    2. Geometric Shapes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Geometric Shapes:
         1. First Image: A single black square in the center of a white background.
         2. Second Image: The square transforming into a series of overlapping shapes.
         3. Third Image: The shapes morphing into a pattern of concentric circles.
         4. Fourth Image: The circles breaking apart into scattered dots.
 ================================================================ X ================================================================
 26. Category Name: Minimalist Patterns
-    1. Simple Stripes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Stripes:
         1. First Image: A single stripe across a plain background.
         2. Second Image: The stripe multiplying into a pattern of parallel lines.
         3. Third Image: The lines forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single stripe.
-    2. Dot Patterns:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Dot Patterns:
         1. First Image: A single dot on a plain background.
         2. Second Image: The dot multiplying into a pattern of dots.
         3. Third Image: The dots forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single dot.
 ================================================================ X ================================================================
 27. Category Name: Minimalist Travel
-    1. Single Suitcase:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
         2. Second Image: The suitcase casting a long shadow as the sun sets.
         3. Third Image: The suitcase under a single overhead light at night.
         4. Fourth Image: The suitcase in early morning light, with soft shadows.
-    2. Empty Train Station:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Empty Train Station:
         1. First Image: An empty train station with a single bench.
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
 ================================================================ X ================================================================
 28. Category Name: Minimalist Sports
-    1. Single Tennis Ball:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Tennis Ball:
         1. First Image: A single tennis ball on a plain surface.
         2. Second Image: The tennis ball casting a shadow as the sun sets.
         3. Third Image: The tennis ball under a single overhead light at night.
         4. Fourth Image: The tennis ball in early morning light, with soft shadows.
-    2. Minimalist Basketball:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Basketball:
         1. First Image: A single basketball on a plain surface.
         2. Second Image: The basketball casting a shadow as the sun sets.
         3. Third Image: The basketball under a single overhead light at night.
         4. Fourth Image: The basketball in early morning light, with soft shadows.
 ================================================================ X ================================================================
 29. Category Name: Minimalist Music
-    1. Single Note:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Note:
         1. First Image: A single musical note on a plain background.
         2. Second Image: The note casting a shadow as the sun sets.
         3. Third Image: The note under a single spotlight at night.
         4. Fourth Image: The note in early morning light, with soft shadows.
-    2. Simple Guitar:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Guitar:
         1. First Image: A minimalist outline of a guitar on a plain background.
         2. Second Image: The guitar casting a shadow as the sun sets.
         3. Third Image: The guitar under a single overhead light at night.
         4. Fourth Image: The guitar in early morning light, with soft shadows.
 ================================================================ X ================================================================
 30. Category Name: Minimalist Nature
-    1. Single Tree:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Tree:
         1. First Image: A single tree standing alone in a vast field.
         2. Second Image: The tree casting a long shadow as the sun sets.
         3. Third Image: The tree under a starry sky.
         4. Fourth Image: The tree in early morning light, with soft shadows.
-    2. Single Leaf:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Leaf:
         1. First Image: A single leaf on a plain white background.
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
 ================================================================ X ================================================================
 31. Category Name: Minimalist Beverages
-    1. Single Coffee Cup:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Coffee Cup:
         1. First Image: A single coffee cup on a plain surface.
         2. Second Image: The coffee cup casting a shadow as the sun sets.
         3. Third Image: The coffee cup under a single overhead light at night.
         4. Fourth Image: The coffee cup in early morning light, with soft shadows.
-    2. Minimalist Wine Glass:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Wine Glass:
         1. First Image: A single wine glass on a plain surface.
         2. Second Image: The wine glass casting a shadow as the sun sets.
         3. Third Image: The wine glass under a single spotlight at night.
         4. Fourth Image: The wine glass in early morning light, with soft shadows.
 ================================================================ X ================================================================
 32. Category Name: Minimalist Cooking
-    1. Single Knife:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Knife:
         1. First Image: A single knife on a plain surface.
         2. Second Image: The knife casting a shadow as the sun sets.
         3. Third Image: The knife under a single overhead light at night.
         4. Fourth Image: The knife in early morning light, with soft shadows.
-    2. Minimalist Plate:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Plate:
         1. First Image: A single empty plate on a plain surface.
         2. Second Image: The plate casting a shadow as the sun sets.
         3. Third Image: The plate under a single spotlight at night.
         4. Fourth Image: The plate in early morning light, with soft shadows.
 ================================================================ X ================================================================
 33. Category Name: Minimalist Communication
-    1. Single Envelope:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Envelope:
         1. First Image: A single envelope on a plain surface.
         2. Second Image: The envelope casting a shadow as the sun sets.
         3. Third Image: The envelope under a single overhead light at night.
         4. Fourth Image: The envelope in early morning light, with soft shadows.
-    2. Minimalist Phone:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Phone:
         1. First Image: A single phone on a plain surface.
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
 ================================================================ X ================================================================
 34. Category Name: Minimalist Design
-    1. Single Chair:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Chair:
         1. First Image: A single chair on a plain surface.
         2. Second Image: The chair casting a shadow as the sun sets.
         3. Third Image: The chair under a single overhead light at night.
         4. Fourth Image: The chair in early morning light, with soft shadows.
-    2. Minimalist Table:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Table:
         1. First Image: A single table on a plain surface.
         2. Second Image: The table casting a shadow as the sun sets.
         3. Third Image: The table under a single spotlight at night.
         4. Fourth Image: The table in early morning light, with soft shadows.
 ================================================================ X ================================================================
 35. Category Name: Minimalist Clothing
-    1. Single Hat:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Hat:
         1. First Image: A single hat on a plain surface.
         2. Second Image: The hat casting a shadow as the sun sets.
         3. Third Image: The hat under a single overhead light at night.
         4. Fourth Image: The hat in early morning light, with soft shadows.
-    2. Minimalist Jacket:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Jacket:
         1. First Image: A single jacket on a plain surface.
         2. Second Image: The jacket casting a shadow as the sun sets.
         3. Third Image: The jacket under a single spotlight at night.
         4. Fourth Image: The jacket in early morning light, with soft shadows.
 ================================================================ X ================================================================
 36. Category Name: Minimalist Symbols
-    1. Single Heart:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Heart:
         1. First Image: A simple heart shape on a plain background.
         2. Second Image: The heart casting a shadow as the sun sets.
         3. Third Image: The heart under a single spotlight at night.
         4. Fourth Image: The heart in early morning light, with soft shadows.
-    2. Peace Symbol:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Peace Symbol:
         1. First Image: A minimalist peace symbol on a plain background.
         2. Second Image: The symbol casting a shadow as the sun sets.
         3. Third Image: The symbol under a single spotlight at night.
         4. Fourth Image: The symbol in early morning light, with soft shadows.
 ================================================================ X ================================================================
 37. Category Name: Minimalist Vehicles
-    1. Single Bicycle:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Bicycle:
         1. First Image: A single bicycle on a plain surface.
         2. Second Image: The bicycle casting a shadow as the sun sets.
         3. Third Image: The bicycle under a single overhead light at night.
         4. Fourth Image: The bicycle in early morning light, with soft shadows.
-    2. Minimalist Car:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Car:
         1. First Image: A single car on a plain surface.
         2. Second Image: The car casting a shadow as the sun sets.
         3. Third Image: The car under a single spotlight at night.
         4. Fourth Image: The car in early morning light, with soft shadows.
 ================================================================ X ================================================================
 38. Category Name: Minimalist Accessories
-    1. Single Watch:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Watch:
         1. First Image: A single watch on a plain surface.
         2. Second Image: The watch casting a shadow as the sun sets.
         3. Third Image: The watch under a single overhead light at night.
         4. Fourth Image: The watch in early morning light, with soft shadows.
-    2. Minimalist Ring:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Ring:
         1. First Image: A single ring on a plain surface.
         2. Second Image: The ring casting a shadow as the sun sets.
         3. Third Image: The ring under a single spotlight at night.
         4. Fourth Image: The ring in early morning light, with soft shadows.
 ================================================================ X ================================================================
 39. Category Name: Minimalist Writing
-    1. Single Pen:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Pen:
         1. First Image: A single pen on a plain surface.
         2. Second Image: The pen casting a shadow as the sun sets.
         3. Third Image: The pen under a single overhead light at night.
         4. Fourth Image: The pen in early morning light, with soft shadows.
-    2. Minimalist Notebook:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Notebook:
         1. First Image: A single notebook on a plain surface.
         2. Second Image: The notebook casting a shadow as the sun sets.
         3. Third Image: The notebook under a single spotlight at night.
         4. Fourth Image: The notebook in early morning light, with soft shadows.
 ================================================================ X ================================================================
 40. Category Name: Minimalist Electronics
-    1. Single Laptop:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Laptop:
         1. First Image: A single laptop on a plain surface.
         2. Second Image: The laptop casting a shadow as the sun sets.
         3. Third Image: The laptop under a single overhead light at night.
         4. Fourth Image: The laptop in early morning light, with soft shadows.
-    2. Minimalist Phone:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Phone:
         1. First Image: A single phone on a plain surface.
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
 ================================================================ X ================================================================
 41. Category Name: Minimalist Workspace
-    1. Single Desk:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Desk:
         1. First Image: A single desk on a plain surface.
         2. Second Image: The desk casting a shadow as the sun sets.
         3. Third Image: The desk under a single overhead light at night.
         4. Fourth Image: The desk in early morning light, with soft shadows.
-    2. Minimalist Chair:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Chair:
         1. First Image: A single chair on a plain surface.
         2. Second Image: The chair casting a shadow as the sun sets.
         3. Third Image: The chair under a single spotlight at night.
         4. Fourth Image: The chair in early morning light, with soft shadows.
 ================================================================ X ================================================================
 42. Category Name: Minimalist Storage
-    1. Single Box:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Box:
         1. First Image: A single box on a plain surface.
         2. Second Image: The box casting a shadow as the sun sets.
         3. Third Image: The box under a single overhead light at night.
         4. Fourth Image: The box in early morning light, with soft shadows.
-    2. Minimalist Shelf:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Shelf:
         1. First Image: A single shelf on a plain surface.
         2. Second Image: The shelf casting a shadow as the sun sets.
         3. Third Image: The shelf under a single spotlight at night.
         4. Fourth Image: The shelf in early morning light, with soft shadows.
 ================================================================ X ================================================================
 43. Category Name: Minimalist Decor
-    1. Single Vase:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Vase:
         1. First Image: A single vase on a plain surface.
         2. Second Image: The vase casting a shadow as the sun sets.
         3. Third Image: The vase under a single overhead light at night.
         4. Fourth Image: The vase in early morning light, with soft shadows.
-    2. Minimalist Lamp:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Lamp:
         1. First Image: A single lamp on a plain surface.
         2. Second Image: The lamp casting a shadow as the sun sets.
         3. Third Image: The lamp under a single spotlight at night.
         4. Fourth Image: The lamp in early morning light, with soft shadows.
 ================================================================ X ================================================================
 44. Category Name: Minimalist Gardens
-    1. Single Plant:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Plant:
         1. First Image: A single plant on a plain surface.
         2. Second Image: The plant casting a shadow as the sun sets.
         3. Third Image: The plant under a single overhead light at night.
         4. Fourth Image: The plant in early morning light, with soft shadows.
-    2. Minimalist Bonsai:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Bonsai:
         1. First Image: A single bonsai tree on a plain surface.
         2. Second Image: The bonsai casting a shadow as the sun sets.
         3. Third Image: The bonsai under a single spotlight at night.
         4. Fourth Image: The bonsai in early morning light, with soft shadows.
 ================================================================ X ================================================================
 45. Category Name: Minimalist Travel
-    1. Single Suitcase:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
         2. Second Image: The suitcase casting a long shadow as the sun sets.
         3. Third Image: The suitcase under a single overhead light at night.
         4. Fourth Image: The suitcase in early morning light, with soft shadows.
-    2. Empty Train Station:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Empty Train Station:
         1. First Image: An empty train station with a single bench.
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
 ================================================================ X ================================================================
 46. Category Name: Minimalist Communication
-    1. Single Envelope:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Envelope:
         1. First Image: A single envelope on a plain surface.
         2. Second Image: The envelope casting a shadow as the sun sets.
         3. Third Image: The envelope under a single overhead light at night.
         4. Fourth Image: The envelope in early morning light, with soft shadows.
-    2. Minimalist Phone:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Minimalist Phone:
         1. First Image: A single phone on a plain surface.
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
 ================================================================ X ================================================================
 47. Category Name: Minimalist Tools
-    1. Single Hammer:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Hammer:
         1. First Image: A single hammer on a plain surface.
         2. Second Image: The hammer casting a shadow as the sun sets.
         3. Third Image: The hammer under a single overhead light at night.
         4. Fourth Image: The hammer in early morning light, with soft shadows.
-    2. Old Scissors:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Old Scissors:
         1. First Image: A pair of old scissors on a plain background.
         2. Second Image: The scissors casting a long shadow as the sun sets.
         3. Third Image: The scissors under a single overhead light at night.
         4. Fourth Image: The scissors in early morning light, with gentle shadows.
 ================================================================ X ================================================================
 48. Category Name: Minimalist Patterns
-    1. Simple Stripes:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Stripes:
         1. First Image: A single stripe across a plain background.
         2. Second Image: The stripe multiplying into a pattern of parallel lines.
         3. Third Image: The lines forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single stripe.
-    2. Dot Patterns:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Dot Patterns:
         1. First Image: A single dot on a plain background.
         2. Second Image: The dot multiplying into a pattern of dots.
         3. Third Image: The dots forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single dot.
 ================================================================ X ================================================================
 49. Category Name: Minimalist Seasons
-    1. Winter:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Winter:
         1. First Image: A single snowflake against a plain background.
         2. Second Image: A barren tree with snow-covered branches.
         3. Third Image: A simple snow-covered field under a full moon.
         4. Fourth Image: A lone cabin with smoke rising, surrounded by snow.
-    2. Summer:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Summer:
         1. First Image: A single sunbeam breaking through a cloud.
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
 ================================================================ X ================================================================
 50. Category Name: Minimalist Dreams
-    1. Simple Bed:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Simple Bed:
         1. First Image: A plain, made bed in an empty room.
         2. Second Image: The bed casting a long shadow as the sun sets.
         3. Third Image: The bed under a single overhead light at night.
         4. Fourth Image: The bed in early morning light, with soft shadows.
-    2. Single Star:
+
+Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Minimalism' Art Style.
+Title: Single Star:
         1. First Image: A single star shining brightly in a dark sky.
         2. Second Image: The star casting a soft glow on a calm sea.
         3. Third Image: The star under a clear, moonlit night.

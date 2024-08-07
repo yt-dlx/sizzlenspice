@@ -27,7 +27,7 @@ Give Me 50 Categories With 'Anime' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. Category: Shonen Adventure
+1. Category Name: Shonen Adventure
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Hero's Journey:
@@ -43,7 +43,7 @@ Title: Battle Arena:
     3. Third Image: Transition From The Second Image, One combatant begins to overpower the other, with dramatic visual effects.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The victorious combatant raises their weapon, with the crowd cheering wildly.
 ================================================================ X ================================================================
-2. Category: Shojo Romance
+2. Category Name: Shojo Romance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Star-Crossed Lovers:
@@ -59,7 +59,7 @@ Title: Secret Crush:
     3. Third Image: Transition From The Second Image, The boy finds the letter and reads it, smiling warmly.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The boy approaches the girl, and they share a sweet, awkward moment together.
 ================================================================ X ================================================================
-3. Category: Fantasy Worlds
+3. Category Name: Fantasy Worlds
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Magic Academy:
@@ -75,7 +75,7 @@ Title: Dragon Riders:
     3. Third Image: Transition From The Second Image, The protagonist and dragon battling a dark, menacing enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and dragon standing victorious on a mountain peak, overlooking their kingdom.
 ================================================================ X ================================================================
-4. Category: Sci-Fi Adventure
+4. Category Name: Sci-Fi Adventure
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Space Explorers:
@@ -91,7 +91,7 @@ Title: Cyber City:
     3. Third Image: Transition From The Second Image, An intense chase scene through the city's rooftops and alleyways.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing on a skyscraper, looking out at the city they've saved.
 ================================================================ X ================================================================
-5. Category: Historical Drama
+5. Category Name: Historical Drama
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Samurai Honor:
@@ -107,7 +107,7 @@ Title: Royal Court:
     3. Third Image: Transition From The Second Image, A dramatic confrontation with a rival noble, showcasing cunning and strategy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist being crowned, having outmaneuvered their rivals.
 ================================================================ X ================================================================
-6. Category: Supernatural Tales
+6. Category Name: Supernatural Tales
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Ghost Whisperer:
@@ -123,7 +123,7 @@ Title: Demon Slayer:
     3. Third Image: Transition From The Second Image, The protagonist struggling, but finding inner strength to overcome the demon.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with the demon vanquished and peace restored.
 ================================================================ X ================================================================
-7. Category: Slice of Life
+7. Category Name: Slice of Life
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: School Days:
@@ -137,7 +137,7 @@ Title: School Days:
     3. Third Image: Transition From The Second Image, A tense moment during a family disagreement, showing strong emotions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The family reconciling and sharing a warm group hug.
 ================================================================ X ================================================================
-8. Category: Horror
+8. Category Name: Horror
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Haunted School:
@@ -153,7 +153,7 @@ Title: Cursed Village:
     3. Third Image: Transition From The Second Image, A horrifying confrontation with the entity behind the curse.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist breaking the curse, but the village remains eerily quiet.
 ================================================================ X ================================================================
-9. Category: Comedy
+9. Category Name: Comedy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Mishaps and Mayhem:
@@ -169,7 +169,7 @@ Title: Quirky Family:
     3. Third Image: Transition From The Second Image, The family getting into a hilarious situation, with everyone overreacting.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The family laughing together, despite the chaos they've caused.
 ================================================================ X ================================================================
-10. Category: Sports
+10. Category Name: Sports
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Soccer Stars:
@@ -185,7 +185,7 @@ Title: Basketball Dreams:
     3. Third Image: Transition From The Second Image, A tense moment in the game, with the protagonist making a critical play.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating a hard-fought victory, with the protagonist in the center.
 ================================================================ X ================================================================
-11. Category: Mystery
+11. Category Name: Mystery
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Detective Chronicles:
@@ -201,7 +201,7 @@ Title: Enigmatic Puzzles:
     3. Third Image: Transition From The Second Image, The puzzle revealing a hidden map, leading to a greater mystery.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist embarking on a new adventure, with the puzzle solved.
 ================================================================ X ================================================================
-12. Category: Mecha
+12. Category Name: Mecha
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Robot Warriors:
@@ -217,7 +217,7 @@ Title: Giant Robots:
     3. Third Image: Transition From The Second Image, An intense battle with dramatic explosions and mechanical movements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist's robot emerging victorious, with the city safe once more.
 ================================================================ X ================================================================
-13. Category: Post-Apocalyptic
+13. Category Name: Post-Apocalyptic
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Survivors' Saga:
@@ -233,7 +233,7 @@ Title: Ruined Earth:
     3. Third Image: Transition From The Second Image, A conflict with a rogue faction, showing intense action and danger.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing on a hill, looking out at the sunrise over the ruins.
 ================================================================ X ================================================================
-14. Category: Magical Girl
+14. Category Name: Magical Girl
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Moonlit Warriors:
@@ -249,7 +249,7 @@ Title: Star Guardians:
     3. Third Image: Transition From The Second Image, A dramatic moment where the leader inspires the team to fight harder.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory, with stars twinkling in the background.
 ================================================================ X ================================================================
-15. Category: Historical Fantasy
+15. Category Name: Historical Fantasy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Warrior's Destiny:
@@ -265,7 +265,7 @@ Title: Magic Kingdom:
     3. Third Image: Transition From The Second Image, A fierce battle with dramatic magical effects and intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The kingdom celebrating their victory, with the mage honored by the king.
 ================================================================ X ================================================================
-16. Category: Psychological Thriller
+16. Category Name: Psychological Thriller
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Mind Games:
@@ -281,7 +281,7 @@ Title: Dark Reflections:
     3. Third Image: Transition From The Second Image, A struggle against their own fears, with intense psychological elements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding clarity, but with a changed perspective.
 ================================================================ X ================================================================
-17. Category: Culinary
+17. Category Name: Culinary
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Cooking Showdown:
@@ -297,7 +297,7 @@ Title: Gourmet Journey:
     3. Third Image: Transition From The Second Image, The protagonist sharing the dish with locals, receiving heartfelt praise.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist documenting their culinary journey, with a sense of fulfillment.
 ================================================================ X ================================================================
-18. Category: Time Travel
+18. Category Name: Time Travel
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Temporal Warriors:
@@ -313,7 +313,7 @@ Title: Chrono Adventures:
     3. Third Image: Transition From The Second Image, A dramatic confrontation with a rival time traveler, with reality at stake.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist restoring the timeline, with the watch glowing faintly.
 ================================================================ X ================================================================
-19. Category: Paranormal
+19. Category Name: Paranormal
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Ghost Hunters:
@@ -329,7 +329,7 @@ Title: Supernatural Investigators:
     3. Third Image: Transition From The Second Image, A tense moment where they face a powerful, malevolent spirit.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team using their skills to banish the spirit, with the forest calming.
 ================================================================ X ================================================================
-20. Category: School Life
+20. Category Name: School Life
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Classroom Antics:
@@ -345,7 +345,7 @@ Title: After-School Club:
     3. Third Image: Transition From The Second Image, A challenge arises, testing the club's unity and resolve.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The club overcoming the challenge, celebrating their success together.
 ================================================================ X ================================================================
-21. Category: Fantasy Romance
+21. Category Name: Fantasy Romance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Enchanted Love:
@@ -361,7 +361,7 @@ Title: Magical Courtship:
     3. Third Image: Transition From The Second Image, An obstacle that tests their love, involving court intrigue and magic.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The couple overcoming the obstacle, with their love blessed by the kingdom.
 ================================================================ X ================================================================
-22. Category: Espionage
+22. Category Name: Espionage
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Spy Game:
@@ -377,7 +377,7 @@ Title: Double Agent:
     3. Third Image: Transition From The Second Image, A confrontation with a rival agent, showcasing espionage skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist successfully playing both sides, with a dramatic reveal.
 ================================================================ X ================================================================
-23. Category: Martial Arts
+23. Category Name: Martial Arts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Fist of Fury:
@@ -393,7 +393,7 @@ Title: Silent Warrior:
     3. Third Image: Transition From The Second Image, A climactic battle with the bandit leader, showcasing intense techniques.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist bringing peace to the village, with the villagers celebrating.
 ================================================================ X ================================================================
-24. Category: High Fantasy
+24. Category Name: High Fantasy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Dragon Quest:
@@ -409,7 +409,7 @@ Title: Elven Forest:
     3. Third Image: Transition From The Second Image, A battle to protect the forest from dark forces, showcasing teamwork.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest at peace, with the protagonist honored by the elves.
 ================================================================ X ================================================================
-25. Category: Steampunk
+25. Category Name: Steampunk
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Clockwork City:
@@ -425,7 +425,7 @@ Title: Mechanical Heart:
     3. Third Image: Transition From The Second Image, A conflict where the protagonist uses the heart to thwart a villain’s plans.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist restoring peace, with the clockwork heart safely kept.
 ================================================================ X ================================================================
-26. Category: Virtual Reality
+26. Category Name: Virtual Reality
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Game World:
@@ -441,7 +441,7 @@ Title: Digital Adventure:
     3. Third Image: Transition From The Second Image, A conflict with a rogue AI, showcasing high-tech battles.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist triumphing and logging out, with the virtual world behind them.
 ================================================================ X ================================================================
-27. Category: Isekai (Another World)
+27. Category Name: Isekai (Another World)
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Transported Hero:
@@ -457,7 +457,7 @@ Title: New Beginnings:
     3. Third Image: Transition From The Second Image, A dramatic conflict where the protagonist must use their knowledge to win.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding peace and a new home in the fantasy world.
 ================================================================ X ================================================================
-28. Category: Underwater Adventure
+28. Category Name: Underwater Adventure
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Oceanic Quest:
@@ -473,7 +473,7 @@ Title: Mermaid Tale:
     3. Third Image: Transition From The Second Image, A conflict with dark forces threatening the kingdom, showcasing teamwork.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The kingdom at peace, with the mermaid and protagonist sharing a moment.
 ================================================================ X ================================================================
-29. Category: Alien Invasion
+29. Category Name: Alien Invasion
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Earth Defenders:
@@ -489,7 +489,7 @@ Title: Cosmic Alliance:
     3. Third Image: Transition From The Second Image, A dramatic space battle with intense visuals and teamwork.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The alliance celebrating their victory, with Earth saved.
 ================================================================ X ================================================================
-30. Category: Superhero
+30. Category Name: Superhero
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Masked Vigilante:
@@ -505,7 +505,7 @@ Title: Heroic Team:
     3. Third Image: Transition From The Second Image, A climactic battle with high-energy action and teamwork.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory, with the city cheering for them.
 ================================================================ X ================================================================
-31. Category: Cyberpunk
+31. Category Name: Cyberpunk
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Neon Streets:
@@ -521,7 +521,7 @@ Title: Digital Revolution:
     3. Third Image: Transition From The Second Image, A high-stakes infiltration mission, showcasing intense action and tech.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the corporation's downfall.
 ================================================================ X ================================================================
-32. Category: Historical Romance
+32. Category Name: Historical Romance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Forbidden Love:
@@ -537,7 +537,7 @@ Title: Timeless Love:
     3. Third Image: Transition From The Second Image, A conflict that tests their love, involving historical intrigue.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The couple overcoming the conflict, with their love enduring.
 ================================================================ X ================================================================
-33. Category: Space Opera
+33. Category Name: Space Opera
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Galactic War:
@@ -553,7 +553,7 @@ Title: Stellar Odyssey:
     3. Third Image: Transition From The Second Image, A dramatic conflict with an alien threat, showing high-stakes action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The crew forming an alliance with the aliens, ensuring peace in the galaxy.
 ================================================================ X ================================================================
-34. Category: Gothic Horror
+34. Category Name: Gothic Horror
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Dark Manor:
@@ -569,7 +569,7 @@ Title: Vampire's Lair:
     3. Third Image: Transition From The Second Image, A battle for survival against the vampire, with dramatic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist overcoming the vampire, with the castle in ruins.
 ================================================================ X ================================================================
-35. Category: Wilderness Survival
+35. Category Name: Wilderness Survival
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Deserted Island:
@@ -585,7 +585,7 @@ Title: Mountain Survival:
     3. Third Image: Transition From The Second Image, A struggle against a blizzard, with intense visuals of survival.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist being rescued, with the mountain landscape behind them.
 ================================================================ X ================================================================
-36. Category: Detective Noir
+36. Category Name: Detective Noir
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: City Shadows:
@@ -601,7 +601,7 @@ Title: Underworld Secrets:
     3. Third Image: Transition From The Second Image, A high-stakes encounter with a crime boss, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The detective exposing the criminal network, with the city's light returning.
 ================================================================ X ================================================================
-37. Category: Dystopian Future
+37. Category Name: Dystopian Future
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Rebel Uprising:
@@ -617,7 +617,7 @@ Title: Techno Tyranny:
     3. Third Image: Transition From The Second Image, A thrilling chase with drones and security forces, with intense visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist dismantling the regime's control, with the city liberated.
 ================================================================ X ================================================================
-38. Category: Pirate Adventure
+38. Category Name: Pirate Adventure
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Treasure Hunt:
@@ -633,7 +633,7 @@ Title: High Seas:
     3. Third Image: Transition From The Second Image, A moment of camaraderie among the crew, celebrating their victory.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ship sailing towards the horizon, with a sense of adventure.
 ================================================================ X ================================================================
-39. Category: Western
+39. Category Name: Western
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Outlaw's Tale:
@@ -649,7 +649,7 @@ Title: Sheriff's Justice:
     3. Third Image: Transition From The Second Image, A climactic showdown at high noon, with dramatic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The sheriff standing victorious, with the town safe once more.
 ================================================================ X ================================================================
-40. Category: High School Drama
+40. Category Name: High School Drama
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Class Rivalry:
@@ -665,7 +665,7 @@ Title: Secret Crush:
     3. Third Image: Transition From The Second Image, A dramatic school event where feelings are revealed.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and their crush sharing a romantic moment, with school in the background.
 ================================================================ X ================================================================
-41. Category: Sports Competition
+41. Category Name: Sports Competition
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Track and Field:
@@ -681,7 +681,7 @@ Title: Martial Arts Tournament:
     3. Third Image: Transition From The Second Image, A climactic battle with a rival, showing dramatic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with the tournament in the background.
 ================================================================ X ================================================================
-42. Category: Supernatural Romance
+42. Category Name: Supernatural Romance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Vampire Love:
@@ -697,7 +697,7 @@ Title: Ghostly Love:
     3. Third Image: Transition From The Second Image, A challenge that tests their love, involving the ghost's past.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ghost finding peace, with the protagonist cherishing their memories.
 ================================================================ X ================================================================
-43. Category: Mythical Beasts
+43. Category Name: Mythical Beasts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Dragon Rider:
@@ -713,7 +713,7 @@ Title: Griffin's Call:
     3. Third Image: Transition From The Second Image, A dramatic battle against poachers threatening the griffins.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and griffin protecting their home, with a sense of harmony.
 ================================================================ X ================================================================
-44. Category: Fairy Tale
+44. Category Name: Fairy Tale
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Enchanted Forest:
@@ -729,7 +729,7 @@ Title: Royal Quest:
     3. Third Image: Transition From The Second Image, A climactic battle with an evil sorcerer, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist returning home victorious, with the kingdom celebrating.
 ================================================================ X ================================================================
-45. Category: Dark Fantasy
+45. Category Name: Dark Fantasy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Cursed Kingdom:
@@ -745,7 +745,7 @@ Title: Shadow Realm:
     3. Third Image: Transition From The Second Image, A battle against the ruler of the Shadow Realm, with dramatic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Shadow Realm dissipating, with light returning and the protagonist victorious.
 ================================================================ X ================================================================
-46. Category: Espionage Action
+46. Category Name: Espionage Action
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Undercover Agent:
@@ -761,7 +761,7 @@ Title: Covert Ops:
     3. Third Image: Transition From The Second Image, A fierce firefight, with dramatic action and close calls.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist completing the mission, with the base in ruins and peace restored.
 ================================================================ X ================================================================
-47. Category: Paranormal Investigation
+47. Category Name: Paranormal Investigation
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Haunted House:
@@ -777,7 +777,7 @@ Title: Urban Legends:
     3. Third Image: Transition From The Second Image, A confrontation with the entity behind the urban legend.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mystery solved, with the site no longer haunted and peace restored.
 ================================================================ X ================================================================
-48. Category: Cosmic Horror
+48. Category Name: Cosmic Horror
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Eldritch Encounter:
@@ -793,7 +793,7 @@ Title: Alien Terror:
     3. Third Image: Transition From The Second Image, A terrifying encounter with a hostile alien entity, showing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist narrowly escaping, with the alien threat contained.
 ================================================================ X ================================================================
-49. Category: Apocalyptic Survival
+49. Category Name: Apocalyptic Survival
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Last Stand:
@@ -809,7 +809,7 @@ Title: Survivor's Hope:
     3. Third Image: Transition From The Second Image, A battle against a dangerous faction, showing high-stakes action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The survivors finding a new home, with the city behind them and hope ahead.
 ================================================================ X ================================================================
-50. Category: Urban Fantasy
+50. Category Name: Urban Fantasy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Anime' Art Style.
 Title: Hidden Magic:

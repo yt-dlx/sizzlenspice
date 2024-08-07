@@ -27,7 +27,7 @@ Give Me 50 Categories With 'Cyberpunk' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. Category: Neon Noir
+1. Category Name: Neon Noir
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: City Shadows:
@@ -43,7 +43,7 @@ Title: Cyber Heist:
     3. Third Image: Transition From The Second Image, A high-stakes chase through the city's neon-lit streets, evading security drones.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their successful heist, with the city skyline in the background.
 ================================================================ X ================================================================
-2. Category: Street Warriors
+2. Category Name: Street Warriors
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Rogue Runner:
@@ -59,7 +59,7 @@ Title: Gang Wars:
     3. Third Image: Transition From The Second Image, The protagonist leading their gang to victory, with dramatic action sequences.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist's gang celebrating their dominance, with the city’s neon glow in the background.
 ================================================================ X ================================================================
-3. Category: Corporate Espionage
+3. Category Name: Corporate Espionage
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Boardroom Betrayal:
@@ -75,7 +75,7 @@ Title: Silent Infiltration:
     3. Third Image: Transition From The Second Image, A tense moment as the protagonist downloads critical information from a secure terminal.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist escaping undetected, blending into the neon-lit city crowd.
 ================================================================ X ================================================================
-4. Category: Digital Revolution
+4. Category Name: Digital Revolution
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Hacktivist Uprising:
@@ -91,7 +91,7 @@ Title: Rebel Code:
     3. Third Image: Transition From The Second Image, A dramatic clash with corporate enforcers, blending hacking and physical combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s code bringing freedom to the oppressed, with a sense of triumph.
 ================================================================ X ================================================================
-5. Category: Cybernetic Enhancement
+5. Category Name: Cybernetic Enhancement
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Body Mod:
@@ -107,7 +107,7 @@ Title: Enhanced Combat:
     3. Third Image: Transition From The Second Image, A fierce battle with a similarly enhanced enemy, showcasing high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist victorious, with their enhancements glowing in the neon light.
 ================================================================ X ================================================================
-6. Category: Virtual Reality
+6. Category Name: Virtual Reality
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: VR Escape:
@@ -123,7 +123,7 @@ Title: Digital Dreams:
     3. Third Image: Transition From The Second Image, A confrontation with a digital villain, showcasing high-stakes action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist achieving their goal, with the virtual world acknowledging their success.
 ================================================================ X ================================================================
-7. Category: Dystopian Society
+7. Category Name: Dystopian Society
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Oppressed Future:
@@ -139,7 +139,7 @@ Title: Second Image: Transition From The First Image, The protagonist witnessing
     3. Third Image: Transition From The Second Image, A dramatic battle with government forces, showcasing high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the city starting to recover.
 ================================================================ X ================================================================
-8. Category: Cybernetic Detective
+8. Category Name: Cybernetic Detective
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Digital Clues:
@@ -155,7 +155,7 @@ Title: Tech Sleuth:
     3. Third Image: Transition From The Second Image, A dramatic encounter with the criminal in a virtual reality setting.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The detective successfully apprehending the criminal, with a sense of justice.
 ================================================================ X ================================================================
-9. Category: AI Revolution
+9. Category Name: AI Revolution
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Synthetic Uprising:
@@ -171,7 +171,7 @@ Title: Machine Rebellion:
     3. Third Image: Transition From The Second Image, A dramatic conflict with corporate forces, showcasing advanced technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and AIs celebrating their victory, with the city transformed.
 ================================================================ X ================================================================
-10. Category: Cybernetic Outlaws
+10. Category Name: Cybernetic Outlaws
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Bandits:
@@ -187,7 +187,7 @@ Title: Tech Rebels:
     3. Third Image: Transition From The Second Image, A thrilling chase through the city’s streets, evading security drones.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels successfully completing their mission, with a sense of triumph.
 ================================================================ X ================================================================
-11. Category: Cybernetic Bounty Hunters
+11. Category Name: Cybernetic Bounty Hunters
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Hunt:
@@ -203,7 +203,7 @@ Title: Tech Pursuit:
     3. Third Image: Transition From The Second Image, A dramatic battle with the target in a cybernetic nightclub.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bounty hunter successfully completing the mission, with a sense of satisfaction.
 ================================================================ X ================================================================
-12. Category: Underground Resistance
+12. Category Name: Underground Resistance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Rebel Underground:
@@ -219,7 +219,7 @@ Title: Secret Hideout:
     3. Third Image: Transition From The Second Image, A tense moment as the resistance launches a coordinated attack.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and resistance celebrating their victory, with the city above starting to change.
 ================================================================ X ================================================================
-13. Category: Cybernetic Gladiators
+13. Category Name: Cybernetic Gladiators
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Arena Battles:
@@ -235,7 +235,7 @@ Title: Combat Cyborgs:
     3. Third Image: Transition From The Second Image, A climactic showdown with a rival gladiator, showing dramatic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging as the champion, with the crowd celebrating.
 ================================================================ X ================================================================
-14. Category: Cybernetic Police
+14. Category Name: Cybernetic Police
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Tech Patrol:
@@ -251,7 +251,7 @@ Title: Enforcer's Duty:
     3. Third Image: Transition From The Second Image, A dramatic battle with the criminal in a high-tech facility.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The officer bringing the criminal to justice, with a sense of duty fulfilled.
 ================================================================ X ================================================================
-15. Category: Cybernetic Heroes
+15. Category Name: Cybernetic Heroes
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Knights:
@@ -267,7 +267,7 @@ Title: Tech Guardians:
     3. Third Image: Transition From The Second Image, A climactic battle with a group of powerful villains, showing teamwork and action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-16. Category: Corporate Warfare
+16. Category Name: Corporate Warfare
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Hostile Takeover:
@@ -283,7 +283,7 @@ Title: Boardroom Battle:
     3. Third Image: Transition From The Second Image, A confrontation with corporate rivals, showcasing intense strategic combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exposing the conspiracy, with the corporation in turmoil.
 ================================================================ X ================================================================
-17. Category: Tech Nomads
+17. Category Name: Tech Nomads
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Digital Drifters:
@@ -299,7 +299,7 @@ Title: Wanderers of Neon:
     3. Third Image: Transition From The Second Image, A battle with a rival nomad group, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The nomads finding a new home, with a sense of freedom and adventure.
 ================================================================ X ================================================================
-18. Category: Cybernetic Outcasts
+18. Category Name: Cybernetic Outcasts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Refugees:
@@ -315,7 +315,7 @@ Title: Tech Exiles:
     3. Third Image: Transition From The Second Image, A battle against forces seeking to eliminate the exiles, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The exiles celebrating their victory, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-19. Category: Cybernetic Revolution
+19. Category Name: Cybernetic Revolution
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Rebellion:
@@ -331,7 +331,7 @@ Title: Tech Insurrection:
     3. Third Image: Transition From The Second Image, A fierce battle with government forces, showcasing intense action and heroism.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city liberated, with the protagonist standing as a symbol of freedom.
 ================================================================ X ================================================================
-20. Category: Cybernetic Healers
+20. Category Name: Cybernetic Healers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Tech Medics:
@@ -347,7 +347,7 @@ Title: Neon Doctors:
     3. Third Image: Transition From The Second Image, A dramatic moment as the doctor faces a medical crisis.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The clinic thriving, with the doctor becoming a beacon of hope in the city.
 ================================================================ X ================================================================
-21. Category: Cybernetic Musicians
+21. Category Name: Cybernetic Musicians
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Beats:
@@ -363,7 +363,7 @@ Title: Tech Rhythms:
     3. Third Image: Transition From The Second Image, A dramatic moment as the musician faces a rival in a musical showdown.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The musician emerging victorious, with the city’s lights pulsing to their beat.
 ================================================================ X ================================================================
-22. Category: Cybernetic Vigilantes
+22. Category Name: Cybernetic Vigilantes
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Justice:
@@ -379,7 +379,7 @@ Title: Tech Avenger:
     3. Third Image: Transition From The Second Image, A dramatic battle with a group of cybernetic criminals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The avenger bringing justice to the city, with the neon lights shining brightly.
 ================================================================ X ================================================================
-23. Category: Cybernetic Hackers
+23. Category Name: Cybernetic Hackers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Digital Warriors:
@@ -395,7 +395,7 @@ Title: Code Breakers:
     3. Third Image: Transition From The Second Image, A dramatic battle with corporate security within the virtual world.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hacker successfully completing the mission, with a sense of triumph.
 ================================================================ X ================================================================
-24. Category: Cybernetic Resistance
+24. Category Name: Cybernetic Resistance
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Rebellion:
@@ -411,7 +411,7 @@ Title: Tech Insurrection:
     3. Third Image: Transition From The Second Image, A fierce battle with government forces, showcasing intense action and heroism.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city liberated, with the protagonist standing as a symbol of freedom.
 ================================================================ X ================================================================
-25. Category: Cybernetic Nomads
+25. Category Name: Cybernetic Nomads
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Drifters:
@@ -427,7 +427,7 @@ Title: Tech Wanderers:
     3. Third Image: Transition From The Second Image, A battle with a rival nomad group, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The nomads finding a new home, with a sense of freedom and adventure.
 ================================================================ X ================================================================
-26. Category: Cybernetic Mercenaries
+26. Category Name: Cybernetic Mercenaries
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Mercs:
@@ -443,7 +443,7 @@ Title: Tech Soldiers:
     3. Third Image: Transition From The Second Image, A climactic battle with a rival mercenary group, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-27. Category: Cybernetic Bounty Hunters
+27. Category Name: Cybernetic Bounty Hunters
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Bounty:
@@ -459,7 +459,7 @@ Title: Tech Pursuit:
     3. Third Image: Transition From The Second Image, A dramatic battle with the target in a cybernetic nightclub.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bounty hunter successfully completing the mission, with a sense of satisfaction.
 ================================================================ X ================================================================
-28. Category: Cybernetic Outlaws
+28. Category Name: Cybernetic Outlaws
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Bandits:
@@ -475,7 +475,7 @@ Title: Tech Rebels:
     3. Third Image: Transition From The Second Image, A thrilling chase through the city’s streets, evading security drones.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels successfully completing their mission, with a sense of triumph.
 ================================================================ X ================================================================
-29. Category: Cybernetic Cults
+29. Category Name: Cybernetic Cults
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Prophets:
@@ -491,7 +491,7 @@ Title: Tech Zealots:
     3. Third Image: Transition From The Second Image, A dramatic clash with rival cult members, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The cult’s influence spreading through the city, with a sense of awe and mystery.
 ================================================================ X ================================================================
-30. Category: Cybernetic Gladiators
+30. Category Name: Cybernetic Gladiators
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Arena Battles:
@@ -507,7 +507,7 @@ Title: Combat Cyborgs:
     3. Third Image: Transition From The Second Image, A climactic showdown with a rival gladiator, showing dramatic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging as the champion, with the crowd celebrating.
 ================================================================ X ================================================================
-31. Category: Cybernetic Mercenaries
+31. Category Name: Cybernetic Mercenaries
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Mercs:
@@ -523,7 +523,7 @@ Title: Tech Soldiers:
     3. Third Image: Transition From The Second Image, A climactic battle with a rival mercenary group, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-32. Category: Cybernetic Street Racers
+32. Category Name: Cybernetic Street Racers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Racers:
@@ -539,7 +539,7 @@ Title: Tech Speedsters:
     3. Third Image: Transition From The Second Image, A dramatic moment as the protagonist overtakes a rival, showcasing their skill.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist celebrating their victory, with the city’s neon lights reflecting off their car.
 ================================================================ X ================================================================
-33. Category: Cybernetic Revolutionaries
+33. Category Name: Cybernetic Revolutionaries
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Uprising:
@@ -555,7 +555,7 @@ Title: Tech Insurgents:
     3. Third Image: Transition From The Second Image, A fierce battle with government forces, showcasing intense action and heroism.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city liberated, with the protagonist standing as a symbol of freedom.
 ================================================================ X ================================================================
-34. Category: Cybernetic Bodyguards
+34. Category Name: Cybernetic Bodyguards
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Protectors:
@@ -571,7 +571,7 @@ Title: Tech Guardians:
     3. Third Image: Transition From The Second Image, A dramatic confrontation with a group of attackers, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The VIP expressing gratitude, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-35. Category: Cybernetic Assassins
+35. Category Name: Cybernetic Assassins
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Killers:
@@ -587,7 +587,7 @@ Title: Tech Hitmen:
     3. Third Image: Transition From The Second Image, A dramatic battle with the target’s bodyguards, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hitman completing the mission, with a sense of cold efficiency.
 ================================================================ X ================================================================
-36. Category: Cybernetic Scientists
+36. Category Name: Cybernetic Scientists
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Innovators:
@@ -603,7 +603,7 @@ Title: Tech Researchers:
     3. Third Image: Transition From The Second Image, A dramatic confrontation with corporate rivals seeking to steal their work.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The researcher’s technology benefiting the city, with the neon lights reflecting progress.
 ================================================================ X ================================================================
-37. Category: Cybernetic Smugglers
+37. Category Name: Cybernetic Smugglers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Runners:
@@ -619,7 +619,7 @@ Title: Tech Traffickers:
     3. Third Image: Transition From The Second Image, A dramatic clash with security forces, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The operation successful, with the smugglers celebrating their victory.
 ================================================================ X ================================================================
-38. Category: Cybernetic Enforcers
+38. Category Name: Cybernetic Enforcers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Enforcers:
@@ -635,7 +635,7 @@ Title: Tech Guardians:
     3. Third Image: Transition From The Second Image, A dramatic battle with the criminal in a high-tech facility.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The enforcer bringing the criminal to justice, with a sense of duty fulfilled.
 ================================================================ X ================================================================
-39. Category: Cybernetic Healers
+39. Category Name: Cybernetic Healers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Tech Medics:
@@ -651,7 +651,7 @@ Title: Neon Doctors:
     3. Third Image: Transition From The Second Image, A dramatic moment as the doctor faces a medical crisis.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The clinic thriving, with the doctor becoming a beacon of hope in the city.
 ================================================================ X ================================================================
-40. Category: Cybernetic Musicians
+40. Category Name: Cybernetic Musicians
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Beats:
@@ -667,7 +667,7 @@ Title: Tech Rhythms:
     3. Third Image: Transition From The Second Image, A dramatic moment as the musician faces a rival in a musical showdown.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The musician emerging victorious, with the city’s lights pulsing to their beat.
 ================================================================ X ================================================================
-41. Category: Cybernetic Artists
+41. Category Name: Cybernetic Artists
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Creators:
@@ -683,7 +683,7 @@ Title: Tech Visionaries:
     3. Third Image: Transition From The Second Image, A dramatic moment as the artist faces a rival in an art competition.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The artist emerging victorious, with their work celebrated throughout the city.
 ================================================================ X ================================================================
-42. Category: Cybernetic Mechanics
+42. Category Name: Cybernetic Mechanics
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Engineers:
@@ -699,7 +699,7 @@ Title: Tech Fixers:
     3. Third Image: Transition From The Second Image, A dramatic moment as the mechanic faces a rival in a tech competition.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mechanic emerging victorious, with their work celebrated throughout the city.
 ================================================================ X ================================================================
-43. Category: Cybernetic Outcasts
+43. Category Name: Cybernetic Outcasts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Refugees:
@@ -715,7 +715,7 @@ Title: Tech Exiles:
     3. Third Image: Transition From The Second Image, A battle against forces seeking to eliminate the exiles, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The exiles celebrating their victory, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-44. Category: Cybernetic Gamers
+44. Category Name: Cybernetic Gamers
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Gamers:
@@ -731,7 +731,7 @@ Title: Tech Champions:
     3. Third Image: Transition From The Second Image, A dramatic showdown with a rival gamer, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The gamer emerging as the champion, with the city’s lights pulsing to their victory.
 ================================================================ X ================================================================
-45. Category: Cybernetic Ghosts
+45. Category Name: Cybernetic Ghosts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Phantoms:
@@ -747,7 +747,7 @@ Title: Tech Spirits:
     3. Third Image: Transition From The Second Image, A battle against forces seeking to eliminate the spirits, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The spirits finding peace, with the city’s neon lights in the background.
 ================================================================ X ================================================================
-46. Category: Cybernetic Shadows
+46. Category Name: Cybernetic Shadows
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Assassins:
@@ -763,7 +763,7 @@ Title: Tech Ninjas:
     3. Third Image: Transition From The Second Image, A dramatic battle with the target’s bodyguards, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ninja completing the mission, with a sense of cold efficiency.
 ================================================================ X ================================================================
-47. Category: Cybernetic Hunters
+47. Category Name: Cybernetic Hunters
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Predators:
@@ -779,7 +779,7 @@ Title: Tech Stalkers:
     3. Third Image: Transition From The Second Image, A dramatic battle with the target’s bodyguards, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The stalker completing the mission, with a sense of satisfaction.
 ================================================================ X ================================================================
-48. Category: Cybernetic Thieves
+48. Category Name: Cybernetic Thieves
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Rogues:
@@ -795,7 +795,7 @@ Title: Tech Bandits:
     3. Third Image: Transition From The Second Image, A dramatic clash with security forces, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bandits successfully completing their mission, with a sense of victory.
 ================================================================ X ================================================================
-49. Category: Cybernetic Spies
+49. Category Name: Cybernetic Spies
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Agents:
@@ -811,7 +811,7 @@ Title: Tech Operatives:
     3. Third Image: Transition From The Second Image, A dramatic confrontation with rival operatives, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The operative completing the mission, with a sense of achievement.
 ================================================================ X ================================================================
-50. Category: Cybernetic Warriors
+50. Category Name: Cybernetic Warriors
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
 Title: Neon Fighters:

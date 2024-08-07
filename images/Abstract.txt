@@ -27,7 +27,7 @@ Give Me 50 Categories With 'Abstract' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. Category: Geometric Patterns
+1. Category Name: Geometric Patterns
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fractal Dreams:
@@ -43,7 +43,7 @@ Title: Symmetry In Chaos:
     3. Third Image: Transition From The Second Image, Additional Colors Are Introduced, Highlighting The Symmetry Amidst The Chaos.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Design Solidifies Into A Harmonious, Colorful Pattern, Emphasizing Balance.
 ================================================================ X ================================================================
-2. Category: Fluid Dynamics
+2. Category Name: Fluid Dynamics
         
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Liquid Harmony:
@@ -59,7 +59,7 @@ Title: Ethereal Currents:
     3. Third Image: Transition From The Second Image, Bright Accents Appear, Adding Depth And Contrast To The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Currents Slow, Blending Into A Serene, Cohesive Image.
 ================================================================ X ================================================================
-3. Category: Abstract Landscapes
+3. Category Name: Abstract Landscapes
         
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
@@ -77,7 +77,7 @@ Title: Mystic Mountains:
     3. Third Image: Transition From The Second Image, The Colors Deepen, Adding Shadows And Highlights To The Mountains.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Abstract Mountains Stand Tall, With Intricate Details And Vibrant Colors.
 ================================================================ X ================================================================
-4. Category: Cosmic Designs
+4. Category Name: Cosmic Designs
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Stellar Dreams:
@@ -93,7 +93,7 @@ Title: Galactic Waves:
     3. Third Image: Transition From The Second Image, Bright Stars And Celestial Bodies Appear, Adding Depth.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Galaxy Solidifies Into A Mesmerizing, Colorful Design.
 ================================================================ X ================================================================
-5. Category: Organic Forms
+5. Category Name: Organic Forms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Floral Abstractions:
@@ -109,7 +109,7 @@ Title: Nature's Whimsy:
     3. Third Image: Transition From The Second Image, Colors Deepen, Adding Texture And Depth To The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Abstract Forms Merge Into A Cohesive, Vibrant Representation Of Nature.
 ================================================================ X ================================================================
-6. Category: Urban Abstracts
+6. Category Name: Urban Abstracts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: City Lights:
@@ -125,7 +125,7 @@ Title: Street Art:
     3. Third Image: Transition From The Second Image, Additional Elements Like Tags And Stencils Appear, Enhancing The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Street Art Pattern Settles Into A Bold, Colorful Arrangement.
 ================================================================ X ================================================================
-7. Category: Temporal Shifts
+7. Category Name: Temporal Shifts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Time Warp:
@@ -141,7 +141,7 @@ Title: Eternal Moment:
     3. Third Image: Transition From The Second Image, Additional Elements Like Clocks And Gears Appear, Enhancing The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Moment Solidifies Into A Detailed, Colorful Representation.
 ================================================================ X ================================================================
-8. Category: Abstract Portraits
+8. Category Name: Abstract Portraits
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Faceless Forms:
@@ -157,7 +157,7 @@ Title: Emotional Echoes:
     3. Third Image: Transition From The Second Image, Bright Colors Appear, Highlighting The Emotional Elements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Emotional Echoes Solidify Into A Vibrant, Abstract Design.
 ================================================================ X ================================================================
-9. Category: Kinetic Energy
+9. Category Name: Kinetic Energy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Motion Blur:
@@ -173,7 +173,7 @@ Title: Dynamic Flow:
     3. Third Image: Transition From The Second Image, Additional Colors And Elements Appear, Enhancing The Flow.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dynamic Flow Solidifies Into A Harmonious, Abstract Design.
 ================================================================ X ================================================================
-10. Category: Light And Shadow
+10. Category Name: Light And Shadow
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Illuminated Dreams:
@@ -189,7 +189,7 @@ Title: Shadow Play:
     3. Third Image: Transition From The Second Image, Bright Accents Appear, Adding Contrast To The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Shadow Patterns Solidify Into A Bold, Abstract Arrangement.
 ================================================================ X ================================================================
-11. Category: Celestial Bodies
+11. Category Name: Celestial Bodies
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lunar Phases:
@@ -205,7 +205,7 @@ Title: Solar Flares:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Intensity.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Solar Flares Solidify Into A Cohesive, Vibrant Pattern.
 ================================================================ X ================================================================
-12. Category: Elemental Forces
+12. Category Name: Elemental Forces
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fiery Spirit:
@@ -221,7 +221,7 @@ Title: Watery Essence:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Watery Shapes Solidify Into A Cohesive, Dynamic Pattern.
 ================================================================ X ================================================================
-13. Category: Optical Illusions
+13. Category Name: Optical Illusions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mind Maze:
@@ -237,7 +237,7 @@ Title: Perceptual Drift:
     3. Third Image: Transition From The Second Image, Bright Accents Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Optical Illusion Solidifies Into A Harmonious, Abstract Design.
 ================================================================ X ================================================================
-14. Category: Dreamscapes
+14. Category Name: Dreamscapes
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ethereal Visions:
@@ -253,7 +253,7 @@ Title: Surreal Slumber:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Surreal Shapes Settle Into A Cohesive, Dream-Like Pattern.
 ================================================================ X ================================================================
-15. Category: Fragmented Realities
+15. Category Name: Fragmented Realities
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Shattered Glass:
@@ -269,7 +269,7 @@ Title: Broken Mirrors:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Broken Mirrors Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-16. Category: Chromatic Abstractions
+16. Category Name: Chromatic Abstractions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Rainbow Dreams:
@@ -285,7 +285,7 @@ Title: Color Burst:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Burst Solidifies Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-17. Category: Musical Notes
+17. Category Name: Musical Notes
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Waves:
@@ -301,7 +301,7 @@ Title: Melodic Patterns:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Musical Shapes Solidify Into A Cohesive, Dynamic Pattern.
 ================================================================ X ================================================================
-18. Category: Textured Abstracts
+18. Category Name: Textured Abstracts
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Rough Edges:
@@ -317,7 +317,7 @@ Title: Smooth Surfaces:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Smooth Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-19. Category: Digital Dreams
+19. Category Name: Digital Dreams
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Cyber Waves:
@@ -333,7 +333,7 @@ Title: Virtual Realities:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Virtual Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-20. Category: Ethereal Elements
+20. Category Name: Ethereal Elements
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mystic Fog:
@@ -349,7 +349,7 @@ Title: Celestial Glow:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Glowing Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-21. Category: Fragmented Light
+21. Category Name: Fragmented Light
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Prism Dreams:
@@ -365,7 +365,7 @@ Title: Rainbow Shards:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Rainbow Shards Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-22. Category: Abstract Reflections
+22. Category Name: Abstract Reflections
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mirror Dreams:
@@ -381,7 +381,7 @@ Title: Water Reflections:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Water Reflections Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-23. Category: Abstract Dreams
+23. Category Name: Abstract Dreams
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lucid Visions:
@@ -397,7 +397,7 @@ Title: Surreal Dreams:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Surreal Shapes Settle Into A Cohesive, Dream-Like Pattern.
 ================================================================ X ================================================================
-24. Category: Abstract Energies
+24. Category Name: Abstract Energies
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Vibrant Waves:
@@ -413,7 +413,7 @@ Title: Dynamic Energies:
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dynamic Energies Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-25. Category: Abstract Dimensions
+25. Category Name: Abstract Dimensions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Parallel Worlds:
@@ -429,7 +429,7 @@ Title: Infinite Spaces:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Infinite Spaces Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-26. Category: Abstract Rhythms
+26. Category Name: Abstract Rhythms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Beats:
@@ -445,7 +445,7 @@ Title: Melodic Echoes:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Melodic Echoes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-27. Category: Abstract Whimsy
+27. Category Name: Abstract Whimsy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Playful Patterns:
@@ -461,7 +461,7 @@ Title: Whimsical Waves:
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Whimsical Waves Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-28. Category: Abstract Refractions
+28. Category Name: Abstract Refractions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Bends:
@@ -477,7 +477,7 @@ Title: Color Refractions:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Refractions Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-29. Category: Abstract Connections
+29. Category Name: Abstract Connections
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Network Patterns:
@@ -493,7 +493,7 @@ Title: Web Of Dreams:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Web Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-30. Category: Abstract Explorations
+30. Category Name: Abstract Explorations
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mystery Patterns:
@@ -509,7 +509,7 @@ Title: Journey Of Shapes:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Journey Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-31. Category: Abstract Dimensions
+31. Category Name: Abstract Dimensions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Alternate Realities:
@@ -525,7 +525,7 @@ Title: Infinite Dimensions:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Infinite Dimensions Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-32. Category: Abstract Fusion
+32. Category Name: Abstract Fusion
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Elemental Fusion:
@@ -541,7 +541,7 @@ Title: Cosmic Fusion:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Cosmic Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-33. Category: Abstract Whirlpools
+33. Category Name: Abstract Whirlpools
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Whirl:
@@ -557,7 +557,7 @@ Title: Energy Whirlpools:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Energy Whirlpools Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-34. Category: Abstract Movement
+34. Category Name: Abstract Movement
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: 
@@ -577,7 +577,7 @@ Title: Dynamic Motion:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dynamic Motion Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-35. Category: Abstract Waves
+35. Category Name: Abstract Waves
 
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
@@ -595,7 +595,7 @@ Title: Energy Waves:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Energy Wave Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-36. Category: Abstract Lights
+36. Category Name: Abstract Lights
 
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
@@ -613,7 +613,7 @@ Title: Glowing Patterns:
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Glowing Patterns Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-37. Category: Abstract Geometry
+37. Category Name: Abstract Geometry
 
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
@@ -631,7 +631,7 @@ Title: Geometric Dreams:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Geometric Dreams Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-38. Category: Abstract Reflections
+38. Category Name: Abstract Reflections
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Mirror Dreams:
@@ -647,7 +647,7 @@ Title: Water Reflections:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Water Reflections Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-39. Category: Abstract Waves
+39. Category Name: Abstract Waves
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Ocean Waves:
@@ -663,7 +663,7 @@ Title: Energy Waves:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Energy Wave Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-40. Category: Abstract Refractions
+40. Category Name: Abstract Refractions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Bends:
@@ -679,7 +679,7 @@ Title: Color Refractions:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Refractions Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-41. Category: Abstract Energy
+41. Category Name: Abstract Energy
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Electric Dreams:
@@ -695,7 +695,7 @@ Title: Energy Patterns:
     3. Third Image: Transition From The Second Image, Bright Highlights Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Energy Patterns Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-42. Category: Abstract Nature
+42. Category Name: Abstract Nature
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Nature's Whimsy:
@@ -711,7 +711,7 @@ Title: Floral Abstractions:
     3. Third Image: Transition From The Second Image, Additional Elements Like Leaves And Stems Appear, Enhancing The Design.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Floral Pattern Settles Into A Harmonious, Colorful Arrangement.
 ================================================================ X ================================================================
-43. Category: Abstract Dreams
+43. Category Name: Abstract Dreams
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Lucid Visions:
@@ -727,7 +727,7 @@ Title: Surreal Dreams:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Surreal Shapes Settle Into A Cohesive, Dream-Like Pattern.
 ================================================================ X ================================================================
-44. Category: Abstract Motion
+44. Category Name: Abstract Motion
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Fluid Movement:
@@ -743,7 +743,7 @@ Title: Dynamic Motion:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Dynamic Motion Shapes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-45. Category: Abstract Rhythms
+45. Category Name: Abstract Rhythms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Harmonic Waves:
@@ -759,7 +759,7 @@ Title: Melodic Echoes:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Melodic Echoes Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-46. Category: Abstract Colors
+46. Category Name: Abstract Colors
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Color Harmony:
@@ -775,7 +775,7 @@ Title: Color Dreams:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Color Dreams Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-47. Category: Abstract Illusions
+47. Category Name: Abstract Illusions
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Optical Dreams:
@@ -791,7 +791,7 @@ Title: Illusionary Patterns:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Illusionary Patterns Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-48. Category: Abstract Light
+48. Category Name: Abstract Light
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Light Dreams:
@@ -807,7 +807,7 @@ Title: Light Reflections:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Light Reflections Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-49. Category: Abstract Forms
+49. Category Name: Abstract Forms
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Form Dreams:
@@ -823,7 +823,7 @@ Title: Form Reflections:
     3. Third Image: Transition From The Second Image, Additional Elements Appear, Adding Depth And Contrast.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Form Reflections Solidify Into A Cohesive, Vibrant Design.
 ================================================================ X ================================================================
-50. Category: Abstract Patterns
+50. Category Name: Abstract Patterns
 
 Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Abstract' Art Style.
 Title: Pattern Dreams:
