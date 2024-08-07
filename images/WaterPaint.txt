@@ -38,7 +38,7 @@ Prompt 2:
         2. Second Image: Sunlight filtering through the trees, creating dappled patterns.
         3. Third Image: A deer standing still, partially obscured by the mist.
         4. Fourth Image: The forest as night falls, with fireflies beginning to glow.
-
+================================================================ X ================================================================
 2. Category Name: Coastal Scenes
     1. Sunny Beach:
         1. First Image: A wide, sandy beach with gentle waves lapping at the shore.
@@ -50,7 +50,7 @@ Prompt 2:
         2. Second Image: Tide pools forming in the rocky crevices.
         3. Third Image: A lighthouse standing tall against the elements.
         4. Fourth Image: The shoreline under a moonlit sky, with the lighthouse beam cutting through the darkness.
-
+================================================================ X ================================================================
 3. Category Name: Tranquil Gardens
     1. Japanese Garden:
         1. First Image: A serene Japanese garden with a koi pond and arched bridges.
@@ -62,7 +62,7 @@ Prompt 2:
         2. Second Image: A cobblestone path leading to a wooden gate.
         3. Third Image: Bees buzzing around vibrant, colorful blooms.
         4. Fourth Image: The garden bathed in the golden light of late afternoon.
-
+================================================================ X ================================================================
 4. Category Name: Urban Scenes
     1. Rainy Street:
         1. First Image: A bustling city street with rain pouring down.
@@ -74,7 +74,7 @@ Prompt 2:
         2. Second Image: Skyscrapers reflecting the colorful sky.
         3. Third Image: A river running through the city, catching the last light of day.
         4. Fourth Image: The skyline transitioning into the night, with city lights twinkling.
-
+================================================================ X ================================================================
 5. Category Name: Wildlife Wonders
     1. Jungle Animals:
         1. First Image: A dense jungle with exotic animals peeking through the foliage.
@@ -86,7 +86,7 @@ Prompt 2:
         2. Second Image: A caravan of camels trekking across the sand.
         3. Third Image: A desert fox standing alert on a dune.
         4. Fourth Image: The desert landscape at sunset, with long shadows stretching across the sand.
-
+================================================================ X ================================================================
 6. Category Name: Winter Wonderland
     1. Snowy Forest:
         1. First Image: A forest blanketed in fresh snow.
@@ -98,7 +98,7 @@ Prompt 2:
         2. Second Image: Ice skaters gliding gracefully across the ice.
         3. Third Image: Snowflakes gently falling onto the frozen lake.
         4. Fourth Image: The lake under a clear, starry night sky.
-
+================================================================ X ================================================================
 7. Category Name: Underwater World
     1. Coral Reef:
         1. First Image: A vibrant coral reef teeming with colorful fish.
@@ -110,7 +110,7 @@ Prompt 2:
         2. Second Image: Strange, otherworldly creatures drifting through the deep.
         3. Third Image: A sunken ship covered in marine life.
         4. Fourth Image: The deep ocean illuminated by the glow of a submersible’s lights.
-
+================================================================ X ================================================================
 8. Category Name: Majestic Mountains
     1. Snow-capped Peaks:
         1. First Image: Tall, snow-capped mountains against a clear blue sky.
@@ -122,7 +122,7 @@ Prompt 2:
         2. Second Image: A herd of sheep grazing on the green slopes.
         3. Third Image: Ancient stone ruins perched on a hilltop.
         4. Fourth Image: The highlands bathed in the soft light of early evening.
-
+================================================================ X ================================================================
 9. Category Name: Enchanted Forests
     1. Fairy Glade:
         1. First Image: A magical glade with sparkling lights and whimsical creatures.
@@ -134,7 +134,7 @@ Prompt 2:
         2. Second Image: Strange, glowing plants and fungi growing in the underbrush.
         3. Third Image: An owl perched on a gnarled branch, watching silently.
         4. Fourth Image: The forest at dusk, with eerie, beautiful light filtering through.
-
+================================================================ X ================================================================
 10. Category Name: Idyllic Countryside
     1. Rolling Hills:
         1. First Image: Gentle rolling hills covered in lush, green grass.
@@ -146,7 +146,7 @@ Prompt 2:
         2. Second Image: Wildflowers blooming along the riverbanks.
         3. Third Image: A rustic bridge crossing the river.
         4. Fourth Image: The valley under a sky filled with soft, pastel clouds.
-
+================================================================ X ================================================================
 11. Category Name: Vibrant Cityscapes
     1. Paris in Spring:
         1. First Image: The Eiffel Tower surrounded by blooming cherry blossoms.
@@ -158,7 +158,7 @@ Prompt 2:
         2. Second Image: Times Square with its bright neon lights and bustling crowds.
         3. Third Image: A yellow taxi making its way through the city streets.
         4. Fourth Image: Central Park under the soft glow of street lamps.
-
+================================================================ X ================================================================
 12. Category Name: Beautiful Sunsets
     1. Beach Sunset:
         1. First Image: A beach with the sun setting over the horizon.
@@ -168,11 +168,9 @@ Prompt 2:
     2. Mountain Sunset:
         1. First Image: A mountain range with the sun setting behind the peaks.
         2. Second Image: The sky ablaze with warm, golden hues.
-        3. Third Image: The mountains casting long shadows over
-
- the valleys.
+        3. Third Image: The mountains casting long shadows over the valleys.
         4. Fourth Image: The sky transitioning to twilight, with stars beginning to appear.
-
+================================================================ X ================================================================
 13. Category Name: Dynamic Weather
     1. Stormy Seas:
         1. First Image: A turbulent sea with dark, stormy clouds overhead.
@@ -184,7 +182,7 @@ Prompt 2:
         2. Second Image: Raindrops creating ripples in puddles on the ground.
         3. Third Image: People walking under umbrellas, leaves swirling around them.
         4. Fourth Image: The street lights reflecting off the wet pavement.
-
+================================================================ X ================================================================
 14. Category Name: Rustic Charm
     1. Old Barn:
         1. First Image: A weathered barn standing in a field of tall grass.
@@ -196,7 +194,7 @@ Prompt 2:
         2. Second Image: Wildflowers growing along the roadside.
         3. Third Image: A horse-drawn carriage making its way down the road.
         4. Fourth Image: The road disappearing into the distance under a pastel sky.
-
+================================================================ X ================================================================
 15. Category Name: Romantic Vignettes
     1. Lovers' Park:
         1. First Image: A beautiful park with blooming flowers and a picturesque gazebo.
@@ -208,7 +206,7 @@ Prompt 2:
         2. Second Image: A couple walking arm-in-arm under the glow of street lamps.
         3. Third Image: A small café with candlelit tables spilling onto the sidewalk.
         4. Fourth Image: The town square with a beautiful fountain, illuminated by soft lights.
-
+================================================================ X ================================================================
 16. Category Name: Colorful Markets
     1. Flower Market:
         1. First Image: A bustling market filled with stalls of vibrant flowers.
@@ -220,7 +218,7 @@ Prompt 2:
         2. Second Image: The rich, aromatic scents filling the air.
         3. Third Image: Shoppers haggling with vendors over prices.
         4. Fourth Image: The bazaar under a canopy of twinkling lights.
-
+================================================================ X ================================================================
 17. Category Name: Tranquil Lakes
     1. Mountain Lake:
         1. First Image: A serene lake surrounded by towering mountains.
@@ -232,7 +230,7 @@ Prompt 2:
         2. Second Image: Birds flying low over the water.
         3. Third Image: A small dock extending into the lake.
         4. Fourth Image: The forest and lake bathed in the soft light of early morning.
-
+================================================================ X ================================================================
 18. Category Name: Idyllic Villages
     1. Tuscan Village:
         1. First Image: A picturesque village nestled in the rolling hills of Tuscany.
@@ -244,7 +242,7 @@ Prompt 2:
         2. Second Image: A cozy chalet with smoke rising from the chimney.
         3. Third Image: Villagers going about their daily activities.
         4. Fourth Image: The village illuminated by the glow of street lamps at dusk.
-
+================================================================ X ================================================================
 19. Category Name: Exotic Locations
     1. Tropical Paradise:
         1. First Image: A white sandy beach with turquoise waters.
@@ -256,7 +254,7 @@ Prompt 2:
         2. Second Image: Palm trees and a clear pool of water.
         3. Third Image: Camels resting near the water's edge.
         4. Fourth Image: The oasis under the soft glow of the setting sun.
-
+================================================================ X ================================================================
 20. Category Name: Majestic Waterfalls
     1. Jungle Waterfall:
         1. First Image: A powerful waterfall cascading into a pool in the jungle.
@@ -268,7 +266,7 @@ Prompt 2:
         2. Second Image: The water crashing into the rocks below.
         3. Third Image: A rainbow forming in the mist.
         4. Fourth Image: The falls at sunset, with the surrounding mountains glowing softly.
-
+================================================================ X ================================================================
 21. Category Name: Mystical Landscapes
     1. Enchanted Meadow:
         1. First Image: A lush meadow filled with vibrant wildflowers.
@@ -280,7 +278,7 @@ Prompt 2:
         2. Second Image: Mysterious shapes and shadows moving through the mist.
         3. Third Image: A lone figure walking across the moor.
         4. Fourth Image: The fog lifting to reveal a hidden, magical landscape.
-
+================================================================ X ================================================================
 22. Category Name: Majestic Wildlife
     1. Lions on the Savannah:
         1. First Image: A pride of lions resting in the tall grass.
@@ -292,7 +290,7 @@ Prompt 2:
         2. Second Image: The eagles diving and playing in the air.
         3. Third Image: An eagle perched on a rocky outcrop, surveying its territory.
         4. Fourth Image: The eagles flying off into the distance as the sun sets.
-
+================================================================ X ================================================================
 23. Category Name: Cultural Festivals
     1. Chinese New Year:
         1. First Image: A bustling street decorated with red lanterns.
@@ -304,7 +302,7 @@ Prompt 2:
         2. Second Image: People lighting diyas (oil lamps) and placing them along the path.
         3. Third Image: A spectacular fireworks display.
         4. Fourth Image: The celebration continuing into the night with music and dance.
-
+================================================================ X ================================================================
 24. Category Name: Majestic Landscapes
     1. Grand Canyon:
         1. First Image: The vast expanse of the Grand Canyon with its layered rock formations.
@@ -315,10 +313,8 @@ Prompt 2:
         1. First Image: A snowy landscape under a clear night sky.
         2. Second Image: The Northern Lights beginning to dance across the sky.
         3. Third Image: The sky filled with vibrant greens, pinks, and purples.
-        4. Fourth Image: The aurora reflecting on a frozen
-
- lake.
-
+        4. Fourth Image: The aurora reflecting on a frozen lake.
+================================================================ X ================================================================
 25. Category Name: Dreamy Gardens
     1. Secret Garden:
         1. First Image: A hidden garden behind an ivy-covered wall.
@@ -330,7 +326,7 @@ Prompt 2:
         2. Second Image: A path winding through the garden, lined with roses.
         3. Third Image: A gazebo covered in climbing roses.
         4. Fourth Image: The garden at sunset, with the roses glowing in the warm light.
-
+================================================================ X ================================================================
 26. Category Name: Captivating Cityscapes
     1. Venice Canals:
         1. First Image: The iconic canals of Venice with gondolas gliding through the water.
@@ -342,7 +338,7 @@ Prompt 2:
         2. Second Image: Red and orange leaves creating a vibrant canopy.
         3. Third Image: A temple surrounded by colorful trees.
         4. Fourth Image: The street illuminated by lanterns as night falls.
-
+================================================================ X ================================================================
 27. Category Name: Ancient Ruins
     1. Machu Picchu:
         1. First Image: The ancient Incan city of Machu Picchu nestled in the mountains.
@@ -354,7 +350,7 @@ Prompt 2:
         2. Second Image: The iconic Treasury building illuminated by the sun.
         3. Third Image: A narrow canyon leading into the city.
         4. Fourth Image: The city at night, with candles lighting the way.
-
+================================================================ X ================================================================
 28. Category Name: Stunning Coastlines
     1. Cliffs of Moher:
         1. First Image: The dramatic Cliffs of Moher rising above the Atlantic Ocean.
@@ -366,7 +362,7 @@ Prompt 2:
         2. Second Image: A winding path leading through the picturesque town.
         3. Third Image: Blue-domed churches contrasting with the white buildings.
         4. Fourth Image: The town glowing in the warm light of dusk.
-
+================================================================ X ================================================================
 29. Category Name: Breathtaking Vistas
     1. Swiss Alps:
         1. First Image: The majestic peaks of the Swiss Alps covered in snow.
@@ -378,7 +374,7 @@ Prompt 2:
         2. Second Image: A boat making its way through the narrow passage.
         3. Third Image: Waterfalls cascading down the cliffs.
         4. Fourth Image: The fjords bathed in the soft light of early evening.
-
+================================================================ X ================================================================
 30. Category Name: Autumn Splendor
     1. Maple Forest:
         1. First Image: A forest of maple trees with vibrant autumn foliage.
@@ -390,7 +386,7 @@ Prompt 2:
         2. Second Image: Families picking out the perfect pumpkins.
         3. Third Image: A hayride making its way through the patch.
         4. Fourth Image: The patch illuminated by the soft light of dusk.
-
+================================================================ X ================================================================
 31. Category Name: Charming Towns
     1. Provencal Village:
         1. First Image: A charming village in Provence with lavender fields in full bloom.
@@ -402,7 +398,7 @@ Prompt 2:
         2. Second Image: Bicycles lined up along the canal.
         3. Third Image: Boats gently floating on the water.
         4. Fourth Image: The town illuminated by soft, warm lights at dusk.
-
+================================================================ X ================================================================
 32. Category Name: Serene Rivers
     1. Tranquil River:
         1. First Image: A peaceful river winding through a lush landscape.
@@ -414,7 +410,7 @@ Prompt 2:
         2. Second Image: The stream surrounded by vibrant wildflowers.
         3. Third Image: A small waterfall cascading into a pool.
         4. Fourth Image: The stream glowing in the soft light of early morning.
-
+================================================================ X ================================================================
 33. Category Name: Enchanting Castles
     1. Scottish Highlands Castle:
         1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
@@ -426,7 +422,7 @@ Prompt 2:
         2. Second Image: The castle nestled among forested hills.
         3. Third Image: A winding path leading up to the castle gates.
         4. Fourth Image: The castle glowing softly under a starry sky.
-
+================================================================ X ================================================================
 34. Category Name: Blossoming Orchards
     1. Apple Orchard:
         1. First Image: Rows of apple trees in full bloom.
@@ -438,7 +434,7 @@ Prompt 2:
         2. Second Image: Petals gently falling to the ground.
         3. Third Image: A path winding through the grove.
         4. Fourth Image: The grove illuminated by the soft light of early morning.
-
+================================================================ X ================================================================
 35. Category Name: Peaceful Ponds
     1. Lily Pond:
         1. First Image: A serene pond covered in water lilies.
@@ -450,7 +446,7 @@ Prompt 2:
         2. Second Image: The fish swimming gracefully among the plants.
         3. Third Image: A small wooden bridge crossing the pond.
         4. Fourth Image: The pond glowing softly in the light of dusk.
-
+================================================================ X ================================================================
 36. Category Name: Majestic Canyons
     1. Bryce Canyon:
         1. First Image: The unique rock formations of Bryce Canyon.
@@ -462,13 +458,11 @@ Prompt 2:
         2. Second Image: Sunbeams filtering through the openings above.
         3. Third Image: The swirling, colorful patterns in the rock walls.
         4. Fourth Image: The canyon bathed in the soft light of late afternoon.
-
+================================================================ X ================================================================
 37. Category Name: Idyllic Meadows
     1. Spring Meadow:
         1. First Image: A vibrant meadow filled with blooming wildflowers.
-        2. Second Image:
-
- Butterflies fluttering among the flowers.
+        2. Second Image: Butterflies fluttering among the flowers.
         3. Third Image: A small stream winding through the meadow.
         4. Fourth Image: The meadow bathed in the golden light of late afternoon.
     2. Summer Field:
@@ -476,7 +470,7 @@ Prompt 2:
         2. Second Image: Birds singing in the trees at the edge of the field.
         3. Third Image: A wooden fence dividing the field.
         4. Fourth Image: The field glowing in the warm light of sunset.
-
+================================================================ X ================================================================
 38. Category Name: Enchanting Forests
     1. Birch Forest:
         1. First Image: A dense forest of tall birch trees.
@@ -488,7 +482,7 @@ Prompt 2:
         2. Second Image: The scent of pine needles filling the air.
         3. Third Image: A path winding through the trees.
         4. Fourth Image: The forest glowing in the light of late afternoon.
-
+================================================================ X ================================================================
 39. Category Name: Colorful Landscapes
     1. Lavender Fields:
         1. First Image: Endless rows of lavender in full bloom.
@@ -500,7 +494,7 @@ Prompt 2:
         2. Second Image: A windmill standing tall among the flowers.
         3. Third Image: Families walking through the colorful rows.
         4. Fourth Image: The fields illuminated by the soft light of early evening.
-
+================================================================ X ================================================================
 40. Category Name: Serene Beaches
     1. Secluded Cove:
         1. First Image: A hidden cove with clear, turquoise waters.
@@ -512,7 +506,7 @@ Prompt 2:
         2. Second Image: Tide pools forming in the rocky crevices.
         3. Third Image: Seagulls flying above the water.
         4. Fourth Image: The shore bathed in the soft light of early evening.
-
+================================================================ X ================================================================
 41. Category Name: Idyllic Villages
     1. Provencal Village:
         1. First Image: A charming village in Provence with lavender fields in full bloom.
@@ -524,7 +518,7 @@ Prompt 2:
         2. Second Image: Bicycles lined up along the canal.
         3. Third Image: Boats gently floating on the water.
         4. Fourth Image: The town illuminated by soft, warm lights at dusk.
-
+================================================================ X ================================================================
 42. Category Name: Tranquil Rivers
     1. Tranquil River:
         1. First Image: A peaceful river winding through a lush landscape.
@@ -536,7 +530,7 @@ Prompt 2:
         2. Second Image: The stream surrounded by vibrant wildflowers.
         3. Third Image: A small waterfall cascading into a pool.
         4. Fourth Image: The stream glowing in the soft light of early morning.
-
+================================================================ X ================================================================
 43. Category Name: Enchanting Castles
     1. Scottish Highlands Castle:
         1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
@@ -548,7 +542,7 @@ Prompt 2:
         2. Second Image: The castle nestled among forested hills.
         3. Third Image: A winding path leading up to the castle gates.
         4. Fourth Image: The castle glowing softly under a starry sky.
-
+================================================================ X ================================================================
 44. Category Name: Blossoming Orchards
     1. Apple Orchard:
         1. First Image: Rows of apple trees in full bloom.
@@ -560,7 +554,7 @@ Prompt 2:
         2. Second Image: Petals gently falling to the ground.
         3. Third Image: A path winding through the grove.
         4. Fourth Image: The grove illuminated by the soft light of early morning.
-
+================================================================ X ================================================================
 45. Category Name: Peaceful Ponds
     1. Lily Pond:
         1. First Image: A serene pond covered in water lilies.
@@ -572,7 +566,7 @@ Prompt 2:
         2. Second Image: The fish swimming gracefully among the plants.
         3. Third Image: A small wooden bridge crossing the pond.
         4. Fourth Image: The pond glowing softly in the light of dusk.
-
+================================================================ X ================================================================
 46. Category Name: Majestic Canyons
     1. Bryce Canyon:
         1. First Image: The unique rock formations of Bryce Canyon.
@@ -584,7 +578,7 @@ Prompt 2:
         2. Second Image: Sunbeams filtering through the openings above.
         3. Third Image: The swirling, colorful patterns in the rock walls.
         4. Fourth Image: The canyon bathed in the soft light of late afternoon.
-
+================================================================ X ================================================================
 47. Category Name: Idyllic Meadows
     1. Spring Meadow:
         1. First Image: A vibrant meadow filled with blooming wildflowers.
@@ -596,7 +590,7 @@ Prompt 2:
         2. Second Image: Birds singing in the trees at the edge of the field.
         3. Third Image: A wooden fence dividing the field.
         4. Fourth Image: The field glowing in the warm light of sunset.
-
+================================================================ X ================================================================
 48. Category Name: Enchanting Forests
     1. Birch Forest:
         1. First Image: A dense forest of tall birch trees.
@@ -608,7 +602,7 @@ Prompt 2:
         2. Second Image: The scent of pine needles filling the air.
         3. Third Image: A path winding through the trees.
         4. Fourth Image: The forest glowing in the light of late afternoon.
-
+================================================================ X ================================================================
 49. Category Name: Colorful Landscapes
     1. Lavender Fields:
         1. First Image: Endless rows of lavender in full bloom.
@@ -618,11 +612,9 @@ Prompt 2:
     2. Tulip Fields:
         1. First Image: Vibrant tulip fields stretching out to the horizon.
         2. Second Image: A windmill standing tall among the flowers.
-        3. Third Image: Families walking through the colorful
-
- rows.
+        3. Third Image: Families walking through the colorful rows.
         4. Fourth Image: The fields illuminated by the soft light of early evening.
-
+================================================================ X ================================================================
 50. Category Name: Serene Beaches
     1. Secluded Cove:
         1. First Image: A hidden cove with clear, turquoise waters.

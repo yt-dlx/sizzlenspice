@@ -38,7 +38,7 @@ Prompt 2:
         2. Second Image: Exploring the lunar landscape, discovering ancient alien ruins.
         3. Third Image: A crisis where the protagonist must save the colony from a meteor shower.
         4. Fourth Image: The colony thriving, with the protagonist celebrated as a hero.
-
+================================================================ X ================================================================
 2. Category Name: Cyber Cities
     1. Neon Metropolis:
         1. First Image: The protagonist walking through a neon-lit cityscape filled with towering skyscrapers and holograms.
@@ -50,7 +50,7 @@ Prompt 2:
         2. Second Image: Exploring the city’s innovations, such as autonomous transport and smart buildings.
         3. Third Image: A battle against a rogue AI threatening the city’s infrastructure.
         4. Fourth Image: The city safe, with the protagonist honored for their bravery.
-
+================================================================ X ================================================================
 3. Category Name: Advanced Robotics
     1. Robo Revolution:
         1. First Image: The protagonist working alongside advanced humanoid robots in a futuristic factory.
@@ -62,7 +62,7 @@ Prompt 2:
         2. Second Image: Learning about the androids’ culture and technology.
         3. Third Image: A conflict where the protagonist helps defend the androids from hostile forces.
         4. Fourth Image: The android society thriving, with the protagonist becoming an honorary member.
-
+================================================================ X ================================================================
 4. Category Name: Virtual Reality
     1. Digital Worlds:
         1. First Image: The protagonist putting on a VR headset and entering a stunning digital landscape.
@@ -74,7 +74,7 @@ Prompt 2:
         2. Second Image: Forming a team with other players to complete quests.
         3. Third Image: A battle against a formidable boss in a cyber arena.
         4. Fourth Image: The protagonist’s team standing victorious, with high scores displayed.
-
+================================================================ X ================================================================
 5. Category Name: Space Colonies
     1. Mars Base:
         1. First Image: The protagonist arriving at a sprawling colony on Mars.
@@ -86,7 +86,7 @@ Prompt 2:
         2. Second Image: Discovering the city’s unique architecture and mining operations.
         3. Third Image: Defending the city from space pirates attempting to seize control.
         4. Fourth Image: The city safe, with the protagonist celebrated for their bravery.
-
+================================================================ X ================================================================
 6. Category Name: Futuristic Warfare
     1. Tech Soldiers:
         1. First Image: The protagonist donning advanced combat gear in a futuristic military base.
@@ -98,7 +98,7 @@ Prompt 2:
         2. Second Image: Coordinating complex maneuvers using advanced AI.
         3. Third Image: Facing a powerful enemy commander in an intense showdown.
         4. Fourth Image: The protagonist and their squad celebrating their victory, with the enemy defeated.
-
+================================================================ X ================================================================
 7. Category Name: Space Exploration
     1. Interstellar Journey:
         1. First Image: The protagonist boarding a massive starship, preparing for a deep space mission.
@@ -110,7 +110,7 @@ Prompt 2:
         2. Second Image: Discovering habitable planets and ancient alien artifacts.
         3. Third Image: Defending a newly established colony from hostile alien forces.
         4. Fourth Image: The frontier thriving, with the protagonist celebrated as a pioneer.
-
+================================================================ X ================================================================
 8. Category Name: Genetic Engineering
     1. Bio Labs:
         1. First Image: The protagonist working in a cutting-edge genetic research facility.
@@ -122,7 +122,7 @@ Prompt 2:
         2. Second Image: Learning about their abilities and the ethical challenges they face.
         3. Third Image: A conflict where the protagonist helps protect the community from discrimination.
         4. Fourth Image: The community thriving, with the protagonist as a respected ally.
-
+================================================================ X ================================================================
 9. Category Name: Space Combat
     1. Starship Battles:
         1. First Image: The protagonist commanding a powerful starship in a fleet.
@@ -134,7 +134,7 @@ Prompt 2:
         2. Second Image: Dogfighting with enemy ships in a visually stunning star field.
         3. Third Image: A climactic battle against the enemy’s flagship.
         4. Fourth Image: The protagonist’s squadron victorious, with peace restored to the galaxy.
-
+================================================================ X ================================================================
 10. Category Name: Futuristic Cities
     1. Skyline Wonders:
         1. First Image: The protagonist arriving in a city with towering skyscrapers and floating platforms.
@@ -146,7 +146,7 @@ Prompt 2:
         2. Second Image: Discovering innovations like vertical gardens and renewable energy sources.
         3. Third Image: A conflict where the protagonist helps prevent an environmental disaster.
         4. Fourth Image: The city flourishing, with the protagonist celebrated for their contributions.
-
+================================================================ X ================================================================
 11. Category Name: Advanced AI
     1. AI Uprising:
         1. First Image: The protagonist discovering a secret society of advanced AIs.
@@ -158,13 +158,11 @@ Prompt 2:
         2. Second Image: Forming a bond with the robots and understanding their perspective.
         3. Third Image: Defending the robots from a group seeking to dismantle them.
         4. Fourth Image: The robots integrated into society, with the protagonist as their advocate.
-
+================================================================ X ================================================================
 12. Category Name: Space Colonization
     1. Orbital Habitat:
         1. First Image: The protagonist arriving at a massive space station orbiting a distant planet.
-        2
-
-. Second Image: Exploring the station’s advanced facilities and zero-gravity environments.
+        2. Second Image: Exploring the station’s advanced facilities and zero-gravity environments.
         3. Third Image: A crisis where the protagonist must repair the station’s life support systems.
         4. Fourth Image: The station thriving, with the protagonist hailed as a hero.
     2. Mars Colony:
@@ -172,7 +170,7 @@ Prompt 2:
         2. Second Image: Helping to build and expand the colony’s infrastructure.
         3. Third Image: Defending the colony from a sandstorm or other natural disaster.
         4. Fourth Image: The colony prospering, with the protagonist as a key figure in its success.
-
+================================================================ X ================================================================
 13. Category Name: Futuristic Transportation
     1. Hyperloop Adventure:
         1. First Image: The protagonist boarding a sleek, high-speed Hyperloop train.
@@ -184,7 +182,7 @@ Prompt 2:
         2. Second Image: Experiencing the freedom of flight and advanced traffic systems.
         3. Third Image: A dramatic aerial chase against a group of sky pirates.
         4. Fourth Image: The protagonist victorious, with the skies safe once more.
-
+================================================================ X ================================================================
 14. Category Name: Futuristic Medicine
     1. Nano Healing:
         1. First Image: The protagonist working in a state-of-the-art medical facility.
@@ -196,7 +194,7 @@ Prompt 2:
         2. Second Image: Learning to use their new enhanced abilities.
         3. Third Image: A conflict where the protagonist’s augmentations prove crucial in saving lives.
         4. Fourth Image: The protagonist fully adapted, with their enhancements benefiting society.
-
+================================================================ X ================================================================
 15. Category Name: Space Mining
     1. Asteroid Harvest:
         1. First Image: The protagonist arriving at a mining colony on a large asteroid.
@@ -208,7 +206,7 @@ Prompt 2:
         2. Second Image: Extracting valuable resources using cutting-edge technology.
         3. Third Image: A conflict with rival miners leading to a tense standoff.
         4. Fourth Image: The resources secured, with the protagonist’s team celebrated.
-
+================================================================ X ================================================================
 16. Category Name: Futuristic Agriculture
     1. Vertical Farms:
         1. First Image: The protagonist working in a vertical farm within a futuristic city.
@@ -220,7 +218,7 @@ Prompt 2:
         2. Second Image: Managing the balance of flora and fauna within the dome.
         3. Third Image: A conflict where the protagonist must protect the dome from a natural disaster.
         4. Fourth Image: The dome thriving, with the protagonist recognized for their expertise.
-
+================================================================ X ================================================================
 17. Category Name: Space Tourism
     1. Orbital Resort:
         1. First Image: The protagonist arriving at a luxurious space resort orbiting Earth.
@@ -232,7 +230,7 @@ Prompt 2:
         2. Second Image: Participating in lunar activities like low-gravity sports and sightseeing.
         3. Third Image: A conflict where the protagonist must deal with a technical malfunction in the habitat.
         4. Fourth Image: The vacation successful, with the protagonist enjoying a memorable experience.
-
+================================================================ X ================================================================
 18. Category Name: AI Companions
     1. Robo Pets:
         1. First Image: The protagonist receiving a highly advanced robotic pet.
@@ -244,7 +242,7 @@ Prompt 2:
         2. Second Image: Discovering the assistant’s wide range of abilities and functions.
         3. Third Image: A conflict where the assistant’s AI becomes critical in resolving a household emergency.
         4. Fourth Image: The assistant proving invaluable, with the protagonist’s life greatly enhanced.
-
+================================================================ X ================================================================
 19. Category Name: Futuristic Fashion
     1. Smart Clothing:
         1. First Image: The protagonist trying on clothing embedded with smart technology.
@@ -256,7 +254,7 @@ Prompt 2:
         2. Second Image: Discovering innovative designs that incorporate advanced materials and technology.
         3. Third Image: A dramatic moment where the protagonist’s outfit aids in a rescue or other crisis.
         4. Fourth Image: The fashion world celebrating the protagonist’s style, with tech couture becoming mainstream.
-
+================================================================ X ================================================================
 20. Category Name: Futuristic Education
     1. Virtual Classrooms:
         1. First Image: The protagonist attending a class in a fully immersive virtual environment.
@@ -268,7 +266,7 @@ Prompt 2:
         2. Second Image: The tutor adapting lessons to the protagonist’s unique learning style.
         3. Third Image: A conflict where the tutor helps the protagonist overcome a significant academic challenge.
         4. Fourth Image: The protagonist achieving great success, with the AI tutor celebrated for its effectiveness.
-
+================================================================ X ================================================================
 21. Category Name: Space Habitats
     1. Orbital Colony:
         1. First Image: The protagonist arriving at a massive space colony orbiting a distant planet.
@@ -280,7 +278,7 @@ Prompt 2:
         2. Second Image: Helping to build and expand the colony’s infrastructure.
         3. Third Image: Defending the colony from a sandstorm or other natural disaster.
         4. Fourth Image: The colony prospering, with the protagonist as a key figure in its success.
-
+================================================================ X ================================================================
 22. Category Name: Futuristic Art
     1. Holographic Displays:
         1. First Image: The protagonist attending an art exhibit featuring holographic artwork.
@@ -292,21 +290,19 @@ Prompt 2:
         2. Second Image: Collaborating with the AI to produce unique works of art.
         3. Third Image: A conflict where the protagonist defends the AI’s right to create from skeptics.
         4. Fourth Image: The art world celebrating the AI’s contributions, with the protagonist as a key supporter.
-
+================================================================ X ================================================================
 23. Category Name: Space Mining
     1. Asteroid Mining:
         1. First Image: The protagonist arriving at a mining colony on a large asteroid.
         2. Second Image: Discovering advanced mining equipment and techniques.
-        3. Third Image: A crisis where the protagonist must prevent
-
- a mining disaster.
+        3. Third Image: A crisis where the protagonist must prevent a mining disaster.
         4. Fourth Image: The mining operation successful, with the protagonist honored for their efforts.
     2. Lunar Extraction:
         1. First Image: The protagonist joining a team of miners on the moon.
         2. Second Image: Extracting valuable resources using cutting-edge technology.
         3. Third Image: A conflict with rival miners leading to a tense standoff.
         4. Fourth Image: The resources secured, with the protagonist’s team celebrated.
-
+================================================================ X ================================================================
 24. Category Name: Futuristic Energy
     1. Solar Satellites:
         1. First Image: The protagonist working on a project to build solar power satellites in orbit.
@@ -318,7 +314,7 @@ Prompt 2:
         2. Second Image: The plant achieving breakthroughs in sustainable energy.
         3. Third Image: A conflict where the protagonist prevents a reactor meltdown.
         4. Fourth Image: The fusion plant providing abundant energy, with the protagonist honored.
-
+================================================================ X ================================================================
 25. Category Name: Space Diplomacy
     1. Galactic Council:
         1. First Image: The protagonist representing Earth at a council of interstellar civilizations.
@@ -330,7 +326,7 @@ Prompt 2:
         2. Second Image: Building relationships and understanding the alien culture.
         3. Third Image: A conflict where the protagonist defends the embassy from a threat.
         4. Fourth Image: The embassy thriving, with the protagonist honored for their efforts.
-
+================================================================ X ================================================================
 26. Category Name: Futuristic Cuisine
     1. Smart Kitchens:
         1. First Image: The protagonist cooking in a high-tech kitchen with advanced appliances.
@@ -342,7 +338,7 @@ Prompt 2:
         2. Second Image: Learning about the technology and tasting the innovative dishes.
         3. Third Image: A conflict where the protagonist helps improve the food production process.
         4. Fourth Image: The synthetic foods gaining popularity, with the protagonist’s contributions recognized.
-
+================================================================ X ================================================================
 27. Category Name: Futuristic Music
     1. Holo Concerts:
         1. First Image: The protagonist attending a concert featuring holographic performers.
@@ -354,7 +350,7 @@ Prompt 2:
         2. Second Image: Producing unique compositions that blend human and machine creativity.
         3. Third Image: A conflict where the protagonist defends the AI’s right to create from skeptics.
         4. Fourth Image: The music world celebrating the AI’s contributions, with the protagonist as a key supporter.
-
+================================================================ X ================================================================
 28. Category Name: Space Exploration
     1. Stellar Voyage:
         1. First Image: The protagonist boarding a sleek spaceship, ready for interstellar travel.
@@ -366,7 +362,7 @@ Prompt 2:
         2. Second Image: Discovering habitable planets and ancient alien artifacts.
         3. Third Image: Defending a newly established colony from hostile alien forces.
         4. Fourth Image: The frontier thriving, with the protagonist celebrated as a pioneer.
-
+================================================================ X ================================================================
 29. Category Name: Futuristic Fashion
     1. Smart Fabrics:
         1. First Image: The protagonist trying on clothing embedded with smart technology.
@@ -378,7 +374,7 @@ Prompt 2:
         2. Second Image: Discovering innovative designs that incorporate advanced materials and technology.
         3. Third Image: A dramatic moment where the protagonist’s outfit aids in a rescue or other crisis.
         4. Fourth Image: The fashion world celebrating the protagonist’s style, with tech couture becoming mainstream.
-
+================================================================ X ================================================================
 30. Category Name: Futuristic Medicine
     1. Nano Healing:
         1. First Image: The protagonist working in a state-of-the-art medical facility.
@@ -390,7 +386,7 @@ Prompt 2:
         2. Second Image: Learning to use their new enhanced abilities.
         3. Third Image: A conflict where the protagonist’s augmentations prove crucial in saving lives.
         4. Fourth Image: The protagonist fully adapted, with their enhancements benefiting society.
-
+================================================================ X ================================================================
 31. Category Name: Advanced AI
     1. AI Uprising:
         1. First Image: The protagonist discovering a secret society of advanced AIs.
@@ -402,7 +398,7 @@ Prompt 2:
         2. Second Image: Forming a bond with the robots and understanding their perspective.
         3. Third Image: Defending the robots from a group seeking to dismantle them.
         4. Fourth Image: The robots integrated into society, with the protagonist as their advocate.
-
+================================================================ X ================================================================
 32. Category Name: Futuristic Architecture
     1. Sky Cities:
         1. First Image: The protagonist arriving in a city suspended high in the sky with futuristic buildings.
@@ -414,7 +410,7 @@ Prompt 2:
         2. Second Image: Discovering the city’s unique architecture and marine life integration.
         3. Third Image: A conflict where the protagonist must prevent a structural breach.
         4. Fourth Image: The city secure, with the protagonist celebrated for their bravery.
-
+================================================================ X ================================================================
 33. Category Name: Futuristic Warfare
     1. Tech Soldiers:
         1. First Image: The protagonist donning advanced combat gear in a futuristic military base.
@@ -426,7 +422,7 @@ Prompt 2:
         2. Second Image: Coordinating complex maneuvers using advanced AI.
         3. Third Image: Facing a powerful enemy commander in an intense showdown.
         4. Fourth Image: The protagonist and their squad celebrating their victory, with the enemy defeated.
-
+================================================================ X ================================================================
 34. Category Name: Genetic Engineering
     1. Bio Labs:
         1. First Image: The protagonist working in a cutting-edge genetic research facility.
@@ -435,12 +431,10 @@ Prompt 2:
         4. Fourth Image: The protagonist finding a cure, with the lab resuming its research safely.
     2. Future Humans:
         1. First Image: The protagonist meeting a community of genetically enhanced individuals.
-        2. Second Image: Learning about their abilities and
-
- the ethical challenges they face.
+        2. Second Image: Learning about their abilities and the ethical challenges they face.
         3. Third Image: A conflict where the protagonist helps protect the community from discrimination.
         4. Fourth Image: The community thriving, with the protagonist as a respected ally.
-
+================================================================ X ================================================================
 35. Category Name: Futuristic Transportation
     1. Hyperloop Adventure:
         1. First Image: The protagonist boarding a sleek, high-speed Hyperloop train.
@@ -452,7 +446,7 @@ Prompt 2:
         2. Second Image: Experiencing the freedom of flight and advanced traffic systems.
         3. Third Image: A dramatic aerial chase against a group of sky pirates.
         4. Fourth Image: The protagonist victorious, with the skies safe once more.
-
+================================================================ X ================================================================
 36. Category Name: Space Colonization
     1. Orbital Habitat:
         1. First Image: The protagonist arriving at a massive space station orbiting a distant planet.
@@ -464,7 +458,7 @@ Prompt 2:
         2. Second Image: Helping to build and expand the colony’s infrastructure.
         3. Third Image: Defending the colony from a sandstorm or other natural disaster.
         4. Fourth Image: The colony prospering, with the protagonist as a key figure in its success.
-
+================================================================ X ================================================================
 37. Category Name: Futuristic Agriculture
     1. Vertical Farms:
         1. First Image: The protagonist working in a vertical farm within a futuristic city.
@@ -476,7 +470,7 @@ Prompt 2:
         2. Second Image: Managing the balance of flora and fauna within the dome.
         3. Third Image: A conflict where the protagonist must protect the dome from a natural disaster.
         4. Fourth Image: The dome thriving, with the protagonist recognized for their expertise.
-
+================================================================ X ================================================================
 38. Category Name: Space Tourism
     1. Orbital Resort:
         1. First Image: The protagonist arriving at a luxurious space resort orbiting Earth.
@@ -488,7 +482,7 @@ Prompt 2:
         2. Second Image: Participating in lunar activities like low-gravity sports and sightseeing.
         3. Third Image: A conflict where the protagonist must deal with a technical malfunction in the habitat.
         4. Fourth Image: The vacation successful, with the protagonist enjoying a memorable experience.
-
+================================================================ X ================================================================
 39. Category Name: AI Companions
     1. Robo Pets:
         1. First Image: The protagonist receiving a highly advanced robotic pet.
@@ -500,7 +494,7 @@ Prompt 2:
         2. Second Image: Discovering the assistant’s wide range of abilities and functions.
         3. Third Image: A conflict where the assistant’s AI becomes critical in resolving a household emergency.
         4. Fourth Image: The assistant proving invaluable, with the protagonist’s life greatly enhanced.
-
+================================================================ X ================================================================
 40. Category Name: Futuristic Fashion
     1. Smart Clothing:
         1. First Image: The protagonist trying on clothing embedded with smart technology.
@@ -512,7 +506,7 @@ Prompt 2:
         2. Second Image: Discovering innovative designs that incorporate advanced materials and technology.
         3. Third Image: A dramatic moment where the protagonist’s outfit aids in a rescue or other crisis.
         4. Fourth Image: The fashion world celebrating the protagonist’s style, with tech couture becoming mainstream.
-
+================================================================ X ================================================================
 41. Category Name: Futuristic Education
     1. Virtual Classrooms:
         1. First Image: The protagonist attending a class in a fully immersive virtual environment.
@@ -524,7 +518,7 @@ Prompt 2:
         2. Second Image: The tutor adapting lessons to the protagonist’s unique learning style.
         3. Third Image: A conflict where the tutor helps the protagonist overcome a significant academic challenge.
         4. Fourth Image: The protagonist achieving great success, with the AI tutor celebrated for its effectiveness.
-
+================================================================ X ================================================================
 42. Category Name: Space Habitats
     1. Orbital Colony:
         1. First Image: The protagonist arriving at a massive space colony orbiting a distant planet.
@@ -536,7 +530,7 @@ Prompt 2:
         2. Second Image: Helping to build and expand the colony’s infrastructure.
         3. Third Image: Defending the colony from a sandstorm or other natural disaster.
         4. Fourth Image: The colony prospering, with the protagonist as a key figure in its success.
-
+================================================================ X ================================================================
 43. Category Name: Futuristic Art
     1. Holographic Displays:
         1. First Image: The protagonist attending an art exhibit featuring holographic artwork.
@@ -548,7 +542,7 @@ Prompt 2:
         2. Second Image: Collaborating with the AI to produce unique works of art.
         3. Third Image: A conflict where the protagonist defends the AI’s right to create from skeptics.
         4. Fourth Image: The art world celebrating the AI’s contributions, with the protagonist as a key supporter.
-
+================================================================ X ================================================================
 44. Category Name: Futuristic Energy
     1. Solar Satellites:
         1. First Image: The protagonist working on a project to build solar power satellites in orbit.
@@ -560,7 +554,7 @@ Prompt 2:
         2. Second Image: The plant achieving breakthroughs in sustainable energy.
         3. Third Image: A conflict where the protagonist prevents a reactor meltdown.
         4. Fourth Image: The fusion plant providing abundant energy, with the protagonist honored.
-
+================================================================ X ================================================================
 45. Category Name: Futuristic Communication
     1. Telepathic Interfaces:
         1. First Image: The protagonist using a telepathic interface to communicate instantly with others.
@@ -569,12 +563,10 @@ Prompt 2:
         4. Fourth Image: The communication system improved, with the protagonist celebrated for their efforts.
     2. Holographic Calls:
         1. First Image: The protagonist making a holographic call to a distant relative.
-        2. Second Image: Experiencing the immersive visuals and real-time interaction.
-        
-
- 3. Third Image: A conflict where the protagonist helps fix a glitch in the holographic system.
+        2. Second Image: Experiencing the immersive visuals and real-time interaction.     
+        3. Third Image: A conflict where the protagonist helps fix a glitch in the holographic system.
         4. Fourth Image: The system functioning perfectly, with the protagonist’s efforts recognized.
-
+================================================================ X ================================================================
 46. Category Name: Futuristic Entertainment
     1. Holo Games:
         1. First Image: The protagonist entering a holographic game arena.
@@ -586,7 +578,7 @@ Prompt 2:
         2. Second Image: Experiencing the music and visuals in a fully immersive environment.
         3. Third Image: A crisis where the protagonist helps resolve a technical issue during the concert.
         4. Fourth Image: The concert a success, with the protagonist’s efforts appreciated.
-
+================================================================ X ================================================================
 47. Category Name: Space Diplomacy
     1. Galactic Council:
         1. First Image: The protagonist representing Earth at a council of interstellar civilizations.
@@ -598,7 +590,7 @@ Prompt 2:
         2. Second Image: Building relationships and understanding the alien culture.
         3. Third Image: A conflict where the protagonist defends the embassy from a threat.
         4. Fourth Image: The embassy thriving, with the protagonist honored for their efforts.
-
+================================================================ X ================================================================
 48. Category Name: Futuristic Cuisine
     1. Smart Kitchens:
         1. First Image: The protagonist cooking in a high-tech kitchen with advanced appliances.
@@ -610,7 +602,7 @@ Prompt 2:
         2. Second Image: Learning about the technology and tasting the innovative dishes.
         3. Third Image: A conflict where the protagonist helps improve the food production process.
         4. Fourth Image: The synthetic foods gaining popularity, with the protagonist’s contributions recognized.
-
+================================================================ X ================================================================
 49. Category Name: Futuristic Music
     1. Holo Concerts:
         1. First Image: The protagonist attending a concert featuring holographic performers.
@@ -622,7 +614,7 @@ Prompt 2:
         2. Second Image: Producing unique compositions that blend human and machine creativity.
         3. Third Image: A conflict where the protagonist defends the AI’s right to create from skeptics.
         4. Fourth Image: The music world celebrating the AI’s contributions, with the protagonist as a key supporter.
-
+================================================================ X ================================================================
 50. Category Name: Space Combat
     1. Starship Battles:
         1. First Image: The protagonist commanding a powerful starship in a fleet.

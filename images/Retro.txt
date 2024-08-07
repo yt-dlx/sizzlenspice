@@ -38,7 +38,7 @@ Prompt 2:
         2. Second Image: Kids gathered around, playing a classic 8-bit game.
         3. Third Image: An intense gaming moment with everyone cheering.
         4. Fourth Image: The game paused, with snacks and drinks scattered around.
-
+================================================================ X ================================================================
 2. Category Name: Retro Fashion
     1. 70s Disco:
         1. First Image: A bustling disco with a light-up dance floor and disco ball.
@@ -50,7 +50,7 @@ Prompt 2:
         2. Second Image: The instructor leading high-energy exercises.
         3. Third Image: Everyone in sync, following the workout moves.
         4. Fourth Image: The class winding down with stretches and cool-down.
-
+================================================================ X ================================================================
 3. Category Name: Retro Music
     1. Vinyl Revival:
         1. First Image: A cozy room with a turntable and a collection of vinyl records.
@@ -62,7 +62,7 @@ Prompt 2:
         2. Second Image: The lead singer belting out a powerful song.
         3. Third Image: The audience waving lighters and singing along.
         4. Fourth Image: The band taking a bow, the crowd roaring with applause.
-
+================================================================ X ================================================================
 4. Category Name: Retro Technology
     1. Old School Office:
         1. First Image: An office setup with typewriters, rotary phones, and paper files.
@@ -74,7 +74,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 5. Category Name: Retro Travel
     1. Vintage Road Trip:
         1. First Image: A retro car packed with luggage, ready for a road trip.
@@ -86,7 +86,7 @@ Prompt 2:
         2. Second Image: The train moving through picturesque landscapes.
         3. Third Image: Passengers enjoying the ride, looking out the windows.
         4. Fourth Image: The train arriving at its destination, steam billowing.
-
+================================================================ X ================================================================
 6. Category Name: Retro Sports
     1. Old School Basketball:
         1. First Image: A 70s basketball game with players in short shorts and high socks.
@@ -98,7 +98,7 @@ Prompt 2:
         2. Second Image: Two boxers sparring in the ring, intense focus on their faces.
         3. Third Image: A knockout punch landing, the crowd gasping.
         4. Fourth Image: The victorious boxer raising their gloves in triumph.
-
+================================================================ X ================================================================
 7. Category Name: Retro Lifestyle
     1. 50s Diner:
         1. First Image: A classic 50s diner with checkered floors and neon signs.
@@ -110,7 +110,7 @@ Prompt 2:
         2. Second Image: A family gathered around the TV, watching a popular show.
         3. Third Image: Kids playing with retro toys on the carpet.
         4. Fourth Image: The family relaxing as the night progresses, the TV still on.
-
+================================================================ X ================================================================
 8. Category Name: Retro Toys
     1. Classic Toy Store:
         1. First Image: A vintage toy store with shelves filled with retro toys.
@@ -122,7 +122,7 @@ Prompt 2:
         2. Second Image: Kids playing games, with high scores flashing on screens.
         3. Third Image: A dramatic moment with a player about to beat a high score.
         4. Fourth Image: The arcade quieting down as the night ends, lights dimming.
-
+================================================================ X ================================================================
 9. Category Name: Retro Celebrations
     1. 50s Sock Hop:
         1. First Image: A high school gym decorated for a 50s-style dance.
@@ -134,7 +134,7 @@ Prompt 2:
         2. Second Image: Guests in colorful 70s outfits dancing to disco hits.
         3. Third Image: A dance-off moment with everyone cheering.
         4. Fourth Image: The party winding down, with the disco ball still spinning.
-
+================================================================ X ================================================================
 10. Category Name: Retro TV Shows
     1. Classic Sitcom:
         1. First Image: A 60s living room with a black-and-white TV playing a classic sitcom.
@@ -146,7 +146,7 @@ Prompt 2:
         2. Second Image: Iconic cartoon characters on the screen, vibrant and animated.
         3. Third Image: Kids laughing and enjoying the shows with cereal bowls in hand.
         4. Fourth Image: The cartoons ending, kids still talking about their favorite moments.
-
+================================================================ X ================================================================
 11. Category Name: Retro Road Trips
     1. Route 66 Adventure:
         1. First Image: A classic car driving down the iconic Route 66.
@@ -158,7 +158,7 @@ Prompt 2:
         2. Second Image: The ocean waves crashing against the rocks below.
         3. Third Image: A stop at a beach for a picnic.
         4. Fourth Image: The car driving off into the sunset, the sky painted with vibrant colors.
-
+================================================================ X ================================================================
 12. Category Name: Retro Education
     1. Old School Classroom:
         1. First Image: A classroom with wooden desks, a chalkboard, and a globe.
@@ -166,13 +166,11 @@ Prompt 2:
         3. Third Image: A teacher writing on the chalkboard.
         4. Fourth Image: The school bell ringing, students packing up to leave.
     2. Science Fair:
-        1.
-
- First Image: A gymnasium filled with science fair projects and displays.
+        1. First Image: A gymnasium filled with science fair projects and displays.
         2. Second Image: Students presenting their projects to judges.
         3. Third Image: A tense moment as the winners are announced.
         4. Fourth Image: The winners celebrating with their trophies.
-
+================================================================ X ================================================================
 13. Category Name: Retro Communication
     1. Rotary Phones:
         1. First Image: A vintage home with a rotary phone on a small table.
@@ -184,7 +182,7 @@ Prompt 2:
         2. Second Image: The letter being placed into an envelope with a stamp.
         3. Third Image: The letter being dropped into a mailbox.
         4. Fourth Image: The recipient opening the letter and reading it with a smile.
-
+================================================================ X ================================================================
 14. Category Name: Retro Automobiles
     1. Classic Car Show:
         1. First Image: A lineup of vintage cars at a car show.
@@ -196,7 +194,7 @@ Prompt 2:
         2. Second Image: A movie playing on the big screen, everyone watching from their cars.
         3. Third Image: Kids sitting on car hoods, enjoying the movie.
         4. Fourth Image: The movie ending, cars slowly driving away.
-
+================================================================ X ================================================================
 15. Category Name: Retro Vacations
     1. Vintage Beach Day:
         1. First Image: A 60s beach scene with colorful umbrellas and retro swimsuits.
@@ -208,7 +206,7 @@ Prompt 2:
         2. Second Image: Skiers navigating down the slopes with ease.
         3. Third Image: A cozy cabin with a roaring fire and hot cocoa.
         4. Fourth Image: The group relaxing after a day of skiing, reminiscing about the fun.
-
+================================================================ X ================================================================
 16. Category Name: Retro Dining
     1. 50s Diner:
         1. First Image: A classic diner with checkered floors, neon signs, and red booths.
@@ -220,7 +218,7 @@ Prompt 2:
         2. Second Image: A family enjoying sandwiches, lemonade, and pie.
         3. Third Image: Kids playing catch and flying kites.
         4. Fourth Image: The family packing up as the sun sets, leaving the park.
-
+================================================================ X ================================================================
 17. Category Name: Retro Communication
     1. Rotary Phones:
         1. First Image: A vintage home with a rotary phone on a small table.
@@ -232,7 +230,7 @@ Prompt 2:
         2. Second Image: The letter being placed into an envelope with a stamp.
         3. Third Image: The letter being dropped into a mailbox.
         4. Fourth Image: The recipient opening the letter and reading it with a smile.
-
+================================================================ X ================================================================
 18. Category Name: Retro Architecture
     1. Mid-Century Modern Home:
         1. First Image: A mid-century modern home with clean lines and large windows.
@@ -244,7 +242,7 @@ Prompt 2:
         2. Second Image: The building's ornate lobby with geometric patterns and rich colors.
         3. Third Image: Visitors admiring the architectural details.
         4. Fourth Image: The building lit up at night, highlighting its grandeur.
-
+================================================================ X ================================================================
 19. Category Name: Retro Nightlife
     1. Speakeasy:
         1. First Image: A hidden entrance to a 1920s speakeasy.
@@ -256,7 +254,7 @@ Prompt 2:
         2. Second Image: People dancing in colorful 70s attire.
         3. Third Image: A DJ spinning records, keeping the energy high.
         4. Fourth Image: The club winding down as the night ends.
-
+================================================================ X ================================================================
 20. Category Name: Retro Transportation
     1. Classic Roadster:
         1. First Image: A vintage roadster driving along a scenic highway.
@@ -268,7 +266,7 @@ Prompt 2:
         2. Second Image: A person riding the bicycle through a countryside.
         3. Third Image: The rider stopping at a small café for a break.
         4. Fourth Image: The bicycle parked outside a home, the rider walking in.
-
+================================================================ X ================================================================
 21. Category Name: Retro Festivities
     1. 60s Beach Party:
         1. First Image: A beach scene with colorful umbrellas and retro swimsuits.
@@ -280,7 +278,7 @@ Prompt 2:
         2. Second Image: Teens dancing to rock 'n' roll music, wearing poodle skirts and leather jackets.
         3. Third Image: A dance competition with everyone gathered around cheering.
         4. Fourth Image: The dance ending with everyone happily chatting and heading home.
-
+================================================================ X ================================================================
 22. Category Name: Retro Shopping
     1. Vintage Market:
         1. First Image: A bustling vintage market with stalls selling retro goods.
@@ -292,7 +290,7 @@ Prompt 2:
         2. Second Image: Shoppers exploring different departments.
         3. Third Image: A busy checkout line with a classic cash register.
         4. Fourth Image: The store closing for the evening, lights dimming.
-
+================================================================ X ================================================================
 23. Category Name: Retro Offices
     1. 60s Office:
         1. First Image: A corporate office with typewriters, rotary phones, and paper files.
@@ -304,7 +302,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 24. Category Name: Retro Broadcasting
     1. Old Time Radio:
         1. First Image: A radio studio with vintage microphones and equipment.
@@ -312,13 +310,11 @@ Prompt 2:
         3. Third Image: Guests being interviewed on air.
         4. Fourth Image: The show ending, with the host signing off.
     2. Black-and-White TV:
-        1. First Image: A
-
- living room setup with a black-and-white TV.
+        1. First Image: A living room setup with a black-and-white TV.
         2. Second Image: A family gathered around, watching a classic show.
         3. Third Image: An intense moment on the TV screen.
         4. Fourth Image: The family relaxing as the show ends.
-
+================================================================ X ================================================================
 25. Category Name: Retro Entertainments
     1. Drive-In Movies:
         1. First Image: A drive-in theater with classic cars parked in rows.
@@ -330,7 +326,7 @@ Prompt 2:
         2. Second Image: The audience seated, waiting for the movie to start.
         3. Third Image: An iconic scene from the film playing on the big screen.
         4. Fourth Image: The crowd applauding as the credits roll.
-
+================================================================ X ================================================================
 26. Category Name: Retro Socials
     1. 50s Sock Hop:
         1. First Image: A high school gym decorated for a 50s-style dance.
@@ -342,7 +338,7 @@ Prompt 2:
         2. Second Image: Participants sitting on blankets, playing guitars and singing.
         3. Third Image: A moment of peace and love, with everyone joining hands.
         4. Fourth Image: The event winding down as the sun sets, people leaving with smiles.
-
+================================================================ X ================================================================
 27. Category Name: Retro Sports
     1. Old School Basketball:
         1. First Image: A 70s basketball game with players in short shorts and high socks.
@@ -354,7 +350,7 @@ Prompt 2:
         2. Second Image: Two boxers sparring in the ring, intense focus on their faces.
         3. Third Image: A knockout punch landing, the crowd gasping.
         4. Fourth Image: The victorious boxer raising their gloves in triumph.
-
+================================================================ X ================================================================
 28. Category Name: Retro Automobiles
     1. Classic Car Show:
         1. First Image: A lineup of vintage cars at a car show.
@@ -366,7 +362,7 @@ Prompt 2:
         2. Second Image: A movie playing on the big screen, everyone watching from their cars.
         3. Third Image: Kids sitting on car hoods, enjoying the movie.
         4. Fourth Image: The movie ending, cars slowly driving away.
-
+================================================================ X ================================================================
 29. Category Name: Retro Workplaces
     1. 60s Office:
         1. First Image: A corporate office with typewriters, rotary phones, and paper files.
@@ -378,7 +374,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 30. Category Name: Retro Technology
     1. Old School Office:
         1. First Image: An office setup with typewriters, rotary phones, and paper files.
@@ -390,7 +386,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 31. Category Name: Retro Toys
     1. Classic Toy Store:
         1. First Image: A vintage toy store with shelves filled with retro toys.
@@ -402,7 +398,7 @@ Prompt 2:
         2. Second Image: Kids playing games, with high scores flashing on screens.
         3. Third Image: A dramatic moment with a player about to beat a high score.
         4. Fourth Image: The arcade quieting down as the night ends, lights dimming.
-
+================================================================ X ================================================================
 32. Category Name: Retro Lifestyle
     1. 50s Diner:
         1. First Image: A classic 50s diner with checkered floors and neon signs.
@@ -414,7 +410,7 @@ Prompt 2:
         2. Second Image: A family gathered around the TV, watching a popular show.
         3. Third Image: Kids playing with retro toys on the carpet.
         4. Fourth Image: The family relaxing as the night progresses, the TV still on.
-
+================================================================ X ================================================================
 33. Category Name: Retro Communication
     1. Rotary Phones:
         1. First Image: A vintage home with a rotary phone on a small table.
@@ -426,7 +422,7 @@ Prompt 2:
         2. Second Image: The letter being placed into an envelope with a stamp.
         3. Third Image: The letter being dropped into a mailbox.
         4. Fourth Image: The recipient opening the letter and reading it with a smile.
-
+================================================================ X ================================================================
 34. Category Name: Retro Music
     1. Vinyl Revival:
         1. First Image: A cozy room with a turntable and a collection of vinyl records.
@@ -438,7 +434,7 @@ Prompt 2:
         2. Second Image: The lead singer belting out a powerful song.
         3. Third Image: The audience waving lighters and singing along.
         4. Fourth Image: The band taking a bow, the crowd roaring with applause.
-
+================================================================ X ================================================================
 35. Category Name: Retro Travel
     1. Vintage Road Trip:
         1. First Image: A retro car packed with luggage, ready for a road trip.
@@ -450,21 +446,19 @@ Prompt 2:
         2. Second Image: The train moving through picturesque landscapes.
         3. Third Image: Passengers enjoying the ride, looking out the windows.
         4. Fourth Image: The train arriving at its destination, steam billowing.
-
+================================================================ X ================================================================
 36. Category Name: Retro Sports
     1. Old School Basketball:
         1. First Image: A 70s basketball game with players in short shorts and high socks.
         2. Second Image: An intense moment with a player going for a slam dunk.
-        3. Third Image: The crowd cheering
-
- wildly as the ball goes in.
+        3. Third Image: The crowd cheering wildly as the ball goes in.
         4. Fourth Image: The team celebrating their victory on the court.
     2. Classic Boxing:
         1. First Image: A smoky boxing gym with vintage posters on the walls.
         2. Second Image: Two boxers sparring in the ring, intense focus on their faces.
         3. Third Image: A knockout punch landing, the crowd gasping.
         4. Fourth Image: The victorious boxer raising their gloves in triumph.
-
+================================================================ X ================================================================
 37. Category Name: Retro Lifestyle
     1. 50s Diner:
         1. First Image: A classic 50s diner with checkered floors and neon signs.
@@ -476,7 +470,7 @@ Prompt 2:
         2. Second Image: A family gathered around the TV, watching a popular show.
         3. Third Image: Kids playing with retro toys on the carpet.
         4. Fourth Image: The family relaxing as the night progresses, the TV still on.
-
+================================================================ X ================================================================
 38. Category Name: Retro Music
     1. Vinyl Revival:
         1. First Image: A cozy room with a turntable and a collection of vinyl records.
@@ -488,7 +482,7 @@ Prompt 2:
         2. Second Image: The lead singer belting out a powerful song.
         3. Third Image: The audience waving lighters and singing along.
         4. Fourth Image: The band taking a bow, the crowd roaring with applause.
-
+================================================================ X ================================================================
 39. Category Name: Retro Technology
     1. Old School Office:
         1. First Image: An office setup with typewriters, rotary phones, and paper files.
@@ -500,7 +494,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 40. Category Name: Retro Communication
     1. Rotary Phones:
         1. First Image: A vintage home with a rotary phone on a small table.
@@ -512,7 +506,7 @@ Prompt 2:
         2. Second Image: The letter being placed into an envelope with a stamp.
         3. Third Image: The letter being dropped into a mailbox.
         4. Fourth Image: The recipient opening the letter and reading it with a smile.
-
+================================================================ X ================================================================
 41. Category Name: Retro Games
     1. Classic Arcade:
         1. First Image: A bustling arcade with pinball machines and classic arcade games.
@@ -524,7 +518,7 @@ Prompt 2:
         2. Second Image: Kids gathered around, playing a classic 8-bit game.
         3. Third Image: An intense gaming moment with everyone cheering.
         4. Fourth Image: The game paused, with snacks and drinks scattered around.
-
+================================================================ X ================================================================
 42. Category Name: Retro Celebrations
     1. 50s Sock Hop:
         1. First Image: A high school gym decorated for a 50s-style dance.
@@ -536,7 +530,7 @@ Prompt 2:
         2. Second Image: Guests in colorful 70s outfits dancing to disco hits.
         3. Third Image: A dance-off moment with everyone cheering.
         4. Fourth Image: The party winding down, with the disco ball still spinning.
-
+================================================================ X ================================================================
 43. Category Name: Retro Sports
     1. Old School Basketball:
         1. First Image: A 70s basketball game with players in short shorts and high socks.
@@ -548,7 +542,7 @@ Prompt 2:
         2. Second Image: Two boxers sparring in the ring, intense focus on their faces.
         3. Third Image: A knockout punch landing, the crowd gasping.
         4. Fourth Image: The victorious boxer raising their gloves in triumph.
-
+================================================================ X ================================================================
 44. Category Name: Retro Travel
     1. Vintage Road Trip:
         1. First Image: A retro car packed with luggage, ready for a road trip.
@@ -560,7 +554,7 @@ Prompt 2:
         2. Second Image: The train moving through picturesque landscapes.
         3. Third Image: Passengers enjoying the ride, looking out the windows.
         4. Fourth Image: The train arriving at its destination, steam billowing.
-
+================================================================ X ================================================================
 45. Category Name: Retro Technology
     1. Old School Office:
         1. First Image: An office setup with typewriters, rotary phones, and paper files.
@@ -572,7 +566,7 @@ Prompt 2:
         2. Second Image: Enthusiasts programming and playing early computer games.
         3. Third Image: A breakthrough moment with a successful program run.
         4. Fourth Image: The room emptying as night falls, monitors glowing softly.
-
+================================================================ X ================================================================
 46. Category Name: Retro Communication
     1. Rotary Phones:
         1. First Image: A vintage home with a rotary phone on a small table.
@@ -584,7 +578,7 @@ Prompt 2:
         2. Second Image: The letter being placed into an envelope with a stamp.
         3. Third Image: The letter being dropped into a mailbox.
         4. Fourth Image: The recipient opening the letter and reading it with a smile.
-
+================================================================ X ================================================================
 47. Category Name: Retro Entertainment
     1. Drive-In Movies:
         1. First Image: A drive-in theater with classic cars parked in rows.
@@ -596,12 +590,10 @@ Prompt 2:
         2. Second Image: The audience seated, waiting for the movie to start.
         3. Third Image: An iconic scene from the film playing on the big screen.
         4. Fourth Image: The crowd applauding as the credits roll.
-
+================================================================ X ================================================================
 48. Category Name: Retro Festivals
     1. 50s Carnival:
-        1. First
-
- Image: A vintage carnival with classic rides and game booths.
+        1. First Image: A vintage carnival with classic rides and game booths.
         2. Second Image: Families enjoying the Ferris wheel and carousel.
         3. Third Image: Kids playing games and winning prizes.
         4. Fourth Image: The carnival lit up at night, with people still having fun.
@@ -610,7 +602,7 @@ Prompt 2:
         2. Second Image: The crowd dancing and enjoying the music.
         3. Third Image: A memorable performance with everyone singing along.
         4. Fourth Image: The festival grounds emptying as the night ends.
-
+================================================================ X ================================================================
 49. Category Name: Retro Homes
     1. Mid-Century Modern House:
         1. First Image: A stylish mid-century modern home with clean lines and large windows.
@@ -622,7 +614,7 @@ Prompt 2:
         2. Second Image: The interior with antique furniture and classic wallpaper.
         3. Third Image: A family gathered for a traditional dinner.
         4. Fourth Image: The house lit up with candles, creating a cozy atmosphere.
-
+================================================================ X ================================================================
 50. Category Name: Retro Adventures
     1. Time Traveler:
         1. First Image: A person discovering an old, mysterious device in an attic.

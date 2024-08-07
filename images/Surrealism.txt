@@ -38,7 +38,7 @@ Prompt 2:
         2. Second Image: Strange, surreal figures climbing and descending the staircase.
         3. Third Image: The protagonist encountering bizarre scenes on each step.
         4. Fourth Image: The staircase leading to a surreal, dreamlike portal.
-
+================================================================ X ================================================================
 2. Category Name: Metamorphosis
     1. Morphing Landscape:
         1. First Image: A tranquil landscape with rolling hills and a clear sky.
@@ -50,7 +50,7 @@ Prompt 2:
         2. Second Image: The animals beginning to transform into human-animal hybrids.
         3. Third Image: The hybrids interacting in strange, surreal ways.
         4. Fourth Image: The protagonist meeting a wise, surreal hybrid creature.
-
+================================================================ X ================================================================
 3. Category Name: Bizarre Worlds
     1. Upside-Down City:
         1. First Image: A cityscape with normal, bustling activity.
@@ -62,7 +62,7 @@ Prompt 2:
         2. Second Image: The buildings beginning to melt and distort.
         3. Third Image: The melted structures creating surreal, abstract shapes.
         4. Fourth Image: The protagonist navigating through the transformed city, finding new paths.
-
+================================================================ X ================================================================
 4. Category Name: Time Distortion
     1. Melting Clocks:
         1. First Image: A serene landscape with a few standing clocks.
@@ -74,7 +74,7 @@ Prompt 2:
         2. Second Image: People and objects suspended in mid-action.
         3. Third Image: The protagonist moving through the frozen world, examining details.
         4. Fourth Image: Time gradually unfreezing, the city coming back to life in surreal slow motion.
-
+================================================================ X ================================================================
 5. Category Name: Surreal Portraits
     1. Fragmented Faces:
         1. First Image: A gallery of portraits with normal human faces.
@@ -86,7 +86,7 @@ Prompt 2:
         2. Second Image: The reflections starting to show bizarre, surreal images.
         3. Third Image: The protagonist seeing multiple surreal versions of themselves in the mirrors.
         4. Fourth Image: The mirrors merging into a single, fantastical reflection.
-
+================================================================ X ================================================================
 6. Category Name: Dream Beings
     1. Whimsical Creatures:
         1. First Image: A peaceful meadow with ordinary animals.
@@ -98,7 +98,7 @@ Prompt 2:
         2. Second Image: Gigantic, surreal beings emerging from the horizon.
         3. Third Image: The giants interacting with the environment in strange, dreamlike ways.
         4. Fourth Image: The protagonist standing before a giant, feeling a mix of awe and wonder.
-
+================================================================ X ================================================================
 7. Category Name: Surreal Nature
     1. Living Trees:
         1. First Image: A dense forest with towering trees.
@@ -110,7 +110,7 @@ Prompt 2:
         2. Second Image: The flowers lifting off the ground, floating in the air.
         3. Third Image: The garden filled with levitating, glowing flora.
         4. Fourth Image: The protagonist walking through the surreal garden, mesmerized by the floating plants.
-
+================================================================ X ================================================================
 8. Category Name: Abstract Concepts
     1. Emotional Landscapes:
         1. First Image: A barren landscape reflecting sadness and despair.
@@ -122,7 +122,7 @@ Prompt 2:
         2. Second Image: Abstract shapes and forms beginning to materialize, representing thoughts.
         3. Third Image: The space filled with a chaotic array of surreal thought forms.
         4. Fourth Image: The protagonist navigating through the thought forms, finding clarity.
-
+================================================================ X ================================================================
 9. Category Name: Surreal Structures
     1. Impossible Architecture:
         1. First Image: A city with normal, realistic buildings.
@@ -134,7 +134,7 @@ Prompt 2:
         2. Second Image: The hallways beginning to extend endlessly, looping in on themselves.
         3. Third Image: The protagonist getting lost in the endless corridors.
         4. Fourth Image: Finding a door leading to a surreal, dreamlike realm.
-
+================================================================ X ================================================================
 10. Category Name: Cosmic Surrealism
     1. Galactic Oceans:
         1. First Image: A serene beach with ordinary waves.
@@ -146,7 +146,7 @@ Prompt 2:
         2. Second Image: The stars beginning to move and form shapes of celestial beings.
         3. Third Image: The sky filled with majestic, surreal figures made of stardust.
         4. Fourth Image: The protagonist feeling a connection with the celestial beings, a sense of cosmic unity.
-
+================================================================ X ================================================================
 11. Category Name: Surreal Reflections
     1. Water Mirrors:
         1. First Image: A tranquil lake reflecting a clear sky and mountains.
@@ -158,7 +158,7 @@ Prompt 2:
         2. Second Image: The reflections and glass starting to warp and show alternate realities.
         3. Third Image: The protagonist seeing multiple versions of themselves through the glass.
         4. Fourth Image: The glass merging into a single, cohesive surreal landscape.
-
+================================================================ X ================================================================
 12. Category Name: Surreal Dualities
     1. Light and Shadow:
         1. First Image: A landscape divided by a stark line of light and shadow.
@@ -167,12 +167,10 @@ Prompt 2:
         4. Fourth Image: The landscape transforming into a harmonious blend of light and dark.
     2. Day and Night:
         1. First Image: A cityscape with a clear division between day and night.
-        2. Second Image:
-
- The boundaries of day and night starting to blur and intermingle.
+        2. Second Image: The boundaries of day and night starting to blur and intermingle.
         3. Third Image: The protagonist experiencing the surreal transition between time.
         4. Fourth Image: The city in a state of perpetual twilight, blending elements of both day and night.
-
+================================================================ X ================================================================
 13. Category Name: Surreal Interiors
     1. Morphing Rooms:
         1. First Image: A normal, elegant room in a grand mansion.
@@ -184,7 +182,7 @@ Prompt 2:
         2. Second Image: The bookshelves extending infinitely in all directions.
         3. Third Image: The protagonist exploring the endless rows of books, finding surreal stories.
         4. Fourth Image: Discovering a book that opens a portal to a fantastical realm.
-
+================================================================ X ================================================================
 14. Category Name: Surreal Seasons
     1. Eternal Spring:
         1. First Image: A beautiful meadow in full bloom.
@@ -196,7 +194,7 @@ Prompt 2:
         2. Second Image: The snow and ice beginning to show surreal patterns and shapes.
         3. Third Image: The protagonist moving through the frozen landscape, experiencing its stillness.
         4. Fourth Image: The landscape slowly coming to life, the ice melting into a surreal spring.
-
+================================================================ X ================================================================
 15. Category Name: Surreal Elements
     1. Living Fire:
         1. First Image: A campfire burning brightly in the night.
@@ -208,7 +206,7 @@ Prompt 2:
         2. Second Image: The ground and mountains beginning to move and breathe.
         3. Third Image: The entire landscape transforming into a living, breathing entity.
         4. Fourth Image: The protagonist feeling a deep connection with the surreal, living earth.
-
+================================================================ X ================================================================
 16. Category Name: Surreal Flora and Fauna
     1. Walking Trees:
         1. First Image: A dense forest with towering trees.
@@ -220,7 +218,7 @@ Prompt 2:
         2. Second Image: The flowers lifting off the ground and floating in the air.
         3. Third Image: The garden filled with floating, glowing flowers.
         4. Fourth Image: The protagonist walking through the surreal garden, feeling a sense of wonder.
-
+================================================================ X ================================================================
 17. Category Name: Surreal Underworlds
     1. Crystal Caves:
         1. First Image: A dark cave with sparkling crystals.
@@ -232,7 +230,7 @@ Prompt 2:
         2. Second Image: The buildings and streets starting to morph into surreal forms.
         3. Third Image: The entire city transformed into a fantastical, dreamlike realm.
         4. Fourth Image: The protagonist uncovering the mysteries of the surreal underground city.
-
+================================================================ X ================================================================
 18. Category Name: Surreal Weather
     1. Colorful Rain:
         1. First Image: A normal, rainy day in a city.
@@ -244,7 +242,7 @@ Prompt 2:
         2. Second Image: The wind starting to form visible, surreal shapes.
         3. Third Image: The wind transforming into a living, moving entity.
         4. Fourth Image: The protagonist communicating with the living wind, uncovering hidden wisdom.
-
+================================================================ X ================================================================
 19. Category Name: Surreal Dreams
     1. Endless Fields:
         1. First Image: A vast field stretching out to the horizon.
@@ -256,7 +254,7 @@ Prompt 2:
         2. Second Image: The castle starting to lift off the ground and float in the sky.
         3. Third Image: The protagonist exploring the floating castle, discovering its mysteries.
         4. Fourth Image: The castle floating away into the distance, leaving a sense of wonder.
-
+================================================================ X ================================================================
 20. Category Name: Surreal Journeys
     1. Path to Nowhere:
         1. First Image: A winding path leading through a forest.
@@ -268,7 +266,7 @@ Prompt 2:
         2. Second Image: The ocean starting to reflect the stars, creating a sea of stars.
         3. Third Image: The protagonist sailing through the surreal, starlit waters.
         4. Fourth Image: The boat reaching a magical island, filled with wonder and mystery.
-
+================================================================ X ================================================================
 21. Category Name: Surreal Perspectives
     1. Distorted Reflections:
         1. First Image: A normal room with mirrors on the walls.
@@ -280,7 +278,7 @@ Prompt 2:
         2. Second Image: The horizon starting to extend infinitely in all directions.
         3. Third Image: The protagonist walking towards the horizon, never reaching the end.
         4. Fourth Image: The desert transforming into a surreal landscape with multiple horizons.
-
+================================================================ X ================================================================
 22. Category Name: Surreal Illusions
     1. Phantom Shadows:
         1. First Image: A sunny street with clear shadows.
@@ -292,7 +290,7 @@ Prompt 2:
         2. Second Image: The objects in the room starting to shift and change shapes.
         3. Third Image: The entire room transforming into a surreal, abstract space.
         4. Fourth Image: The protagonist exploring the shifting shapes, discovering hidden meanings.
-
+================================================================ X ================================================================
 23. Category Name: Surreal Journeys
     1. Stairway to Nowhere:
         1. First Image: An elegant staircase in a grand hall.
@@ -304,7 +302,7 @@ Prompt 2:
         2. Second Image: The bridge starting to extend into the sky, disappearing into the clouds.
         3. Third Image: The protagonist crossing the surreal bridge, entering another world.
         4. Fourth Image: The bridge leading to a magical realm, filled with wonder and mystery.
-
+================================================================ X ================================================================
 24. Category Name: Surreal Metaphors
     1. Time as a River:
         1. First Image: A tranquil river flowing through a landscape.
@@ -316,7 +314,7 @@ Prompt 2:
         2. Second Image: The trees starting to reveal a giant, beating heart at the center.
         3. Third Image: The protagonist exploring the surreal forest, feeling its pulse.
         4. Fourth Image: The forest transforming into a living entity, its heart guiding the way.
-
+================================================================ X ================================================================
 25. Category Name: Surreal Machines
     1. Clockwork Creatures:
         1. First Image: A workshop filled with mechanical parts and tools.
@@ -328,7 +326,7 @@ Prompt 2:
         2. Second Image: The machines starting to show signs of life, moving independently.
         3. Third Image: The factory transforming into a surreal landscape of living machinery.
         4. Fourth Image: The protagonist exploring the living machines, discovering their secrets.
-
+================================================================ X ================================================================
 26. Category Name: Surreal Elements
     1. Whispering Winds:
         1. First Image: A calm landscape with gentle breezes.
@@ -340,7 +338,7 @@ Prompt 2:
         2. Second Image: The flames starting to take on surreal, dancing forms.
         3. Third Image: The flames transforming into living, moving entities.
         4. Fourth Image: The protagonist communicating with the dancing flames, uncovering hidden truths.
-
+================================================================ X ================================================================
 27. Category Name: Surreal Soundscapes
     1. Echoing Voices:
         1. First Image: A quiet, empty hall.
@@ -352,7 +350,7 @@ Prompt 2:
         2. Second Image: The trees and plants starting to produce musical notes.
         3. Third Image: The forest transforming into a surreal, living orchestra.
         4. Fourth Image: The protagonist moving through the musical forest, feeling the harmony.
-
+================================================================ X ================================================================
 28. Category Name: Surreal Dreams
     1. Floating Islands:
         1. First Image: An otherworldly scene with floating islands in a cloudy sky.
@@ -364,7 +362,7 @@ Prompt 2:
         2. Second Image: Strange, surreal figures climbing and descending the staircase.
         3. Third Image: The protagonist encountering bizarre scenes on each step.
         4. Fourth Image: The staircase leading to a surreal, dreamlike portal.
-
+================================================================ X ================================================================
 29. Category Name: Surreal Creatures
     1. Morphing Beasts:
         1. First Image: A tranquil meadow with grazing animals.
@@ -376,7 +374,7 @@ Prompt 2:
         2. Second Image: The shadows starting to move and interact with their surroundings.
         3. Third Image: The shadows transforming into sentient, surreal beings.
         4. Fourth Image: The protagonist communicating with the sentient shadows, uncovering their secrets.
-
+================================================================ X ================================================================
 30. Category Name: Surreal Cities
     1. Mirror Metropolis:
         1. First Image: A bustling city with towering skyscrapers.
@@ -388,7 +386,7 @@ Prompt 2:
         2. Second Image: The street starting to fade and become invisible.
         3. Third Image: The protagonist navigating through the invisible city, discovering hidden paths.
         4. Fourth Image: The city transforming into a surreal, transparent world.
-
+================================================================ X ================================================================
 31. Category Name: Surreal Architecture
     1. Twisting Towers:
         1. First Image: A skyline with tall, elegant towers.
@@ -400,7 +398,7 @@ Prompt 2:
         2. Second Image: The buildings starting to lift off the ground and float in the air.
         3. Third Image: The city transformed into a surreal, floating landscape.
         4. Fourth Image: The protagonist navigating through the floating structures, discovering hidden worlds.
-
+================================================================ X ================================================================
 32. Category Name: Surreal Seasons
     1. Blossoming Snow:
         1. First Image: A winter landscape with snow-covered trees.
@@ -409,12 +407,10 @@ Prompt 2:
         4. Fourth Image: The protagonist wandering through the blossoming snow, feeling a sense of renewal.
     2. Golden Autumn:
         1. First Image: A forest with vibrant autumn leaves.
-        2. Second Image: The leaves starting to turn into gold and glow with a surreal light
-
-.
+        2. Second Image: The leaves starting to turn into gold and glow with a surreal light.
         3. Third Image: The forest transforming into a golden wonderland.
         4. Fourth Image: The protagonist experiencing the magical, golden autumn, feeling a sense of wonder.
-
+================================================================ X ================================================================
 33. Category Name: Surreal Elements
     1. Living Water:
         1. First Image: A calm lake with clear, blue water.
@@ -426,7 +422,7 @@ Prompt 2:
         2. Second Image: The ground and mountains beginning to move and breathe.
         3. Third Image: The entire landscape transforming into a living, breathing entity.
         4. Fourth Image: The protagonist feeling a deep connection with the surreal, living earth.
-
+================================================================ X ================================================================
 34. Category Name: Surreal Interiors
     1. Shifting Walls:
         1. First Image: A normal, elegant room in a grand mansion.
@@ -438,7 +434,7 @@ Prompt 2:
         2. Second Image: The reflections starting to show surreal, dreamlike images.
         3. Third Image: The mirrors extending infinitely, creating an endless reflection.
         4. Fourth Image: The protagonist stepping through a mirror, entering a surreal world.
-
+================================================================ X ================================================================
 35. Category Name: Surreal Journeys
     1. Path to the Stars:
         1. First Image: A winding path leading through a forest.
@@ -450,7 +446,7 @@ Prompt 2:
         2. Second Image: The bridge starting to extend into the night sky, towards the moon.
         3. Third Image: The protagonist crossing the surreal bridge, entering a lunar landscape.
         4. Fourth Image: The bridge leading to a magical world on the moon, filled with mystery.
-
+================================================================ X ================================================================
 36. Category Name: Surreal Landscapes
     1. Floating Forest:
         1. First Image: A dense forest with towering trees.
@@ -462,7 +458,7 @@ Prompt 2:
         2. Second Image: The sand starting to turn into sparkling crystals.
         3. Third Image: The desert transformed into a surreal, crystalline wonderland.
         4. Fourth Image: The protagonist exploring the crystal desert, finding hidden treasures.
-
+================================================================ X ================================================================
 37. Category Name: Surreal Nature
     1. Living Mountains:
         1. First Image: A mountain range with towering peaks.
@@ -474,7 +470,7 @@ Prompt 2:
         2. Second Image: The trees starting to whisper and communicate with each other.
         3. Third Image: The forest transformed into a surreal, living entity.
         4. Fourth Image: The protagonist listening to the whispering trees, discovering hidden wisdom.
-
+================================================================ X ================================================================
 38. Category Name: Surreal Flora and Fauna
     1. Glowing Plants:
         1. First Image: A beautiful garden with vibrant flowers.
@@ -486,7 +482,7 @@ Prompt 2:
         2. Second Image: The animals starting to talk and communicate with each other.
         3. Third Image: The meadow filled with sentient, surreal creatures.
         4. Fourth Image: The protagonist interacting with the talking animals, forming a bond.
-
+================================================================ X ================================================================
 39. Category Name: Surreal Underworlds
     1. Glowworm Caves:
         1. First Image: A dark cave with sparkling glowworms.
@@ -498,7 +494,7 @@ Prompt 2:
         2. Second Image: The buildings and streets starting to transform into lush, surreal gardens.
         3. Third Image: The entire city transformed into a fantastical, subterranean landscape.
         4. Fourth Image: The protagonist uncovering the mysteries of the surreal underground gardens.
-
+================================================================ X ================================================================
 40. Category Name: Surreal Weather
     1. Crystal Rain:
         1. First Image: A normal, rainy day in a city.
@@ -510,7 +506,7 @@ Prompt 2:
         2. Second Image: The clouds starting to take on sentient, surreal forms.
         3. Third Image: The sky filled with living, moving cloud creatures.
         4. Fourth Image: The protagonist communicating with the living clouds, uncovering hidden wisdom.
-
+================================================================ X ================================================================
 41. Category Name: Surreal Journeys
     1. Path to the Stars:
         1. First Image: A winding path leading through a forest.
@@ -522,7 +518,7 @@ Prompt 2:
         2. Second Image: The bridge starting to extend into the night sky, towards the moon.
         3. Third Image: The protagonist crossing the surreal bridge, entering a lunar landscape.
         4. Fourth Image: The bridge leading to a magical world on the moon, filled with mystery.
-
+================================================================ X ================================================================
 42. Category Name: Surreal Reflections
     1. Water Mirrors:
         1. First Image: A tranquil lake reflecting a clear sky and mountains.
@@ -534,7 +530,7 @@ Prompt 2:
         2. Second Image: The reflections and glass starting to warp and show alternate realities.
         3. Third Image: The protagonist seeing multiple versions of themselves through the glass.
         4. Fourth Image: The glass merging into a single, cohesive surreal landscape.
-
+================================================================ X ================================================================
 43. Category Name: Surreal Transformations
     1. Human to Nature:
         1. First Image: A person standing in a forest.
@@ -546,21 +542,19 @@ Prompt 2:
         2. Second Image: The objects starting to come to life and move independently.
         3. Third Image: The room transformed into a surreal, living space.
         4. Fourth Image: The protagonist interacting with the living objects, uncovering their secrets.
-
+================================================================ X ================================================================
 44. Category Name: Surreal Light
     1. Living Light:
         1. First Image: A dark room with a single light source.
         2. Second Image: The light starting to move and take on sentient forms.
         3. Third Image: The room filled with living, moving light entities.
         4. Fourth Image: The protagonist communicating with the living light, uncovering hidden truths.
-    2. Glowing
-
- Shadows:
+    2. Glowing Shadows:
         1. First Image: A room with normal shadows cast by objects.
         2. Second Image: The shadows starting to glow with a surreal, magical light.
         3. Third Image: The room transformed into a glowing, otherworldly space.
         4. Fourth Image: The protagonist interacting with the glowing shadows, uncovering hidden meanings.
-
+================================================================ X ================================================================
 45. Category Name: Surreal Sounds
     1. Whispering Wind:
         1. First Image: A calm landscape with gentle breezes.
@@ -572,7 +566,7 @@ Prompt 2:
         2. Second Image: The stones starting to produce musical notes.
         3. Third Image: The landscape transforming into a surreal, living orchestra.
         4. Fourth Image: The protagonist moving through the singing stones, feeling the harmony.
-
+================================================================ X ================================================================
 46. Category Name: Surreal Dualities
     1. Day and Night:
         1. First Image: A cityscape with a clear division between day and night.
@@ -584,7 +578,7 @@ Prompt 2:
         2. Second Image: The light and shadow beginning to blend and create surreal patterns.
         3. Third Image: The protagonist moving between the light and shadow, experiencing their effects.
         4. Fourth Image: The landscape transforming into a harmonious blend of light and dark.
-
+================================================================ X ================================================================
 47. Category Name: Surreal Dimensions
     1. Fourth Dimension:
         1. First Image: A normal three-dimensional room.
@@ -596,7 +590,7 @@ Prompt 2:
         2. Second Image: The street starting to warp and distort through time.
         3. Third Image: The city transformed into a surreal, time-warped landscape.
         4. Fourth Image: The protagonist moving through the time warp, discovering different eras.
-
+================================================================ X ================================================================
 48. Category Name: Surreal Memories
     1. Fragmented Memories:
         1. First Image: A room filled with photographs and mementos.
@@ -608,7 +602,7 @@ Prompt 2:
         2. Second Image: The house starting to come to life with scenes from the past.
         3. Third Image: The house filled with surreal, living memories.
         4. Fourth Image: The protagonist experiencing the living past, feeling a deep connection.
-
+================================================================ X ================================================================
 49. Category Name: Surreal Journeys
     1. Path to the Stars:
         1. First Image: A winding path leading through a forest.
@@ -620,7 +614,7 @@ Prompt 2:
         2. Second Image: The bridge starting to extend into the night sky, towards the moon.
         3. Third Image: The protagonist crossing the surreal bridge, entering a lunar landscape.
         4. Fourth Image: The bridge leading to a magical world on the moon, filled with mystery.
-
+================================================================ X ================================================================
 50. Category Name: Surreal Cycles
     1. Eternal Seasons:
         1. First Image: A landscape divided into four sections, each representing a different season.

@@ -38,7 +38,7 @@ Prompt 2:
         2. Second Image: The boat with a single, seagull flying overhead.
         3. Third Image: The boat during sunset, with warm hues reflecting on the water.
         4. Fourth Image: The boat at night, under a starry sky.
-
+================================================================ X ================================================================
 2. Category Name: Urban
     1. Cityscape:
         1. First Image: A simple skyline with a few iconic buildings silhouetted against a plain background.
@@ -50,7 +50,7 @@ Prompt 2:
         2. Second Image: The street lamp casting light on the bench as night falls.
         3. Third Image: The street in the early morning, with the bench casting a long shadow.
         4. Fourth Image: The street under a light drizzle, with the bench and lamp creating reflections on the wet pavement.
-
+================================================================ X ================================================================
 3. Category Name: Abstract
     1. Geometric Shapes:
         1. First Image: A single black circle in the center of a white background.
@@ -62,7 +62,7 @@ Prompt 2:
         2. Second Image: The lines shifting to form a single triangle in the center.
         3. Third Image: The triangle transforming into a complex pattern of interlocking shapes.
         4. Fourth Image: The shapes dissolving back into a random array of lines.
-
+================================================================ X ================================================================
 4. Category Name: Nature
     1. Mountain Range:
         1. First Image: A single, minimalist silhouette of a mountain against a clear sky.
@@ -74,7 +74,7 @@ Prompt 2:
         2. Second Image: The dune casting a long shadow in the setting sun.
         3. Third Image: The dune under a star-filled night sky.
         4. Fourth Image: The dune at dawn, with gentle light and soft shadows.
-
+================================================================ X ================================================================
 5. Category Name: Architecture
     1. Minimalist House:
         1. First Image: A simple white cube house with a single large window.
@@ -86,7 +86,7 @@ Prompt 2:
         2. Second Image: The bridge at sunset, reflecting warm colors on the water.
         3. Third Image: The bridge under the night sky, with subtle lighting.
         4. Fourth Image: The bridge at dawn, with soft light highlighting its structure.
-
+================================================================ X ================================================================
 6. Category Name: Minimalist Landscapes
     1. Open Field:
         1. First Image: A vast, empty field with a single tree in the distance.
@@ -98,7 +98,7 @@ Prompt 2:
         2. Second Image: The road at dusk, with soft colors in the sky.
         3. Third Image: The road under a full moon, casting eerie shadows.
         4. Fourth Image: The road at dawn, with gentle light illuminating the path.
-
+================================================================ X ================================================================
 7. Category Name: Objects
     1. Single Chair:
         1. First Image: A simple wooden chair in the center of an empty room.
@@ -110,7 +110,7 @@ Prompt 2:
         2. Second Image: The lamp turned on, casting a warm glow.
         3. Third Image: The lamp at night, illuminating the corner of the room.
         4. Fourth Image: The lamp at dawn, with gentle light filling the room.
-
+================================================================ X ================================================================
 8. Category Name: Minimalist Icons
     1. Single Feather:
         1. First Image: A delicate feather lying on a plain surface.
@@ -122,7 +122,7 @@ Prompt 2:
         2. Second Image: The frame casting a shadow as the sun sets.
         3. Third Image: The frame under a single spotlight at night.
         4. Fourth Image: The frame in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 9. Category Name: Minimalist Animals
     1. Solitary Bird:
         1. First Image: A single bird perched on a wire against a clear sky.
@@ -134,7 +134,7 @@ Prompt 2:
         2. Second Image: The cat’s silhouette against a sunset.
         3. Third Image: The cat under a single overhead light at night.
         4. Fourth Image: The cat in early morning light, stretching.
-
+================================================================ X ================================================================
 10. Category Name: Minimalist Seasons
     1. Winter:
         1. First Image: A single snowflake against a plain background.
@@ -146,7 +146,7 @@ Prompt 2:
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
-
+================================================================ X ================================================================
 11. Category Name: Minimalist Flora
     1. Single Flower:
         1. First Image: A single daisy in a small pot on a plain surface.
@@ -158,7 +158,7 @@ Prompt 2:
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 12. Category Name: Minimalist Adventures
     1. Lonely Hiker:
         1. First Image: A lone hiker standing on a vast, empty trail.
@@ -168,11 +168,9 @@ Prompt 2:
     2. Sailboat:
         1. First Image: A single sailboat on a calm, open sea.
         2. Second Image: The sailboat in the evening, with warm light reflecting on the water.
-       
-
- 3. Third Image: The sailboat under a full moon.
+        3. Third Image: The sailboat under a full moon.
         4. Fourth Image: The sailboat at dawn, with gentle light and soft shadows.
-
+================================================================ X ================================================================
 13. Category Name: Minimalist Expressions
     1. Quiet Moment:
         1. First Image: A single figure sitting alone on a bench.
@@ -184,7 +182,7 @@ Prompt 2:
         2. Second Image: The figure at sunset, with warm hues reflecting on the water.
         3. Third Image: The figure under a starry sky, with clear reflections in the water.
         4. Fourth Image: The figure at dawn, with soft light illuminating the scene.
-
+================================================================ X ================================================================
 14. Category Name: Minimalist Tools
     1. Single Hammer:
         1. First Image: A single hammer on a plain surface.
@@ -196,7 +194,7 @@ Prompt 2:
         2. Second Image: The scissors casting a long shadow as the sun sets.
         3. Third Image: The scissors under a single overhead light at night.
         4. Fourth Image: The scissors in early morning light, with gentle shadows.
-
+================================================================ X ================================================================
 15. Category Name: Minimalist Symbols
     1. Single Heart:
         1. First Image: A simple heart shape on a plain background.
@@ -208,7 +206,7 @@ Prompt 2:
         2. Second Image: The symbol casting a shadow as the sun sets.
         3. Third Image: The symbol under a single spotlight at night.
         4. Fourth Image: The symbol in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 16. Category Name: Minimalist Travel
     1. Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
@@ -220,7 +218,7 @@ Prompt 2:
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
-
+================================================================ X ================================================================
 17. Category Name: Minimalist Memories
     1. Old Photograph:
         1. First Image: A single old photograph lying on a plain surface.
@@ -232,7 +230,7 @@ Prompt 2:
         2. Second Image: The key casting a long shadow as the sun sets.
         3. Third Image: The key under a single overhead light at night.
         4. Fourth Image: The key in early morning light, with gentle shadows.
-
+================================================================ X ================================================================
 18. Category Name: Minimalist Hobbies
     1. Single Book:
         1. First Image: A single book lying on a plain surface.
@@ -244,7 +242,7 @@ Prompt 2:
         2. Second Image: The guitar casting a long shadow as the sun sets.
         3. Third Image: The guitar under a single spotlight at night.
         4. Fourth Image: The guitar in early morning light, with gentle shadows.
-
+================================================================ X ================================================================
 19. Category Name: Minimalist Love
     1. Holding Hands:
         1. First Image: Two hands gently holding each other against a plain background.
@@ -256,7 +254,7 @@ Prompt 2:
         2. Second Image: The hug casting a long shadow as the sun sets.
         3. Third Image: The hug under a single spotlight at night.
         4. Fourth Image: The hug in early morning light, with gentle shadows.
-
+================================================================ X ================================================================
 20. Category Name: Minimalist Dreams
     1. Simple Bed:
         1. First Image: A plain, made bed in an empty room.
@@ -268,7 +266,7 @@ Prompt 2:
         2. Second Image: The star casting a soft glow on a calm sea.
         3. Third Image: The star under a clear, moonlit night.
         4. Fourth Image: The star fading as dawn approaches, with soft morning light.
-
+================================================================ X ================================================================
 21. Category Name: Minimalist Flora
     1. Single Flower:
         1. First Image: A single daisy in a small pot on a plain surface.
@@ -280,7 +278,7 @@ Prompt 2:
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 22. Category Name: Minimalist Animals
     1. Solitary Bird:
         1. First Image: A single bird perched on a wire against a clear sky.
@@ -292,7 +290,7 @@ Prompt 2:
         2. Second Image: The cat’s silhouette against a sunset.
         3. Third Image: The cat under a single overhead light at night.
         4. Fourth Image: The cat in early morning light, stretching.
-
+================================================================ X ================================================================
 23. Category Name: Minimalist Seasons
     1. Winter:
         1. First Image: A single snowflake against a plain background.
@@ -304,7 +302,7 @@ Prompt 2:
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
-
+================================================================ X ================================================================
 24. Category Name: Minimalist Expressions
     1. Quiet Moment:
         1. First Image: A single figure sitting alone on a bench.
@@ -316,11 +314,9 @@ Prompt 2:
         2. Second Image: The figure at sunset, with warm hues reflecting on the water.
         3. Third Image: The figure under a starry sky, with clear reflections in the water.
         4. Fourth Image: The figure at dawn, with soft light illuminating the scene.
-
+================================================================ X ================================================================
 25. Category Name: Minimalist Art
-    1. Simple
-
- Brushstrokes:
+    1. Simple Brushstrokes:
         1. First Image: A single, bold brushstroke on a plain canvas.
         2. Second Image: The brushstroke expanding into a pattern of simple lines.
         3. Third Image: The lines forming a minimalist landscape.
@@ -330,7 +326,7 @@ Prompt 2:
         2. Second Image: The square transforming into a series of overlapping shapes.
         3. Third Image: The shapes morphing into a pattern of concentric circles.
         4. Fourth Image: The circles breaking apart into scattered dots.
-
+================================================================ X ================================================================
 26. Category Name: Minimalist Patterns
     1. Simple Stripes:
         1. First Image: A single stripe across a plain background.
@@ -342,7 +338,7 @@ Prompt 2:
         2. Second Image: The dot multiplying into a pattern of dots.
         3. Third Image: The dots forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single dot.
-
+================================================================ X ================================================================
 27. Category Name: Minimalist Travel
     1. Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
@@ -354,7 +350,7 @@ Prompt 2:
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
-
+================================================================ X ================================================================
 28. Category Name: Minimalist Sports
     1. Single Tennis Ball:
         1. First Image: A single tennis ball on a plain surface.
@@ -366,7 +362,7 @@ Prompt 2:
         2. Second Image: The basketball casting a shadow as the sun sets.
         3. Third Image: The basketball under a single overhead light at night.
         4. Fourth Image: The basketball in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 29. Category Name: Minimalist Music
     1. Single Note:
         1. First Image: A single musical note on a plain background.
@@ -378,7 +374,7 @@ Prompt 2:
         2. Second Image: The guitar casting a shadow as the sun sets.
         3. Third Image: The guitar under a single overhead light at night.
         4. Fourth Image: The guitar in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 30. Category Name: Minimalist Nature
     1. Single Tree:
         1. First Image: A single tree standing alone in a vast field.
@@ -390,7 +386,7 @@ Prompt 2:
         2. Second Image: The leaf casting a shadow as the sun sets.
         3. Third Image: The leaf under soft, diffused moonlight.
         4. Fourth Image: The leaf in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 31. Category Name: Minimalist Beverages
     1. Single Coffee Cup:
         1. First Image: A single coffee cup on a plain surface.
@@ -402,7 +398,7 @@ Prompt 2:
         2. Second Image: The wine glass casting a shadow as the sun sets.
         3. Third Image: The wine glass under a single spotlight at night.
         4. Fourth Image: The wine glass in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 32. Category Name: Minimalist Cooking
     1. Single Knife:
         1. First Image: A single knife on a plain surface.
@@ -414,7 +410,7 @@ Prompt 2:
         2. Second Image: The plate casting a shadow as the sun sets.
         3. Third Image: The plate under a single spotlight at night.
         4. Fourth Image: The plate in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 33. Category Name: Minimalist Communication
     1. Single Envelope:
         1. First Image: A single envelope on a plain surface.
@@ -426,7 +422,7 @@ Prompt 2:
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 34. Category Name: Minimalist Design
     1. Single Chair:
         1. First Image: A single chair on a plain surface.
@@ -438,7 +434,7 @@ Prompt 2:
         2. Second Image: The table casting a shadow as the sun sets.
         3. Third Image: The table under a single spotlight at night.
         4. Fourth Image: The table in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 35. Category Name: Minimalist Clothing
     1. Single Hat:
         1. First Image: A single hat on a plain surface.
@@ -450,7 +446,7 @@ Prompt 2:
         2. Second Image: The jacket casting a shadow as the sun sets.
         3. Third Image: The jacket under a single spotlight at night.
         4. Fourth Image: The jacket in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 36. Category Name: Minimalist Symbols
     1. Single Heart:
         1. First Image: A simple heart shape on a plain background.
@@ -462,21 +458,19 @@ Prompt 2:
         2. Second Image: The symbol casting a shadow as the sun sets.
         3. Third Image: The symbol under a single spotlight at night.
         4. Fourth Image: The symbol in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 37. Category Name: Minimalist Vehicles
     1. Single Bicycle:
         1. First Image: A single bicycle on a plain surface.
         2. Second Image: The bicycle casting a shadow as the sun sets.
         3. Third Image: The bicycle under a single overhead light at night.
         4. Fourth Image: The bicycle in early morning light, with soft shadows.
-    2
-
-. Minimalist Car:
+    2. Minimalist Car:
         1. First Image: A single car on a plain surface.
         2. Second Image: The car casting a shadow as the sun sets.
         3. Third Image: The car under a single spotlight at night.
         4. Fourth Image: The car in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 38. Category Name: Minimalist Accessories
     1. Single Watch:
         1. First Image: A single watch on a plain surface.
@@ -488,7 +482,7 @@ Prompt 2:
         2. Second Image: The ring casting a shadow as the sun sets.
         3. Third Image: The ring under a single spotlight at night.
         4. Fourth Image: The ring in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 39. Category Name: Minimalist Writing
     1. Single Pen:
         1. First Image: A single pen on a plain surface.
@@ -500,7 +494,7 @@ Prompt 2:
         2. Second Image: The notebook casting a shadow as the sun sets.
         3. Third Image: The notebook under a single spotlight at night.
         4. Fourth Image: The notebook in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 40. Category Name: Minimalist Electronics
     1. Single Laptop:
         1. First Image: A single laptop on a plain surface.
@@ -512,7 +506,7 @@ Prompt 2:
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 41. Category Name: Minimalist Workspace
     1. Single Desk:
         1. First Image: A single desk on a plain surface.
@@ -524,7 +518,7 @@ Prompt 2:
         2. Second Image: The chair casting a shadow as the sun sets.
         3. Third Image: The chair under a single spotlight at night.
         4. Fourth Image: The chair in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 42. Category Name: Minimalist Storage
     1. Single Box:
         1. First Image: A single box on a plain surface.
@@ -536,7 +530,7 @@ Prompt 2:
         2. Second Image: The shelf casting a shadow as the sun sets.
         3. Third Image: The shelf under a single spotlight at night.
         4. Fourth Image: The shelf in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 43. Category Name: Minimalist Decor
     1. Single Vase:
         1. First Image: A single vase on a plain surface.
@@ -548,7 +542,7 @@ Prompt 2:
         2. Second Image: The lamp casting a shadow as the sun sets.
         3. Third Image: The lamp under a single spotlight at night.
         4. Fourth Image: The lamp in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 44. Category Name: Minimalist Gardens
     1. Single Plant:
         1. First Image: A single plant on a plain surface.
@@ -560,7 +554,7 @@ Prompt 2:
         2. Second Image: The bonsai casting a shadow as the sun sets.
         3. Third Image: The bonsai under a single spotlight at night.
         4. Fourth Image: The bonsai in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 45. Category Name: Minimalist Travel
     1. Single Suitcase:
         1. First Image: A single suitcase standing alone on a platform.
@@ -572,7 +566,7 @@ Prompt 2:
         2. Second Image: The station at dusk, with long shadows.
         3. Third Image: The station under a single overhead light at night.
         4. Fourth Image: The station at dawn, with soft light and gentle shadows.
-
+================================================================ X ================================================================
 46. Category Name: Minimalist Communication
     1. Single Envelope:
         1. First Image: A single envelope on a plain surface.
@@ -584,7 +578,7 @@ Prompt 2:
         2. Second Image: The phone casting a shadow as the sun sets.
         3. Third Image: The phone under a single spotlight at night.
         4. Fourth Image: The phone in early morning light, with soft shadows.
-
+================================================================ X ================================================================
 47. Category Name: Minimalist Tools
     1. Single Hammer:
         1. First Image: A single hammer on a plain surface.
@@ -596,7 +590,7 @@ Prompt 2:
         2. Second Image: The scissors casting a long shadow as the sun sets.
         3. Third Image: The scissors under a single overhead light at night.
         4. Fourth Image: The scissors in early morning light, with gentle shadows.
-
+================================================================ X ================================================================
 48. Category Name: Minimalist Patterns
     1. Simple Stripes:
         1. First Image: A single stripe across a plain background.
@@ -608,7 +602,7 @@ Prompt 2:
         2. Second Image: The dot multiplying into a pattern of dots.
         3. Third Image: The dots forming a simple, abstract design.
         4. Fourth Image: The design dissolving back into a single dot.
-
+================================================================ X ================================================================
 49. Category Name: Minimalist Seasons
     1. Winter:
         1. First Image: A single snowflake against a plain background.
@@ -620,12 +614,10 @@ Prompt 2:
         2. Second Image: A minimalist beach scene with just sand and sea.
         3. Third Image: A simple sunset over a calm ocean.
         4. Fourth Image: A single palm tree casting a shadow on the sand.
-
+================================================================ X ================================================================
 50. Category Name: Minimalist Dreams
     1. Simple Bed:
-        1. First
-
- Image: A plain, made bed in an empty room.
+        1. First Image: A plain, made bed in an empty room.
         2. Second Image: The bed casting a long shadow as the sun sets.
         3. Third Image: The bed under a single overhead light at night.
         4. Fourth Image: The bed in early morning light, with soft shadows.
