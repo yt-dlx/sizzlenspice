@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Neon Noir
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: City Shadows:
     1. First Wallpaper: The Protagonist, A Detective, Walking Through A Rain-Soaked City Street At Night, Illuminated By Neon Lights.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Investigating A Crime Scene In A Dark Alley, Surrounded By Futuristic Technology.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Confrontation With A Mysterious Figure In A High-Tech Hideout.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Detective Solving The Case, Standing On A Rooftop Overlooking The Neon-Lit City.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cyber Heist:
     1. First Wallpaper: A Team Of Hackers Planning A Heist In A Dimly Lit, Tech-Filled Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Team Infiltrating A High-Security Building, Using Advanced Gadgets And Hacking Skills.
@@ -45,14 +45,14 @@ Story Title: Cyber Heist:
 ================================================================ X ================================================================
 2. Category Name: Street Warriors
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rogue Runner:
     1. First Wallpaper: The Protagonist, A Street Runner, Navigating Through Crowded, Neon-Lit Streets.
     2. Second Wallpaper: Transition From The First Wallpaper, A Dynamic Chase Scene, With The Protagonist Evading Cybernetic Enforcers.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Confronting A Powerful Gang Leader In An Underground Club.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Standing Victorious, With The City’S Lights Reflecting In Their Cybernetic Eyes.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Gang Wars:
     1. First Wallpaper: Rival Gangs Facing Off In An Abandoned Warehouse, With Neon Graffiti On The Walls.
     2. Second Wallpaper: Transition From The First Wallpaper, A Fierce Battle Between Gang Members, Showcasing Cybernetic Enhancements And Futuristic Weapons.
@@ -61,14 +61,14 @@ Story Title: Gang Wars:
 ================================================================ X ================================================================
 3. Category Name: Corporate Espionage
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Boardroom Betrayal:
     1. First Wallpaper: A Sleek Corporate Office With The Protagonist, A Corporate Spy, Blending In.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Hacking Into A Secure Server, Surrounded By High-Tech Security.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Escape As The Protagonist Is Discovered, With Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Delivering The Stolen Data To A Rival Corporation, With A Smug Smile.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Silent Infiltration:
     1. First Wallpaper: The Protagonist, Clad In Stealth Gear, Infiltrating A Heavily Guarded Corporate Building.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Avoiding Security Measures And Navigating Through High-Tech Corridors.
@@ -77,14 +77,14 @@ Story Title: Silent Infiltration:
 ================================================================ X ================================================================
 4. Category Name: Digital Revolution
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hacktivist Uprising:
     1. First Wallpaper: The Protagonist Leading A Group Of Hacktivists, Planning Their Next Move In A Hidden Base.
     2. Second Wallpaper: Transition From The First Wallpaper, The Group Launching A Cyber Attack On A Corrupt Corporation, With Intense Visuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Corporate Security Forces, Showcasing High-Energy Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hacktivists Celebrating Their Victory, With The City’S Skyline Symbolizing Change.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rebel Code:
     1. First Wallpaper: The Protagonist Writing Revolutionary Code In A Dimly Lit Apartment, Surrounded By Monitors.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist And Their Allies Launching A Digital Assault, Facing Heavy Resistance.
@@ -93,14 +93,14 @@ Story Title: Rebel Code:
 ================================================================ X ================================================================
 5. Category Name: Cybernetic Enhancement
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Body Mod:
     1. First Wallpaper: The Protagonist In A Cybernetic Modification Shop, Undergoing Enhancements.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Testing Their New Abilities In A Training Area.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Battle Showcasing The Protagonist’S Cybernetic Powers.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Standing Tall, Fully Embracing Their Enhanced Identity.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enhanced Combat:
     1. First Wallpaper: The Protagonist, A Cybernetic Soldier, Preparing For A Mission In A High-Tech Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Engaging In Intense Combat, Using Their Enhancements To Gain An Edge.
@@ -109,14 +109,14 @@ Story Title: Enhanced Combat:
 ================================================================ X ================================================================
 6. Category Name: Virtual Reality
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vr Escape:
     1. First Wallpaper: The Protagonist Entering A Virtual Reality World, Surrounded By Digital Landscapes.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Vr World, Encountering Strange And Beautiful Environments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against A Rogue Ai Within The Virtual World, With Intense Visual Effects.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Successfully Escaping The Vr World, With A Sense Of Relief.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Digital Dreams:
     1. First Wallpaper: The Protagonist Donning A Vr Headset, Entering A Fantastical Digital Realm.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Embarking On Quests And Adventures Within The Vr World.
@@ -125,11 +125,11 @@ Story Title: Digital Dreams:
 ================================================================ X ================================================================
 7. Category Name: Dystopian Society
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Oppressed Future:
     1. First Wallpaper: The Protagonist Navigating A Bleak, Dystopian City Controlled By An Oppressive Regime.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Second Wallpaper: Transition From The First Wallpaper, The Protagonist Witnessing The Harsh Realities Of The Society, With Tense Moments.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Joining A Rebellion, Planning To Overthrow The Regime.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Leading A Successful Revolt, With The City Beginning To Change.
@@ -141,14 +141,14 @@ Story Title: Second Wallpaper: Transition From The First Wallpaper, The Protagon
 ================================================================ X ================================================================
 8. Category Name: Cybernetic Detective
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Digital Clues:
     1. First Wallpaper: The Protagonist, A Cybernetic Detective, Examining A Crime Scene With Advanced Tech.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Following Digital Clues Through The City’S Neon-Lit Underworld.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Cybercriminal, Showcasing Intense Detective Work And Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Detective Solving The Case, With The City’S Skyline In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Sleuth:
     1. First Wallpaper: The Protagonist Analyzing Data Streams In A High-Tech Lab.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Navigating Through Cybernetic Networks To Track Down A Criminal.
@@ -157,14 +157,14 @@ Story Title: Tech Sleuth:
 ================================================================ X ================================================================
 9. Category Name: Ai Revolution
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Synthetic Uprising:
     1. First Wallpaper: The Protagonist Witnessing The Rise Of Sentient Ais In A High-Tech City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Forming An Alliance With Ais, Planning Their Rebellion.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Between Ai Forces And Human Enforcers, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Embracing Coexistence Between Humans And Ais, With A Hopeful Future.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Machine Rebellion:
     1. First Wallpaper: The Protagonist Discovering An Underground Ai Resistance.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Aiding The Ais In Their Fight For Freedom.
@@ -173,14 +173,14 @@ Story Title: Machine Rebellion:
 ================================================================ X ================================================================
 10. Category Name: Cybernetic Outlaws
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Bandits:
     1. First Wallpaper: The Protagonist Leading A Group Of Cybernetic Outlaws In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Outlaws Planning A Heist Against A Corrupt Corporation.
     3. Third Wallpaper: Transition From The Second Wallpaper, A High-Energy Battle With Corporate Security Forces, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Outlaws Celebrating Their Successful Heist, With The City’S Neon Lights In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Rebels:
     1. First Wallpaper: The Protagonist, A Tech-Savvy Rebel, Planning A Mission In An Underground Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Rebels Infiltrating A High-Security Facility, Using Advanced Gadgets And Stealth.
@@ -189,14 +189,14 @@ Story Title: Tech Rebels:
 ================================================================ X ================================================================
 11. Category Name: Cybernetic Bounty Hunters
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Hunt:
     1. First Wallpaper: The Protagonist, A Bounty Hunter, Receiving A High-Profile Target In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bounty Hunter Tracking Their Target Through Dark Alleys And High-Tech Districts.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Confrontation With The Target, Showcasing Intense Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bounty Hunter Capturing The Target, With The City’S Neon Lights Reflecting In Their Visor.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Pursuit:
     1. First Wallpaper: The Protagonist Analyzing Data In A High-Tech Bounty Hunter Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bounty Hunter Engaging In A High-Speed Chase Through The City’S Neon-Lit Streets.
@@ -205,14 +205,14 @@ Story Title: Tech Pursuit:
 ================================================================ X ================================================================
 12. Category Name: Underground Resistance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rebel Underground:
     1. First Wallpaper: The Protagonist Entering A Hidden Underground Base, Filled With Resistance Fighters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Rebels Planning Their Next Move Against The Oppressive Government.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Battle With Government Forces, Showcasing High-Energy Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Rebels Emerging Victorious, With The City Starting To Recover.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Hideout:
     1. First Wallpaper: The Protagonist Discovering A Secret Hideout Beneath The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hideout Filled With Advanced Technology And Resistance Fighters.
@@ -221,14 +221,14 @@ Story Title: Secret Hideout:
 ================================================================ X ================================================================
 13. Category Name: Cybernetic Gladiators
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Arena Battles:
     1. First Wallpaper: The Protagonist, A Cybernetic Gladiator, Preparing For Battle In A High-Tech Arena.
     2. Second Wallpaper: Transition From The First Wallpaper, The Gladiator Facing Off Against Powerful Opponents, Showcasing Intense Combat.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Gladiator Overcomes A Formidable Foe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Gladiator Standing Victorious, With The Crowd Cheering Wildly.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Combat Cyborgs:
     1. First Wallpaper: The Protagonist Entering A High-Tech Combat Arena, Surrounded By Spectators.
     2. Second Wallpaper: Transition From The First Wallpaper, Intense Battles With Other Cyborgs, Showcasing Advanced Weapons And Tactics.
@@ -237,14 +237,14 @@ Story Title: Combat Cyborgs:
 ================================================================ X ================================================================
 14. Category Name: Cybernetic Police
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Patrol:
     1. First Wallpaper: The Protagonist, A Cybernetic Police Officer, Patrolling The Neon-Lit City Streets.
     2. Second Wallpaper: Transition From The First Wallpaper, The Officer Responding To A High-Tech Crime, Using Advanced Gadgets.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Cybernetic Criminal, Showcasing Intense Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Officer Successfully Apprehending The Criminal, With The City Safe Once More.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enforcers Duty:
     1. First Wallpaper: The Protagonist Receiving A Briefing In A High-Tech Police Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Officer Tracking A Cybercriminal Through The City’S Neon-Lit Underworld.
@@ -253,14 +253,14 @@ Story Title: Enforcers Duty:
 ================================================================ X ================================================================
 15. Category Name: Cybernetic Heroes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Knights:
     1. First Wallpaper: The Protagonist, A Cybernetic Hero, Standing Atop A Skyscraper, Overlooking The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Rescuing Citizens From A High-Tech Disaster, Showcasing Their Abilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With A Powerful Villain, Showcasing Intense Action And Heroism.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Standing Victorious, With The City Safe And Grateful.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Guardians:
     1. First Wallpaper: The Protagonist And Their Team Of Cybernetic Heroes, Posing Heroically.
     2. Second Wallpaper: Transition From The First Wallpaper, The Team Responding To A City-Wide Crisis, Using Their Unique Abilities.
@@ -269,14 +269,14 @@ Story Title: Tech Guardians:
 ================================================================ X ================================================================
 16. Category Name: Corporate Warfare
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hostile Takeover:
     1. First Wallpaper: The Protagonist, A Corporate Operative, Preparing For A Mission In A High-Tech Boardroom.
     2. Second Wallpaper: Transition From The First Wallpaper, The Operative Infiltrating A Rival Corporation, Using Advanced Technology.
     3. Third Wallpaper: Transition From The Second Wallpaper, A High-Stakes Battle With Corporate Security, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Operative Achieving Their Mission, With The City Skyline In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Boardroom Battle:
     1. First Wallpaper: The Protagonist Attending A Tense Corporate Meeting In A Sleek, High-Tech Office.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering A Corporate Conspiracy, With Dramatic Visuals.
@@ -285,14 +285,14 @@ Story Title: Boardroom Battle:
 ================================================================ X ================================================================
 17. Category Name: Tech Nomads
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Digital Drifters:
     1. First Wallpaper: The Protagonist, A Tech Nomad, Traveling Through The Neon-Lit City On A Futuristic Motorcycle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Nomad Exploring Different Districts, Encountering Diverse Characters.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With A Powerful Gang, Showcasing Intense Action And Resourcefulness.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Nomad Riding Into The Sunset, With The City Behind Them.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Wanderers Of Neon:
     1. First Wallpaper: The Protagonist And Their Group Of Nomads Setting Up Camp In A Neon-Lit Wasteland.
     2. Second Wallpaper: Transition From The First Wallpaper, The Nomads Navigating Through The City, Using Their Skills To Survive.
@@ -301,14 +301,14 @@ Story Title: Wanderers Of Neon:
 ================================================================ X ================================================================
 18. Category Name: Cybernetic Outcasts
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Refugees:
     1. First Wallpaper: The Protagonist, An Outcast, Seeking Refuge In A Neon-Lit Underground Community.
     2. Second Wallpaper: Transition From The First Wallpaper, The Outcast Forming Alliances With Other Marginalized Individuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With The City’S Enforcers, Showcasing Intense Action And Resilience.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Outcast Community Standing Strong, With The City Above Starting To Change.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Exiles:
     1. First Wallpaper: The Protagonist Discovering A Hidden Enclave Of Tech Exiles In The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Exiles Working Together To Survive, Using Their Unique Skills.
@@ -317,14 +317,14 @@ Story Title: Tech Exiles:
 ================================================================ X ================================================================
 19. Category Name: Cybernetic Revolution
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Rebellion:
     1. First Wallpaper: The Protagonist Leading A Group Of Rebels In A Neon-Lit City, Planning Their Next Move.
     2. Second Wallpaper: Transition From The First Wallpaper, The Rebels Launching An Assault On A Government Facility, Showcasing Intense Action.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With The City’S Oppressive Leaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Rebellion Triumphant, With The City Starting To Transform.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Insurrection:
     1. First Wallpaper: The Protagonist Inspiring A Group Of Citizens To Rise Against The Regime.
     2. Second Wallpaper: Transition From The First Wallpaper, The Insurrectionists Planning Their Strategy In A High-Tech Hideout.
@@ -333,14 +333,14 @@ Story Title: Tech Insurrection:
 ================================================================ X ================================================================
 20. Category Name: Cybernetic Healers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Medics:
     1. First Wallpaper: The Protagonist, A Cybernetic Medic, Treating Patients In A High-Tech Clinic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Medic Navigating Through The City To Deliver Critical Supplies.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Medic Performs A High-Stakes Surgery With Advanced Technology.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Medic Saving Lives, With The City’S Neon Lights Symbolizing Hope.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Doctors:
     1. First Wallpaper: The Protagonist Setting Up A Makeshift Clinic In A Neon-Lit Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Doctor Treating Various Patients, Showcasing Their Skills And Compassion.
@@ -349,14 +349,14 @@ Story Title: Neon Doctors:
 ================================================================ X ================================================================
 21. Category Name: Cybernetic Musicians
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Beats:
     1. First Wallpaper: The Protagonist, A Cybernetic Musician, Performing In A Neon-Lit Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Musician Composing New Tracks In A High-Tech Studio.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Concert With Intense Visuals And Powerful Music.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Musician Becoming A Sensation, With The City Embracing Their Sound.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Rhythms:
     1. First Wallpaper: The Protagonist Experimenting With Futuristic Instruments In A Neon-Lit Studio.
     2. Second Wallpaper: Transition From The First Wallpaper, The Musician Performing At A High-Energy Cyberpunk Festival.
@@ -365,14 +365,14 @@ Story Title: Tech Rhythms:
 ================================================================ X ================================================================
 22. Category Name: Cybernetic Vigilantes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Justice:
     1. First Wallpaper: The Protagonist, A Cybernetic Vigilante, Standing On A Rooftop Overlooking The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Vigilante Stopping A High-Tech Crime, Showcasing Their Abilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Powerful Villain, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Vigilante Standing Victorious, With The City Safe Once More.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Avenger:
     1. First Wallpaper: The Protagonist Receiving A Call For Help In Their High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Avenger Navigating Through The City To Stop A Crime In Progress.
@@ -381,14 +381,14 @@ Story Title: Tech Avenger:
 ================================================================ X ================================================================
 23. Category Name: Cybernetic Hackers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Digital Warriors:
     1. First Wallpaper: The Protagonist Hacking Into A High-Security System, Surrounded By Monitors.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hacker Navigating Through Virtual Landscapes, Facing Digital Threats.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Rogue Ai Within The Digital Realm.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hacker Emerging Victorious, With The City’S Neon Lights In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Code Breakers:
     1. First Wallpaper: The Protagonist Cracking Codes In A Neon-Lit Apartment.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hacker Infiltrating A Corporate Network, Facing Digital Defenses.
@@ -397,14 +397,14 @@ Story Title: Code Breakers:
 ================================================================ X ================================================================
 24. Category Name: Cybernetic Resistance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Rebellion:
     1. First Wallpaper: The Protagonist Leading A Group Of Rebels In A Neon-Lit City, Planning Their Next Move.
     2. Second Wallpaper: Transition From The First Wallpaper, The Rebels Launching An Assault On A Government Facility, Showcasing Intense Action.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With The City’S Oppressive Leaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Rebellion Triumphant, With The City Starting To Transform.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Insurrection:
     1. First Wallpaper: The Protagonist Inspiring A Group Of Citizens To Rise Against The Regime.
     2. Second Wallpaper: Transition From The First Wallpaper, The Insurrectionists Planning Their Strategy In A High-Tech Hideout.
@@ -413,14 +413,14 @@ Story Title: Tech Insurrection:
 ================================================================ X ================================================================
 25. Category Name: Cybernetic Nomads
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Drifters:
     1. First Wallpaper: The Protagonist, A Cybernetic Drifter, Traveling Through The Neon-Lit City On A Futuristic Motorcycle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Drifter Exploring Different Districts, Encountering Diverse Characters.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With A Powerful Gang, Showcasing Intense Action And Resourcefulness.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Drifter Riding Into The Sunset, With The City Behind Them.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Wanderers:
     1. First Wallpaper: The Protagonist And Their Group Of Nomads Setting Up Camp In A Neon-Lit Wasteland.
     2. Second Wallpaper: Transition From The First Wallpaper, The Nomads Navigating Through The City, Using Their Skills To Survive.
@@ -429,14 +429,14 @@ Story Title: Tech Wanderers:
 ================================================================ X ================================================================
 26. Category Name: Cybernetic Mercenaries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Mercs:
     1. First Wallpaper: The Protagonist, A Cybernetic Mercenary, Receiving A High-Profile Mission In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Mercenary Infiltrating A High-Security Facility, Using Advanced Gadgets And Combat Skills.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Battle With Powerful Enemies, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mercenary Completing The Mission, With A Sense Of Satisfaction And Reward.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Soldiers:
     1. First Wallpaper: The Protagonist And Their Team Of Mercenaries Preparing For A Mission In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Team Engaging In A High-Stakes Operation, Facing Heavy Resistance.
@@ -445,14 +445,14 @@ Story Title: Tech Soldiers:
 ================================================================ X ================================================================
 27. Category Name: Cybernetic Bounty Hunters
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Bounty:
     1. First Wallpaper: The Protagonist, A Cybernetic Bounty Hunter, Receiving A High-Profile Target In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bounty Hunter Tracking Their Target Through Dark Alleys And High-Tech Districts.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Confrontation With The Target, Showcasing Intense Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bounty Hunter Capturing The Target, With The City’S Neon Lights Reflecting In Their Visor.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Pursuit:
     1. First Wallpaper: The Protagonist Analyzing Data In A High-Tech Bounty Hunter Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bounty Hunter Engaging In A High-Speed Chase Through The City’S Neon-Lit Streets.
@@ -461,14 +461,14 @@ Story Title: Tech Pursuit:
 ================================================================ X ================================================================
 28. Category Name: Cybernetic Outlaws
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Bandits:
     1. First Wallpaper: The Protagonist Leading A Group Of Cybernetic Outlaws In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Outlaws Planning A Heist Against A Corrupt Corporation.
     3. Third Wallpaper: Transition From The Second Wallpaper, A High-Energy Battle With Corporate Security Forces, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Outlaws Celebrating Their Successful Heist, With The City’S Neon Lights In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Rebels:
     1. First Wallpaper: The Protagonist, A Tech-Savvy Rebel, Planning A Mission In An Underground Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Rebels Infiltrating A High-Security Facility, Using Advanced Gadgets And Stealth.
@@ -477,14 +477,14 @@ Story Title: Tech Rebels:
 ================================================================ X ================================================================
 29. Category Name: Cybernetic Cults
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Prophets:
     1. First Wallpaper: The Protagonist, A Member Of A Cybernetic Cult, Attending A Ritual In A Neon-Lit Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Cultists Performing Rituals, Surrounded By High-Tech Symbols And Artifacts.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With An Outsider, Showcasing Intense Action And Mystery.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Cult Embracing New Knowledge, With The City’S Neon Lights Reflecting Their Beliefs.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Zealots:
     1. First Wallpaper: The Protagonist Discovering A Hidden Cult In A Neon-Lit Underground Chamber.
     2. Second Wallpaper: Transition From The First Wallpaper, The Cultists Engaging In Rituals, With Advanced Technology Enhancing The Atmosphere.
@@ -493,14 +493,14 @@ Story Title: Tech Zealots:
 ================================================================ X ================================================================
 30. Category Name: Cybernetic Gladiators
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Arena Battles:
     1. First Wallpaper: The Protagonist, A Cybernetic Gladiator, Preparing For Battle In A High-Tech Arena.
     2. Second Wallpaper: Transition From The First Wallpaper, The Gladiator Facing Off Against Powerful Opponents, Showcasing Intense Combat.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Gladiator Overcomes A Formidable Foe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Gladiator Standing Victorious, With The Crowd Cheering Wildly.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Combat Cyborgs:
     1. First Wallpaper: The Protagonist Entering A High-Tech Combat Arena, Surrounded By Spectators.
     2. Second Wallpaper: Transition From The First Wallpaper, Intense Battles With Other Cyborgs, Showcasing Advanced Weapons And Tactics.
@@ -509,14 +509,14 @@ Story Title: Combat Cyborgs:
 ================================================================ X ================================================================
 31. Category Name: Cybernetic Mercenaries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Mercs:
     1. First Wallpaper: The Protagonist, A Cybernetic Mercenary, Receiving A High-Profile Mission In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Mercenary Infiltrating A High-Security Facility, Using Advanced Gadgets And Combat Skills.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Battle With Powerful Enemies, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mercenary Completing The Mission, With A Sense Of Satisfaction And Reward.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Soldiers:
     1. First Wallpaper: The Protagonist And Their Team Of Mercenaries Preparing For A Mission In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Team Engaging In A High-Stakes Operation, Facing Heavy Resistance.
@@ -525,14 +525,14 @@ Story Title: Tech Soldiers:
 ================================================================ X ================================================================
 32. Category Name: Cybernetic Street Racers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Racers:
     1. First Wallpaper: The Protagonist, A Cybernetic Street Racer, Revving Their Engine At The Starting Line.
     2. Second Wallpaper: Transition From The First Wallpaper, The Race Begins, With Neon Lights Blurring As The Cars Speed Through The City.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Protagonist Navigates A Sharp Turn, Narrowly Avoiding A Crash.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Crossing The Finish Line First, With The Crowd Cheering Wildly.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Speedsters:
     1. First Wallpaper: The Protagonist Tuning Their High-Tech Car In A Neon-Lit Garage.
     2. Second Wallpaper: Transition From The First Wallpaper, The Street Race Begins, With Competitors Speeding Through The City’S Neon-Lit Streets.
@@ -541,14 +541,14 @@ Story Title: Tech Speedsters:
 ================================================================ X ================================================================
 33. Category Name: Cybernetic Revolutionaries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Uprising:
     1. First Wallpaper: The Protagonist Leading A Group Of Revolutionaries In A Neon-Lit City, Planning Their Next Move.
     2. Second Wallpaper: Transition From The First Wallpaper, The Revolutionaries Launching An Assault On A Government Facility, Showcasing Intense Action.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With The City’S Oppressive Leaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Revolutionaries Triumphant, With The City Starting To Transform.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Insurgents:
     1. First Wallpaper: The Protagonist Inspiring A Group Of Citizens To Rise Against The Regime.
     2. Second Wallpaper: Transition From The First Wallpaper, The Insurgents Planning Their Strategy In A High-Tech Hideout.
@@ -557,14 +557,14 @@ Story Title: Tech Insurgents:
 ================================================================ X ================================================================
 34. Category Name: Cybernetic Bodyguards
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Protectors:
     1. First Wallpaper: The Protagonist, A Cybernetic Bodyguard, Protecting A High-Profile Client In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bodyguard Engaging In A High-Stakes Battle With Would-Be Assassins.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Bodyguard Fends Off An Attack, Showcasing Their Skills.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Client Safe And Sound, With The Bodyguard Standing Vigilant.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Guardians:
     1. First Wallpaper: The Protagonist Receiving A Mission To Protect A Vip In A High-Tech Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bodyguard Navigating Through The City, Ensuring The Client’S Safety.
@@ -573,14 +573,14 @@ Story Title: Tech Guardians:
 ================================================================ X ================================================================
 35. Category Name: Cybernetic Assassins
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Killers:
     1. First Wallpaper: The Protagonist, A Cybernetic Assassin, Receiving A High-Profile Target In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Assassin Infiltrating A High-Security Building, Using Advanced Gadgets And Stealth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Assassin Takes Out The Target, Showcasing Their Skills.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Assassin Disappearing Into The Neon-Lit Night, Mission Accomplished.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Hitmen:
     1. First Wallpaper: The Protagonist Receiving An Assassination Mission In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hitman Tracking The Target Through The City’S Neon-Lit Streets.
@@ -589,14 +589,14 @@ Story Title: Tech Hitmen:
 ================================================================ X ================================================================
 36. Category Name: Cybernetic Scientists
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Innovators:
     1. First Wallpaper: The Protagonist, A Cybernetic Scientist, Working In A High-Tech Lab.
     2. Second Wallpaper: Transition From The First Wallpaper, The Scientist Making A Breakthrough Discovery, With Dramatic Visuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Scientist Faces Opposition From Corporate Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Scientist’S Innovation Changing The City, With A Sense Of Triumph.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Researchers:
     1. First Wallpaper: The Protagonist Conducting Experiments In A Neon-Lit Laboratory.
     2. Second Wallpaper: Transition From The First Wallpaper, The Researcher Discovering A Revolutionary Technology.
@@ -605,14 +605,14 @@ Story Title: Tech Researchers:
 ================================================================ X ================================================================
 37. Category Name: Cybernetic Smugglers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Runners:
     1. First Wallpaper: The Protagonist, A Cybernetic Smuggler, Transporting Contraband Through A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Smuggler Evading Security Forces, Using Advanced Gadgets And Stealth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Smuggler Faces A Rival Gang, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Smuggler Successfully Delivering The Contraband, With A Sense Of Triumph.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Traffickers:
     1. First Wallpaper: The Protagonist Planning A Smuggling Operation In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Smugglers Navigating Through The City’S Neon-Lit Streets, Evading Detection.
@@ -621,14 +621,14 @@ Story Title: Tech Traffickers:
 ================================================================ X ================================================================
 38. Category Name: Cybernetic Enforcers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Enforcers:
     1. First Wallpaper: The Protagonist, A Cybernetic Enforcer, Patrolling The Neon-Lit City Streets.
     2. Second Wallpaper: Transition From The First Wallpaper, The Enforcer Responding To A High-Tech Crime, Showcasing Their Skills.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With A Powerful Criminal, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Enforcer Successfully Apprehending The Criminal, With The City Safe Once More.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Guardians:
     1. First Wallpaper: The Protagonist Receiving A Briefing In A High-Tech Police Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Enforcer Tracking A Cybercriminal Through The City’S Neon-Lit Underworld.
@@ -637,14 +637,14 @@ Story Title: Tech Guardians:
 ================================================================ X ================================================================
 39. Category Name: Cybernetic Healers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Medics:
     1. First Wallpaper: The Protagonist, A Cybernetic Medic, Treating Patients In A High-Tech Clinic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Medic Navigating Through The City To Deliver Critical Supplies.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Medic Performs A High-Stakes Surgery With Advanced Technology.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Medic Saving Lives, With The City’S Neon Lights Symbolizing Hope.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Doctors:
     1. First Wallpaper: The Protagonist Setting Up A Makeshift Clinic In A Neon-Lit Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Doctor Treating Various Patients, Showcasing Their Skills And Compassion.
@@ -653,14 +653,14 @@ Story Title: Neon Doctors:
 ================================================================ X ================================================================
 40. Category Name: Cybernetic Musicians
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Beats:
     1. First Wallpaper: The Protagonist, A Cybernetic Musician, Performing In A Neon-Lit Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Musician Composing New Tracks In A High-Tech Studio.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Concert With Intense Visuals And Powerful Music.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Musician Becoming A Sensation, With The City Embracing Their Sound.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Rhythms:
     1. First Wallpaper: The Protagonist Experimenting With Futuristic Instruments In A Neon-Lit Studio.
     2. Second Wallpaper: Transition From The First Wallpaper, The Musician Performing At A High-Energy Cyberpunk Festival.
@@ -669,14 +669,14 @@ Story Title: Tech Rhythms:
 ================================================================ X ================================================================
 41. Category Name: Cybernetic Artists
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Creators:
     1. First Wallpaper: The Protagonist, A Cybernetic Artist, Creating A Masterpiece In A Neon-Lit Studio.
     2. Second Wallpaper: Transition From The First Wallpaper, The Artist Showcasing Their Work In A High-Tech Gallery, With Dramatic Visuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Artist Faces Criticism And Opposition.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Artist’S Work Gaining Recognition, With The City Celebrating Their Talent.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Visionaries:
     1. First Wallpaper: The Protagonist Experimenting With Futuristic Art Techniques In A Neon-Lit Workshop.
     2. Second Wallpaper: Transition From The First Wallpaper, The Artist’S Work Gaining Popularity In A High-Energy Cyberpunk Community.        
@@ -685,14 +685,14 @@ Story Title: Tech Visionaries:
 ================================================================ X ================================================================
 42. Category Name: Cybernetic Mechanics
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Engineers:
     1. First Wallpaper: The Protagonist, A Cybernetic Mechanic, Repairing Advanced Tech In A Neon-Lit Workshop.
     2. Second Wallpaper: Transition From The First Wallpaper, The Mechanic Creating Innovative Devices, Showcasing Their Skills And Creativity.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Mechanic Faces A Critical Malfunction.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mechanic’S Innovations Benefiting The City, With The Neon Lights Reflecting Progress.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Fixers:
     1. First Wallpaper: The Protagonist Tinkering With Futuristic Gadgets In A Neon-Lit Garage.
     2. Second Wallpaper: Transition From The First Wallpaper, The Mechanic’S Work Gaining Recognition In A High-Tech Community.
@@ -701,14 +701,14 @@ Story Title: Tech Fixers:
 ================================================================ X ================================================================
 43. Category Name: Cybernetic Outcasts
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Refugees:
     1. First Wallpaper: The Protagonist, An Outcast, Seeking Refuge In A Neon-Lit Underground Community.
     2. Second Wallpaper: Transition From The First Wallpaper, The Outcast Forming Alliances With Other Marginalized Individuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With The City’S Enforcers, Showcasing Intense Action And Resilience.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Outcast Community Standing Strong, With The City Above Starting To Change.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Exiles:
     1. First Wallpaper: The Protagonist Discovering A Hidden Enclave Of Tech Exiles In The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Exiles Working Together To Survive, Using Their Unique Skills.
@@ -717,14 +717,14 @@ Story Title: Tech Exiles:
 ================================================================ X ================================================================
 44. Category Name: Cybernetic Gamers
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Gamers:
     1. First Wallpaper: The Protagonist, A Cybernetic Gamer, Entering A High-Tech Gaming Arena.
     2. Second Wallpaper: Transition From The First Wallpaper, The Gamer Competing In A High-Stakes Virtual Reality Tournament.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Gamer Faces A Powerful Opponent.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Gamer Emerging Victorious, With The City Celebrating Their Win.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Champions:
     1. First Wallpaper: The Protagonist Preparing For A Gaming Competition In A Neon-Lit Studio.
     2. Second Wallpaper: Transition From The First Wallpaper, The Gamer’S Skills Gaining Recognition In A High-Energy Cyberpunk Community.
@@ -733,14 +733,14 @@ Story Title: Tech Champions:
 ================================================================ X ================================================================
 45. Category Name: Cybernetic Ghosts
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Phantoms:
     1. First Wallpaper: The Protagonist, A Cybernetic Ghost, Haunting The Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Ghost Interacting With The Living, Creating Eerie And Mysterious Scenes.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Ghost Faces A Powerful Exorcist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Ghost Finding Peace, With The City’S Neon Lights Reflecting Their Presence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Spirits:
     1. First Wallpaper: The Protagonist Discovering A Hidden Enclave Of Tech Spirits In The City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Spirits Working Together To Haunt And Protect The City.
@@ -749,14 +749,14 @@ Story Title: Tech Spirits:
 ================================================================ X ================================================================
 46. Category Name: Cybernetic Shadows
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Assassins:
     1. First Wallpaper: The Protagonist, A Cybernetic Assassin, Receiving A High-Profile Target In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Assassin Infiltrating A High-Security Building, Using Advanced Gadgets And Stealth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Assassin Takes Out The Target, Showcasing Their Skills.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Assassin Disappearing Into The Neon-Lit Night, Mission Accomplished.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Ninjas:
     1. First Wallpaper: The Protagonist Receiving An Assassination Mission In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Ninja Tracking The Target Through The City’S Neon-Lit Streets.
@@ -765,14 +765,14 @@ Story Title: Tech Ninjas:
 ================================================================ X ================================================================
 47. Category Name: Cybernetic Hunters
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Predators:
     1. First Wallpaper: The Protagonist, A Cybernetic Hunter, Tracking Their Prey In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hunter Navigating Through The City’S Neon-Lit Underworld, Facing Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With A Powerful Target, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hunter Successfully Capturing Their Prey, With The City’S Neon Lights In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Stalkers:
     1. First Wallpaper: The Protagonist Receiving A Hunting Mission In A High-Tech Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Stalker Tracking The Target Through The City’S Neon-Lit Streets.
@@ -781,14 +781,14 @@ Story Title: Tech Stalkers:
 ================================================================ X ================================================================
 48. Category Name: Cybernetic Thieves
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Rogues:
     1. First Wallpaper: The Protagonist, A Cybernetic Thief, Planning A Heist In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Thief Infiltrating A High-Security Building, Using Advanced Gadgets And Stealth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Thief Faces A Powerful Security System.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Thief Successfully Completing The Heist, With A Sense Of Triumph.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Bandits:
     1. First Wallpaper: The Protagonist Planning A Heist In A High-Tech Hideout.
     2. Second Wallpaper: Transition From The First Wallpaper, The Bandits Navigating Through The City’S Neon-Lit Streets, Evading Detection.
@@ -797,14 +797,14 @@ Story Title: Tech Bandits:
 ================================================================ X ================================================================
 49. Category Name: Cybernetic Spies
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Agents:
     1. First Wallpaper: The Protagonist, A Cybernetic Spy, Infiltrating A High-Security Building In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Spy Gathering Critical Information, Using Advanced Gadgets And Stealth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment As The Spy Is Discovered, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Spy Successfully Escaping With The Information, Mission Accomplished.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Operatives:
     1. First Wallpaper: The Protagonist Receiving A Mission Briefing In A High-Tech Headquarters.
     2. Second Wallpaper: Transition From The First Wallpaper, The Operative Navigating Through The City’S Neon-Lit Streets, Gathering Intel.
@@ -813,14 +813,14 @@ Story Title: Tech Operatives:
 ================================================================ X ================================================================
 50. Category Name: Cybernetic Warriors
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Fighters:
     1. First Wallpaper: The Protagonist, A Cybernetic Warrior, Preparing For Battle In A Neon-Lit City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Warrior Engaging In A High-Stakes Battle With Powerful Enemies.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment As The Warrior Overcomes A Formidable Foe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Warrior Standing Victorious, With The City’S Neon Lights Reflecting Their Triumph.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Cyberpunk Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Combatants:
     1. First Wallpaper: The Protagonist Entering A High-Tech Combat Arena, Surrounded By Spectators.
     2. Second Wallpaper: Transition From The First Wallpaper, Intense Battles With Other Cybernetic Fighters, Showcasing Advanced Weapons And Tactics.

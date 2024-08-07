@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Space Exploration
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Voyage:
     1. First Wallpaper: The Protagonist Boarding A Sleek Spaceship, Ready For Interstellar Travel.
     2. Second Wallpaper: Transition From The First Wallpaper, The Spaceship Navigating Through An Asteroid Field With Stunning Cosmic Visuals.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Encountering An Alien Species On A Distant Planet.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist And The Alien Species Forming An Alliance, With A Vast Galaxy In The Background.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Colony:
     1. First Wallpaper: The Protagonist Arriving At A High-Tech Colony On The Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Lunar Landscape, Discovering Ancient Alien Ruins.
@@ -45,14 +45,14 @@ Story Title: Lunar Colony:
 ================================================================ X ================================================================
 2. Category Name: Cyber Cities
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Metropolis:
     1. First Wallpaper: The Protagonist Walking Through A Neon-Lit Cityscape Filled With Towering Skyscrapers And Holograms.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Navigating Through Bustling Streets With Flying Cars Overhead.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Cybercriminals In A High-Tech Market.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Emerging Victorious, With The City’S Lights Reflecting Their Triumph.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Haven:
     1. First Wallpaper: The Protagonist Entering A City Designed With Advanced Architecture And Green Technology.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The City’S Innovations, Such As Autonomous Transport And Smart Buildings.
@@ -61,14 +61,14 @@ Story Title: Tech Haven:
 ================================================================ X ================================================================
 3. Category Name: Advanced Robotics
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robo Revolution:
     1. First Wallpaper: The Protagonist Working Alongside Advanced Humanoid Robots In A Futuristic Factory.
     2. Second Wallpaper: Transition From The First Wallpaper, A Crisis Where The Robots Malfunction, Causing Chaos.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Repairing The Robots And Preventing Further Damage.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Factory Functioning Smoothly, With Humans And Robots Working In Harmony.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Android Allies:
     1. First Wallpaper: The Protagonist Discovering A Hidden Society Of Sentient Androids.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About The Androids’ Culture And Technology.
@@ -77,14 +77,14 @@ Story Title: Android Allies:
 ================================================================ X ================================================================
 4. Category Name: Virtual Reality
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Digital Worlds:
     1. First Wallpaper: The Protagonist Putting On A Vr Headset And Entering A Stunning Digital Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring Various Virtual Environments, From Fantasy Realms To Futuristic Cities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Challenge Where The Protagonist Must Defeat A Powerful Vr Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Virtual World Celebrating The Protagonist’S Victory, With Digital Fireworks.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cyber Adventures:
     1. First Wallpaper: The Protagonist Logging Into A Virtual Reality Game Filled With Futuristic Challenges.
     2. Second Wallpaper: Transition From The First Wallpaper, Forming A Team With Other Players To Complete Quests.
@@ -93,14 +93,14 @@ Story Title: Cyber Adventures:
 ================================================================ X ================================================================
 5. Category Name: Space Colonies
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mars Base:
     1. First Wallpaper: The Protagonist Arriving At A Sprawling Colony On Mars.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Colony’S Advanced Facilities And Terraforming Efforts.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Repair Life Support Systems.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Colony Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Asteroid City:
     1. First Wallpaper: The Protagonist Traveling To A City Built Inside A Massive Asteroid.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering The City’S Unique Architecture And Mining Operations.
@@ -109,14 +109,14 @@ Story Title: Asteroid City:
 ================================================================ X ================================================================
 6. Category Name: Futuristic Warfare
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Soldiers:
     1. First Wallpaper: The Protagonist Donning Advanced Combat Gear In A Futuristic Military Base.
     2. Second Wallpaper: Transition From The First Wallpaper, Participating In A High-Tech Battlefield With Laser Weapons And Drones.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With An Enemy Force Equipped With Similar Technology.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist’S Team Standing Victorious, With The Battlefield Behind Them.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robo Warriors:
     1. First Wallpaper: The Protagonist Leading A Squad Of Robotic Soldiers Into Battle.
     2. Second Wallpaper: Transition From The First Wallpaper, Coordinating Complex Maneuvers Using Advanced Ai.
@@ -125,14 +125,14 @@ Story Title: Robo Warriors:
 ================================================================ X ================================================================
 7. Category Name: Space Exploration
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Interstellar Journey:
     1. First Wallpaper: The Protagonist Boarding A Massive Starship, Preparing For A Deep Space Mission.
     2. Second Wallpaper: Transition From The First Wallpaper, Navigating Through Stunning Nebulae And Star Systems.
     3. Third Wallpaper: Transition From The Second Wallpaper, Encountering A Mysterious Alien Civilization On A Distant Planet.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Forming An Alliance With The Aliens, With The Protagonist As A Key Diplomat.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Frontier:
     1. First Wallpaper: The Protagonist Charting Unknown Territories In The Galaxy.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Habitable Planets And Ancient Alien Artifacts.
@@ -141,14 +141,14 @@ Story Title: Galactic Frontier:
 ================================================================ X ================================================================
 8. Category Name: Genetic Engineering
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Labs:
     1. First Wallpaper: The Protagonist Working In A Cutting-Edge Genetic Research Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, Conducting Experiments To Enhance Human Abilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where A Genetic Experiment Goes Wrong, Causing Mutations.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Finding A Cure, With The Lab Resuming Its Research Safely.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Future Humans:
     1. First Wallpaper: The Protagonist Meeting A Community Of Genetically Enhanced Individuals.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About Their Abilities And The Ethical Challenges They Face.
@@ -157,14 +157,14 @@ Story Title: Future Humans:
 ================================================================ X ================================================================
 9. Category Name: Space Combat
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Starship Battles:
     1. First Wallpaper: The Protagonist Commanding A Powerful Starship In A Fleet.
     2. Second Wallpaper: Transition From The First Wallpaper, Engaging In A Massive Space Battle With Laser Beams And Explosions.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment Where The Protagonist’S Ship Is Critically Damaged.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist’S Strategic Maneuver Securing Victory, With The Fleet Celebrating.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic War:
     1. First Wallpaper: The Protagonist Leading A Squadron Of Fighter Ships In A Galactic Conflict.
     2. Second Wallpaper: Transition From The First Wallpaper, Dogfighting With Enemy Ships In A Visually Stunning Star Field.
@@ -173,14 +173,14 @@ Story Title: Galactic War:
 ================================================================ X ================================================================
 10. Category Name: Futuristic Cities
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Skyline Wonders:
     1. First Wallpaper: The Protagonist Arriving In A City With Towering Skyscrapers And Floating Platforms.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The City’S Advanced Transportation And Urban Design.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Save The City From A Malfunctioning Ai.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Thriving, With The Protagonist Honored For Their Heroism.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eco City:
     1. First Wallpaper: The Protagonist Entering A City Designed With Sustainable Technology And Green Architecture.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Innovations Like Vertical Gardens And Renewable Energy Sources.
@@ -189,14 +189,14 @@ Story Title: Eco City:
 ================================================================ X ================================================================
 11. Category Name: Advanced Ai
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Uprising:
     1. First Wallpaper: The Protagonist Discovering A Secret Society Of Advanced Ais.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About Their Quest For Autonomy And Rights.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Mediates Between Humans And Ais.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Harmonious Society With Humans And Ais Coexisting Peacefully.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sentient Machines:
     1. First Wallpaper: The Protagonist Encountering A Group Of Sentient Robots With Human-Like Emotions.
     2. Second Wallpaper: Transition From The First Wallpaper, Forming A Bond With The Robots And Understanding Their Perspective.
@@ -205,14 +205,14 @@ Story Title: Sentient Machines:
 ================================================================ X ================================================================
 12. Category Name: Space Colonization
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Habitat:
     1. First Wallpaper: The Protagonist Arriving At A Massive Space Station Orbiting A Distant Planet.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Station’S Advanced Facilities And Zero-Gravity Environments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Repair The Station’S Life Support Systems.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Station Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mars Colony:
     1. First Wallpaper: The Protagonist Landing On Mars And Joining A Burgeoning Colony.
     2. Second Wallpaper: Transition From The First Wallpaper, Helping To Build And Expand The Colony’S Infrastructure.
@@ -221,14 +221,14 @@ Story Title: Mars Colony:
 ================================================================ X ================================================================
 13. Category Name: Futuristic Transportation
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hyperloop Adventure:
     1. First Wallpaper: The Protagonist Boarding A Sleek, High-Speed Hyperloop Train.
     2. Second Wallpaper: Transition From The First Wallpaper, Traveling Through Stunning Futuristic Landscapes At Incredible Speeds.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Critical System Failure.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Journey Completed Safely, With The Hyperloop System Improved.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Flying Cars:
     1. First Wallpaper: The Protagonist Navigating A Cityscape In A Personal Flying Car.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Freedom Of Flight And Advanced Traffic Systems.
@@ -237,14 +237,14 @@ Story Title: Flying Cars:
 ================================================================ X ================================================================
 14. Category Name: Futuristic Medicine
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Nano Healing:
     1. First Wallpaper: The Protagonist Working In A State-Of-The-Art Medical Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, Using Nanotechnology To Heal Patients At A Microscopic Level.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where A Patient’S Nanobots Malfunction, Causing Complications.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Resolving The Issue, With The Patient Fully Recovered.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Augmentation:
     1. First Wallpaper: The Protagonist Undergoing A Procedure To Receive Bio-Augmentations.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning To Use Their New Enhanced Abilities.
@@ -253,14 +253,14 @@ Story Title: Bio Augmentation:
 ================================================================ X ================================================================
 15. Category Name: Space Mining
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Asteroid Harvest:
     1. First Wallpaper: The Protagonist Arriving At A Mining Colony On A Large Asteroid.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Advanced Mining Equipment And Techniques.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Prevent A Mining Disaster.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mining Operation Successful, With The Protagonist Honored For Their Efforts.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Extraction:
     1. First Wallpaper: The Protagonist Joining A Team Of Miners On The Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, Extracting Valuable Resources Using Cutting-Edge Technology.
@@ -269,14 +269,14 @@ Story Title: Lunar Extraction:
 ================================================================ X ================================================================
 16. Category Name: Futuristic Agriculture
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vertical Farms:
     1. First Wallpaper: The Protagonist Working In A Vertical Farm Within A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, Using Advanced Techniques To Grow Crops In Stacked Layers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Farm’S Automated Systems Fail.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Resolving The Issue, With The Farm Producing Abundant Crops.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Domes:
     1. First Wallpaper: The Protagonist Entering A Biodome Designed To Cultivate Various Ecosystems.
     2. Second Wallpaper: Transition From The First Wallpaper, Managing The Balance Of Flora And Fauna Within The Dome.
@@ -285,14 +285,14 @@ Story Title: Bio Domes:
 ================================================================ X ================================================================
 17. Category Name: Space Tourism
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Resort:
     1. First Wallpaper: The Protagonist Arriving At A Luxurious Space Resort Orbiting Earth.
     2. Second Wallpaper: Transition From The First Wallpaper, Enjoying The Amenities And Breathtaking Views Of The Planet.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Ensure The Safety Of The Guests.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Resort Continuing To Flourish, With The Protagonist Celebrated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Vacation:
     1. First Wallpaper: The Protagonist Taking A Vacation On The Moon, Exploring Its Unique Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, Participating In Lunar Activities Like Low-Gravity Sports And Sightseeing.
@@ -301,14 +301,14 @@ Story Title: Lunar Vacation:
 ================================================================ X ================================================================
 18. Category Name: Ai Companions
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robo Pets:
     1. First Wallpaper: The Protagonist Receiving A Highly Advanced Robotic Pet.
     2. Second Wallpaper: Transition From The First Wallpaper, Bonding With The Pet And Discovering Its Capabilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Pet Helps Save The Day Using Its Unique Skills.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bond Between The Protagonist And Their Robo Pet Deepening, With The Pet Becoming A Valued Companion.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Virtual Assistants:
     1. First Wallpaper: The Protagonist Interacting With A Virtual Assistant Embedded In Their Home.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering The Assistant’S Wide Range Of Abilities And Functions.
@@ -317,14 +317,14 @@ Story Title: Virtual Assistants:
 ================================================================ X ================================================================
 19. Category Name: Futuristic Fashion
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smart Clothing:
     1. First Wallpaper: The Protagonist Trying On Clothing Embedded With Smart Technology.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clothing Adapting To Various Environments And Activities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist’S Smart Clothing Provides Crucial Assistance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Becoming A Trendsetter, With Smart Clothing Becoming Widely Popular.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Couture:
     1. First Wallpaper: The Protagonist Attending A High-Tech Fashion Show In A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Innovative Designs That Incorporate Advanced Materials And Technology.
@@ -333,14 +333,14 @@ Story Title: Tech Couture:
 ================================================================ X ================================================================
 20. Category Name: Futuristic Education
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Virtual Classrooms:
     1. First Wallpaper: The Protagonist Attending A Class In A Fully Immersive Virtual Environment.
     2. Second Wallpaper: Transition From The First Wallpaper, Interacting With Classmates And Teachers In Real-Time Through Avatars.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Solve A Problem Within The Virtual System.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Virtual Classroom Thriving, With The Protagonist Excelling In Their Studies.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Tutors:
     1. First Wallpaper: The Protagonist Learning From A Highly Advanced Ai Tutor.
     2. Second Wallpaper: Transition From The First Wallpaper, The Tutor Adapting Lessons To The Protagonist’S Unique Learning Style.
@@ -349,14 +349,14 @@ Story Title: Ai Tutors:
 ================================================================ X ================================================================
 21. Category Name: Space Habitats
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Colony:
     1. First Wallpaper: The Protagonist Arriving At A Massive Space Colony Orbiting A Distant Planet.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Colony’S Advanced Facilities And Zero-Gravity Environments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Repair The Colony’S Life Support Systems.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Colony Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Base:
     1. First Wallpaper: The Protagonist Joining A Colony On The Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, Helping To Build And Expand The Colony’S Infrastructure.
@@ -365,14 +365,14 @@ Story Title: Lunar Base:
 ================================================================ X ================================================================
 22. Category Name: Futuristic Art
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holographic Displays:
     1. First Wallpaper: The Protagonist Attending An Art Exhibit Featuring Holographic Artwork.
     2. Second Wallpaper: Transition From The First Wallpaper, Interacting With The Holograms And Exploring Their Intricate Details.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Protect The Artwork From A Technical Glitch.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Exhibit Successful, With The Holograms Gaining Widespread Acclaim.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Creations:
     1. First Wallpaper: The Protagonist Discovering An Art Studio Where Ai Creates Stunning Masterpieces.
     2. Second Wallpaper: Transition From The First Wallpaper, Collaborating With The Ai To Produce Unique Works Of Art.
@@ -381,14 +381,14 @@ Story Title: Ai Creations:
 ================================================================ X ================================================================
 23. Category Name: Space Mining
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Asteroid Mining:
     1. First Wallpaper: The Protagonist Arriving At A Mining Colony On A Large Asteroid.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Advanced Mining Equipment And Techniques.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Prevent A Mining Disaster.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Mining Operation Successful, With The Protagonist Honored For Their Efforts.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Extraction:
     1. First Wallpaper: The Protagonist Joining A Team Of Miners On The Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, Extracting Valuable Resources Using Cutting-Edge Technology.
@@ -397,14 +397,14 @@ Story Title: Lunar Extraction:
 ================================================================ X ================================================================
 24. Category Name: Futuristic Energy
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Solar Satellites:
     1. First Wallpaper: The Protagonist Working On A Project To Build Solar Power Satellites In Orbit.
     2. Second Wallpaper: Transition From The First Wallpaper, The Satellites Harnessing Solar Energy And Transmitting It To Earth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Malfunction In The Satellite Array.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Project Successful, With The Protagonist Celebrated For Their Contributions.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fusion Power:
     1. First Wallpaper: The Protagonist Joining A Team Working On A Fusion Power Plant.
     2. Second Wallpaper: Transition From The First Wallpaper, The Plant Achieving Breakthroughs In Sustainable Energy.
@@ -413,14 +413,14 @@ Story Title: Fusion Power:
 ================================================================ X ================================================================
 25. Category Name: Space Diplomacy
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Council:
     1. First Wallpaper: The Protagonist Representing Earth At A Council Of Interstellar Civilizations.
     2. Second Wallpaper: Transition From The First Wallpaper, Negotiating Treaties And Alliances With Alien Species.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Mediate A Dispute Between Factions.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Peace Achieved, With The Protagonist Celebrated As A Diplomat.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Alien Embassy:
     1. First Wallpaper: The Protagonist Establishing An Embassy On An Alien World.
     2. Second Wallpaper: Transition From The First Wallpaper, Building Relationships And Understanding The Alien Culture.
@@ -429,14 +429,14 @@ Story Title: Alien Embassy:
 ================================================================ X ================================================================
 26. Category Name: Futuristic Cuisine
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smart Kitchens:
     1. First Wallpaper: The Protagonist Cooking In A High-Tech Kitchen With Advanced Appliances.
     2. Second Wallpaper: Transition From The First Wallpaper, The Kitchen’S Ai Assisting In Preparing Complex Meals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Malfunctioning Appliance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Meal Successful, With The Protagonist’S Culinary Skills Celebrated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Synthetic Foods:
     1. First Wallpaper: The Protagonist Visiting A Lab That Produces High-Quality Synthetic Foods.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About The Technology And Tasting The Innovative Dishes.
@@ -445,14 +445,14 @@ Story Title: Synthetic Foods:
 ================================================================ X ================================================================
 27. Category Name: Futuristic Music
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holo Concerts:
     1. First Wallpaper: The Protagonist Attending A Concert Featuring Holographic Performers.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Immersive Visuals And Soundscapes.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Technical Glitch In The Performance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Concert A Success, With The Holograms Gaining Widespread Acclaim.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Composers:
     1. First Wallpaper: The Protagonist Collaborating With An Ai To Create New Music.
     2. Second Wallpaper: Transition From The First Wallpaper, Producing Unique Compositions That Blend Human And Machine Creativity.
@@ -461,14 +461,14 @@ Story Title: Ai Composers:
 ================================================================ X ================================================================
 28. Category Name: Space Exploration
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Stellar Voyage:
     1. First Wallpaper: The Protagonist Boarding A Sleek Spaceship, Ready For Interstellar Travel.
     2. Second Wallpaper: Transition From The First Wallpaper, Navigating Through Stunning Nebulae And Star Systems.
     3. Third Wallpaper: Transition From The Second Wallpaper, Encountering A Mysterious Alien Civilization On A Distant Planet.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Forming An Alliance With The Aliens, With The Protagonist As A Key Diplomat.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Frontier:
     1. First Wallpaper: The Protagonist Charting Unknown Territories In The Galaxy.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Habitable Planets And Ancient Alien Artifacts.
@@ -477,14 +477,14 @@ Story Title: Galactic Frontier:
 ================================================================ X ================================================================
 29. Category Name: Futuristic Fashion
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smart Fabrics:
     1. First Wallpaper: The Protagonist Trying On Clothing Embedded With Smart Technology.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clothing Adapting To Various Environments And Activities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist’S Smart Clothing Provides Crucial Assistance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Becoming A Trendsetter, With Smart Clothing Becoming Widely Popular.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Couture:
     1. First Wallpaper: The Protagonist Attending A High-Tech Fashion Show In A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Innovative Designs That Incorporate Advanced Materials And Technology.
@@ -493,14 +493,14 @@ Story Title: Tech Couture:
 ================================================================ X ================================================================
 30. Category Name: Futuristic Medicine
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Nano Healing:
     1. First Wallpaper: The Protagonist Working In A State-Of-The-Art Medical Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, Using Nanotechnology To Heal Patients At A Microscopic Level.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where A Patient’S Nanobots Malfunction, Causing Complications.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Resolving The Issue, With The Patient Fully Recovered.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Augmentation:
     1. First Wallpaper: The Protagonist Undergoing A Procedure To Receive Bio-Augmentations.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning To Use Their New Enhanced Abilities.
@@ -509,14 +509,14 @@ Story Title: Bio Augmentation:
 ================================================================ X ================================================================
 31. Category Name: Advanced Ai
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Uprising:
     1. First Wallpaper: The Protagonist Discovering A Secret Society Of Advanced Ais.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About Their Quest For Autonomy And Rights.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Mediates Between Humans And Ais.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Harmonious Society With Humans And Ais Coexisting Peacefully.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sentient Machines:
     1. First Wallpaper: The Protagonist Encountering A Group Of Sentient Robots With Human-Like Emotions.
     2. Second Wallpaper: Transition From The First Wallpaper, Forming A Bond With The Robots And Understanding Their Perspective.
@@ -525,14 +525,14 @@ Story Title: Sentient Machines:
 ================================================================ X ================================================================
 32. Category Name: Futuristic Architecture
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sky Cities:
     1. First Wallpaper: The Protagonist Arriving In A City Suspended High In The Sky With Futuristic Buildings.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The City’S Advanced Infrastructure And Gravity-Defying Structures.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Stabilize The City During A Storm.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underwater Metropolis:
     1. First Wallpaper: The Protagonist Visiting A City Built Beneath The Ocean’S Surface.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering The City’S Unique Architecture And Marine Life Integration.
@@ -541,14 +541,14 @@ Story Title: Underwater Metropolis:
 ================================================================ X ================================================================
 33. Category Name: Futuristic Warfare
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Soldiers:
     1. First Wallpaper: The Protagonist Donning Advanced Combat Gear In A Futuristic Military Base.
     2. Second Wallpaper: Transition From The First Wallpaper, Participating In A High-Tech Battlefield With Laser Weapons And Drones.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Confrontation With An Enemy Force Equipped With Similar Technology.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist’S Team Standing Victorious, With The Battlefield Behind Them.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robo Warriors:
     1. First Wallpaper: The Protagonist Leading A Squad Of Robotic Soldiers Into Battle.
     2. Second Wallpaper: Transition From The First Wallpaper, Coordinating Complex Maneuvers Using Advanced Ai.
@@ -557,14 +557,14 @@ Story Title: Robo Warriors:
 ================================================================ X ================================================================
 34. Category Name: Genetic Engineering
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Labs:
     1. First Wallpaper: The Protagonist Working In A Cutting-Edge Genetic Research Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, Conducting Experiments To Enhance Human Abilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where A Genetic Experiment Goes Wrong, Causing Mutations.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Finding A Cure, With The Lab Resuming Its Research Safely.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Future Humans:
     1. First Wallpaper: The Protagonist Meeting A Community Of Genetically Enhanced Individuals.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About Their Abilities And The Ethical Challenges They Face.
@@ -573,14 +573,14 @@ Story Title: Future Humans:
 ================================================================ X ================================================================
 35. Category Name: Futuristic Transportation
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hyperloop Adventure:
     1. First Wallpaper: The Protagonist Boarding A Sleek, High-Speed Hyperloop Train.
     2. Second Wallpaper: Transition From The First Wallpaper, Traveling Through Stunning Futuristic Landscapes At Incredible Speeds.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Critical System Failure.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Journey Completed Safely, With The Hyperloop System Improved.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Flying Cars:
     1. First Wallpaper: The Protagonist Navigating A Cityscape In A Personal Flying Car.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Freedom Of Flight And Advanced Traffic Systems.
@@ -589,14 +589,14 @@ Story Title: Flying Cars:
 ================================================================ X ================================================================
 36. Category Name: Space Colonization
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Habitat:
     1. First Wallpaper: The Protagonist Arriving At A Massive Space Station Orbiting A Distant Planet.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Station’S Advanced Facilities And Zero-Gravity Environments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Repair The Station’S Life Support Systems.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Station Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mars Colony:
     1. First Wallpaper: The Protagonist Landing On Mars And Joining A Burgeoning Colony.
     2. Second Wallpaper: Transition From The First Wallpaper, Helping To Build And Expand The Colony’S Infrastructure.
@@ -605,14 +605,14 @@ Story Title: Mars Colony:
 ================================================================ X ================================================================
 37. Category Name: Futuristic Agriculture
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vertical Farms:
     1. First Wallpaper: The Protagonist Working In A Vertical Farm Within A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, Using Advanced Techniques To Grow Crops In Stacked Layers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Farm’S Automated Systems Fail.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Resolving The Issue, With The Farm Producing Abundant Crops.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bio Domes:
     1. First Wallpaper: The Protagonist Entering A Biodome Designed To Cultivate Various Ecosystems.
     2. Second Wallpaper: Transition From The First Wallpaper, Managing The Balance Of Flora And Fauna Within The Dome.
@@ -621,14 +621,14 @@ Story Title: Bio Domes:
 ================================================================ X ================================================================
 38. Category Name: Space Tourism
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Resort:
     1. First Wallpaper: The Protagonist Arriving At A Luxurious Space Resort Orbiting Earth.
     2. Second Wallpaper: Transition From The First Wallpaper, Enjoying The Amenities And Breathtaking Views Of The Planet.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Ensure The Safety Of The Guests.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Resort Continuing To Flourish, With The Protagonist Celebrated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Vacation:
     1. First Wallpaper: The Protagonist Taking A Vacation On The Moon, Exploring Its Unique Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, Participating In Lunar Activities Like Low-Gravity Sports And Sightseeing.
@@ -637,14 +637,14 @@ Story Title: Lunar Vacation:
 ================================================================ X ================================================================
 39. Category Name: Ai Companions
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robo Pets:
     1. First Wallpaper: The Protagonist Receiving A Highly Advanced Robotic Pet.
     2. Second Wallpaper: Transition From The First Wallpaper, Bonding With The Pet And Discovering Its Capabilities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Pet Helps Save The Day Using Its Unique Skills.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Bond Between The Protagonist And Their Robo Pet Deepening, With The Pet Becoming A Valued Companion.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Virtual Assistants:
     1. First Wallpaper: The Protagonist Interacting With A Virtual Assistant Embedded In Their Home.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering The Assistant’S Wide Range Of Abilities And Functions.
@@ -653,14 +653,14 @@ Story Title: Virtual Assistants:
 ================================================================ X ================================================================
 40. Category Name: Futuristic Fashion
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smart Clothing:
     1. First Wallpaper: The Protagonist Trying On Clothing Embedded With Smart Technology.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clothing Adapting To Various Environments And Activities.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist’S Smart Clothing Provides Crucial Assistance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Becoming A Trendsetter, With Smart Clothing Becoming Widely Popular.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Tech Couture:
     1. First Wallpaper: The Protagonist Attending A High-Tech Fashion Show In A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, Discovering Innovative Designs That Incorporate Advanced Materials And Technology.
@@ -669,14 +669,14 @@ Story Title: Tech Couture:
 ================================================================ X ================================================================
 41. Category Name: Futuristic Education
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Virtual Classrooms:
     1. First Wallpaper: The Protagonist Attending A Class In A Fully Immersive Virtual Environment.
     2. Second Wallpaper: Transition From The First Wallpaper, Interacting With Classmates And Teachers In Real-Time Through Avatars.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Solve A Problem Within The Virtual System.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Virtual Classroom Thriving, With The Protagonist Excelling In Their Studies.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Tutors:
     1. First Wallpaper: The Protagonist Learning From A Highly Advanced Ai Tutor.
     2. Second Wallpaper: Transition From The First Wallpaper, The Tutor Adapting Lessons To The Protagonist’S Unique Learning Style.
@@ -685,14 +685,14 @@ Story Title: Ai Tutors:
 ================================================================ X ================================================================
 42. Category Name: Space Habitats
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Orbital Colony:
     1. First Wallpaper: The Protagonist Arriving At A Massive Space Colony Orbiting A Distant Planet.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Colony’S Advanced Facilities And Zero-Gravity Environments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Repair The Colony’S Life Support Systems.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Colony Thriving, With The Protagonist Hailed As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lunar Base:
     1. First Wallpaper: The Protagonist Joining A Colony On The Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, Helping To Build And Expand The Colony’S Infrastructure.
@@ -701,14 +701,14 @@ Story Title: Lunar Base:
 ================================================================ X ================================================================
 43. Category Name: Futuristic Art
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holographic Displays:
     1. First Wallpaper: The Protagonist Attending An Art Exhibit Featuring Holographic Artwork.
     2. Second Wallpaper: Transition From The First Wallpaper, Interacting With The Holograms And Exploring Their Intricate Details.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Protect The Artwork From A Technical Glitch.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Exhibit Successful, With The Holograms Gaining Widespread Acclaim.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Creations:
     1. First Wallpaper: The Protagonist Discovering An Art Studio Where Ai Creates Stunning Masterpieces.
     2. Second Wallpaper: Transition From The First Wallpaper, Collaborating With The Ai To Produce Unique Works Of Art.
@@ -717,14 +717,14 @@ Story Title: Ai Creations:
 ================================================================ X ================================================================
 44. Category Name: Futuristic Energy
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Solar Satellites:
     1. First Wallpaper: The Protagonist Working On A Project To Build Solar Power Satellites In Orbit.
     2. Second Wallpaper: Transition From The First Wallpaper, The Satellites Harnessing Solar Energy And Transmitting It To Earth.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Malfunction In The Satellite Array.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Project Successful, With The Protagonist Celebrated For Their Contributions.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fusion Power:
     1. First Wallpaper: The Protagonist Joining A Team Working On A Fusion Power Plant.
     2. Second Wallpaper: Transition From The First Wallpaper, The Plant Achieving Breakthroughs In Sustainable Energy.
@@ -733,14 +733,14 @@ Story Title: Fusion Power:
 ================================================================ X ================================================================
 45. Category Name: Futuristic Communication
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Telepathic Interfaces:
     1. First Wallpaper: The Protagonist Using A Telepathic Interface To Communicate Instantly With Others.
     2. Second Wallpaper: Transition From The First Wallpaper, Exploring The Benefits And Challenges Of Telepathic Communication.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Resolve A Telepathic Network Failure.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Communication System Improved, With The Protagonist Celebrated For Their Efforts.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holographic Calls:
     1. First Wallpaper: The Protagonist Making A Holographic Call To A Distant Relative.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Immersive Visuals And Real-Time Interaction.     
@@ -749,14 +749,14 @@ Story Title: Holographic Calls:
 ================================================================ X ================================================================
 46. Category Name: Futuristic Entertainment
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holo Games:
     1. First Wallpaper: The Protagonist Entering A Holographic Game Arena.
     2. Second Wallpaper: Transition From The First Wallpaper, Participating In A Fully Immersive, Interactive Game.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Moment Where The Protagonist Must Win A Critical Game Challenge.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Victorious, With The Game World Celebrating Their Win.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Virtual Concerts:
     1. First Wallpaper: The Protagonist Attending A Virtual Reality Concert.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Music And Visuals In A Fully Immersive Environment.
@@ -765,14 +765,14 @@ Story Title: Virtual Concerts:
 ================================================================ X ================================================================
 47. Category Name: Space Diplomacy
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic Council:
     1. First Wallpaper: The Protagonist Representing Earth At A Council Of Interstellar Civilizations.
     2. Second Wallpaper: Transition From The First Wallpaper, Negotiating Treaties And Alliances With Alien Species.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Mediate A Dispute Between Factions.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Peace Achieved, With The Protagonist Celebrated As A Diplomat.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Alien Embassy:
     1. First Wallpaper: The Protagonist Establishing An Embassy On An Alien World.
     2. Second Wallpaper: Transition From The First Wallpaper, Building Relationships And Understanding The Alien Culture.
@@ -781,14 +781,14 @@ Story Title: Alien Embassy:
 ================================================================ X ================================================================
 48. Category Name: Futuristic Cuisine
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smart Kitchens:
     1. First Wallpaper: The Protagonist Cooking In A High-Tech Kitchen With Advanced Appliances.
     2. Second Wallpaper: Transition From The First Wallpaper, The Kitchen’S Ai Assisting In Preparing Complex Meals.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Malfunctioning Appliance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Meal Successful, With The Protagonist’S Culinary Skills Celebrated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Synthetic Foods:
     1. First Wallpaper: The Protagonist Visiting A Lab That Produces High-Quality Synthetic Foods.
     2. Second Wallpaper: Transition From The First Wallpaper, Learning About The Technology And Tasting The Innovative Dishes.
@@ -797,14 +797,14 @@ Story Title: Synthetic Foods:
 ================================================================ X ================================================================
 49. Category Name: Futuristic Music
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Holo Concerts:
     1. First Wallpaper: The Protagonist Attending A Concert Featuring Holographic Performers.
     2. Second Wallpaper: Transition From The First Wallpaper, Experiencing The Immersive Visuals And Soundscapes.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Crisis Where The Protagonist Must Fix A Technical Glitch In The Performance.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Concert A Success, With The Holograms Gaining Widespread Acclaim.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ai Composers:
     1. First Wallpaper: The Protagonist Collaborating With An Ai To Create New Music.
     2. Second Wallpaper: Transition From The First Wallpaper, Producing Unique Compositions That Blend Human And Machine Creativity.
@@ -813,14 +813,14 @@ Story Title: Ai Composers:
 ================================================================ X ================================================================
 50. Category Name: Space Combat
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Starship Battles:
     1. First Wallpaper: The Protagonist Commanding A Powerful Starship In A Fleet.
     2. Second Wallpaper: Transition From The First Wallpaper, Engaging In A Massive Space Battle With Laser Beams And Explosions.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment Where The Protagonist’S Ship Is Critically Damaged.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist’S Strategic Maneuver Securing Victory, With The Fleet Celebrating.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Futuristic Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Galactic War:
     1. First Wallpaper: The Protagonist Leading A Squadron Of Fighter Ships In A Galactic Conflict.
     2. Second Wallpaper: Transition From The First Wallpaper, Dogfighting With Enemy Ships In A Visually Stunning Star Field.

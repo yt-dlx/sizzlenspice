@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Urban Shadows
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dark Alley:
     1. First Wallpaper: A Narrow Alleyway Shrouded In Shadows With A Single Street Lamp Casting A Dim Light.
     2. Second Wallpaper: Transition From The First Wallpaper, A Silhouette Of A Figure Standing Under The Street Lamp.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Figure Encountering A Suspicious Character In The Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Tense Standoff, With Shadows Stretching Long And Ominous.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Foggy Street:
     1. First Wallpaper: A Deserted Street Cloaked In Fog With Vintage Cars Parked Along The Curb.
     2. Second Wallpaper: Transition From The First Wallpaper, The Fog Thickening, Reducing Visibility.
@@ -45,14 +45,14 @@ Story Title: Foggy Street:
 ================================================================ X ================================================================
 2. Category Name: Detective Stories
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Private Eyes Office:
     1. First Wallpaper: A Dimly Lit Office With A Cluttered Desk, A Rotary Phone, And Half-Open Blinds.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Reviewing Case Files Under The Lamps Glow.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Mysterious Client Entering The Office With A New Case.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Detective And Client In A Tense Discussion, Shadows Casting Dramatic Patterns.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Interrogation Room:
     1. First Wallpaper: A Stark Room With A Single Hanging Bulb And A Metal Table.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Interrogating A Suspect, Both Cast In Harsh Light And Deep Shadows.
@@ -61,14 +61,14 @@ Story Title: Interrogation Room:
 ================================================================ X ================================================================
 3. Category Name: Femme Fatale
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mysterious Woman:
     1. First Wallpaper: A Glamorous Woman In A Red Dress Standing By A Large Window, Backlit By City Lights.
     2. Second Wallpaper: Transition From The First Wallpaper, The Woman Turning With A Cigarette Holder In Hand, Exuding An Air Of Danger.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Woman Meeting The Detective In A Smoky Bar.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Dramatic Reveal Of Her True Intentions, With Shadows Accentuating Her Features.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enigmatic Encounter:
     1. First Wallpaper: The Femme Fatale Meeting The Protagonist In A Shadowy Nightclub.
     2. Second Wallpaper: Transition From The First Wallpaper, A Conversation With Intense Eye Contact And Hidden Meanings.
@@ -77,14 +77,14 @@ Story Title: Enigmatic Encounter:
 ================================================================ X ================================================================
 4. Category Name: Crime Scenes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Abandoned Warehouse:
     1. First Wallpaper: The Exterior Of A Dilapidated Warehouse Under A Full Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, The Interior, With Beams Of Moonlight Filtering Through Broken Windows.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Detective Discovering A Clue Hidden Among The Debris.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Tense Chase Scene Within The Shadows Of The Warehouse.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Riverside Dock:
     1. First Wallpaper: A Deserted Dock At Night, With Water Reflecting The City Lights.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Finding A Body Floating In The Water.
@@ -93,14 +93,14 @@ Story Title: Riverside Dock:
 ================================================================ X ================================================================
 5. Category Name: Nightlife
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Jazz Club:
     1. First Wallpaper: A Smoky Jazz Club With A Band Playing On Stage, Bathed In Soft, Moody Lighting.
     2. Second Wallpaper: Transition From The First Wallpaper, Patrons Sipping Drinks And Engaging In Hushed Conversations.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Detective Meeting A Contact In A Dimly Lit Corner.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, A Sudden Altercation Breaking Out, With Shadows Dancing To The Music.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Casino:
     1. First Wallpaper: A Glamorous Casino With People In Elegant Attire.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gambling At A High-Stakes Table.
@@ -109,14 +109,14 @@ Story Title: Casino:
 ================================================================ X ================================================================
 6. Category Name: Noir Romance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Affair:
     1. First Wallpaper: The Protagonist Meeting A Lover In A Hidden Café.
     2. Second Wallpaper: Transition From The First Wallpaper, A Stolen Kiss In The Alley Behind The Café.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forbidden Love:
     1. First Wallpaper: A Clandestine Meeting In A Luxurious Hotel Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Lovers Discussing Their Dangerous Situation.
@@ -125,14 +125,14 @@ Story Title: Forbidden Love:
 ================================================================ X ================================================================
 7. Category Name: Classic Cars
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vintage Car Chase:
     1. First Wallpaper: A Sleek Vintage Car Parked Under A Streetlamp, Engine Idling.
     2. Second Wallpaper: Transition From The First Wallpaper, The Car Speeding Through City Streets At Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A High-Speed Chase With Another Car, Tires Screeching.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Car Skidding To A Halt, Narrowly Avoiding An Obstacle.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Garage:
     1. First Wallpaper: An Old Garage With Vintage Cars Covered In Dust.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Uncovering A Hidden Car, Wiping Away The Dust.
@@ -141,14 +141,14 @@ Story Title: Hidden Garage:
 ================================================================ X ================================================================
 8. Category Name: Hidden Secrets
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystery Bookstore:
     1. First Wallpaper: The Exterior Of A Small, Old Bookstore In A Shadowy Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Interior, With Dusty Shelves Filled With Books.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Discovering A Hidden Door Behind A Bookshelf.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, Entering The Secret Room, Filled With Mysterious Artifacts.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Safe:
     1. First Wallpaper: A Hidden Safe Behind A Painting In A Dimly Lit Study.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Working To Unlock The Safe.
@@ -157,14 +157,14 @@ Story Title: Secret Safe:
 ================================================================ X ================================================================
 9. Category Name: Noir Portraits
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Brooding Detective:
     1. First Wallpaper: A Close-Up Of A Detective’S Face, Half In Shadow, Cigarette Smoke Curling Around.
     2. Second Wallpaper: Transition From The First Wallpaper, The Detective Looking Out Of A Rain-Streaked Window.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Detective At A Bar, Deep In Thought, With Shadows Playing On The Wall.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Detective Walking Down A Dark Street, Silhouette Stark Against The City Lights.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mysterious Woman:
     1. First Wallpaper: A Close-Up Of A Woman’S Face, With Dramatic Lighting Casting One Side In Shadow.
     2. Second Wallpaper: Transition From The First Wallpaper, The Woman In A Stylish Hat, Peering From Behind A Veil.
@@ -173,14 +173,14 @@ Story Title: Mysterious Woman:
 ================================================================ X ================================================================
 10. Category Name: Dangerous Liaisons
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Meeting:
     1. First Wallpaper: The Protagonist Receiving A Cryptic Note In A Dark Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, A Rendezvous At A Secluded Dock Under The Cover Of Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Whispered Conversation With A Shadowy Figure.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Leaving The Meeting Place With Newfound Resolve.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Betrayal:
     1. First Wallpaper: The Protagonist Discovering A Hidden Letter Revealing A Betrayal.
     2. Second Wallpaper: Transition From The First Wallpaper, A Tense Confrontation In A Dimly Lit Room.
@@ -189,14 +189,14 @@ Story Title: Betrayal:
 ================================================================ X ================================================================
 11. Category Name: Noir Cityscapes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Night:
     1. First Wallpaper: A City Street Glistening With Rain, Neon Lights Reflecting On The Wet Pavement.
     2. Second Wallpaper: Transition From The First Wallpaper, Pedestrians With Umbrellas, Shadows Blending Into The Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Car Driving Slowly Through The Rain, Headlights Cutting Through The Gloom.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Standing In The Rain, Trench Coat And Hat Casting A Long Shadow.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Empty Train Station:
     1. First Wallpaper: A Deserted Train Station With A Single Bench And A Flickering Light.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Waiting Alone, Suitcase By Their Side.
@@ -205,14 +205,14 @@ Story Title: Empty Train Station:
 ================================================================ X ================================================================
 12. Category Name: Noir Interiors
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Smoky Bar:
     1. First Wallpaper: A Dimly Lit Bar With Smoke Swirling In The Air.
     2. Second Wallpaper: Transition From The First Wallpaper, Patrons Hunched Over Their Drinks, Speaking In Hushed Tones.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Jazz Band Playing Softly In The Corner.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Meeting An Informant In A Shadowy Booth.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Abandoned Office:
     1. First Wallpaper: An Old, Abandoned Office With Papers Strewn Across The Floor.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Searching Through The Mess For Clues.
@@ -221,14 +221,14 @@ Story Title: Abandoned Office:
 ================================================================ X ================================================================
 13. Category Name: Noir Journeys
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Night Train:
     1. First Wallpaper: A Train Pulling Out Of The Station At Night, Steam Billowing.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Train Speeding Through The Dark Countryside, Shadows Flickering.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lonely Road:
     1. First Wallpaper: A Long, Empty Road Stretching Into The Night.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
@@ -237,14 +237,14 @@ Story Title: Lonely Road:
 ================================================================ X ================================================================
 14. Category Name: Noir Mysteries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Clue:
     1. First Wallpaper: The Protagonist Discovering A Hidden Clue In A Dark Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clue Leading To A Shadowy Figure.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Figure In A Dimly Lit Room.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Map:
     1. First Wallpaper: The Protagonist Finding A Secret Map In An Old Book.
     2. Second Wallpaper: Transition From The First Wallpaper, The Map Leading To A Hidden Location.
@@ -253,14 +253,14 @@ Story Title: Secret Map:
 ================================================================ X ================================================================
 15. Category Name: Noir Reflections
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Window:
     1. First Wallpaper: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
     2. Second Wallpaper: Transition From The First Wallpaper, The Reflection Of City Lights In The Window.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Shadowy Figure Approaching From Behind.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Broken Mirror:
     1. First Wallpaper: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Piecing Together The Fragments Of The Mirror.
@@ -269,14 +269,14 @@ Story Title: Broken Mirror:
 ================================================================ X ================================================================
 16. Category Name: Noir Heists
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bank Job:
     1. First Wallpaper: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Crew Breaking Into The Bank, Tension High.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Art Theft:
     1. First Wallpaper: An Art Gallery With Valuable Paintings Under Spotlight.
     2. Second Wallpaper: Transition From The First Wallpaper, The Thieves Planning The Heist, Blueprints Spread Out.
@@ -285,14 +285,14 @@ Story Title: Art Theft:
 ================================================================ X ================================================================
 17. Category Name: Noir Secrets
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -301,14 +301,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 18. Category Name: Noir Revenge
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vendetta:
     1. First Wallpaper: The Protagonist Plotting Revenge In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing Weapons Under The Flickering Light.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Antagonist In A Shadowy Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Standing Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Betrayal:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Confronting The Betrayer In A Shadowy Setting.
@@ -317,14 +317,14 @@ Story Title: Betrayal:
 ================================================================ X ================================================================
 19. Category Name: Noir Justice
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vigilante:
     1. First Wallpaper: The Protagonist Donning A Mask In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Vigilante Patrolling The City Streets At Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Criminals In A Dark Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Corrupt Cops:
     1. First Wallpaper: The Protagonist Discovering Corruption Within The Police Force.
     2. Second Wallpaper: Transition From The First Wallpaper, A Tense Meeting With A Trusted Ally In A Shadowy Location.
@@ -333,14 +333,14 @@ Story Title: Corrupt Cops:
 ================================================================ X ================================================================
 20. Category Name: Noir Journeys
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Night Train:
     1. First Wallpaper: A Train Pulling Out Of The Station At Night, Steam Billowing.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Train Speeding Through The Dark Countryside, Shadows Flickering.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lonely Road:
     1. First Wallpaper: A Long, Empty Road Stretching Into The Night.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
@@ -349,14 +349,14 @@ Story Title: Lonely Road:
 ================================================================ X ================================================================
 21. Category Name: Noir Reflections
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Window:
     1. First Wallpaper: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
     2. Second Wallpaper: Transition From The First Wallpaper, The Reflection Of City Lights In The Window.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Shadowy Figure Approaching From Behind.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Broken Mirror:
     1. First Wallpaper: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Piecing Together The Fragments Of The Mirror.
@@ -365,14 +365,14 @@ Story Title: Broken Mirror:
 ================================================================ X ================================================================
 22. Category Name: Noir Heists
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bank Job:
     1. First Wallpaper: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Crew Breaking Into The Bank, Tension High.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Art Theft:
     1. First Wallpaper: An Art Gallery With Valuable Paintings Under Spotlight.
     2. Second Wallpaper: Transition From The First Wallpaper, The Thieves Planning The Heist, Blueprints Spread Out.
@@ -381,14 +381,14 @@ Story Title: Art Theft:
 ================================================================ X ================================================================
 23. Category Name: Noir Pursuit
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chase Through The Streets:
     1. First Wallpaper: The Protagonist Running Down A Shadowy Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Close Behind, Shadows Stretching Long.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Narrow Escape Through An Alleyway.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Train Station Chase:
     1. First Wallpaper: The Protagonist Sprinting Through A Dimly Lit Train Station.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Weaving Through The Crowd.
@@ -397,14 +397,14 @@ Story Title: Train Station Chase:
 ================================================================ X ================================================================
 24. Category Name: Noir Vengeance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Seeking Revenge:
     1. First Wallpaper: The Protagonist Planning Revenge In A Shadowy Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Confronting The Antagonist In A Dark Alley.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Struggle With Dramatic Lighting.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Away Victorious, Leaving The Antagonist Defeated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vendetta:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing For Confrontation.
@@ -413,14 +413,14 @@ Story Title: Vendetta:
 ================================================================ X ================================================================
 25. Category Name: Noir Secrets
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -429,14 +429,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 26. Category Name: Noir Justice
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vigilante:
     1. First Wallpaper: The Protagonist Donning A Mask In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Vigilante Patrolling The City Streets At Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Criminals In A Dark Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Corrupt Cops:
     1. First Wallpaper: The Protagonist Discovering Corruption Within The Police Force.
     2. Second Wallpaper: Transition From The First Wallpaper, A Tense Meeting With A Trusted Ally In A Shadowy Location.
@@ -445,14 +445,14 @@ Story Title: Corrupt Cops:
 ================================================================ X ================================================================
 27. Category Name: Noir Mysteries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Clue:
     1. First Wallpaper: The Protagonist Discovering A Hidden Clue In A Dark Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clue Leading To A Shadowy Figure.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Figure In A Dimly Lit Room.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Map:
     1. First Wallpaper: The Protagonist Finding A Secret Map In An Old Book.
     2. Second Wallpaper: Transition From The First Wallpaper, The Map Leading To A Hidden Location.
@@ -461,14 +461,14 @@ Story Title: Secret Map:
 ================================================================ X ================================================================
 28. Category Name: Noir Reflections
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Window:
     1. First Wallpaper: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
     2. Second Wallpaper: Transition From The First Wallpaper, The Reflection Of City Lights In The Window.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Shadowy Figure Approaching From Behind.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Broken Mirror:
     1. First Wallpaper: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Piecing Together The Fragments Of The Mirror.
@@ -477,14 +477,14 @@ Story Title: Broken Mirror:
 ================================================================ X ================================================================
 29. Category Name: Noir Intrigue
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Rendezvous:
     1. First Wallpaper: The Protagonist Receiving A Cryptic Message In A Shadowy Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Meeting A Mysterious Contact In A Dimly Lit Bar.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Whispered Conversation Filled With Tension And Secrets.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Leaving With New Information, Shadows Deepening The Mystery.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mysterious Stranger:
     1. First Wallpaper: The Protagonist Encountering A Stranger In A Dark Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Stranger Offering A Cryptic Warning.
@@ -493,14 +493,14 @@ Story Title: Mysterious Stranger:
 ================================================================ X ================================================================
 30. Category Name: Noir Schemes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Elaborate Plan:
     1. First Wallpaper: The Protagonist Devising A Plan In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Recruiting Allies In Shadowy Locations.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Plan Being Set Into Motion, With Shadows Playing A Key Role.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Plan’S Success, With The Protagonist Standing In The Aftermath, Shadows Cast Long.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Deceptive Plot:
     1. First Wallpaper: The Antagonist Plotting In A Darkened Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Antagonist Manipulating Events From The Shadows.
@@ -509,14 +509,14 @@ Story Title: Deceptive Plot:
 ================================================================ X ================================================================
 31. Category Name: Noir Escape
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Breaking Free:
     1. First Wallpaper: The Protagonist Locked In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Finding A Way To Escape Through A Hidden Passage.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Navigating Through Dark Corridors.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Emerging Into The Night, Free But Wary.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Escape:
     1. First Wallpaper: The Protagonist Trapped In An Underground Facility.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering A Hidden Exit.
@@ -525,14 +525,14 @@ Story Title: Underground Escape:
 ================================================================ X ================================================================
 32. Category Name: Noir Intrigues
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Affair:
     1. First Wallpaper: The Protagonist Meeting A Lover In A Hidden Café.
     2. Second Wallpaper: Transition From The First Wallpaper, A Stolen Kiss In The Alley Behind The Café.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forbidden Love:
     1. First Wallpaper: A Clandestine Meeting In A Luxurious Hotel Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Lovers Discussing Their Dangerous Situation.
@@ -541,14 +541,14 @@ Story Title: Forbidden Love:
 ================================================================ X ================================================================
 33. Category Name: Noir Pursuit
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chase Through The Streets:
     1. First Wallpaper: The Protagonist Running Down A Shadowy Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Close Behind, Shadows Stretching Long.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Narrow Escape Through An Alleyway.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Train Station Chase:
     1. First Wallpaper: The Protagonist Sprinting Through A Dimly Lit Train Station.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Weaving Through The Crowd.
@@ -557,14 +557,14 @@ Story Title: Train Station Chase:
 ================================================================ X ================================================================
 34. Category Name: Noir Justice
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vigilante:
     1. First Wallpaper: The Protagonist Donning A Mask In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Vigilante Patrolling The City Streets At Night.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Criminals In A Dark Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Corrupt Cops:
     1. First Wallpaper: The Protagonist Discovering Corruption Within The Police Force.
     2. Second Wallpaper: Transition From The First Wallpaper, A Tense Meeting With A Trusted Ally In A Shadowy Location.
@@ -573,14 +573,14 @@ Story Title: Corrupt Cops:
 ================================================================ X ================================================================
 35. Category Name: Noir Secrets
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -589,14 +589,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 36. Category Name: Noir Vendettas
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Seeking Revenge:
     1. First Wallpaper: The Protagonist Planning Revenge In A Shadowy Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Confronting The Antagonist In A Dark Alley.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Struggle With Dramatic Lighting.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Away Victorious, Leaving The Antagonist Defeated.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Betrayal:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing For Confrontation.
@@ -605,14 +605,14 @@ Story Title: Betrayal:
 ================================================================ X ================================================================
 37. Category Name: Noir Heists
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Bank Job:
     1. First Wallpaper: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Crew Breaking Into The Bank, Tension High.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Art Theft:
     1. First Wallpaper: An Art Gallery With Valuable Paintings Under Spotlight.
     2. Second Wallpaper: Transition From The First Wallpaper, The Thieves Planning The Heist, Blueprints Spread Out.
@@ -621,14 +621,14 @@ Story Title: Art Theft:
 ================================================================ X ================================================================
 38. Category Name: Noir Mysteries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Clue:
     1. First Wallpaper: The Protagonist Discovering A Hidden Clue In A Dark Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clue Leading To A Shadowy Figure.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Figure In A Dimly Lit Room.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Map:
     1. First Wallpaper: The Protagonist Finding A Secret Map In An Old Book.
     2. Second Wallpaper: Transition From The First Wallpaper, The Map Leading To A Hidden Location.
@@ -637,14 +637,14 @@ Story Title: Secret Map:
 ================================================================ X ================================================================
 39. Category Name: Noir Romances
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Affair:
     1. First Wallpaper: The Protagonist Meeting A Lover In A Hidden Café.
     2. Second Wallpaper: Transition From The First Wallpaper, A Stolen Kiss In The Alley Behind The Café.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forbidden Love:
     1. First Wallpaper: A Clandestine Meeting In A Luxurious Hotel Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Lovers Discussing Their Dangerous Situation.
@@ -653,14 +653,14 @@ Story Title: Forbidden Love:
 ================================================================ X ================================================================
 40. Category Name: Noir Chases
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Street Chase:
     1. First Wallpaper: The Protagonist Running Down A Shadowy Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Close Behind, Shadows Stretching Long.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Narrow Escape Through An Alleyway.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Train Station Chase:
     1. First Wallpaper: The Protagonist Sprinting Through A Dimly Lit Train Station.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Weaving Through The Crowd.
@@ -669,14 +669,14 @@ Story Title: Train Station Chase:
 ================================================================ X ================================================================
 41. Category Name: Noir Vengeance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Seeking Revenge:
     1. First Wallpaper: The Protagonist Plotting Revenge In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing Weapons Under The Flickering Light.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Antagonist In A Shadowy Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Away Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vendetta:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing For Confrontation.
@@ -685,14 +685,14 @@ Story Title: Vendetta:
 ================================================================ X ================================================================
 42. Category Name: Noir Crimes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -701,14 +701,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 43. Category Name: Noir Journeys
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Night Train:
     1. First Wallpaper: A Train Pulling Out Of The Station At Night, Steam Billowing.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Train Speeding Through The Dark Countryside, Shadows Flickering.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lonely Road:
     1. First Wallpaper: A Long, Empty Road Stretching Into The Night.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
@@ -717,14 +717,14 @@ Story Title: Lonely Road:
 ================================================================ X ================================================================
 44. Category Name: Noir Pursuits
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chase Through The Streets:
     1. First Wallpaper: The Protagonist Running Down A Shadowy Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Close Behind, Shadows Stretching Long.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Narrow Escape Through An Alleyway.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Train Station Chase:
     1. First Wallpaper: The Protagonist Sprinting Through A Dimly Lit Train Station.
     2. Second Wallpaper: Transition From The First Wallpaper, The Pursuer Weaving Through The Crowd.
@@ -733,14 +733,14 @@ Story Title: Train Station Chase:
 ================================================================ X ================================================================
 45. Category Name: Noir Mysteries
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Clue:
     1. First Wallpaper: The Protagonist Discovering A Hidden Clue In A Dark Alley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Clue Leading To A Shadowy Figure.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Figure In A Dimly Lit Room.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Map:
     1. First Wallpaper: The Protagonist Finding A Secret Map In An Old Book.
     2. Second Wallpaper: Transition From The First Wallpaper, The Map Leading To A Hidden Location.
@@ -749,14 +749,14 @@ Story Title: Secret Map:
 ================================================================ X ================================================================
 46. Category Name: Noir Reflections
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rainy Window:
     1. First Wallpaper: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
     2. Second Wallpaper: Transition From The First Wallpaper, The Reflection Of City Lights In The Window.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Shadowy Figure Approaching From Behind.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Broken Mirror:
     1. First Wallpaper: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Piecing Together The Fragments Of The Mirror.
@@ -765,14 +765,14 @@ Story Title: Broken Mirror:
 ================================================================ X ================================================================
 47. Category Name: Noir Betrayal
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Double Cross:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing For Confrontation.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Facing The Betrayer In A Shadowy Setting.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: False Friends:
     1. First Wallpaper: The Protagonist Suspecting Betrayal By A Close Ally.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gathering Evidence In The Shadows.
@@ -781,14 +781,14 @@ Story Title: False Friends:
 ================================================================ X ================================================================
 48. Category Name: Noir Secrets
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -797,14 +797,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 49. Category Name: Noir Crimes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hidden Room:
     1. First Wallpaper: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Discovering The Hidden Room.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Room Filled With Mysterious Artifacts And Documents.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underground Club:
     1. First Wallpaper: A Hidden Entrance To An Underground Club.
     2. Second Wallpaper: Transition From The First Wallpaper, The Club Filled With Shady Characters, Smoke Swirling In The Air.
@@ -813,14 +813,14 @@ Story Title: Underground Club:
 ================================================================ X ================================================================
 50. Category Name: Noir Vengeance
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Seeking Revenge:
     1. First Wallpaper: The Protagonist Plotting Revenge In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing Weapons Under The Flickering Light.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Antagonist In A Shadowy Alley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Walking Away Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Noir Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Vendetta:
     1. First Wallpaper: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing For Confrontation.

@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Retro Cityscapes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Neon Night:
     1. First Wallpaper: A Pixelated Cityscape With Neon Lights And A Bustling Street.
     2. Second Wallpaper: Transition From The First Wallpaper, The Street Bustling With Pixelated People And Cars.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Scene With A Pixelated Hero Standing On A Rooftop.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Quieting Down As Night Falls, With Stars Twinkling Above.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sunset Overdrive:
     1. First Wallpaper: A Pixel Art Sunset Casting A Warm Glow Over A City Skyline.
     2. Second Wallpaper: Transition From The First Wallpaper, The Sky Turning Shades Of Pink And Orange As The Sun Sets.
@@ -45,14 +45,14 @@ Story Title: Sunset Overdrive:
 ================================================================ X ================================================================
 2. Category Name: Fantasy Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted Forest:
     1. First Wallpaper: A Pixelated Enchanted Forest With Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Forest Glowing With Pixelated Fireflies And Mystical Lights.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Pixel Hero Encountering A Magical Being In The Forest.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Night, With The Moon Casting A Gentle Glow.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dragon’S Lair:
     1. First Wallpaper: A Pixelated Cave Entrance With Treasures Scattered Around.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Cautiously Entering The Dragon’S Lair.
@@ -61,14 +61,14 @@ Story Title: Dragon’S Lair:
 ================================================================ X ================================================================
 3. Category Name: Sci-Fi Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Space Station:
     1. First Wallpaper: A Pixelated Space Station Orbiting A Distant Planet.
     2. Second Wallpaper: Transition From The First Wallpaper, The Interior Of The Space Station Bustling With Activity.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Space Battle Outside The Station, With Pixelated Spaceships.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Standing On The Station, Looking Out At The Stars.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Alien Planet:
     1. First Wallpaper: A Pixel Art Landscape Of An Alien Planet With Strange Flora.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Alien Terrain, Discovering New Creatures.
@@ -77,14 +77,14 @@ Story Title: Alien Planet:
 ================================================================ X ================================================================
 4. Category Name: Medieval Tales
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Knight’S Quest:
     1. First Wallpaper: A Pixelated Knight Setting Out On A Quest From A Castle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Knight Encountering Various Challenges In The Countryside.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle With A Pixelated Monster.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Knight Returning To The Castle Victorious.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Wizards And Spells:
     1. First Wallpaper: A Pixelated Wizard In A Mystical Tower Filled With Books And Potions.
     2. Second Wallpaper: Transition From The First Wallpaper, The Wizard Casting Spells And Summoning Magical Creatures.
@@ -93,14 +93,14 @@ Story Title: Wizards And Spells:
 ================================================================ X ================================================================
 5. Category Name: Underwater Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Deep Sea:
     1. First Wallpaper: A Pixelated Diver Exploring The Depths Of The Ocean.
     2. Second Wallpaper: Transition From The First Wallpaper, The Diver Encountering Colorful Pixelated Sea Creatures.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment With A Giant Pixelated Sea Monster.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Diver Discovering A Hidden Underwater City.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Coral Reef:
     1. First Wallpaper: A Vibrant Pixel Art Coral Reef Teeming With Life.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Swimming Through The Reef, Marveling At Its Beauty.
@@ -109,14 +109,14 @@ Story Title: Coral Reef:
 ================================================================ X ================================================================
 6. Category Name: Dystopian Futures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cyber City:
     1. First Wallpaper: A Dark, Futuristic City With Neon Signs And Towering Skyscrapers.
     2. Second Wallpaper: Transition From The First Wallpaper, A Pixelated Hero Navigating Through The Crowded Streets.
     3. Third Wallpaper: Transition From The Second Wallpaper, A High-Stakes Chase Scene With Flying Cars And Drones.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Under A Starry Sky, With The Hero Standing Victorious.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Deserted Wasteland:
     1. First Wallpaper: A Pixel Art Wasteland With Abandoned Buildings And A Desolate Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Scavenging For Supplies In The Ruins.
@@ -125,14 +125,14 @@ Story Title: Deserted Wasteland:
 ================================================================ X ================================================================
 7. Category Name: Mythical Creatures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Unicorn Valley:
     1. First Wallpaper: A Pixelated Valley Filled With Colorful Flowers And A Unicorn.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Befriending The Unicorn And Exploring The Valley.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Dark Forces Threatening The Valley.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Valley Restored To Peace, With The Unicorn And Hero Celebrating.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Phoenix Rise:
     1. First Wallpaper: A Pixel Art Scene Of A Phoenix Nest High In The Mountains.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Watching The Phoenix Rise From The Ashes.
@@ -141,14 +141,14 @@ Story Title: Phoenix Rise:
 ================================================================ X ================================================================
 8. Category Name: Historical Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ancient Egypt:
     1. First Wallpaper: A Pixelated Scene Of Pyramids And The Sphinx.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring Ancient Tombs Filled With Traps And Treasures.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Mummy Or Ancient Guardian.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering A Hidden Chamber With A Great Treasure.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Medieval Europe:
     1. First Wallpaper: A Pixel Art Village With A Castle In The Background.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Interacting With Villagers And Knights.
@@ -157,14 +157,14 @@ Story Title: Medieval Europe:
 ================================================================ X ================================================================
 9. Category Name: Pixelated Horror
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Haunted Mansion:
     1. First Wallpaper: A Spooky Pixel Art Mansion With Glowing Windows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Eerie Hallways Of The Mansion.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Jump Scare With A Ghostly Apparition.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding A Way To Banish The Spirits And Escape.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Zombie Apocalypse:
     1. First Wallpaper: A Pixelated City Overrun By Zombies.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Fighting Through Hordes Of Zombies.
@@ -173,14 +173,14 @@ Story Title: Zombie Apocalypse:
 ================================================================ X ================================================================
 10. Category Name: Pixel Art Fantasy
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Magical Forest:
     1. First Wallpaper: A Pixelated Forest With Glowing Mushrooms And Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Mystical Environment.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With An Enchanted Guardian.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Night, With Fireflies Illuminating The Surroundings.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dragon’S Peak:
     1. First Wallpaper: A Pixel Art Mountain With A Dragon Perched On Top.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Climbing The Mountain, Facing Various Challenges.
@@ -189,14 +189,14 @@ Story Title: Dragon’S Peak:
 ================================================================ X ================================================================
 11. Category Name: Pixelated Future
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Robot Uprising:
     1. First Wallpaper: A Pixel Art City With Robots Patrolling The Streets.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Fighting Against The Robot Overlords.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Showdown With The Robot Leader.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Liberated, Humans Reclaiming Their Home.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Space Exploration:
     1. First Wallpaper: A Pixelated Spaceship Traveling Through The Galaxy.
     2. Second Wallpaper: Transition From The First Wallpaper, The Crew Encountering An Alien Species.
@@ -205,14 +205,14 @@ Story Title: Space Exploration:
 ================================================================ X ================================================================
 12. Category Name: Retro Adventure
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Jungle Quest:
     1. First Wallpaper: A Pixelated Jungle With Dense Foliage And Ancient Ruins.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Jungle, Encountering Wildlife.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense Moment With A Wild Animal.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering A Hidden Temple.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Desert Trek:
     1. First Wallpaper: A Pixel Art Desert With Rolling Dunes And A Distant Oasis.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Crossing The Hot Sands, Facing Harsh Conditions.
@@ -221,14 +221,14 @@ Story Title: Desert Trek:
 ================================================================ X ================================================================
 13. Category Name: Fantasy Kingdoms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Castle Siege:
     1. First Wallpaper: A Pixelated Castle Under Siege With Catapults And Archers.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Leading A Charge To Defend The Castle.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Fierce Battle On The Castle Walls.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Siege Lifted, The Castle Standing Tall.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Elven Enclave:
     1. First Wallpaper: A Pixel Art Elven Village Nestled In A Lush Forest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Interacting With The Elven Inhabitants.
@@ -237,14 +237,14 @@ Story Title: Elven Enclave:
 ================================================================ X ================================================================
 14. Category Name: Pixelated Journeys
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mountain Expedition:
     1. First Wallpaper: A Pixel Art Mountain Range With Snow-Capped Peaks.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Climbing The Mountains, Facing Treacherous Paths.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Wild Beast.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Reaching The Summit, Enjoying The View.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Island Escape:
     1. First Wallpaper: A Pixelated Tropical Island With Palm Trees And Sandy Beaches.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Island, Discovering Hidden Secrets.
@@ -253,14 +253,14 @@ Story Title: Island Escape:
 ================================================================ X ================================================================
 15. Category Name: Pixelated Dreams
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Realm:
     1. First Wallpaper: A Pixel Art Dreamscape With Floating Islands And Surreal Landscapes.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Dream World, Encountering Strange Beings.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With A Dream Guardian.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Waking Up, The Dream World Fading Away.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Time Travel:
     1. First Wallpaper: A Pixelated Time Machine Ready For Adventure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Traveling Through Different Eras, From Dinosaurs To Futuristic Cities.
@@ -269,14 +269,14 @@ Story Title: Time Travel:
 ================================================================ X ================================================================
 16. Category Name: Pixelated Heroes
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Masked Vigilante:
     1. First Wallpaper: A Pixel Art Hero In A Dark City, Ready To Fight Crime.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Battling Villains In The Streets.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Rooftop Showdown With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Safe, The Hero Disappearing Into The Night.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Space Ranger:
     1. First Wallpaper: A Pixelated Space Ranger In A Futuristic City.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Patrolling The City, Keeping Peace.
@@ -285,14 +285,14 @@ Story Title: Space Ranger:
 ================================================================ X ================================================================
 17. Category Name: Pixelated Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Journey:
     1. First Wallpaper: A Pixel Art Hero Setting Out From Their Village.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Various Trials And Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle With A Legendary Beast.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Returning Home, Celebrated As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lost Treasure:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
@@ -301,14 +301,14 @@ Story Title: Lost Treasure:
 ================================================================ X ================================================================
 18. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cave Explorer:
     1. First Wallpaper: A Pixelated Cave Entrance With Torches Lighting The Way.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Delving Deeper, Discovering Hidden Chambers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Cave-Dwelling Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Emerging From The Cave With Newfound Treasures.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Ranger:
     1. First Wallpaper: A Pixel Art Forest With Towering Trees And Wildlife.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Protecting The Forest From Threats.
@@ -317,14 +317,14 @@ Story Title: Forest Ranger:
 ================================================================ X ================================================================
 19. Category Name: Pixel Art Battles
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Arena Combat:
     1. First Wallpaper: A Pixelated Arena With A Cheering Crowd.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Off Against A Formidable Opponent.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Tense And Thrilling Battle.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Standing Victorious, The Crowd Roaring.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Castle Defense:
     1. First Wallpaper: A Pixel Art Castle Under Siege By Enemy Forces.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Leading The Defense, Rallying The Troops.
@@ -333,14 +333,14 @@ Story Title: Castle Defense:
 ================================================================ X ================================================================
 20. Category Name: Pixelated Fairytales
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sleeping Beauty:
     1. First Wallpaper: A Pixelated Castle With A Princess Asleep In A Tower.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through Magical Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With The Evil Sorceress.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Princess Awakening, The Kingdom Celebrating.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cinderella:
     1. First Wallpaper: A Pixel Art Cinderella In A Humble Home.
     2. Second Wallpaper: Transition From The First Wallpaper, The Fairy Godmother Granting Magical Wishes.
@@ -349,14 +349,14 @@ Story Title: Cinderella:
 ================================================================ X ================================================================
 21. Category Name: Pixel Art Fantasy Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Wizard’S Tower:
     1. First Wallpaper: A Pixelated Tower With A Glowing Aura.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Climbing The Tower, Facing Magical Traps.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With The Tower’S Guardian.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Reaching The Top, Claiming A Powerful Artifact.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dragon’S Lair:
     1. First Wallpaper: A Pixel Art Cave With A Dragon Sleeping Inside.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Lair, Avoiding Detection.
@@ -365,14 +365,14 @@ Story Title: Dragon’S Lair:
 ================================================================ X ================================================================
 22. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Knight’S Quest:
     1. First Wallpaper: A Pixelated Knight Setting Out From A Castle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Knight Encountering Various Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle With A Powerful Foe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Knight Returning Home, Celebrated As A Hero.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Journey:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Adventure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
@@ -381,14 +381,14 @@ Story Title: Hero’S Journey:
 ================================================================ X ================================================================
 23. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Woods:
     1. First Wallpaper: A Pixelated Forest With Glowing Flora And Fauna.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Mystical Woods.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Forest, Filled With Magic.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Caves:
     1. First Wallpaper: A Pixel Art Cave With Glittering Crystals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Crystal Labyrinth.
@@ -397,14 +397,14 @@ Story Title: Crystal Caves:
 ================================================================ X ================================================================
 24. Category Name: Pixel Art Dreams
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dreamscape:
     1. First Wallpaper: A Pixelated Dream World With Floating Islands And Surreal Landscapes.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Dreamscape.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With A Dream Guardian.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Waking Up, The Dream World Fading Away.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Nightmare Realm:
     1. First Wallpaper: A Pixel Art Nightmare World With Dark, Twisted Landscapes.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Their Fears In The Nightmare Realm.
@@ -413,14 +413,14 @@ Story Title: Nightmare Realm:
 ================================================================ X ================================================================
 25. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lost Kingdom:
     1. First Wallpaper: A Pixelated Ancient Kingdom Lost To Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Discovering The Ruins Of The Kingdom.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With The Kingdom’S Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Uncovering The Secrets Of The Lost Kingdom.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Weapon:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Weapon Hidden In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Finding The Weapon.
@@ -429,14 +429,14 @@ Story Title: Legendary Weapon:
 ================================================================ X ================================================================
 26. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted Forest:
     1. First Wallpaper: A Pixelated Forest With Glowing Plants And Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Forest, Meeting Mystical Beings.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Peace, The Hero Standing Triumphant.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cursed Swamp:
     1. First Wallpaper: A Pixel Art Swamp With Eerie, Twisted Trees And Fog.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Swamp, Facing Dangers.
@@ -445,14 +445,14 @@ Story Title: Cursed Swamp:
 ================================================================ X ================================================================
 27. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Desert Oasis:
     1. First Wallpaper: A Pixelated Desert With A Hidden Oasis.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Discovering The Oasis, Finding Respite.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Desert Raiders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Oasis Protected, The Hero Standing Victorious.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ice Cavern:
     1. First Wallpaper: A Pixel Art Ice Cavern With Shimmering Icicles.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Icy Depths.
@@ -461,14 +461,14 @@ Story Title: Ice Cavern:
 ================================================================ X ================================================================
 28. Category Name: Pixel Art Quests
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunt:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Treasure Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding The Treasure, Their Journey Complete.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rescue Mission:
     1. First Wallpaper: A Pixel Art Scene Of A Village In Distress.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Setting Out To Rescue The Villagers.
@@ -477,14 +477,14 @@ Story Title: Rescue Mission:
 ================================================================ X ================================================================
 29. Category Name: Pixel Art Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
     1. First Wallpaper: A Pixelated World Of Floating Islands In The Sky.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Islands, Encountering Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Aerial Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Islands, A Hidden Sanctuary.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underwater City:
     1. First Wallpaper: A Pixel Art Underwater City With Glowing Buildings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The City, Meeting Its Inhabitants.
@@ -493,14 +493,14 @@ Story Title: Underwater City:
 ================================================================ X ================================================================
 30. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Quest:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Epic Quest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero’S Triumphant Return, Hailed As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Beast:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Beast Sleeping In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Cave, Avoiding Detection.
@@ -509,14 +509,14 @@ Story Title: Legendary Beast:
 ================================================================ X ================================================================
 31. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Woods:
     1. First Wallpaper: A Pixelated Forest With Glowing Flora And Fauna.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Mystical Woods.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Forest, Filled With Magic.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Caves:
     1. First Wallpaper: A Pixel Art Cave With Glittering Crystals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Crystal Labyrinth.
@@ -525,14 +525,14 @@ Story Title: Crystal Caves:
 ================================================================ X ================================================================
 32. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cave Explorer:
     1. First Wallpaper: A Pixelated Cave Entrance With Torches Lighting The Way.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Delving Deeper, Discovering Hidden Chambers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Cave-Dwelling Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Emerging From The Cave With Newfound Treasures.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Ranger:
     1. First Wallpaper: A Pixel Art Forest With Towering Trees And Wildlife.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Protecting The Forest From Threats.
@@ -541,14 +541,14 @@ Story Title: Forest Ranger:
 ================================================================ X ================================================================
 33. Category Name: Pixel Art Quests
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunt:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Treasure Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding The Treasure, Their Journey Complete.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rescue Mission:
     1. First Wallpaper: A Pixel Art Scene Of A Village In Distress.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Setting Out To Rescue The Villagers.
@@ -557,14 +557,14 @@ Story Title: Rescue Mission:
 ================================================================ X ================================================================
 34. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted Forest:
     1. First Wallpaper: A Pixelated Forest With Glowing Plants And Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Forest, Meeting Mystical Beings.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest At Peace, The Hero Standing Triumphant.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cursed Swamp:
     1. First Wallpaper: A Pixel Art Swamp With Eerie, Twisted Trees And Fog.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Swamp, Facing Dangers.
@@ -573,14 +573,14 @@ Story Title: Cursed Swamp:
 ================================================================ X ================================================================
 35. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lost Kingdom:
     1. First Wallpaper: A Pixelated Ancient Kingdom Lost To Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Discovering The Ruins Of The Kingdom.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With The Kingdom’S Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Uncovering The Secrets Of The Lost Kingdom.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Weapon:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Weapon Hidden In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Finding The Weapon.
@@ -589,14 +589,14 @@ Story Title: Legendary Weapon:
 ================================================================ X ================================================================
 36. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Quest:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Epic Quest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero’S Triumphant Return, Hailed As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Beast:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Beast Sleeping In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Cave, Avoiding Detection.
@@ -605,14 +605,14 @@ Story Title: Legendary Beast:
 ================================================================ X ================================================================
 37. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Woods:
     1. First Wallpaper: A Pixelated Forest With Glowing Flora And Fauna.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Mystical Woods.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Forest, Filled With Magic.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Caves:
     1. First Wallpaper: A Pixel Art Cave With Glittering Crystals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Crystal Labyrinth.
@@ -621,14 +621,14 @@ Story Title: Crystal Caves:
 ================================================================ X ================================================================
 38. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cave Explorer:
     1. First Wallpaper: A Pixelated Cave Entrance With Torches Lighting The Way.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Delving Deeper, Discovering Hidden Chambers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Cave-Dwelling Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Emerging From The Cave With Newfound Treasures.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Ranger:
     1. First Wallpaper: A Pixel Art Forest With Towering Trees And Wildlife.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Protecting The Forest From Threats.
@@ -637,14 +637,14 @@ Story Title: Forest Ranger:
 ================================================================ X ================================================================
 39. Category Name: Pixel Art Quests
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunt:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Treasure Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding The Treasure, Their Journey Complete.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rescue Mission:
     1. First Wallpaper: A Pixel Art Scene Of A Village In Distress.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Setting Out To Rescue The Villagers.
@@ -653,14 +653,14 @@ Story Title: Rescue Mission:
 ================================================================ X ================================================================
 40. Category Name: Pixel Art Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
     1. First Wallpaper: A Pixelated World Of Floating Islands In The Sky.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Islands, Encountering Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Aerial Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Islands, A Hidden Sanctuary.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underwater City:
     1. First Wallpaper: A Pixel Art Underwater City With Glowing Buildings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The City, Meeting Its Inhabitants.
@@ -669,14 +669,14 @@ Story Title: Underwater City:
 ================================================================ X ================================================================
 41. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Quest:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Epic Quest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero’S Triumphant Return, Hailed As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Beast:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Beast Sleeping In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Cave, Avoiding Detection.
@@ -685,14 +685,14 @@ Story Title: Legendary Beast:
 ================================================================ X ================================================================
 42. Category Name: Pixel Art Realms
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Woods:
     1. First Wallpaper: A Pixelated Forest With Glowing Flora And Fauna.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Mystical Woods.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Enchanted Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Forest, Filled With Magic.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Caves:
     1. First Wallpaper: A Pixel Art Cave With Glittering Crystals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The Crystal Labyrinth.
@@ -701,14 +701,14 @@ Story Title: Crystal Caves:
 ================================================================ X ================================================================
 43. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Quest:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Epic Quest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero’S Triumphant Return, Hailed As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Beast:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Beast Sleeping In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Cave, Avoiding Detection.
@@ -717,14 +717,14 @@ Story Title: Legendary Beast:
 ================================================================ X ================================================================
 44. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cave Explorer:
     1. First Wallpaper: A Pixelated Cave Entrance With Torches Lighting The Way.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Delving Deeper, Discovering Hidden Chambers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Cave-Dwelling Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Emerging From The Cave With Newfound Treasures.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Ranger:
     1. First Wallpaper: A Pixel Art Forest With Towering Trees And Wildlife.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Protecting The Forest From Threats.
@@ -733,14 +733,14 @@ Story Title: Forest Ranger:
 ================================================================ X ================================================================
 45. Category Name: Pixel Art Quests
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunt:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Treasure Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding The Treasure, Their Journey Complete.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rescue Mission:
     1. First Wallpaper: A Pixel Art Scene Of A Village In Distress.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Setting Out To Rescue The Villagers.
@@ -749,14 +749,14 @@ Story Title: Rescue Mission:
 ================================================================ X ================================================================
 46. Category Name: Pixel Art Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
     1. First Wallpaper: A Pixelated World Of Floating Islands In The Sky.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Islands, Encountering Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Aerial Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Islands, A Hidden Sanctuary.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underwater City:
     1. First Wallpaper: A Pixel Art Underwater City With Glowing Buildings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The City, Meeting Its Inhabitants.
@@ -765,14 +765,14 @@ Story Title: Underwater City:
 ================================================================ X ================================================================
 47. Category Name: Pixel Art Legends
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Quest:
     1. First Wallpaper: A Pixel Art Hero Setting Out On An Epic Quest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Facing Trials And Overcoming Obstacles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With The Main Antagonist.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero’S Triumphant Return, Hailed As A Legend.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Legendary Beast:
     1. First Wallpaper: A Pixel Art Scene Of A Legendary Beast Sleeping In A Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Sneaking Into The Cave, Avoiding Detection.
@@ -781,14 +781,14 @@ Story Title: Legendary Beast:
 ================================================================ X ================================================================
 48. Category Name: Pixel Art Adventures
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cave Explorer:
     1. First Wallpaper: A Pixelated Cave Entrance With Torches Lighting The Way.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Delving Deeper, Discovering Hidden Chambers.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle With Cave-Dwelling Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Emerging From The Cave With Newfound Treasures.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Forest Ranger:
     1. First Wallpaper: A Pixel Art Forest With Towering Trees And Wildlife.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Protecting The Forest From Threats.
@@ -797,14 +797,14 @@ Story Title: Forest Ranger:
 ================================================================ X ================================================================
 49. Category Name: Pixel Art Quests
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Treasure Hunt:
     1. First Wallpaper: A Pixelated Map Leading To Hidden Treasure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Deciphering Clues And Solving Puzzles.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With Treasure Guardians.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Finding The Treasure, Their Journey Complete.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Rescue Mission:
     1. First Wallpaper: A Pixel Art Scene Of A Village In Distress.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Setting Out To Rescue The Villagers.
@@ -813,14 +813,14 @@ Story Title: Rescue Mission:
 ================================================================ X ================================================================
 50. Category Name: Pixel Art Worlds
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Floating Islands:
     1. First Wallpaper: A Pixelated World Of Floating Islands In The Sky.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Exploring The Islands, Encountering Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Aerial Creatures.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Hero Discovering The Heart Of The Islands, A Hidden Sanctuary.
 
-Prompt: Create 4 Separate Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Wallpapers In A Storybook Style With Pixelart Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Underwater City:
     1. First Wallpaper: A Pixel Art Underwater City With Glowing Buildings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Hero Navigating Through The City, Meeting Its Inhabitants.
