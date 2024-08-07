@@ -82,14 +82,10 @@ export default function RestaurantOrdersPage() {
       const response = await fetch("/api/orders");
       if (!response.ok) setError("Failed to fetch orders");
       const data = await response.json();
-      console.log("Fetched orders:", data);
       const userEmail = session?.user?.email;
-      console.log("User email:", userEmail);
       const filteredOrders = data.orders.filter((order: Order) => {
-        console.log("Order email:", order.customerEmail);
         return order.customerEmail === userEmail;
       });
-      console.log("Filtered orders:", filteredOrders);
       const reversedOrders = filteredOrders.reverse();
       setOrders(reversedOrders);
       if (reversedOrders.length > 0) setSelectedOrder(reversedOrders[0]);

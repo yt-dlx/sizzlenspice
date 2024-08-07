@@ -24,19 +24,7 @@ export async function POST(request: NextRequest) {
   const body = await request.json();
   // const result = restaurantRegisterSchema.safeParse(body);
   // if (!result.success) return NextResponse.json({ error: "Validation Error", issues: result.error.errors }, { status: 400 });
-  const {
-    email,
-    name,
-    phoneNumber,
-    address,
-    pincode,
-    openingHour,
-    closingHour,
-    aadhaarNumber,
-    panCardNumber,
-    panCardFirstName,
-    panCardLastName,
-  } = body.data;
+  const { email, name, phoneNumber, address, pincode, openingHour, closingHour, aadhaarNumber, panCardNumber, panCardFirstName, panCardLastName } = body;
   try {
     const existingUser = await prisma.restaurant.findUnique({ where: { email } });
     if (existingUser) return NextResponse.json({ error: "User already exists" }, { status: 409 });

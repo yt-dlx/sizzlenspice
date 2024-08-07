@@ -27,3 +27,610 @@ Give Me 50 Categories With 'Waterpaint' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
+1. **Category Name: Serene Landscapes**
+    1. **Calm Lake:**
+        1. First Image: A tranquil lake surrounded by mountains and trees.
+        2. Second Image: Gentle ripples on the water reflecting a golden sunset.
+        3. Third Image: A small boat drifting peacefully on the lake.
+        4. Fourth Image: The lake under a starry night sky, with reflections shimmering.
+    2. **Misty Forest:**
+        1. First Image: A dense forest with a light mist hanging in the air.
+        2. Second Image: Sunlight filtering through the trees, creating dappled patterns.
+        3. Third Image: A deer standing still, partially obscured by the mist.
+        4. Fourth Image: The forest as night falls, with fireflies beginning to glow.
+
+2. **Category Name: Coastal Scenes**
+    1. **Sunny Beach:**
+        1. First Image: A wide, sandy beach with gentle waves lapping at the shore.
+        2. Second Image: Seagulls flying overhead, casting shadows on the sand.
+        3. Third Image: A beach umbrella and a few people relaxing near the water.
+        4. Fourth Image: The beach at sunset, with the sky ablaze in oranges and pinks.
+    2. **Rocky Shoreline:**
+        1. First Image: A rugged coastline with waves crashing against rocks.
+        2. Second Image: Tide pools forming in the rocky crevices.
+        3. Third Image: A lighthouse standing tall against the elements.
+        4. Fourth Image: The shoreline under a moonlit sky, with the lighthouse beam cutting through the darkness.
+
+3. **Category Name: Tranquil Gardens**
+    1. **Japanese Garden:**
+        1. First Image: A serene Japanese garden with a koi pond and arched bridges.
+        2. Second Image: Cherry blossom petals falling gently onto the water.
+        3. Third Image: A tea house nestled among the trees.
+        4. Fourth Image: The garden illuminated by soft lanterns at dusk.
+    2. **English Cottage Garden:**
+        1. First Image: A quaint cottage surrounded by blooming flowers.
+        2. Second Image: A cobblestone path leading to a wooden gate.
+        3. Third Image: Bees buzzing around vibrant, colorful blooms.
+        4. Fourth Image: The garden bathed in the golden light of late afternoon.
+
+4. **Category Name: Urban Scenes**
+    1. **Rainy Street:**
+        1. First Image: A bustling city street with rain pouring down.
+        2. Second Image: Umbrellas and reflections on the wet pavement.
+        3. Third Image: A café with a warm glow inviting passersby.
+        4. Fourth Image: The streetlights creating a hazy, romantic atmosphere.
+    2. **Sunset Skyline:**
+        1. First Image: A city skyline against a vibrant sunset.
+        2. Second Image: Skyscrapers reflecting the colorful sky.
+        3. Third Image: A river running through the city, catching the last light of day.
+        4. Fourth Image: The skyline transitioning into the night, with city lights twinkling.
+
+5. **Category Name: Wildlife Wonders**
+    1. **Jungle Animals:**
+        1. First Image: A dense jungle with exotic animals peeking through the foliage.
+        2. Second Image: A majestic tiger drinking from a clear stream.
+        3. Third Image: Colorful birds perched on branches, their feathers vivid against the green.
+        4. Fourth Image: The jungle under a dusky sky, with nocturnal animals beginning to stir.
+    2. **Desert Wildlife:**
+        1. First Image: A vast desert with rolling dunes and sparse vegetation.
+        2. Second Image: A caravan of camels trekking across the sand.
+        3. Third Image: A desert fox standing alert on a dune.
+        4. Fourth Image: The desert landscape at sunset, with long shadows stretching across the sand.
+
+6. **Category Name: Winter Wonderland**
+    1. **Snowy Forest:**
+        1. First Image: A forest blanketed in fresh snow.
+        2. Second Image: Animal tracks winding through the snow.
+        3. Third Image: A small cabin with smoke rising from the chimney.
+        4. Fourth Image: The forest at twilight, with a soft, ethereal glow.
+    2. **Frozen Lake:**
+        1. First Image: A lake frozen over with a smooth, reflective surface.
+        2. Second Image: Ice skaters gliding gracefully across the ice.
+        3. Third Image: Snowflakes gently falling onto the frozen lake.
+        4. Fourth Image: The lake under a clear, starry night sky.
+
+7. **Category Name: Underwater World**
+    1. **Coral Reef:**
+        1. First Image: A vibrant coral reef teeming with colorful fish.
+        2. Second Image: A sea turtle swimming gracefully among the corals.
+        3. Third Image: Sunlight filtering through the water, creating a shimmering effect.
+        4. Fourth Image: The reef at dusk, with bioluminescent creatures glowing softly.
+    2. **Deep Ocean:**
+        1. First Image: The deep ocean with mysterious, dark waters.
+        2. Second Image: Strange, otherworldly creatures drifting through the deep.
+        3. Third Image: A sunken ship covered in marine life.
+        4. Fourth Image: The deep ocean illuminated by the glow of a submersible’s lights.
+
+8. **Category Name: Majestic Mountains**
+    1. **Snow-capped Peaks:**
+        1. First Image: Tall, snow-capped mountains against a clear blue sky.
+        2. Second Image: A climber making their way up a steep incline.
+        3. Third Image: A pristine mountain lake reflecting the peaks.
+        4. Fourth Image: The mountains at sunrise, with the first light hitting the peaks.
+    2. **Misty Highlands:**
+        1. First Image: Rolling highlands shrouded in mist.
+        2. Second Image: A herd of sheep grazing on the green slopes.
+        3. Third Image: Ancient stone ruins perched on a hilltop.
+        4. Fourth Image: The highlands bathed in the soft light of early evening.
+
+9. **Category Name: Enchanted Forests**
+    1. **Fairy Glade:**
+        1. First Image: A magical glade with sparkling lights and whimsical creatures.
+        2. Second Image: Fairies flitting among the flowers and trees.
+        3. Third Image: A crystal-clear stream winding through the glade.
+        4. Fourth Image: The glade under a full moon, with a mystical glow.
+    2. **Mystic Woods:**
+        1. First Image: A dense, ancient forest with towering trees.
+        2. Second Image: Strange, glowing plants and fungi growing in the underbrush.
+        3. Third Image: An owl perched on a gnarled branch, watching silently.
+        4. Fourth Image: The forest at dusk, with eerie, beautiful light filtering through.
+
+10. **Category Name: Idyllic Countryside**
+    1. **Rolling Hills:**
+        1. First Image: Gentle rolling hills covered in lush, green grass.
+        2. Second Image: A winding path leading through the hills.
+        3. Third Image: A quaint farmhouse nestled among the hills.
+        4. Fourth Image: The hills at sunset, with golden light washing over the landscape.
+    2. **Peaceful Valley:**
+        1. First Image: A serene valley with a river running through it.
+        2. Second Image: Wildflowers blooming along the riverbanks.
+        3. Third Image: A rustic bridge crossing the river.
+        4. Fourth Image: The valley under a sky filled with soft, pastel clouds.
+
+11. **Category Name: Vibrant Cityscapes**
+    1. **Paris in Spring:**
+        1. First Image: The Eiffel Tower surrounded by blooming cherry blossoms.
+        2. Second Image: Café tables lining a charming Parisian street.
+        3. Third Image: Artists painting by the Seine River.
+        4. Fourth Image: The city lights reflecting on the river at dusk.
+    2. **New York at Night:**
+        1. First Image: The New York City skyline lit up against a night sky.
+        2. Second Image: Times Square with its bright neon lights and bustling crowds.
+        3. Third Image: A yellow taxi making its way through the city streets.
+        4. Fourth Image: Central Park under the soft glow of street lamps.
+
+12. **Category Name: Beautiful Sunsets**
+    1. **Beach Sunset:**
+        1. First Image: A beach with the sun setting over the horizon.
+        2. Second Image: The sky filled with vibrant oranges, pinks, and purples.
+        3. Third Image: Silhouettes of palm trees against the colorful sky.
+        4. Fourth Image: The last light of the sun reflecting on the gentle waves.
+    2. **Mountain Sunset:**
+        1. First Image: A mountain range with the sun setting behind the peaks.
+        2. Second Image: The sky ablaze with warm, golden hues.
+        3. Third Image: The mountains casting long shadows over
+
+ the valleys.
+        4. Fourth Image: The sky transitioning to twilight, with stars beginning to appear.
+
+13. **Category Name: Dynamic Weather**
+    1. **Stormy Seas:**
+        1. First Image: A turbulent sea with dark, stormy clouds overhead.
+        2. Second Image: Waves crashing against a rocky shore.
+        3. Third Image: A ship battling the fierce waves.
+        4. Fourth Image: The sea calming as the storm begins to pass.
+    2. **Autumn Rain:**
+        1. First Image: A quiet street lined with autumn trees, with leaves starting to fall.
+        2. Second Image: Raindrops creating ripples in puddles on the ground.
+        3. Third Image: People walking under umbrellas, leaves swirling around them.
+        4. Fourth Image: The street lights reflecting off the wet pavement.
+
+14. **Category Name: Rustic Charm**
+    1. **Old Barn:**
+        1. First Image: A weathered barn standing in a field of tall grass.
+        2. Second Image: Sunlight streaming through the gaps in the wooden walls.
+        3. Third Image: Farm animals grazing nearby.
+        4. Fourth Image: The barn bathed in the warm light of late afternoon.
+    2. **Country Road:**
+        1. First Image: A dirt road winding through the countryside.
+        2. Second Image: Wildflowers growing along the roadside.
+        3. Third Image: A horse-drawn carriage making its way down the road.
+        4. Fourth Image: The road disappearing into the distance under a pastel sky.
+
+15. **Category Name: Romantic Vignettes**
+    1. **Lovers' Park:**
+        1. First Image: A beautiful park with blooming flowers and a picturesque gazebo.
+        2. Second Image: A couple walking hand-in-hand along a tree-lined path.
+        3. Third Image: The couple sitting on a bench, enjoying the view.
+        4. Fourth Image: The park at twilight, with soft, romantic lighting.
+    2. **Evening Stroll:**
+        1. First Image: A cobblestone street in a charming old town.
+        2. Second Image: A couple walking arm-in-arm under the glow of street lamps.
+        3. Third Image: A small café with candlelit tables spilling onto the sidewalk.
+        4. Fourth Image: The town square with a beautiful fountain, illuminated by soft lights.
+
+16. **Category Name: Colorful Markets**
+    1. **Flower Market:**
+        1. First Image: A bustling market filled with stalls of vibrant flowers.
+        2. Second Image: People browsing and buying bouquets.
+        3. Third Image: A vendor arranging a beautiful floral display.
+        4. Fourth Image: The market at dusk, with lanterns illuminating the colorful blooms.
+    2. **Spice Bazaar:**
+        1. First Image: A lively bazaar with stalls piled high with colorful spices.
+        2. Second Image: The rich, aromatic scents filling the air.
+        3. Third Image: Shoppers haggling with vendors over prices.
+        4. Fourth Image: The bazaar under a canopy of twinkling lights.
+
+17. **Category Name: Tranquil Lakes**
+    1. **Mountain Lake:**
+        1. First Image: A serene lake surrounded by towering mountains.
+        2. Second Image: The water perfectly reflecting the mountain peaks.
+        3. Third Image: A canoe gliding across the still surface.
+        4. Fourth Image: The lake at sunset, with golden light on the water.
+    2. **Forest Lake:**
+        1. First Image: A quiet lake nestled in a dense forest.
+        2. Second Image: Birds flying low over the water.
+        3. Third Image: A small dock extending into the lake.
+        4. Fourth Image: The forest and lake bathed in the soft light of early morning.
+
+18. **Category Name: Idyllic Villages**
+    1. **Tuscan Village:**
+        1. First Image: A picturesque village nestled in the rolling hills of Tuscany.
+        2. Second Image: Vineyards stretching out as far as the eye can see.
+        3. Third Image: A cobblestone street lined with charming stone houses.
+        4. Fourth Image: The village at sunset, with the sky painted in warm hues.
+    2. **Alpine Village:**
+        1. First Image: A quaint village surrounded by snow-capped mountains.
+        2. Second Image: A cozy chalet with smoke rising from the chimney.
+        3. Third Image: Villagers going about their daily activities.
+        4. Fourth Image: The village illuminated by the glow of street lamps at dusk.
+
+19. **Category Name: Exotic Locations**
+    1. **Tropical Paradise:**
+        1. First Image: A white sandy beach with turquoise waters.
+        2. Second Image: Palm trees swaying gently in the breeze.
+        3. Third Image: A hammock strung between two palm trees.
+        4. Fourth Image: The beach at sunset, with vibrant colors in the sky.
+    2. **Desert Oasis:**
+        1. First Image: A lush oasis in the middle of a vast desert.
+        2. Second Image: Palm trees and a clear pool of water.
+        3. Third Image: Camels resting near the water's edge.
+        4. Fourth Image: The oasis under the soft glow of the setting sun.
+
+20. **Category Name: Majestic Waterfalls**
+    1. **Jungle Waterfall:**
+        1. First Image: A powerful waterfall cascading into a pool in the jungle.
+        2. Second Image: Mist rising from the base of the waterfall.
+        3. Third Image: Exotic birds flying through the spray.
+        4. Fourth Image: The waterfall bathed in the golden light of late afternoon.
+    2. **Mountain Falls:**
+        1. First Image: A stunning waterfall flowing down a rocky mountain face.
+        2. Second Image: The water crashing into the rocks below.
+        3. Third Image: A rainbow forming in the mist.
+        4. Fourth Image: The falls at sunset, with the surrounding mountains glowing softly.
+
+21. **Category Name: Mystical Landscapes**
+    1. **Enchanted Meadow:**
+        1. First Image: A lush meadow filled with vibrant wildflowers.
+        2. Second Image: A soft, golden light filtering through the trees.
+        3. Third Image: A unicorn grazing peacefully in the meadow.
+        4. Fourth Image: The meadow under a starry sky, with fireflies glowing softly.
+    2. **Foggy Moor:**
+        1. First Image: A vast moorland shrouded in fog.
+        2. Second Image: Mysterious shapes and shadows moving through the mist.
+        3. Third Image: A lone figure walking across the moor.
+        4. Fourth Image: The fog lifting to reveal a hidden, magical landscape.
+
+22. **Category Name: Majestic Wildlife**
+    1. **Lions on the Savannah:**
+        1. First Image: A pride of lions resting in the tall grass.
+        2. Second Image: The lions alert and watching the horizon.
+        3. Third Image: A lioness leading her cubs to a waterhole.
+        4. Fourth Image: The savannah bathed in the warm light of sunset.
+    2. **Eagles in Flight:**
+        1. First Image: A pair of eagles soaring high above a mountain range.
+        2. Second Image: The eagles diving and playing in the air.
+        3. Third Image: An eagle perched on a rocky outcrop, surveying its territory.
+        4. Fourth Image: The eagles flying off into the distance as the sun sets.
+
+23. **Category Name: Cultural Festivals**
+    1. **Chinese New Year:**
+        1. First Image: A bustling street decorated with red lanterns.
+        2. Second Image: A dragon dance procession making its way through the crowd.
+        3. Third Image: Fireworks lighting up the night sky.
+        4. Fourth Image: Families gathered around a table, sharing a festive meal.
+    2. **Diwali Celebration:**
+        1. First Image: A street lined with homes decorated with colorful lights.
+        2. Second Image: People lighting diyas (oil lamps) and placing them along the path.
+        3. Third Image: A spectacular fireworks display.
+        4. Fourth Image: The celebration continuing into the night with music and dance.
+
+24. **Category Name: Majestic Landscapes**
+    1. **Grand Canyon:**
+        1. First Image: The vast expanse of the Grand Canyon with its layered rock formations.
+        2. Second Image: A hiker standing on the edge, looking out over the canyon.
+        3. Third Image: The Colorado River winding through the canyon.
+        4. Fourth Image: The canyon at sunset, with the rocks glowing in warm colors.
+    2. **Aurora Borealis:**
+        1. First Image: A snowy landscape under a clear night sky.
+        2. Second Image: The Northern Lights beginning to dance across the sky.
+        3. Third Image: The sky filled with vibrant greens, pinks, and purples.
+        4. Fourth Image: The aurora reflecting on a frozen
+
+ lake.
+
+25. **Category Name: Dreamy Gardens**
+    1. **Secret Garden:**
+        1. First Image: A hidden garden behind an ivy-covered wall.
+        2. Second Image: A wrought-iron gate leading into the garden.
+        3. Third Image: The garden filled with blooming flowers and a bubbling fountain.
+        4. Fourth Image: The garden bathed in the soft light of early morning.
+    2. **Rose Garden:**
+        1. First Image: Rows of rose bushes in full bloom.
+        2. Second Image: A path winding through the garden, lined with roses.
+        3. Third Image: A gazebo covered in climbing roses.
+        4. Fourth Image: The garden at sunset, with the roses glowing in the warm light.
+
+26. **Category Name: Captivating Cityscapes**
+    1. **Venice Canals:**
+        1. First Image: The iconic canals of Venice with gondolas gliding through the water.
+        2. Second Image: Beautiful buildings lining the canals, reflected in the water.
+        3. Third Image: A gondolier serenading passengers.
+        4. Fourth Image: The canals at dusk, with lights twinkling in the water.
+    2. **Kyoto in Autumn:**
+        1. First Image: A traditional Japanese street with autumn foliage.
+        2. Second Image: Red and orange leaves creating a vibrant canopy.
+        3. Third Image: A temple surrounded by colorful trees.
+        4. Fourth Image: The street illuminated by lanterns as night falls.
+
+27. **Category Name: Ancient Ruins**
+    1. **Machu Picchu:**
+        1. First Image: The ancient Incan city of Machu Picchu nestled in the mountains.
+        2. Second Image: The stone structures and terraces bathed in early morning light.
+        3. Third Image: Llamas grazing among the ruins.
+        4. Fourth Image: The city under a starry sky, with the mountains silhouetted in the background.
+    2. **Petra:**
+        1. First Image: The ancient city of Petra with its rock-cut architecture.
+        2. Second Image: The iconic Treasury building illuminated by the sun.
+        3. Third Image: A narrow canyon leading into the city.
+        4. Fourth Image: The city at night, with candles lighting the way.
+
+28. **Category Name: Stunning Coastlines**
+    1. **Cliffs of Moher:**
+        1. First Image: The dramatic Cliffs of Moher rising above the Atlantic Ocean.
+        2. Second Image: Waves crashing against the base of the cliffs.
+        3. Third Image: Birds soaring high above the cliffs.
+        4. Fourth Image: The cliffs bathed in the golden light of sunset.
+    2. **Santorini:**
+        1. First Image: The white-washed buildings of Santorini overlooking the Aegean Sea.
+        2. Second Image: A winding path leading through the picturesque town.
+        3. Third Image: Blue-domed churches contrasting with the white buildings.
+        4. Fourth Image: The town glowing in the warm light of dusk.
+
+29. **Category Name: Breathtaking Vistas**
+    1. **Swiss Alps:**
+        1. First Image: The majestic peaks of the Swiss Alps covered in snow.
+        2. Second Image: A charming alpine village nestled in a valley.
+        3. Third Image: Skiers making their way down the slopes.
+        4. Fourth Image: The mountains glowing in the light of the setting sun.
+    2. **Norwegian Fjords:**
+        1. First Image: The stunning fjords of Norway with their steep cliffs and deep waters.
+        2. Second Image: A boat making its way through the narrow passage.
+        3. Third Image: Waterfalls cascading down the cliffs.
+        4. Fourth Image: The fjords bathed in the soft light of early evening.
+
+30. **Category Name: Autumn Splendor**
+    1. **Maple Forest:**
+        1. First Image: A forest of maple trees with vibrant autumn foliage.
+        2. Second Image: A carpet of red and orange leaves covering the ground.
+        3. Third Image: Sunlight filtering through the colorful canopy.
+        4. Fourth Image: The forest at sunset, with the leaves glowing in the warm light.
+    2. **Pumpkin Patch:**
+        1. First Image: A sprawling pumpkin patch with rows of pumpkins ready for harvest.
+        2. Second Image: Families picking out the perfect pumpkins.
+        3. Third Image: A hayride making its way through the patch.
+        4. Fourth Image: The patch illuminated by the soft light of dusk.
+
+31. **Category Name: Charming Towns**
+    1. **Provencal Village:**
+        1. First Image: A charming village in Provence with lavender fields in full bloom.
+        2. Second Image: Stone houses with colorful shutters.
+        3. Third Image: A bustling market square with stalls selling local produce.
+        4. Fourth Image: The village bathed in the golden light of late afternoon.
+    2. **Dutch Canal Town:**
+        1. First Image: A picturesque town in the Netherlands with canals and quaint houses.
+        2. Second Image: Bicycles lined up along the canal.
+        3. Third Image: Boats gently floating on the water.
+        4. Fourth Image: The town illuminated by soft, warm lights at dusk.
+
+32. **Category Name: Serene Rivers**
+    1. **Tranquil River:**
+        1. First Image: A peaceful river winding through a lush landscape.
+        2. Second Image: Ducks swimming gracefully on the water.
+        3. Third Image: A small wooden dock extending into the river.
+        4. Fourth Image: The river reflecting the colors of the setting sun.
+    2. **Mountain Stream:**
+        1. First Image: A clear mountain stream flowing over smooth rocks.
+        2. Second Image: The stream surrounded by vibrant wildflowers.
+        3. Third Image: A small waterfall cascading into a pool.
+        4. Fourth Image: The stream glowing in the soft light of early morning.
+
+33. **Category Name: Enchanting Castles**
+    1. **Scottish Highlands Castle:**
+        1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
+        2. Second Image: The castle surrounded by rolling green hills.
+        3. Third Image: A misty landscape with the castle looming in the distance.
+        4. Fourth Image: The castle illuminated by the light of the setting sun.
+    2. **Bavarian Castle:**
+        1. First Image: A fairytale-like castle in the Bavarian countryside.
+        2. Second Image: The castle nestled among forested hills.
+        3. Third Image: A winding path leading up to the castle gates.
+        4. Fourth Image: The castle glowing softly under a starry sky.
+
+34. **Category Name: Blossoming Orchards**
+    1. **Apple Orchard:**
+        1. First Image: Rows of apple trees in full bloom.
+        2. Second Image: Bees buzzing among the blossoms.
+        3. Third Image: Families picking apples from the trees.
+        4. Fourth Image: The orchard at sunset, with the trees bathed in warm light.
+    2. **Cherry Blossom Grove:**
+        1. First Image: A grove of cherry trees covered in pink blossoms.
+        2. Second Image: Petals gently falling to the ground.
+        3. Third Image: A path winding through the grove.
+        4. Fourth Image: The grove illuminated by the soft light of early morning.
+
+35. **Category Name: Peaceful Ponds**
+    1. **Lily Pond:**
+        1. First Image: A serene pond covered in water lilies.
+        2. Second Image: Dragonflies flitting over the water.
+        3. Third Image: A frog sitting on a lily pad.
+        4. Fourth Image: The pond reflecting the colors of the setting sun.
+    2. **Koi Pond:**
+        1. First Image: A tranquil pond filled with colorful koi fish.
+        2. Second Image: The fish swimming gracefully among the plants.
+        3. Third Image: A small wooden bridge crossing the pond.
+        4. Fourth Image: The pond glowing softly in the light of dusk.
+
+36. **Category Name: Majestic Canyons**
+    1. **Bryce Canyon:**
+        1. First Image: The unique rock formations of Bryce Canyon.
+        2. Second Image: Sunlight casting dramatic shadows in the canyon.
+        3. Third Image: A hiker standing at the edge, looking out over the landscape.
+        4. Fourth Image: The canyon glowing in the warm light of sunset.
+    2. **Antelope Canyon:**
+        1. First Image: The narrow, winding passages of Antelope Canyon.
+        2. Second Image: Sunbeams filtering through the openings above.
+        3. Third Image: The swirling, colorful patterns in the rock walls.
+        4. Fourth Image: The canyon bathed in the soft light of late afternoon.
+
+37. **Category Name: Idyllic Meadows**
+    1. **Spring Meadow:**
+        1. First Image: A vibrant meadow filled with blooming wildflowers.
+        2. Second Image:
+
+ Butterflies fluttering among the flowers.
+        3. Third Image: A small stream winding through the meadow.
+        4. Fourth Image: The meadow bathed in the golden light of late afternoon.
+    2. **Summer Field:**
+        1. First Image: A sunny field with tall, swaying grasses.
+        2. Second Image: Birds singing in the trees at the edge of the field.
+        3. Third Image: A wooden fence dividing the field.
+        4. Fourth Image: The field glowing in the warm light of sunset.
+
+38. **Category Name: Enchanting Forests**
+    1. **Birch Forest:**
+        1. First Image: A dense forest of tall birch trees.
+        2. Second Image: Sunlight filtering through the white trunks.
+        3. Third Image: A carpet of fallen leaves covering the forest floor.
+        4. Fourth Image: The forest bathed in the soft light of early morning.
+    2. **Pine Woods:**
+        1. First Image: A tranquil pine forest with tall, straight trees.
+        2. Second Image: The scent of pine needles filling the air.
+        3. Third Image: A path winding through the trees.
+        4. Fourth Image: The forest glowing in the light of late afternoon.
+
+39. **Category Name: Colorful Landscapes**
+    1. **Lavender Fields:**
+        1. First Image: Endless rows of lavender in full bloom.
+        2. Second Image: Bees buzzing among the purple flowers.
+        3. Third Image: A farmhouse nestled in the middle of the fields.
+        4. Fourth Image: The fields glowing in the warm light of sunset.
+    2. **Tulip Fields:**
+        1. First Image: Vibrant tulip fields stretching out to the horizon.
+        2. Second Image: A windmill standing tall among the flowers.
+        3. Third Image: Families walking through the colorful rows.
+        4. Fourth Image: The fields illuminated by the soft light of early evening.
+
+40. **Category Name: Serene Beaches**
+    1. **Secluded Cove:**
+        1. First Image: A hidden cove with clear, turquoise waters.
+        2. Second Image: Palm trees swaying gently in the breeze.
+        3. Third Image: A hammock strung between two trees.
+        4. Fourth Image: The cove glowing in the warm light of sunset.
+    2. **Rocky Shore:**
+        1. First Image: A rugged shore with waves crashing against the rocks.
+        2. Second Image: Tide pools forming in the rocky crevices.
+        3. Third Image: Seagulls flying above the water.
+        4. Fourth Image: The shore bathed in the soft light of early evening.
+
+41. **Category Name: Idyllic Villages**
+    1. **Provencal Village:**
+        1. First Image: A charming village in Provence with lavender fields in full bloom.
+        2. Second Image: Stone houses with colorful shutters.
+        3. Third Image: A bustling market square with stalls selling local produce.
+        4. Fourth Image: The village bathed in the golden light of late afternoon.
+    2. **Dutch Canal Town:**
+        1. First Image: A picturesque town in the Netherlands with canals and quaint houses.
+        2. Second Image: Bicycles lined up along the canal.
+        3. Third Image: Boats gently floating on the water.
+        4. Fourth Image: The town illuminated by soft, warm lights at dusk.
+
+42. **Category Name: Tranquil Rivers**
+    1. **Tranquil River:**
+        1. First Image: A peaceful river winding through a lush landscape.
+        2. Second Image: Ducks swimming gracefully on the water.
+        3. Third Image: A small wooden dock extending into the river.
+        4. Fourth Image: The river reflecting the colors of the setting sun.
+    2. **Mountain Stream:**
+        1. First Image: A clear mountain stream flowing over smooth rocks.
+        2. Second Image: The stream surrounded by vibrant wildflowers.
+        3. Third Image: A small waterfall cascading into a pool.
+        4. Fourth Image: The stream glowing in the soft light of early morning.
+
+43. **Category Name: Enchanting Castles**
+    1. **Scottish Highlands Castle:**
+        1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
+        2. Second Image: The castle surrounded by rolling green hills.
+        3. Third Image: A misty landscape with the castle looming in the distance.
+        4. Fourth Image: The castle illuminated by the light of the setting sun.
+    2. **Bavarian Castle:**
+        1. First Image: A fairytale-like castle in the Bavarian countryside.
+        2. Second Image: The castle nestled among forested hills.
+        3. Third Image: A winding path leading up to the castle gates.
+        4. Fourth Image: The castle glowing softly under a starry sky.
+
+44. **Category Name: Blossoming Orchards**
+    1. **Apple Orchard:**
+        1. First Image: Rows of apple trees in full bloom.
+        2. Second Image: Bees buzzing among the blossoms.
+        3. Third Image: Families picking apples from the trees.
+        4. Fourth Image: The orchard at sunset, with the trees bathed in warm light.
+    2. **Cherry Blossom Grove:**
+        1. First Image: A grove of cherry trees covered in pink blossoms.
+        2. Second Image: Petals gently falling to the ground.
+        3. Third Image: A path winding through the grove.
+        4. Fourth Image: The grove illuminated by the soft light of early morning.
+
+45. **Category Name: Peaceful Ponds**
+    1. **Lily Pond:**
+        1. First Image: A serene pond covered in water lilies.
+        2. Second Image: Dragonflies flitting over the water.
+        3. Third Image: A frog sitting on a lily pad.
+        4. Fourth Image: The pond reflecting the colors of the setting sun.
+    2. **Koi Pond:**
+        1. First Image: A tranquil pond filled with colorful koi fish.
+        2. Second Image: The fish swimming gracefully among the plants.
+        3. Third Image: A small wooden bridge crossing the pond.
+        4. Fourth Image: The pond glowing softly in the light of dusk.
+
+46. **Category Name: Majestic Canyons**
+    1. **Bryce Canyon:**
+        1. First Image: The unique rock formations of Bryce Canyon.
+        2. Second Image: Sunlight casting dramatic shadows in the canyon.
+        3. Third Image: A hiker standing at the edge, looking out over the landscape.
+        4. Fourth Image: The canyon glowing in the warm light of sunset.
+    2. **Antelope Canyon:**
+        1. First Image: The narrow, winding passages of Antelope Canyon.
+        2. Second Image: Sunbeams filtering through the openings above.
+        3. Third Image: The swirling, colorful patterns in the rock walls.
+        4. Fourth Image: The canyon bathed in the soft light of late afternoon.
+
+47. **Category Name: Idyllic Meadows**
+    1. **Spring Meadow:**
+        1. First Image: A vibrant meadow filled with blooming wildflowers.
+        2. Second Image: Butterflies fluttering among the flowers.
+        3. Third Image: A small stream winding through the meadow.
+        4. Fourth Image: The meadow bathed in the golden light of late afternoon.
+    2. **Summer Field:**
+        1. First Image: A sunny field with tall, swaying grasses.
+        2. Second Image: Birds singing in the trees at the edge of the field.
+        3. Third Image: A wooden fence dividing the field.
+        4. Fourth Image: The field glowing in the warm light of sunset.
+
+48. **Category Name: Enchanting Forests**
+    1. **Birch Forest:**
+        1. First Image: A dense forest of tall birch trees.
+        2. Second Image: Sunlight filtering through the white trunks.
+        3. Third Image: A carpet of fallen leaves covering the forest floor.
+        4. Fourth Image: The forest bathed in the soft light of early morning.
+    2. **Pine Woods:**
+        1. First Image: A tranquil pine forest with tall, straight trees.
+        2. Second Image: The scent of pine needles filling the air.
+        3. Third Image: A path winding through the trees.
+        4. Fourth Image: The forest glowing in the light of late afternoon.
+
+49. **Category Name: Colorful Landscapes**
+    1. **Lavender Fields:**
+        1. First Image: Endless rows of lavender in full bloom.
+        2. Second Image: Bees buzzing among the purple flowers.
+        3. Third Image: A farmhouse nestled in the middle of the fields.
+        4. Fourth Image: The fields glowing in the warm light of sunset.
+    2. **Tulip Fields:**
+        1. First Image: Vibrant tulip fields stretching out to the horizon.
+        2. Second Image: A windmill standing tall among the flowers.
+        3. Third Image: Families walking through the colorful
+
+ rows.
+        4. Fourth Image: The fields illuminated by the soft light of early evening.
+
+50. **Category Name: Serene Beaches**
+    1. **Secluded Cove:**
+        1. First Image: A hidden cove with clear, turquoise waters.
+        2. Second Image: Palm trees swaying gently in the breeze.
+        3. Third Image: A hammock strung between two trees.
+        4. Fourth Image: The cove glowing in the warm light of sunset.
+    2. **Rocky Shore:**
+        1. First Image: A rugged shore with waves crashing against the rocks.
+        2. Second Image: Tide pools forming in the rocky crevices.
+        3. Third Image: Seagulls flying above the water.
+        4. Fourth Image: The shore bathed in the soft light of early evening.
