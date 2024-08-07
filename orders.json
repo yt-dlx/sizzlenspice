@@ -1,0 +1,584 @@
+{
+  "categories": [
+    {
+      "title": "Whiskey",
+      "items": [
+        {
+          "title": "Blenders Pride",
+          "description": "A premium whiskey brand that is favored by many.",
+          "image": "https://c0.wallpaperflare.com/preview/502/610/488/blenders-pride-bottle-on-river.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Royal Stag",
+          "description": "One of the best-selling whiskey brands in India.",
+          "image": "https://i.pinimg.com/originals/26/6d/7a/266d7a24f51c3b7788bd55168471c635.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Officer's Choice",
+          "description": "Known for its affordability and widespread consumption.",
+          "image": "https://images.squarespace-cdn.com/content/v1/5bf41e2c70e8026f5a08ac41/1567186103640-3N45CHVXFF5ZHUBORMHL/officers-choice.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "McDowell’s No.1",
+          "description": "A highly popular brand known for its smooth taste.",
+          "image": "https://i.pinimg.com/originals/d0/5d/e1/d05de122ff4fcae8b966e995df639059.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Beer",
+      "items": [
+        {
+          "title": "Kingfisher",
+          "description": "The most widely consumed beer in India, known for its light and refreshing taste.",
+          "image": "https://images.unsplash.com/photo-1552317579-fb701baef383?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2luZ2Zpc2hlciUyMGJlZXJ8ZW58MHx8MHx8fDA%3D",
+          "genre": "veg"
+        },
+        {
+          "title": "Haywards 5000",
+          "description": "A strong beer brand that is popular in many parts of India.",
+          "image": "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/inline-images/Haywards.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Bira 91",
+          "description": "A trendy craft beer that has gained popularity for its distinct taste and branding.",
+          "image": "https://c.files.bbci.co.uk/6110/production/_100184842_beernewss.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Simba",
+          "description": "Another popular craft beer brand that has a growing fan base in urban areas.",
+          "image": "https://c0.wallpaperflare.com/preview/56/412/895/wristwatch-drink-bottle-leisure-activities.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Rum",
+      "items": [
+        {
+          "title": "Old Monk",
+          "description": "An iconic Indian dark rum known for its rich flavor.",
+          "image": "https://i.pinimg.com/originals/a6/20/35/a620358c63142672fb782d73f19d7c2b.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "McDowell’s No.1 Celebration",
+          "description": "A popular rum brand enjoyed across the country.",
+          "image": "https://i.pinimg.com/736x/da/0f/84/da0f849ed70a034b8339e7a544edd6ec.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Hercules",
+          "description": "Known for its strong taste and popular among defense personnel.",
+          "image": "https://w0.peakpx.com/wallpaper/174/299/HD-wallpaper-drinks-black-bottle-dark-jack.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Bacardi",
+          "description": "While an international brand, it is widely consumed in India, especially for cocktails.",
+          "image": "https://w0.peakpx.com/wallpaper/700/399/HD-wallpaper-bacardi-rum-snow.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Vodka",
+      "items": [
+        {
+          "title": "Magic Moments",
+          "description": "A leading vodka brand in India known for its variety of flavors.",
+          "image": "https://i.pinimg.com/736x/a1/e7/73/a1e773e9b7dc10b9a1d606352ab5c0c9.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Romanov",
+          "description": "A popular choice among vodka drinkers for its affordability.",
+          "image": "https://w0.peakpx.com/wallpaper/208/796/HD-wallpaper-vodka-alcohol-drink-russian.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "White Mischief",
+          "description": "Known for its smoothness and wide range of flavors.",
+          "image": "https://w0.peakpx.com/wallpaper/72/785/HD-wallpaper-vodka-bottles-beverage-bottle-cool-drink-thirst.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Smirnoff",
+          "description": "An international brand that is very popular in India.",
+          "image": "https://cdn.wallpapersafari.com/52/71/rRdAW2.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Biryani",
+      "items": [
+        {
+          "title": "Chicken Biryani",
+          "description": "Aromatic basmati rice cooked with tender chicken pieces and Indian spices.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Chicken-Biryani-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Mutton Biryani",
+          "description": "Flavorful basmati rice cooked with succulent mutton and a blend of spices.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/mutton-biryani-recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Vegetable Biryani",
+          "description": "A healthy mix of vegetables and basmati rice cooked with fragrant spices.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/vegetable-biryani-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Prawn Biryani",
+          "description": "Juicy prawns cooked with basmati rice and aromatic spices.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/prawn-biryani-recipe.jpg",
+          "genre": "non-veg"
+        }
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        {
+          "title": "Plain Rice",
+          "description": "Steamed basmati rice.",
+          "image": "https://www.simplyrecipes.com/thmb/QnW4Z42wKPzCjCqZLs4K4AOKikE=/1777x1333/smart/filters:no_upscale()/Simply-Recipes-Steamed-Rice-LEAD-5-02db0c36e80446999b56f626f1dc586b.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Jeera Rice",
+          "description": "Basmati rice cooked with cumin seeds.",
+          "image": "https://www.whiskaffair.com/wp-content/uploads/2018/04/Jeera-Rice-4-3.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Fried Rice",
+          "description": "Stir-fried rice with vegetables and soy sauce.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/veg-fried-rice-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Egg Fried Rice",
+          "description": "Fried rice with scrambled eggs and vegetables.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/egg-fried-rice-recipe.jpg",
+          "genre": "non-veg"
+        }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "title": "Hakka Noodles",
+          "description": "Stir-fried noodles with vegetables and soy sauce.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Veg-Hakka-Noodles-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Chicken Noodles",
+          "description": "Noodles stir-fried with chicken pieces and vegetables.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Chicken-Hakka-Noodles-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Schezwan Noodles",
+          "description": "Spicy stir-fried noodles with vegetables.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Schezwan-Noodles-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Egg Noodles",
+          "description": "Noodles stir-fried with scrambled eggs and vegetables.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Egg-Hakka-Noodles-Recipe.jpg",
+          "genre": "non-veg"
+        }
+      ]
+    },
+    {
+      "title": "Coffee",
+      "items": [
+        {
+          "title": "Espresso",
+          "description": "A strong and bold coffee brewed by forcing hot water through finely-ground coffee beans.",
+          "image": "https://www.thespruceeats.com/thmb/QF4Jk4G6TX8JPl9SOy8j4BQfhvk=/1885x1414/smart/filters:no_upscale()/espresso-766035-hero-01-b67802a9bd0f4864b8b3c63e3a720afe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Cappuccino",
+          "description": "A classic coffee made with espresso and steamed milk, topped with a layer of frothy milk.",
+          "image": "https://www.thespruceeats.com/thmb/n5_tUArhu26edw3G7eOxW4tMGYc=/2133x1600/filters:fill(auto,1)/cappuccino-766027-hero-01-5c71273746e0fb0001e5986e.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Latte",
+          "description": "A creamy coffee made with espresso and steamed milk, often flavored with syrups.",
+          "image": "https://www.thespruceeats.com/thmb/ZuotJECQsv--JTw8LGqCv8JABfs=/2121x1193/smart/filters:no_upscale()/latte-766025-hero-01-5c71272946e0fb0001358b4f.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Mocha",
+          "description": "A rich and indulgent coffee made with espresso, steamed milk, and chocolate syrup.",
+          "image": "https://www.thespruceeats.com/thmb/LaxjK7Sv27NBkBd6X_H4UBhoM58=/1885x1414/smart/filters:no_upscale()/mocha-766033-hero-01-5c71272c46e0fb00013d2cf2.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Curries",
+      "items": [
+        {
+          "title": "Butter Chicken",
+          "description": "Tender chicken pieces cooked in a rich and creamy tomato-based sauce.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/butter-chicken-recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Paneer Butter Masala",
+          "description": "Cottage cheese cubes cooked in a creamy and spiced tomato gravy.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/paneer-butter-masala-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Dal Makhani",
+          "description": "A rich and creamy lentil dish made with black lentils and kidney beans.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/dal-makhani-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Chicken Curry",
+          "description": "Chicken cooked in a flavorful and spicy curry sauce.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/chicken-curry-recipe.jpg",
+          "genre": "non-veg"
+        }
+      ]
+    },
+    {
+      "title": "Breads",
+      "items": [
+        {
+          "title": "Naan",
+          "description": "Soft and fluffy Indian flatbread, typically made in a tandoor oven.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/naan-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Roti",
+          "description": "Unleavened whole wheat flatbread.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/roti-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Paratha",
+          "description": "Layered flatbread, often stuffed with various fillings like potatoes or paneer.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/paratha-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Bhatura",
+          "description": "Deep-fried puffed bread, often served with chickpea curry.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/bhatura-recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Snacks",
+      "items": [
+        {
+          "title": "Samosa",
+          "description": "Deep-fried pastry filled with spiced potatoes and peas.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/samosa-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Pakora",
+          "description": "Vegetable fritters coated in a spiced gram flour batter and deep-fried.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/pakora-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Aloo Tikki",
+          "description": "Spiced potato patties, often served with chutney.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/aloo-tikki-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Chaat",
+          "description": "A popular street food snack made with a variety of ingredients like potatoes, chickpeas, and chutneys.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/chaat-recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Desserts",
+      "items": [
+        {
+          "title": "Gulab Jamun",
+          "description": "Deep-fried milk-based dumplings soaked in a sugar syrup.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/gulab-jamun-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Rasgulla",
+          "description": "Soft and spongy cheese balls soaked in a light sugar syrup.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/rasgulla-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Jalebi",
+          "description": "Crispy and syrupy spiral-shaped dessert made from a fermented batter.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/jalebi-recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Kheer",
+          "description": "Rice pudding made with milk, rice, and sugar, flavored with cardamom and garnished with nuts.",
+          "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/kheer-recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Tandoori",
+      "items": [
+        {
+          "title": "Chicken Tandoori",
+          "description": "Marinated chicken cooked in a tandoor oven, served with lemon and onions.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Chicken-Tandoori-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Paneer Tikka",
+          "description": "Cottage cheese cubes marinated in spices and grilled in a tandoor oven.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Paneer-Tikka-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Tandoori Roti",
+          "description": "Whole wheat flatbread cooked in a tandoor oven.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Tandoori-Roti-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Fish Tikka",
+          "description": "Marinated fish fillets grilled in a tandoor oven.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Fish-Tikka-Recipe.jpg",
+          "genre": "non-veg"
+        }
+      ]
+    },
+    {
+      "title": "South Indian",
+      "items": [
+        {
+          "title": "Dosa",
+          "description": "A thin and crispy crepe made from fermented rice and lentil batter.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Dosa-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Idli",
+          "description": "Steamed rice cakes, typically served with sambar and chutney.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Idli-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Vada",
+          "description": "Deep-fried savory doughnuts made from lentil batter.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Vada-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Uttapam",
+          "description": "Thick and savory pancakes topped with vegetables.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Uttapam-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Chaats",
+      "items": [
+        {
+          "title": "Pani Puri",
+          "description": "Hollow puris filled with spicy and tangy flavored water.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Pani-Puri-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Bhel Puri",
+          "description": "A mixture of puffed rice, vegetables, and tangy tamarind sauce.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Bhel-Puri-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Sev Puri",
+          "description": "Crispy puris topped with sev, potatoes, chutneys, and onions.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Sev-Puri-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Aloo Chaat",
+          "description": "Spicy and tangy potato chaat garnished with chutneys and coriander.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Aloo-Chaat-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Kebabs",
+      "items": [
+        {
+          "title": "Chicken Seekh Kebab",
+          "description": "Minced chicken mixed with spices and grilled on skewers.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Chicken-Seekh-Kebab-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Mutton Kebab",
+          "description": "Spiced minced mutton grilled on skewers.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Mutton-Kebab-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Hara Bhara Kebab",
+          "description": "Vegetarian kebabs made with spinach, peas, and potatoes.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Hara-Bhara-Kebab-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Paneer Kebab",
+          "description": "Cottage cheese cubes marinated in spices and grilled.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Paneer-Kebab-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Dal",
+      "items": [
+        {
+          "title": "Dal Tadka",
+          "description": "Yellow lentils cooked with spices and tempered with ghee and cumin.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Dal-Tadka-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Dal Fry",
+          "description": "Yellow lentils cooked with onions, tomatoes, and spices.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Dal-Fry-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Chana Dal",
+          "description": "Split chickpeas cooked with spices and tempered with ghee.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Chana-Dal-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Masoor Dal",
+          "description": "Red lentils cooked with onions, tomatoes, and spices.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Masoor-Dal-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Indian Sweets",
+      "items": [
+        {
+          "title": "Ladoo",
+          "description": "Sweet round balls made from gram flour, ghee, and sugar.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Ladoo-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Barfi",
+          "description": "Sweet fudge made from condensed milk and flavored with cardamom.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Barfi-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Peda",
+          "description": "Sweet round discs made from condensed milk and flavored with saffron.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Peda-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Sandesh",
+          "description": "Bengali sweet made from fresh paneer and flavored with cardamom.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Sandesh-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Thali",
+      "items": [
+        {
+          "title": "Vegetarian Thali",
+          "description": "A platter with a variety of vegetarian dishes, bread, rice, and dessert.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Vegetarian-Thali-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Non-Vegetarian Thali",
+          "description": "A platter with a variety of non-vegetarian dishes, bread, rice, and dessert.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Non-Vegetarian-Thali-Recipe.jpg",
+          "genre": "non-veg"
+        },
+        {
+          "title": "Gujarati Thali",
+          "description": "A traditional Gujarati meal with a variety of vegetarian dishes.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Gujarati-Thali-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Rajasthani Thali",
+          "description": "A traditional Rajasthani meal with a variety of vegetarian dishes.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Rajasthani-Thali-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    },
+    {
+      "title": "Street Food",
+      "items": [
+        {
+          "title": "Pav Bhaji",
+          "description": "Spicy mashed vegetable curry served with buttered bread rolls.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Pav-Bhaji-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Vada Pav",
+          "description": "Spicy potato fritter sandwiched in a bread roll, served with chutneys.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Vada-Pav-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Bhel Puri",
+          "description": "A mixture of puffed rice, vegetables, and tangy tamarind sauce.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Bhel-Puri-Recipe.jpg",
+          "genre": "veg"
+        },
+        {
+          "title": "Pani Puri",
+          "description": "Hollow puris filled with spicy and tangy flavored water.",
+          "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Pani-Puri-Recipe.jpg",
+          "genre": "veg"
+        }
+      ]
+    }
+  ]
+}
