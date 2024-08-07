@@ -1,6 +1,6 @@
 ================================================================ X ================================================================
 Prompt 1:
-Give Me 50 Categories With 'Futuristic' Design Style. Response Example:
+Give Me 50 Categories With Futuristic Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
         1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Space Exploration
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Voyage:
     1. First Image: The protagonist boarding a sleek spaceship, ready for interstellar travel.
     2. Second Image: Transition From The First Image, The spaceship navigating through an asteroid field with stunning cosmic visuals.
     3. Third Image: Transition From The Second Image, The protagonist encountering an alien species on a distant planet.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and the alien species forming an alliance, with a vast galaxy in the background.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Colony:
     1. First Image: The protagonist arriving at a high-tech colony on the moon.
     2. Second Image: Transition From The First Image, Exploring the lunar landscape, discovering ancient alien ruins.
@@ -45,14 +45,14 @@ Title: Lunar Colony:
 ================================================================ X ================================================================
 2. Category Name: Cyber Cities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Metropolis:
     1. First Image: The protagonist walking through a neon-lit cityscape filled with towering skyscrapers and holograms.
     2. Second Image: Transition From The First Image, The protagonist navigating through bustling streets with flying cars overhead.
     3. Third Image: Transition From The Second Image, A conflict with cybercriminals in a high-tech market.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, with the city’s lights reflecting their triumph.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Haven:
     1. First Image: The protagonist entering a city designed with advanced architecture and green technology.
     2. Second Image: Transition From The First Image, Exploring the city’s innovations, such as autonomous transport and smart buildings.
@@ -61,14 +61,14 @@ Title: Tech Haven:
 ================================================================ X ================================================================
 3. Category Name: Advanced Robotics
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robo Revolution:
     1. First Image: The protagonist working alongside advanced humanoid robots in a futuristic factory.
     2. Second Image: Transition From The First Image, A crisis where the robots malfunction, causing chaos.
     3. Third Image: Transition From The Second Image, The protagonist repairing the robots and preventing further damage.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The factory functioning smoothly, with humans and robots working in harmony.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Android Allies:
     1. First Image: The protagonist discovering a hidden society of sentient androids.
     2. Second Image: Transition From The First Image, Learning about the androids’ culture and technology.
@@ -77,14 +77,14 @@ Title: Android Allies:
 ================================================================ X ================================================================
 4. Category Name: Virtual Reality
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Worlds:
     1. First Image: The protagonist putting on a VR headset and entering a stunning digital landscape.
     2. Second Image: Transition From The First Image, Exploring various virtual environments, from fantasy realms to futuristic cities.
     3. Third Image: Transition From The Second Image, A challenge where the protagonist must defeat a powerful VR enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The virtual world celebrating the protagonist’s victory, with digital fireworks.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cyber Adventures:
     1. First Image: The protagonist logging into a virtual reality game filled with futuristic challenges.
     2. Second Image: Transition From The First Image, Forming a team with other players to complete quests.
@@ -93,14 +93,14 @@ Title: Cyber Adventures:
 ================================================================ X ================================================================
 5. Category Name: Space Colonies
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mars Base:
     1. First Image: The protagonist arriving at a sprawling colony on Mars.
     2. Second Image: Transition From The First Image, Exploring the colony’s advanced facilities and terraforming efforts.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must repair life support systems.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The colony thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Asteroid City:
     1. First Image: The protagonist traveling to a city built inside a massive asteroid.
     2. Second Image: Transition From The First Image, Discovering the city’s unique architecture and mining operations.
@@ -109,14 +109,14 @@ Title: Asteroid City:
 ================================================================ X ================================================================
 6. Category Name: Futuristic Warfare
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Soldiers:
     1. First Image: The protagonist donning advanced combat gear in a futuristic military base.
     2. Second Image: Transition From The First Image, Participating in a high-tech battlefield with laser weapons and drones.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with an enemy force equipped with similar technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s team standing victorious, with the battlefield behind them.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robo Warriors:
     1. First Image: The protagonist leading a squad of robotic soldiers into battle.
     2. Second Image: Transition From The First Image, Coordinating complex maneuvers using advanced AI.
@@ -125,14 +125,14 @@ Title: Robo Warriors:
 ================================================================ X ================================================================
 7. Category Name: Space Exploration
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Interstellar Journey:
     1. First Image: The protagonist boarding a massive starship, preparing for a deep space mission.
     2. Second Image: Transition From The First Image, Navigating through stunning nebulae and star systems.
     3. Third Image: Transition From The Second Image, Encountering a mysterious alien civilization on a distant planet.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Forming an alliance with the aliens, with the protagonist as a key diplomat.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Frontier:
     1. First Image: The protagonist charting unknown territories in the galaxy.
     2. Second Image: Transition From The First Image, Discovering habitable planets and ancient alien artifacts.
@@ -141,14 +141,14 @@ Title: Galactic Frontier:
 ================================================================ X ================================================================
 8. Category Name: Genetic Engineering
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Labs:
     1. First Image: The protagonist working in a cutting-edge genetic research facility.
     2. Second Image: Transition From The First Image, Conducting experiments to enhance human abilities.
     3. Third Image: Transition From The Second Image, A crisis where a genetic experiment goes wrong, causing mutations.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a cure, with the lab resuming its research safely.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Future Humans:
     1. First Image: The protagonist meeting a community of genetically enhanced individuals.
     2. Second Image: Transition From The First Image, Learning about their abilities and the ethical challenges they face.
@@ -157,14 +157,14 @@ Title: Future Humans:
 ================================================================ X ================================================================
 9. Category Name: Space Combat
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Starship Battles:
     1. First Image: The protagonist commanding a powerful starship in a fleet.
     2. Second Image: Transition From The First Image, Engaging in a massive space battle with laser beams and explosions.
     3. Third Image: Transition From The Second Image, A tense moment where the protagonist’s ship is critically damaged.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s strategic maneuver securing victory, with the fleet celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic War:
     1. First Image: The protagonist leading a squadron of fighter ships in a galactic conflict.
     2. Second Image: Transition From The First Image, Dogfighting with enemy ships in a visually stunning star field.
@@ -173,14 +173,14 @@ Title: Galactic War:
 ================================================================ X ================================================================
 10. Category Name: Futuristic Cities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Skyline Wonders:
     1. First Image: The protagonist arriving in a city with towering skyscrapers and floating platforms.
     2. Second Image: Transition From The First Image, Exploring the city’s advanced transportation and urban design.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must save the city from a malfunctioning AI.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city thriving, with the protagonist honored for their heroism.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eco City:
     1. First Image: The protagonist entering a city designed with sustainable technology and green architecture.
     2. Second Image: Transition From The First Image, Discovering innovations like vertical gardens and renewable energy sources.
@@ -189,14 +189,14 @@ Title: Eco City:
 ================================================================ X ================================================================
 11. Category Name: Advanced AI
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Uprising:
     1. First Image: The protagonist discovering a secret society of advanced AIs.
     2. Second Image: Transition From The First Image, Learning about their quest for autonomy and rights.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist mediates between humans and AIs.
     4. Fourth Image: Transition From The Third Image, Ending The Story, A harmonious society with humans and AIs coexisting peacefully.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sentient Machines:
     1. First Image: The protagonist encountering a group of sentient robots with human-like emotions.
     2. Second Image: Transition From The First Image, Forming a bond with the robots and understanding their perspective.
@@ -205,14 +205,14 @@ Title: Sentient Machines:
 ================================================================ X ================================================================
 12. Category Name: Space Colonization
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Habitat:
     1. First Image: The protagonist arriving at a massive space station orbiting a distant planet.
     2. Second Image: Transition From The First Image, Exploring the station’s advanced facilities and zero-gravity environments.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must repair the station’s life support systems.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The station thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mars Colony:
     1. First Image: The protagonist landing on Mars and joining a burgeoning colony.
     2. Second Image: Transition From The First Image, Helping to build and expand the colony’s infrastructure.
@@ -221,14 +221,14 @@ Title: Mars Colony:
 ================================================================ X ================================================================
 13. Category Name: Futuristic Transportation
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hyperloop Adventure:
     1. First Image: The protagonist boarding a sleek, high-speed Hyperloop train.
     2. Second Image: Transition From The First Image, Traveling through stunning futuristic landscapes at incredible speeds.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a critical system failure.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The journey completed safely, with the Hyperloop system improved.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Flying Cars:
     1. First Image: The protagonist navigating a cityscape in a personal flying car.
     2. Second Image: Transition From The First Image, Experiencing the freedom of flight and advanced traffic systems.
@@ -237,14 +237,14 @@ Title: Flying Cars:
 ================================================================ X ================================================================
 14. Category Name: Futuristic Medicine
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Nano Healing:
     1. First Image: The protagonist working in a state-of-the-art medical facility.
     2. Second Image: Transition From The First Image, Using nanotechnology to heal patients at a microscopic level.
     3. Third Image: Transition From The Second Image, A crisis where a patient’s nanobots malfunction, causing complications.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist resolving the issue, with the patient fully recovered.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Augmentation:
     1. First Image: The protagonist undergoing a procedure to receive bio-augmentations.
     2. Second Image: Transition From The First Image, Learning to use their new enhanced abilities.
@@ -253,14 +253,14 @@ Title: Bio Augmentation:
 ================================================================ X ================================================================
 15. Category Name: Space Mining
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Asteroid Harvest:
     1. First Image: The protagonist arriving at a mining colony on a large asteroid.
     2. Second Image: Transition From The First Image, Discovering advanced mining equipment and techniques.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must prevent a mining disaster.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mining operation successful, with the protagonist honored for their efforts.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Extraction:
     1. First Image: The protagonist joining a team of miners on the moon.
     2. Second Image: Transition From The First Image, Extracting valuable resources using cutting-edge technology.
@@ -269,14 +269,14 @@ Title: Lunar Extraction:
 ================================================================ X ================================================================
 16. Category Name: Futuristic Agriculture
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Vertical Farms:
     1. First Image: The protagonist working in a vertical farm within a futuristic city.
     2. Second Image: Transition From The First Image, Using advanced techniques to grow crops in stacked layers.
     3. Third Image: Transition From The Second Image, A crisis where the farm’s automated systems fail.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist resolving the issue, with the farm producing abundant crops.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Domes:
     1. First Image: The protagonist entering a biodome designed to cultivate various ecosystems.
     2. Second Image: Transition From The First Image, Managing the balance of flora and fauna within the dome.
@@ -285,14 +285,14 @@ Title: Bio Domes:
 ================================================================ X ================================================================
 17. Category Name: Space Tourism
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Resort:
     1. First Image: The protagonist arriving at a luxurious space resort orbiting Earth.
     2. Second Image: Transition From The First Image, Enjoying the amenities and breathtaking views of the planet.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must ensure the safety of the guests.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The resort continuing to flourish, with the protagonist celebrated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Vacation:
     1. First Image: The protagonist taking a vacation on the moon, exploring its unique landscape.
     2. Second Image: Transition From The First Image, Participating in lunar activities like low-gravity sports and sightseeing.
@@ -301,14 +301,14 @@ Title: Lunar Vacation:
 ================================================================ X ================================================================
 18. Category Name: AI Companions
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robo Pets:
     1. First Image: The protagonist receiving a highly advanced robotic pet.
     2. Second Image: Transition From The First Image, Bonding with the pet and discovering its capabilities.
     3. Third Image: Transition From The Second Image, A crisis where the pet helps save the day using its unique skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bond between the protagonist and their robo pet deepening, with the pet becoming a valued companion.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Virtual Assistants:
     1. First Image: The protagonist interacting with a virtual assistant embedded in their home.
     2. Second Image: Transition From The First Image, Discovering the assistant’s wide range of abilities and functions.
@@ -317,14 +317,14 @@ Title: Virtual Assistants:
 ================================================================ X ================================================================
 19. Category Name: Futuristic Fashion
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Smart Clothing:
     1. First Image: The protagonist trying on clothing embedded with smart technology.
     2. Second Image: Transition From The First Image, The clothing adapting to various environments and activities.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist’s smart clothing provides crucial assistance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist becoming a trendsetter, with smart clothing becoming widely popular.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Couture:
     1. First Image: The protagonist attending a high-tech fashion show in a futuristic city.
     2. Second Image: Transition From The First Image, Discovering innovative designs that incorporate advanced materials and technology.
@@ -333,14 +333,14 @@ Title: Tech Couture:
 ================================================================ X ================================================================
 20. Category Name: Futuristic Education
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Virtual Classrooms:
     1. First Image: The protagonist attending a class in a fully immersive virtual environment.
     2. Second Image: Transition From The First Image, Interacting with classmates and teachers in real-time through avatars.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must solve a problem within the virtual system.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The virtual classroom thriving, with the protagonist excelling in their studies.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Tutors:
     1. First Image: The protagonist learning from a highly advanced AI tutor.
     2. Second Image: Transition From The First Image, The tutor adapting lessons to the protagonist’s unique learning style.
@@ -349,14 +349,14 @@ Title: AI Tutors:
 ================================================================ X ================================================================
 21. Category Name: Space Habitats
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Colony:
     1. First Image: The protagonist arriving at a massive space colony orbiting a distant planet.
     2. Second Image: Transition From The First Image, Exploring the colony’s advanced facilities and zero-gravity environments.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must repair the colony’s life support systems.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The colony thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Base:
     1. First Image: The protagonist joining a colony on the moon.
     2. Second Image: Transition From The First Image, Helping to build and expand the colony’s infrastructure.
@@ -365,14 +365,14 @@ Title: Lunar Base:
 ================================================================ X ================================================================
 22. Category Name: Futuristic Art
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holographic Displays:
     1. First Image: The protagonist attending an art exhibit featuring holographic artwork.
     2. Second Image: Transition From The First Image, Interacting with the holograms and exploring their intricate details.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must protect the artwork from a technical glitch.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The exhibit successful, with the holograms gaining widespread acclaim.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Creations:
     1. First Image: The protagonist discovering an art studio where AI creates stunning masterpieces.
     2. Second Image: Transition From The First Image, Collaborating with the AI to produce unique works of art.
@@ -381,14 +381,14 @@ Title: AI Creations:
 ================================================================ X ================================================================
 23. Category Name: Space Mining
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Asteroid Mining:
     1. First Image: The protagonist arriving at a mining colony on a large asteroid.
     2. Second Image: Transition From The First Image, Discovering advanced mining equipment and techniques.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must prevent a mining disaster.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mining operation successful, with the protagonist honored for their efforts.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Extraction:
     1. First Image: The protagonist joining a team of miners on the moon.
     2. Second Image: Transition From The First Image, Extracting valuable resources using cutting-edge technology.
@@ -397,14 +397,14 @@ Title: Lunar Extraction:
 ================================================================ X ================================================================
 24. Category Name: Futuristic Energy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Solar Satellites:
     1. First Image: The protagonist working on a project to build solar power satellites in orbit.
     2. Second Image: Transition From The First Image, The satellites harnessing solar energy and transmitting it to Earth.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a malfunction in the satellite array.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The project successful, with the protagonist celebrated for their contributions.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fusion Power:
     1. First Image: The protagonist joining a team working on a fusion power plant.
     2. Second Image: Transition From The First Image, The plant achieving breakthroughs in sustainable energy.
@@ -413,14 +413,14 @@ Title: Fusion Power:
 ================================================================ X ================================================================
 25. Category Name: Space Diplomacy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Council:
     1. First Image: The protagonist representing Earth at a council of interstellar civilizations.
     2. Second Image: Transition From The First Image, Negotiating treaties and alliances with alien species.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must mediate a dispute between factions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Peace achieved, with the protagonist celebrated as a diplomat.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Alien Embassy:
     1. First Image: The protagonist establishing an embassy on an alien world.
     2. Second Image: Transition From The First Image, Building relationships and understanding the alien culture.
@@ -429,14 +429,14 @@ Title: Alien Embassy:
 ================================================================ X ================================================================
 26. Category Name: Futuristic Cuisine
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Smart Kitchens:
     1. First Image: The protagonist cooking in a high-tech kitchen with advanced appliances.
     2. Second Image: Transition From The First Image, The kitchen’s AI assisting in preparing complex meals.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a malfunctioning appliance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The meal successful, with the protagonist’s culinary skills celebrated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Synthetic Foods:
     1. First Image: The protagonist visiting a lab that produces high-quality synthetic foods.
     2. Second Image: Transition From The First Image, Learning about the technology and tasting the innovative dishes.
@@ -445,14 +445,14 @@ Title: Synthetic Foods:
 ================================================================ X ================================================================
 27. Category Name: Futuristic Music
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holo Concerts:
     1. First Image: The protagonist attending a concert featuring holographic performers.
     2. Second Image: Transition From The First Image, Experiencing the immersive visuals and soundscapes.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a technical glitch in the performance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The concert a success, with the holograms gaining widespread acclaim.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Composers:
     1. First Image: The protagonist collaborating with an AI to create new music.
     2. Second Image: Transition From The First Image, Producing unique compositions that blend human and machine creativity.
@@ -461,14 +461,14 @@ Title: AI Composers:
 ================================================================ X ================================================================
 28. Category Name: Space Exploration
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Stellar Voyage:
     1. First Image: The protagonist boarding a sleek spaceship, ready for interstellar travel.
     2. Second Image: Transition From The First Image, Navigating through stunning nebulae and star systems.
     3. Third Image: Transition From The Second Image, Encountering a mysterious alien civilization on a distant planet.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Forming an alliance with the aliens, with the protagonist as a key diplomat.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Frontier:
     1. First Image: The protagonist charting unknown territories in the galaxy.
     2. Second Image: Transition From The First Image, Discovering habitable planets and ancient alien artifacts.
@@ -477,14 +477,14 @@ Title: Galactic Frontier:
 ================================================================ X ================================================================
 29. Category Name: Futuristic Fashion
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Smart Fabrics:
     1. First Image: The protagonist trying on clothing embedded with smart technology.
     2. Second Image: Transition From The First Image, The clothing adapting to various environments and activities.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist’s smart clothing provides crucial assistance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist becoming a trendsetter, with smart clothing becoming widely popular.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Couture:
     1. First Image: The protagonist attending a high-tech fashion show in a futuristic city.
     2. Second Image: Transition From The First Image, Discovering innovative designs that incorporate advanced materials and technology.
@@ -493,14 +493,14 @@ Title: Tech Couture:
 ================================================================ X ================================================================
 30. Category Name: Futuristic Medicine
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Nano Healing:
     1. First Image: The protagonist working in a state-of-the-art medical facility.
     2. Second Image: Transition From The First Image, Using nanotechnology to heal patients at a microscopic level.
     3. Third Image: Transition From The Second Image, A crisis where a patient’s nanobots malfunction, causing complications.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist resolving the issue, with the patient fully recovered.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Augmentation:
     1. First Image: The protagonist undergoing a procedure to receive bio-augmentations.
     2. Second Image: Transition From The First Image, Learning to use their new enhanced abilities.
@@ -509,14 +509,14 @@ Title: Bio Augmentation:
 ================================================================ X ================================================================
 31. Category Name: Advanced AI
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Uprising:
     1. First Image: The protagonist discovering a secret society of advanced AIs.
     2. Second Image: Transition From The First Image, Learning about their quest for autonomy and rights.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist mediates between humans and AIs.
     4. Fourth Image: Transition From The Third Image, Ending The Story, A harmonious society with humans and AIs coexisting peacefully.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sentient Machines:
     1. First Image: The protagonist encountering a group of sentient robots with human-like emotions.
     2. Second Image: Transition From The First Image, Forming a bond with the robots and understanding their perspective.
@@ -525,14 +525,14 @@ Title: Sentient Machines:
 ================================================================ X ================================================================
 32. Category Name: Futuristic Architecture
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sky Cities:
     1. First Image: The protagonist arriving in a city suspended high in the sky with futuristic buildings.
     2. Second Image: Transition From The First Image, Exploring the city’s advanced infrastructure and gravity-defying structures.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must stabilize the city during a storm.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Underwater Metropolis:
     1. First Image: The protagonist visiting a city built beneath the ocean’s surface.
     2. Second Image: Transition From The First Image, Discovering the city’s unique architecture and marine life integration.
@@ -541,14 +541,14 @@ Title: Underwater Metropolis:
 ================================================================ X ================================================================
 33. Category Name: Futuristic Warfare
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Soldiers:
     1. First Image: The protagonist donning advanced combat gear in a futuristic military base.
     2. Second Image: Transition From The First Image, Participating in a high-tech battlefield with laser weapons and drones.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with an enemy force equipped with similar technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s team standing victorious, with the battlefield behind them.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robo Warriors:
     1. First Image: The protagonist leading a squad of robotic soldiers into battle.
     2. Second Image: Transition From The First Image, Coordinating complex maneuvers using advanced AI.
@@ -557,14 +557,14 @@ Title: Robo Warriors:
 ================================================================ X ================================================================
 34. Category Name: Genetic Engineering
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Labs:
     1. First Image: The protagonist working in a cutting-edge genetic research facility.
     2. Second Image: Transition From The First Image, Conducting experiments to enhance human abilities.
     3. Third Image: Transition From The Second Image, A crisis where a genetic experiment goes wrong, causing mutations.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a cure, with the lab resuming its research safely.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Future Humans:
     1. First Image: The protagonist meeting a community of genetically enhanced individuals.
     2. Second Image: Transition From The First Image, Learning about their abilities and the ethical challenges they face.
@@ -573,14 +573,14 @@ Title: Future Humans:
 ================================================================ X ================================================================
 35. Category Name: Futuristic Transportation
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hyperloop Adventure:
     1. First Image: The protagonist boarding a sleek, high-speed Hyperloop train.
     2. Second Image: Transition From The First Image, Traveling through stunning futuristic landscapes at incredible speeds.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a critical system failure.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The journey completed safely, with the Hyperloop system improved.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Flying Cars:
     1. First Image: The protagonist navigating a cityscape in a personal flying car.
     2. Second Image: Transition From The First Image, Experiencing the freedom of flight and advanced traffic systems.
@@ -589,14 +589,14 @@ Title: Flying Cars:
 ================================================================ X ================================================================
 36. Category Name: Space Colonization
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Habitat:
     1. First Image: The protagonist arriving at a massive space station orbiting a distant planet.
     2. Second Image: Transition From The First Image, Exploring the station’s advanced facilities and zero-gravity environments.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must repair the station’s life support systems.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The station thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mars Colony:
     1. First Image: The protagonist landing on Mars and joining a burgeoning colony.
     2. Second Image: Transition From The First Image, Helping to build and expand the colony’s infrastructure.
@@ -605,14 +605,14 @@ Title: Mars Colony:
 ================================================================ X ================================================================
 37. Category Name: Futuristic Agriculture
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Vertical Farms:
     1. First Image: The protagonist working in a vertical farm within a futuristic city.
     2. Second Image: Transition From The First Image, Using advanced techniques to grow crops in stacked layers.
     3. Third Image: Transition From The Second Image, A crisis where the farm’s automated systems fail.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist resolving the issue, with the farm producing abundant crops.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bio Domes:
     1. First Image: The protagonist entering a biodome designed to cultivate various ecosystems.
     2. Second Image: Transition From The First Image, Managing the balance of flora and fauna within the dome.
@@ -621,14 +621,14 @@ Title: Bio Domes:
 ================================================================ X ================================================================
 38. Category Name: Space Tourism
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Resort:
     1. First Image: The protagonist arriving at a luxurious space resort orbiting Earth.
     2. Second Image: Transition From The First Image, Enjoying the amenities and breathtaking views of the planet.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must ensure the safety of the guests.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The resort continuing to flourish, with the protagonist celebrated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Vacation:
     1. First Image: The protagonist taking a vacation on the moon, exploring its unique landscape.
     2. Second Image: Transition From The First Image, Participating in lunar activities like low-gravity sports and sightseeing.
@@ -637,14 +637,14 @@ Title: Lunar Vacation:
 ================================================================ X ================================================================
 39. Category Name: AI Companions
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robo Pets:
     1. First Image: The protagonist receiving a highly advanced robotic pet.
     2. Second Image: Transition From The First Image, Bonding with the pet and discovering its capabilities.
     3. Third Image: Transition From The Second Image, A crisis where the pet helps save the day using its unique skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bond between the protagonist and their robo pet deepening, with the pet becoming a valued companion.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Virtual Assistants:
     1. First Image: The protagonist interacting with a virtual assistant embedded in their home.
     2. Second Image: Transition From The First Image, Discovering the assistant’s wide range of abilities and functions.
@@ -653,14 +653,14 @@ Title: Virtual Assistants:
 ================================================================ X ================================================================
 40. Category Name: Futuristic Fashion
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Smart Clothing:
     1. First Image: The protagonist trying on clothing embedded with smart technology.
     2. Second Image: Transition From The First Image, The clothing adapting to various environments and activities.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist’s smart clothing provides crucial assistance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist becoming a trendsetter, with smart clothing becoming widely popular.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Couture:
     1. First Image: The protagonist attending a high-tech fashion show in a futuristic city.
     2. Second Image: Transition From The First Image, Discovering innovative designs that incorporate advanced materials and technology.
@@ -669,14 +669,14 @@ Title: Tech Couture:
 ================================================================ X ================================================================
 41. Category Name: Futuristic Education
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Virtual Classrooms:
     1. First Image: The protagonist attending a class in a fully immersive virtual environment.
     2. Second Image: Transition From The First Image, Interacting with classmates and teachers in real-time through avatars.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must solve a problem within the virtual system.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The virtual classroom thriving, with the protagonist excelling in their studies.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Tutors:
     1. First Image: The protagonist learning from a highly advanced AI tutor.
     2. Second Image: Transition From The First Image, The tutor adapting lessons to the protagonist’s unique learning style.
@@ -685,14 +685,14 @@ Title: AI Tutors:
 ================================================================ X ================================================================
 42. Category Name: Space Habitats
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Orbital Colony:
     1. First Image: The protagonist arriving at a massive space colony orbiting a distant planet.
     2. Second Image: Transition From The First Image, Exploring the colony’s advanced facilities and zero-gravity environments.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must repair the colony’s life support systems.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The colony thriving, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lunar Base:
     1. First Image: The protagonist joining a colony on the moon.
     2. Second Image: Transition From The First Image, Helping to build and expand the colony’s infrastructure.
@@ -701,14 +701,14 @@ Title: Lunar Base:
 ================================================================ X ================================================================
 43. Category Name: Futuristic Art
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holographic Displays:
     1. First Image: The protagonist attending an art exhibit featuring holographic artwork.
     2. Second Image: Transition From The First Image, Interacting with the holograms and exploring their intricate details.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must protect the artwork from a technical glitch.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The exhibit successful, with the holograms gaining widespread acclaim.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Creations:
     1. First Image: The protagonist discovering an art studio where AI creates stunning masterpieces.
     2. Second Image: Transition From The First Image, Collaborating with the AI to produce unique works of art.
@@ -717,14 +717,14 @@ Title: AI Creations:
 ================================================================ X ================================================================
 44. Category Name: Futuristic Energy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Solar Satellites:
     1. First Image: The protagonist working on a project to build solar power satellites in orbit.
     2. Second Image: Transition From The First Image, The satellites harnessing solar energy and transmitting it to Earth.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a malfunction in the satellite array.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The project successful, with the protagonist celebrated for their contributions.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fusion Power:
     1. First Image: The protagonist joining a team working on a fusion power plant.
     2. Second Image: Transition From The First Image, The plant achieving breakthroughs in sustainable energy.
@@ -733,14 +733,14 @@ Title: Fusion Power:
 ================================================================ X ================================================================
 45. Category Name: Futuristic Communication
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Telepathic Interfaces:
     1. First Image: The protagonist using a telepathic interface to communicate instantly with others.
     2. Second Image: Transition From The First Image, Exploring the benefits and challenges of telepathic communication.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must resolve a telepathic network failure.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The communication system improved, with the protagonist celebrated for their efforts.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holographic Calls:
     1. First Image: The protagonist making a holographic call to a distant relative.
     2. Second Image: Transition From The First Image, Experiencing the immersive visuals and real-time interaction.     
@@ -749,14 +749,14 @@ Title: Holographic Calls:
 ================================================================ X ================================================================
 46. Category Name: Futuristic Entertainment
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holo Games:
     1. First Image: The protagonist entering a holographic game arena.
     2. Second Image: Transition From The First Image, Participating in a fully immersive, interactive game.
     3. Third Image: Transition From The Second Image, A dramatic moment where the protagonist must win a critical game challenge.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist victorious, with the game world celebrating their win.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Virtual Concerts:
     1. First Image: The protagonist attending a virtual reality concert.
     2. Second Image: Transition From The First Image, Experiencing the music and visuals in a fully immersive environment.
@@ -765,14 +765,14 @@ Title: Virtual Concerts:
 ================================================================ X ================================================================
 47. Category Name: Space Diplomacy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Council:
     1. First Image: The protagonist representing Earth at a council of interstellar civilizations.
     2. Second Image: Transition From The First Image, Negotiating treaties and alliances with alien species.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must mediate a dispute between factions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Peace achieved, with the protagonist celebrated as a diplomat.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Alien Embassy:
     1. First Image: The protagonist establishing an embassy on an alien world.
     2. Second Image: Transition From The First Image, Building relationships and understanding the alien culture.
@@ -781,14 +781,14 @@ Title: Alien Embassy:
 ================================================================ X ================================================================
 48. Category Name: Futuristic Cuisine
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Smart Kitchens:
     1. First Image: The protagonist cooking in a high-tech kitchen with advanced appliances.
     2. Second Image: Transition From The First Image, The kitchen’s AI assisting in preparing complex meals.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a malfunctioning appliance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The meal successful, with the protagonist’s culinary skills celebrated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Synthetic Foods:
     1. First Image: The protagonist visiting a lab that produces high-quality synthetic foods.
     2. Second Image: Transition From The First Image, Learning about the technology and tasting the innovative dishes.
@@ -797,14 +797,14 @@ Title: Synthetic Foods:
 ================================================================ X ================================================================
 49. Category Name: Futuristic Music
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Holo Concerts:
     1. First Image: The protagonist attending a concert featuring holographic performers.
     2. Second Image: Transition From The First Image, Experiencing the immersive visuals and soundscapes.
     3. Third Image: Transition From The Second Image, A crisis where the protagonist must fix a technical glitch in the performance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The concert a success, with the holograms gaining widespread acclaim.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: AI Composers:
     1. First Image: The protagonist collaborating with an AI to create new music.
     2. Second Image: Transition From The First Image, Producing unique compositions that blend human and machine creativity.
@@ -813,14 +813,14 @@ Title: AI Composers:
 ================================================================ X ================================================================
 50. Category Name: Space Combat
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Starship Battles:
     1. First Image: The protagonist commanding a powerful starship in a fleet.
     2. Second Image: Transition From The First Image, Engaging in a massive space battle with laser beams and explosions.
     3. Third Image: Transition From The Second Image, A tense moment where the protagonist’s ship is critically damaged.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s strategic maneuver securing victory, with the fleet celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Futuristic' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Futuristic art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic War:
     1. First Image: The protagonist leading a squadron of fighter ships in a galactic conflict.
     2. Second Image: Transition From The First Image, Dogfighting with enemy ships in a visually stunning star field.

@@ -1,6 +1,6 @@
 ================================================================ X ================================================================
 Prompt 1:
-Give Me 50 Categories With 'Anime' Design Style. Response Example:
+Give Me 50 Categories With Anime Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
         1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Shonen Adventure
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Hero's Journey:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Heros Journey:
     1. First Image: A young protagonist standing on a cliff, looking out at a vast landscape.
     2. Second Image: Transition From The First Image, The protagonist encounters a mysterious mentor in a dense forest.
     3. Third Image: Transition From The Second Image, The protagonist and mentor battle fierce monsters, showing intense action.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stands victorious, with the mentor's guidance shining through.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stands victorious, with the mentors guidance shining through.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle Arena:
     1. First Image: A bustling arena filled with spectators, with two combatants facing off.
     2. Second Image: Transition From The First Image, The combatants engage in a high-energy fight, showcasing their unique abilities.
@@ -45,30 +45,30 @@ Title: Battle Arena:
 ================================================================ X ================================================================
 2. Category Name: Shojo Romance
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Star-Crossed Lovers:
     1. First Image: A boy and girl meet under a cherry blossom tree, petals falling around them.
     2. Second Image: Transition From The First Image, They share a romantic moment on a bridge at sunset, holding hands.
     3. Third Image: Transition From The Second Image, A conflict arises, showing them separated and longing for each other.
     4. Fourth Image: Transition From The Third Image, Ending The Story, They reunite under the same cherry blossom tree, embracing with tears of joy.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Secret Crush:
     1. First Image: A girl shyly glancing at a boy from behind her school locker.
-    2. Second Image: Transition From The First Image, The girl leaves a love letter in the boy's locker, blushing deeply.
+    2. Second Image: Transition From The First Image, The girl leaves a love letter in the boys locker, blushing deeply.
     3. Third Image: Transition From The Second Image, The boy finds the letter and reads it, smiling warmly.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The boy approaches the girl, and they share a sweet, awkward moment together.
 ================================================================ X ================================================================
 3. Category Name: Fantasy Worlds
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magic Academy:
     1. First Image: A grand magical academy with towering spires and mystical creatures.
     2. Second Image: Transition From The First Image, Students practicing spells in an open courtyard, with colorful magic effects.
     3. Third Image: Transition From The Second Image, A dangerous magical duel between two rival students.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist mastering a powerful spell, with friends cheering them on.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dragon Riders:
     1. First Image: A vast landscape with dragons soaring in the sky, and riders preparing for a journey.
     2. Second Image: Transition From The First Image, The protagonist bonding with a young dragon in a lush forest.
@@ -77,30 +77,30 @@ Title: Dragon Riders:
 ================================================================ X ================================================================
 4. Category Name: Sci-Fi Adventure
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Space Explorers:
     1. First Image: A sleek spaceship soaring through a field of stars, with the crew inside.
     2. Second Image: Transition From The First Image, The crew encountering a mysterious alien planet, with strange flora and fauna.
     3. Third Image: Transition From The Second Image, A tense battle with hostile aliens, showcasing advanced weaponry and technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The crew celebrating their victory, with the alien planet in the background.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cyber City:
     1. First Image: A bustling, neon-lit cityscape with flying cars and holographic advertisements.
     2. Second Image: Transition From The First Image, The protagonist navigating through a crowded market, seeking information.
-    3. Third Image: Transition From The Second Image, An intense chase scene through the city's rooftops and alleyways.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing on a skyscraper, looking out at the city they've saved.
+    3. Third Image: Transition From The Second Image, An intense chase scene through the citys rooftops and alleyways.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing on a skyscraper, looking out at the city theyve saved.
 ================================================================ X ================================================================
 5. Category Name: Historical Drama
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Samurai Honor:
     1. First Image: A traditional Japanese village with a samurai standing guard.
     2. Second Image: Transition From The First Image, The samurai training with their master in a serene bamboo forest.
     3. Third Image: Transition From The Second Image, A fierce battle between rival samurai clans, showing intense swordplay.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist samurai standing victorious, honoring their fallen master.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Royal Court:
     1. First Image: A grand palace with elegantly dressed courtiers and a regal throne.
     2. Second Image: Transition From The First Image, The protagonist, a young noble, navigating court intrigue and politics.
@@ -109,14 +109,14 @@ Title: Royal Court:
 ================================================================ X ================================================================
 6. Category Name: Supernatural Tales
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ghost Whisperer:
     1. First Image: A haunted mansion with eerie lights and ghostly apparitions.
     2. Second Image: Transition From The First Image, The protagonist communicating with a sorrowful ghost, learning its story.
     3. Third Image: Transition From The Second Image, The protagonist helping the ghost find peace, with a touching emotional moment.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ghost disappearing, leaving the protagonist with a sense of fulfillment.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Demon Slayer:
     1. First Image: A dark, ominous forest with the protagonist wielding a mystical weapon.
     2. Second Image: Transition From The First Image, The protagonist battling a terrifying demon, showing their fierce determination.
@@ -125,60 +125,60 @@ Title: Demon Slayer:
 ================================================================ X ================================================================
 7. Category Name: Slice of Life
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: School Days:
     1. First Image: A typical Japanese high school with students arriving in the morning.
     2. Second Image: Transition From The First Image, The protagonist and their friends sharing lunch on the rooftop.
     3. Third Image: Transition From The Second Image, A heartfelt moment between the protagonist and their best friend.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The friends walking home together, enjoying the sunset.
     2. Family Bonds:
-    1. First Image: A cozy home with the protagonist's family gathered for breakfast.
+    1. First Image: A cozy home with the protagonists family gathered for breakfast.
     2. Second Image: Transition From The First Image, The family working together on a weekend project, like gardening.
     3. Third Image: Transition From The Second Image, A tense moment during a family disagreement, showing strong emotions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The family reconciling and sharing a warm group hug.
 ================================================================ X ================================================================
 8. Category Name: Horror
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Haunted School:
     1. First Image: An abandoned school with creepy shadows and eerie silence.
     2. Second Image: Transition From The First Image, The protagonist discovering unsettling signs of paranormal activity.
     3. Third Image: Transition From The Second Image, A terrifying encounter with a malevolent spirit, showing fear and desperation.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist managing to escape, but still haunted by the experience.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cursed Village:
     1. First Image: A village shrouded in mist, with strange symbols carved into buildings.
-    2. Second Image: Transition From The First Image, The protagonist investigating the source of the village's curse.
+    2. Second Image: Transition From The First Image, The protagonist investigating the source of the villages curse.
     3. Third Image: Transition From The Second Image, A horrifying confrontation with the entity behind the curse.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist breaking the curse, but the village remains eerily quiet.
 ================================================================ X ================================================================
 9. Category Name: Comedy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mishaps and Mayhem:
     1. First Image: The protagonist in a chaotic classroom, with students causing havoc.
     2. Second Image: Transition From The First Image, A series of comedic misadventures, with exaggerated reactions and expressions.
     3. Third Image: Transition From The Second Image, The protagonist getting into more absurd situations, making everyone laugh.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The classroom settling down, with everyone sharing a hearty laugh together.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Quirky Family:
-    1. First Image: The protagonist's eccentric family doing odd things around the house.
+    1. First Image: The protagonists eccentric family doing odd things around the house.
     2. Second Image: Transition From The First Image, A series of humorous family activities, showing their unique quirks.
     3. Third Image: Transition From The Second Image, The family getting into a hilarious situation, with everyone overreacting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family laughing together, despite the chaos they've caused.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The family laughing together, despite the chaos theyve caused.
 ================================================================ X ================================================================
 10. Category Name: Sports
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Soccer Stars:
-    1. First Image: A high-energy soccer match with the protagonist's team on the field.
+    1. First Image: A high-energy soccer match with the protagonists team on the field.
     2. Second Image: Transition From The First Image, The protagonist making a brilliant play, showcasing their skills.
     3. Third Image: Transition From The Second Image, The team facing a tough opponent, with dramatic tension.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist scoring the winning goal, with the team celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Basketball Dreams:
     1. First Image: The protagonist practicing alone in an empty gym.
     2. Second Image: Transition From The First Image, The protagonist joining their team for a crucial game.
@@ -187,14 +187,14 @@ Title: Basketball Dreams:
 ================================================================ X ================================================================
 11. Category Name: Mystery
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Detective Chronicles:
     1. First Image: The protagonist, a detective, standing in a dimly lit office filled with clues.
     2. Second Image: Transition From The First Image, The detective investigating a crime scene, gathering evidence.
     3. Third Image: Transition From The Second Image, A dramatic reveal of a key clue, with tension building.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The detective solving the case, with the culprit apprehended.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enigmatic Puzzles:
     1. First Image: The protagonist discovering an ancient puzzle box in a dusty attic.
     2. Second Image: Transition From The First Image, The protagonist deciphering the puzzle, with mysterious symbols glowing.
@@ -203,30 +203,30 @@ Title: Enigmatic Puzzles:
 ================================================================ X ================================================================
 12. Category Name: Mecha
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Robot Warriors:
     1. First Image: A towering mecha standing ready for battle, with the protagonist inside the cockpit.
     2. Second Image: Transition From The First Image, The mecha engaging in a high-stakes battle against a formidable enemy.
     3. Third Image: Transition From The Second Image, The protagonist struggling but finding a way to turn the tide of the battle.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mecha standing victorious, with the enemy defeated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Giant Robots:
     1. First Image: A cityscape with giant robots patrolling, maintaining peace.
     2. Second Image: Transition From The First Image, The protagonist piloting their robot, facing an unexpected threat.
     3. Third Image: Transition From The Second Image, An intense battle with dramatic explosions and mechanical movements.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist's robot emerging victorious, with the city safe once more.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonists robot emerging victorious, with the city safe once more.
 ================================================================ X ================================================================
 13. Category Name: Post-Apocalyptic
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Survivors' Saga:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Survivors Saga:
     1. First Image: A desolate wasteland with the protagonist scavenging for supplies.
     2. Second Image: Transition From The First Image, The protagonist encountering a group of survivors, forming an alliance.
     3. Third Image: Transition From The Second Image, A battle with hostile forces, showing the struggle for survival.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The survivors finding a safe haven, with hope for the future.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ruined Earth:
     1. First Image: A ruined city with the protagonist navigating through collapsed buildings.
     2. Second Image: Transition From The First Image, The protagonist discovering remnants of the old world, filled with memories.
@@ -235,14 +235,14 @@ Title: Ruined Earth:
 ================================================================ X ================================================================
 14. Category Name: Magical Girl
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moonlit Warriors:
     1. First Image: The protagonist transforming into a magical girl under the moonlight.
     2. Second Image: Transition From The First Image, The magical girl battling dark forces, using powerful spells.
     3. Third Image: Transition From The Second Image, The magical girl facing a powerful enemy, with dramatic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The magical girl emerging victorious, with the night sky shining brightly.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Star Guardians:
     1. First Image: A group of magical girls posing heroically, with star-themed outfits.
     2. Second Image: Transition From The First Image, The team fighting against an otherworldly threat, showing their teamwork.
@@ -251,14 +251,14 @@ Title: Star Guardians:
 ================================================================ X ================================================================
 15. Category Name: Historical Fantasy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Warrior's Destiny:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Warriors Destiny:
     1. First Image: A historical battlefield with the protagonist preparing for battle.
     2. Second Image: Transition From The First Image, The protagonist wielding a magical weapon, facing a supernatural enemy.
     3. Third Image: Transition From The Second Image, The protagonist struggling but using their power to turn the tide.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with the battlefield at peace.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magic Kingdom:
     1. First Image: A grand castle with the protagonist, a royal mage, standing in front.
     2. Second Image: Transition From The First Image, The mage using their magic to protect the kingdom from invaders.
@@ -267,14 +267,14 @@ Title: Magic Kingdom:
 ================================================================ X ================================================================
 16. Category Name: Psychological Thriller
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mind Games:
     1. First Image: The protagonist trapped in a room filled with cryptic messages.
     2. Second Image: Transition From The First Image, The protagonist solving puzzles, with the atmosphere growing tenser.
     3. Third Image: Transition From The Second Image, A confrontation with a mysterious antagonist, revealing hidden truths.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist breaking free, but haunted by the experience.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dark Reflections:
     1. First Image: The protagonist looking at their reflection in a cracked mirror.
     2. Second Image: Transition From The First Image, The protagonist experiencing disturbing visions, with reality blurring.
@@ -283,14 +283,14 @@ Title: Dark Reflections:
 ================================================================ X ================================================================
 17. Category Name: Culinary
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cooking Showdown:
     1. First Image: The protagonist in a bustling kitchen, preparing for a cooking competition.
     2. Second Image: Transition From The First Image, Intense cooking scenes with dramatic food presentations and reactions.
-    3. Third Image: Transition From The Second Image, A tense moment as the judges taste the protagonist's dish.
+    3. Third Image: Transition From The Second Image, A tense moment as the judges taste the protagonists dish.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist winning the competition, with everyone celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Gourmet Journey:
     1. First Image: The protagonist traveling to different locations, discovering unique ingredients.
     2. Second Image: Transition From The First Image, The protagonist cooking a dish using the newly found ingredients.
@@ -299,14 +299,14 @@ Title: Gourmet Journey:
 ================================================================ X ================================================================
 18. Category Name: Time Travel
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Temporal Warriors:
     1. First Image: The protagonist discovering an ancient artifact that enables time travel.
     2. Second Image: Transition From The First Image, The protagonist traveling to different eras, encountering historical figures.
     3. Third Image: Transition From The Second Image, A battle across time with a time-traveling antagonist, showing dynamic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist returning to the present, with the artifact safely stored.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Chrono Adventures:
     1. First Image: The protagonist receiving a mysterious watch with time-traveling abilities.
     2. Second Image: Transition From The First Image, The protagonist exploring various historical periods, facing challenges.
@@ -315,46 +315,46 @@ Title: Chrono Adventures:
 ================================================================ X ================================================================
 19. Category Name: Paranormal
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ghost Hunters:
     1. First Image: The protagonist and their team entering a haunted mansion with ghost-detecting equipment.
     2. Second Image: Transition From The First Image, The team encountering eerie phenomena, with ghostly apparitions.
     3. Third Image: Transition From The Second Image, A dramatic moment where they communicate with a restless spirit.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The spirit finding peace, and the mansion returning to normalcy.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Supernatural Investigators:
-    1. First Image: The protagonist's team in a mysterious forest, investigating paranormal activity.
+    1. First Image: The protagonists team in a mysterious forest, investigating paranormal activity.
     2. Second Image: Transition From The First Image, The team discovering ancient runes and encountering supernatural entities.
     3. Third Image: Transition From The Second Image, A tense moment where they face a powerful, malevolent spirit.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The team using their skills to banish the spirit, with the forest calming.
 ================================================================ X ================================================================
 20. Category Name: School Life
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Classroom Antics:
-    1. First Image: The protagonist's classroom with students engaged in various activities.
+    1. First Image: The protagonists classroom with students engaged in various activities.
     2. Second Image: Transition From The First Image, A series of humorous incidents, with exaggerated reactions and expressions.
     3. Third Image: Transition From The Second Image, A touching moment where the protagonist helps a friend with a problem.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The class celebrating a special event, with everyone smiling.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: After-School Club:
     1. First Image: The protagonist joining a school club, meeting new friends.
     2. Second Image: Transition From The First Image, The club participating in various activities, showing teamwork and camaraderie.
-    3. Third Image: Transition From The Second Image, A challenge arises, testing the club's unity and resolve.
+    3. Third Image: Transition From The Second Image, A challenge arises, testing the clubs unity and resolve.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The club overcoming the challenge, celebrating their success together.
 ================================================================ X ================================================================
 21. Category Name: Fantasy Romance
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enchanted Love:
     1. First Image: The protagonist meeting a mysterious, magical being in an enchanted forest.
     2. Second Image: Transition From The First Image, The two sharing romantic moments, with magical elements enhancing the scene.
     3. Third Image: Transition From The Second Image, A conflict where they must prove their love against all odds.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The couple triumphing, with their love shining brightly in the enchanted setting.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magical Courtship:
     1. First Image: The protagonist, a noble, encountering a charming magician at a royal ball.
     2. Second Image: Transition From The First Image, The two sharing enchanting dances and secret conversations.
@@ -363,14 +363,14 @@ Title: Magical Courtship:
 ================================================================ X ================================================================
 22. Category Name: Espionage
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spy Game:
     1. First Image: The protagonist, a secret agent, receiving a covert mission in a high-tech briefing room.
     2. Second Image: Transition From The First Image, The protagonist infiltrating an enemy base, using gadgets and stealth.
     3. Third Image: Transition From The Second Image, A thrilling escape sequence, with the protagonist evading capture.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist completing the mission, with a sense of accomplishment.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Double Agent:
     1. First Image: The protagonist living a double life, blending in as a civilian.
     2. Second Image: Transition From The First Image, The protagonist gathering crucial intel, with tense, secretive meetings.
@@ -379,14 +379,14 @@ Title: Double Agent:
 ================================================================ X ================================================================
 23. Category Name: Martial Arts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fist of Fury:
     1. First Image: The protagonist training in a traditional dojo, surrounded by martial arts masters.
     2. Second Image: Transition From The First Image, A dynamic martial arts tournament, with the protagonist showcasing their skills.
     3. Third Image: Transition From The Second Image, A fierce battle with a rival, with dramatic, high-energy movements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with their master’s approval.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Silent Warrior:
     1. First Image: The protagonist meditating in a serene, mountainous setting.
     2. Second Image: Transition From The First Image, The protagonist using their martial arts skills to defend a village from bandits.
@@ -395,14 +395,14 @@ Title: Silent Warrior:
 ================================================================ X ================================================================
 24. Category Name: High Fantasy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dragon Quest:
     1. First Image: The protagonist setting out on a journey, with a map and a magical sword.
     2. Second Image: Transition From The First Image, The protagonist encountering a dragon, showing a fierce battle.
     3. Third Image: Transition From The Second Image, The protagonist forming an alliance with the dragon, with majestic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and dragon flying together, looking over a vast kingdom.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Elven Forest:
     1. First Image: The protagonist entering an ancient elven forest, filled with magical creatures.
     2. Second Image: Transition From The First Image, The protagonist befriending an elven warrior, showing a growing bond.
@@ -411,14 +411,14 @@ Title: Elven Forest:
 ================================================================ X ================================================================
 25. Category Name: Steampunk
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Clockwork City:
     1. First Image: The protagonist navigating through a bustling, steam-powered city.
     2. Second Image: Transition From The First Image, The protagonist working on intricate mechanical devices in a workshop.
     3. Third Image: Transition From The Second Image, A thrilling chase on steam-powered vehicles, with dramatic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist solving a city-wide crisis, with the citizens cheering.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mechanical Heart:
     1. First Image: The protagonist discovering a mysterious, clockwork heart in an old library.
     2. Second Image: Transition From The First Image, The protagonist learning about the heart’s secrets, with complex machinery.
@@ -427,14 +427,14 @@ Title: Mechanical Heart:
 ================================================================ X ================================================================
 26. Category Name: Virtual Reality
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Game World:
     1. First Image: The protagonist logging into a hyper-realistic virtual reality game.
     2. Second Image: Transition From The First Image, The protagonist forming a team and embarking on quests, showing dynamic gameplay.
     3. Third Image: Transition From The Second Image, A dramatic boss battle with intense visual effects.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist’s team standing victorious, with their avatars glowing.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Adventure:
     1. First Image: The protagonist exploring a futuristic digital landscape, filled with neon lights.
     2. Second Image: Transition From The First Image, The protagonist encountering digital creatures, showing friendly interactions.
@@ -443,14 +443,14 @@ Title: Digital Adventure:
 ================================================================ X ================================================================
 27. Category Name: Isekai (Another World)
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Transported Hero:
     1. First Image: The protagonist being transported from the modern world to a magical realm.
     2. Second Image: Transition From The First Image, The protagonist discovering their new abilities and allies.
     3. Third Image: Transition From The Second Image, A battle to save the realm from a great evil, showing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with the realm celebrating their heroism.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: New Beginnings:
     1. First Image: The protagonist waking up in a fantastical world, surrounded by strange creatures.
     2. Second Image: Transition From The First Image, The protagonist learning the ways of the new world, with the help of friends.
@@ -459,14 +459,14 @@ Title: New Beginnings:
 ================================================================ X ================================================================
 28. Category Name: Underwater Adventure
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Oceanic Quest:
     1. First Image: The protagonist diving into a vibrant underwater world, filled with marine life.
     2. Second Image: Transition From The First Image, The protagonist exploring ancient underwater ruins, discovering secrets.
     3. Third Image: Transition From The Second Image, A battle with sea monsters, showing dynamic underwater action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a treasure, with marine life celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mermaid Tale:
     1. First Image: The protagonist encountering a mermaid in a sparkling underwater cave.
     2. Second Image: Transition From The First Image, The mermaid showing the protagonist around the underwater kingdom.
@@ -475,14 +475,14 @@ Title: Mermaid Tale:
 ================================================================ X ================================================================
 29. Category Name: Alien Invasion
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Earth Defenders:
     1. First Image: The protagonist witnessing alien ships descending on Earth.
     2. Second Image: Transition From The First Image, The protagonist joining a resistance group, preparing for battle.
     3. Third Image: Transition From The Second Image, A fierce battle against alien forces, with high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The resistance standing victorious, with the aliens retreating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cosmic Alliance:
     1. First Image: The protagonist forming an alliance with friendly aliens to save Earth.
     2. Second Image: Transition From The First Image, The team planning their strategy in a high-tech alien spaceship.
@@ -491,14 +491,14 @@ Title: Cosmic Alliance:
 ================================================================ X ================================================================
 30. Category Name: Superhero
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Masked Vigilante:
     1. First Image: The protagonist donning their superhero costume, ready for action.
     2. Second Image: Transition From The First Image, The hero stopping a crime in progress, showing dynamic movements.
     3. Third Image: Transition From The Second Image, A confrontation with a powerful villain, showcasing dramatic visuals.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hero standing triumphant, with the city safe once more.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Heroic Team:
     1. First Image: The protagonist and their team of superheroes, posing heroically.
     2. Second Image: Transition From The First Image, The team working together to thwart a massive threat.
@@ -507,30 +507,30 @@ Title: Heroic Team:
 ================================================================ X ================================================================
 31. Category Name: Cyberpunk
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Streets:
     1. First Image: The protagonist walking through a neon-lit, futuristic cityscape.
     2. Second Image: Transition From The First Image, The protagonist hacking into a high-security facility, showcasing advanced tech.
     3. Third Image: Transition From The Second Image, A thrilling chase through the city’s streets, with cybernetic enemies in pursuit.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist succeeding in their mission, with the city skyline in the background.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Revolution:
     1. First Image: The protagonist meeting with a group of rebels in a hidden base.
     2. Second Image: Transition From The First Image, The rebels planning their next move against a corrupt corporation.
     3. Third Image: Transition From The Second Image, A high-stakes infiltration mission, showcasing intense action and tech.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the corporation's downfall.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the corporations downfall.
 ================================================================ X ================================================================
 32. Category Name: Historical Romance
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Forbidden Love:
     1. First Image: The protagonist, a noble, secretly meeting their love in a hidden garden.
     2. Second Image: Transition From The First Image, The couple sharing romantic moments, despite societal pressures.
     3. Third Image: Transition From The Second Image, A dramatic scene where they must part ways due to their circumstances.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The couple reuniting against all odds, with the garden in full bloom.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Timeless Love:
     1. First Image: The protagonist meeting a mysterious traveler in a historical setting.
     2. Second Image: Transition From The First Image, The two sharing adventures and growing closer.
@@ -539,14 +539,14 @@ Title: Timeless Love:
 ================================================================ X ================================================================
 33. Category Name: Space Opera
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic War:
     1. First Image: The protagonist, a space captain, standing on the bridge of their starship.
     2. Second Image: Transition From The First Image, The starship engaged in a massive space battle, with laser blasts and explosions.
     3. Third Image: Transition From The Second Image, The captain making a daring maneuver, turning the tide of the battle.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The starship victorious, with the crew celebrating their success.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Stellar Odyssey:
     1. First Image: The protagonist exploring an uncharted planet with a diverse crew.
     2. Second Image: Transition From The First Image, The crew encountering alien civilizations, showcasing rich visuals.
@@ -555,15 +555,15 @@ Title: Stellar Odyssey:
 ================================================================ X ================================================================
 34. Category Name: Gothic Horror
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dark Manor:
     1. First Image: The protagonist arriving at a foreboding, old manor under a stormy sky.
     2. Second Image: Transition From The First Image, The protagonist exploring the manor, encountering eerie phenomena.
     3. Third Image: Transition From The Second Image, A terrifying encounter with a malevolent spirit, showing intense fear.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist escaping the manor, but haunted by their experience.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Vampire's Lair:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Vampires Lair:
     1. First Image: The protagonist discovering a hidden, gothic castle in a dark forest.
     2. Second Image: Transition From The First Image, The protagonist encountering a vampire, showcasing dark elegance.
     3. Third Image: Transition From The Second Image, A battle for survival against the vampire, with dramatic visuals.
@@ -571,14 +571,14 @@ Title: Vampire's Lair:
 ================================================================ X ================================================================
 35. Category Name: Wilderness Survival
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Deserted Island:
     1. First Image: The protagonist washing up on a deserted island, surrounded by wreckage.
     2. Second Image: Transition From The First Image, The protagonist building shelter and finding food, showcasing survival skills.
     3. Third Image: Transition From The Second Image, A dramatic moment where the protagonist faces a dangerous predator.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist signaling for rescue, with a sense of hope.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mountain Survival:
     1. First Image: The protagonist stranded in a snowy mountain range, with harsh conditions.
     2. Second Image: Transition From The First Image, The protagonist finding shelter and starting a fire, showing resilience.
@@ -587,46 +587,46 @@ Title: Mountain Survival:
 ================================================================ X ================================================================
 36. Category Name: Detective Noir
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: City Shadows:
     1. First Image: The protagonist, a detective, walking through a rain-soaked city street at night.
     2. Second Image: Transition From The First Image, The detective investigating a crime scene, with dark, moody lighting.
     3. Third Image: Transition From The Second Image, A tense confrontation with a mysterious figure, showing dramatic tension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective solving the case, with the city's skyline in the background.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective solving the case, with the citys skyline in the background.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Underworld Secrets:
     1. First Image: The protagonist delving into the criminal underworld, with gritty visuals.
     2. Second Image: Transition From The First Image, The detective gathering clues in a smoky jazz club.
     3. Third Image: Transition From The Second Image, A high-stakes encounter with a crime boss, showcasing intense action.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective exposing the criminal network, with the city's light returning.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective exposing the criminal network, with the citys light returning.
 ================================================================ X ================================================================
 37. Category Name: Dystopian Future
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Rebel Uprising:
     1. First Image: The protagonist standing in a bleak, dystopian cityscape, with oppressive structures.
     2. Second Image: Transition From The First Image, The protagonist joining a rebel group, planning their next move.
-    3. Third Image: Transition From The Second Image, A dramatic conflict with the regime's forces, showcasing high-energy action.
+    3. Third Image: Transition From The Second Image, A dramatic conflict with the regimes forces, showcasing high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the city starting to recover.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Techno Tyranny:
     1. First Image: The protagonist navigating through a high-tech, authoritarian city.
-    2. Second Image: Transition From The First Image, The protagonist hacking into the regime's systems, showing advanced tech skills.
+    2. Second Image: Transition From The First Image, The protagonist hacking into the regimes systems, showing advanced tech skills.
     3. Third Image: Transition From The Second Image, A thrilling chase with drones and security forces, with intense visuals.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist dismantling the regime's control, with the city liberated.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist dismantling the regimes control, with the city liberated.
 ================================================================ X ================================================================
 38. Category Name: Pirate Adventure
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Treasure Hunt:
     1. First Image: The protagonist and their pirate crew setting sail on a grand ship.
     2. Second Image: Transition From The First Image, The crew discovering an ancient map, leading to hidden treasure.
     3. Third Image: Transition From The Second Image, A fierce naval battle with rival pirates, showcasing dynamic action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The crew finding the treasure, with the island sunset in the background.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: High Seas:
     1. First Image: The protagonist navigating through a stormy sea, with dramatic waves.
     2. Second Image: Transition From The First Image, The crew encountering a sea monster, showing intense battle scenes.
@@ -635,15 +635,15 @@ Title: High Seas:
 ================================================================ X ================================================================
 39. Category Name: Western
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Outlaw's Tale:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Outlaws Tale:
     1. First Image: The protagonist, an outlaw, riding through a dusty frontier town.
     2. Second Image: Transition From The First Image, The outlaw planning a heist with their gang, showing tense preparations.
     3. Third Image: Transition From The Second Image, A dramatic shootout with lawmen, showcasing intense western action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist escaping, with the town behind them and the open plains ahead.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Sheriff's Justice:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Sheriffs Justice:
     1. First Image: The protagonist, a sheriff, patrolling a wild west town.
     2. Second Image: Transition From The First Image, The sheriff facing off against a notorious gang, showing intense standoffs.
     3. Third Image: Transition From The Second Image, A climactic showdown at high noon, with dramatic visuals.
@@ -651,14 +651,14 @@ Title: Sheriff's Justice:
 ================================================================ X ================================================================
 40. Category Name: High School Drama
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Class Rivalry:
     1. First Image: The protagonist facing their rival in a competitive high school setting.
     2. Second Image: Transition From The First Image, Intense moments of competition, showcasing various school activities.
     3. Third Image: Transition From The Second Image, A turning point where the rivals must work together, showing personal growth.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rivalry turning into friendship, with the school year ending on a high note.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Secret Crush:
     1. First Image: The protagonist secretly admiring their crush from afar in a school hallway.
     2. Second Image: Transition From The First Image, Moments of awkward interactions and heartfelt confessions.
@@ -667,14 +667,14 @@ Title: Secret Crush:
 ================================================================ X ================================================================
 41. Category Name: Sports Competition
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Track and Field:
     1. First Image: The protagonist preparing for a big track meet, showing their determination.
     2. Second Image: Transition From The First Image, The protagonist competing, with intense focus and athleticism.
     3. Third Image: Transition From The Second Image, A dramatic moment of overcoming obstacles and pushing limits.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist winning the race, with the crowd cheering.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Martial Arts Tournament:
     1. First Image: The protagonist entering a martial arts arena, ready for competition.
     2. Second Image: Transition From The First Image, Intense bouts with various opponents, showcasing martial arts skills.
@@ -683,46 +683,46 @@ Title: Martial Arts Tournament:
 ================================================================ X ================================================================
 42. Category Name: Supernatural Romance
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Vampire Love:
     1. First Image: The protagonist meeting a charming vampire under a moonlit sky.
     2. Second Image: Transition From The First Image, Romantic moments between the two, with a supernatural atmosphere.
     3. Third Image: Transition From The Second Image, A conflict where their love is tested by supernatural forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The couple overcoming the odds, with their love shining brightly.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ghostly Love:
     1. First Image: The protagonist encountering a mysterious ghost in an old mansion.
     2. Second Image: Transition From The First Image, The ghost and protagonist sharing romantic moments, bridging the supernatural divide.
-    3. Third Image: Transition From The Second Image, A challenge that tests their love, involving the ghost's past.
+    3. Third Image: Transition From The Second Image, A challenge that tests their love, involving the ghosts past.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ghost finding peace, with the protagonist cherishing their memories.
 ================================================================ X ================================================================
 43. Category Name: Mythical Beasts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dragon Rider:
     1. First Image: The protagonist bonding with a majestic dragon in a mystical landscape.
     2. Second Image: Transition From The First Image, The protagonist and dragon facing various challenges together.
     3. Third Image: Transition From The Second Image, A battle against dark forces threatening their world, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and dragon standing victorious, with their bond stronger than ever.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Griffin's Call:
-    1. First Image: The protagonist discovering a griffin's nest in a hidden valley.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Griffins Call:
+    1. First Image: The protagonist discovering a griffins nest in a hidden valley.
     2. Second Image: Transition From The First Image, The protagonist training with the griffin, showing their growing partnership.
     3. Third Image: Transition From The Second Image, A dramatic battle against poachers threatening the griffins.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and griffin protecting their home, with a sense of harmony.
 ================================================================ X ================================================================
 44. Category Name: Fairy Tale
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enchanted Forest:
     1. First Image: The protagonist entering a magical forest, filled with mythical creatures.
     2. Second Image: Transition From The First Image, The protagonist befriending a fairy, showing whimsical interactions.
     3. Third Image: Transition From The Second Image, A conflict with a dark sorcerer threatening the forest.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest restored, with the protagonist honored by the magical inhabitants.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Royal Quest:
     1. First Image: The protagonist, a prince/princess, setting out on a quest to save their kingdom.
     2. Second Image: Transition From The First Image, The protagonist facing various magical challenges and trials.
@@ -731,14 +731,14 @@ Title: Royal Quest:
 ================================================================ X ================================================================
 45. Category Name: Dark Fantasy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cursed Kingdom:
     1. First Image: The protagonist standing before a dark, cursed kingdom.
     2. Second Image: Transition From The First Image, The protagonist battling against dark creatures, showcasing intense action.
     3. Third Image: Transition From The Second Image, A confrontation with the dark sorcerer ruling the kingdom.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The kingdom freed from the curse, with the protagonist hailed as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Shadow Realm:
     1. First Image: The protagonist entering a foreboding realm of shadows and darkness.
     2. Second Image: Transition From The First Image, The protagonist facing off against shadow creatures, showing fierce combat.
@@ -747,14 +747,14 @@ Title: Shadow Realm:
 ================================================================ X ================================================================
 46. Category Name: Espionage Action
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Undercover Agent:
     1. First Image: The protagonist infiltrating a high-security facility, with tension and stealth.
     2. Second Image: Transition From The First Image, Gathering crucial intelligence, showcasing spy gadgets and skills.
     3. Third Image: Transition From The Second Image, A dramatic escape, with guards in pursuit and high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist delivering the intel, with the mission successfully completed.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Covert Ops:
     1. First Image: The protagonist receiving a covert mission briefing, showing high-tech equipment.
     2. Second Image: Transition From The First Image, Infiltrating an enemy base, with intense stealth and strategy.
@@ -763,14 +763,14 @@ Title: Covert Ops:
 ================================================================ X ================================================================
 47. Category Name: Paranormal Investigation
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Haunted House:
     1. First Image: The protagonist entering a spooky, abandoned mansion at night.
     2. Second Image: Transition From The First Image, Encountering eerie phenomena, with ghostly apparitions and sounds.
     3. Third Image: Transition From The Second Image, A confrontation with a malevolent spirit, showing fear and tension.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The spirit finding peace, with the mansion returning to normalcy.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Urban Legends:
     1. First Image: The protagonist investigating a rumored haunted site in the city.
     2. Second Image: Transition From The First Image, Gathering clues and experiencing strange occurrences.
@@ -779,31 +779,31 @@ Title: Urban Legends:
 ================================================================ X ================================================================
 48. Category Name: Cosmic Horror
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eldritch Encounter:
     1. First Image: The protagonist discovering an ancient, forbidden book in a dark library.
     2. Second Image: Transition From The First Image, The protagonist experiencing visions of cosmic horrors, with intense fear.
     3. Third Image: Transition From The Second Image, A battle against eldritch beings, showcasing desperate survival.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist sealing away the horrors, but forever changed by the experience.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Alien Terror:
-    1. First Image: The protagonist's spaceship encountering a mysterious, abandoned vessel.
+    1. First Image: The protagonists spaceship encountering a mysterious, abandoned vessel.
     2. Second Image: Transition From The First Image, The crew exploring the vessel, finding signs of alien life.
     3. Third Image: Transition From The Second Image, A terrifying encounter with a hostile alien entity, showing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist narrowly escaping, with the alien threat contained.
 ================================================================ X ================================================================
 49. Category Name: Apocalyptic Survival
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Last Stand:
     1. First Image: The protagonist standing in a desolate, post-apocalyptic wasteland.
     2. Second Image: Transition From The First Image, The protagonist scavenging for resources, showcasing survival skills.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with hostile survivors, showing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a safe haven, with hope for the future.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Survivor's Hope:
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Title: Survivors Hope:
     1. First Image: The protagonist leading a group of survivors through a ruined city.
     2. Second Image: Transition From The First Image, The group facing various challenges, showcasing their resilience.
     3. Third Image: Transition From The Second Image, A battle against a dangerous faction, showing high-stakes action.
@@ -811,14 +811,14 @@ Title: Survivor's Hope:
 ================================================================ X ================================================================
 50. Category Name: Urban Fantasy
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hidden Magic:
     1. First Image: The protagonist discovering a hidden magical society within a modern city.
-    2. Second Image: Transition From The First Image, The protagonist learning about the magical world's secrets, with mystical visuals.
+    2. Second Image: Transition From The First Image, The protagonist learning about the magical worlds secrets, with mystical visuals.
     3. Third Image: Transition From The Second Image, A conflict with dark forces threatening the city, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The magical society and city coexisting peacefully, with the protagonist as a bridge between worlds.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Anime' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Anime art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: City of Spells:
     1. First Image: The protagonist navigating through a city filled with magical beings and elements.
     2. Second Image: Transition From The First Image, The protagonist forming alliances with various magical factions.

@@ -1,6 +1,6 @@
 ================================================================ X ================================================================
 Prompt 1:
-Give Me 50 Categories With 'Fantasy' Design Style. Response Example:
+Give Me 50 Categories With Fantasy Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
         1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
@@ -29,30 +29,30 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Magical Forests
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enchanted Grove:
     1. First Image: The protagonist discovering a hidden grove filled with glowing plants and mystical creatures.
     2. Second Image: Transition From The First Image, The protagonist encountering a wise, ancient tree that speaks of old legends.
     3. Third Image: Transition From The Second Image, The protagonist facing a dark force threatening the grove, showcasing a magical battle.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The grove returning to its serene state, with the protagonist honored by the forest spirits.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fairy Realm:
     1. First Image: The protagonist stumbling upon a realm of fairies, with tiny, glowing beings flying around.
-    2. Second Image: Transition From The First Image, The protagonist learning the fairies' customs and magic.
+    2. Second Image: Transition From The First Image, The protagonist learning the fairies customs and magic.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist helps the fairies fend off a threat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The fairies celebrating their victory with a grand festival.
 ================================================================ X ================================================================
 2. Category Name: Dragon Adventures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dragon’s Lair:
     1. First Image: The protagonist standing at the entrance of a massive, ancient cave.
     2. Second Image: Transition From The First Image, The protagonist encountering a mighty dragon, with a tense standoff.
     3. Third Image: Transition From The Second Image, The protagonist and dragon forming an alliance, facing a common enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist riding the dragon, soaring above the mountains.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sky Riders:
     1. First Image: The protagonist being chosen by a dragon to become a rider.
     2. Second Image: Transition From The First Image, The protagonist training with the dragon, learning to fly and fight.
@@ -61,14 +61,14 @@ Title: Sky Riders:
 ================================================================ X ================================================================
 3. Category Name: Epic Quests
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hero’s Journey:
     1. First Image: The protagonist setting out from a humble village, equipped for a grand adventure.
     2. Second Image: Transition From The First Image, The protagonist facing various trials and making allies along the way.
     3. Third Image: Transition From The Second Image, A climactic battle against a dark sorcerer, showcasing intense magical combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist returning home as a celebrated hero, with the village in awe.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sacred Relic:
     1. First Image: The protagonist discovering an ancient map leading to a powerful relic.
     2. Second Image: Transition From The First Image, The protagonist traveling through diverse and dangerous landscapes.
@@ -77,14 +77,14 @@ Title: Sacred Relic:
 ================================================================ X ================================================================
 4. Category Name: Kingdom Conflicts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Royal Betrayal:
     1. First Image: The protagonist discovering a plot to overthrow the king in a grand castle.
     2. Second Image: Transition From The First Image, The protagonist gathering allies and uncovering secrets within the court.
     3. Third Image: Transition From The Second Image, A dramatic showdown with the traitors, showcasing intense combat and intrigue.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist being honored by the king, with peace restored to the kingdom.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Siege of the Castle:
     1. First Image: The protagonist preparing for an imminent siege, standing atop the castle walls.
     2. Second Image: Transition From The First Image, The protagonist leading the defense against invading forces, showcasing strategic battles.
@@ -93,14 +93,14 @@ Title: Siege of the Castle:
 ================================================================ X ================================================================
 5. Category Name: Mythical Creatures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Unicorn Valley:
     1. First Image: The protagonist entering a hidden valley filled with majestic unicorns.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of a unicorn and learning about their magic.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist helps protect the valley from intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The valley flourishing with the unicorns, and the protagonist leaving with a blessed token.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Phoenix Rebirth:
     1. First Image: The protagonist discovering a sacred phoenix nest in an ancient temple.
     2. Second Image: Transition From The First Image, The protagonist witnessing the rebirth of the phoenix, engulfed in flames.
@@ -109,14 +109,14 @@ Title: Phoenix Rebirth:
 ================================================================ X ================================================================
 6. Category Name: Dark Magic
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cursed Forest:
     1. First Image: The protagonist entering a dark, cursed forest, with twisted trees and eerie shadows.
     2. Second Image: Transition From The First Image, The protagonist encountering malevolent spirits and overcoming them with light magic.
     3. Third Image: Transition From The Second Image, A confrontation with a powerful dark sorcerer deep within the forest.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest returning to its natural state, with the protagonist lifting the curse.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Haunted Manor:
     1. First Image: The protagonist arriving at a foreboding, abandoned manor on a stormy night.
     2. Second Image: Transition From The First Image, The protagonist exploring the manor, encountering restless spirits.
@@ -125,14 +125,14 @@ Title: Haunted Manor:
 ================================================================ X ================================================================
 7. Category Name: Elemental Forces
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fire and Ice:
     1. First Image: The protagonist discovering a realm divided between fiery landscapes and icy tundras.
     2. Second Image: Transition From The First Image, The protagonist gaining elemental powers and training with ancient guardians.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must balance fire and ice to defeat a common enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm harmonized, with the protagonist recognized as a master of elements.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Storm Chasers:
     1. First Image: The protagonist embarking on a quest to tame wild storms plaguing the land.
     2. Second Image: Transition From The First Image, The protagonist battling elemental creatures, showcasing their command over weather.
@@ -141,14 +141,14 @@ Title: Storm Chasers:
 ================================================================ X ================================================================
 8. Category Name: Ancient Ruins
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lost City:
     1. First Image: The protagonist discovering the entrance to an ancient, forgotten city buried in the jungle.
     2. Second Image: Transition From The First Image, The protagonist exploring the city’s ruins, uncovering long-lost secrets and treasures.
-    3. Third Image: Transition From The Second Image, A conflict with ancient guardians protecting the city's secrets.
+    3. Third Image: Transition From The Second Image, A conflict with ancient guardians protecting the citys secrets.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving the city with newfound knowledge and artifacts.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Temple of the Sun:
     1. First Image: The protagonist approaching a majestic, sunlit temple atop a mountain.
     2. Second Image: Transition From The First Image, The protagonist solving ancient puzzles and overcoming traps within the temple.
@@ -157,14 +157,14 @@ Title: Temple of the Sun:
 ================================================================ X ================================================================
 9. Category Name: Underwater Realms
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mermaid Kingdom:
     1. First Image: The protagonist diving into an underwater realm, surrounded by mermaids and sea creatures.
     2. Second Image: Transition From The First Image, The protagonist exploring the mermaid kingdom and learning their customs.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist helps defend the kingdom from invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The kingdom celebrating their victory, with the protagonist leaving with a mermaid’s blessing.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sunken Treasure:
     1. First Image: The protagonist discovering a sunken shipwreck filled with treasures.
     2. Second Image: Transition From The First Image, The protagonist exploring the wreck and facing underwater challenges.
@@ -173,14 +173,14 @@ Title: Sunken Treasure:
 ================================================================ X ================================================================
 10. Category Name: Time Travel
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Temporal Quest:
     1. First Image: The protagonist discovering a magical artifact that allows them to travel through time.
     2. Second Image: Transition From The First Image, The protagonist visiting different eras, each with its unique challenges.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must correct a timeline disrupted by a malevolent force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The timeline restored, with the protagonist returning to their own time with newfound wisdom.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eternal Moment:
     1. First Image: The protagonist encountering a mysterious figure who offers them the power to stop time.
     2. Second Image: Transition From The First Image, The protagonist exploring frozen moments and learning about the consequences of their power.
@@ -189,14 +189,14 @@ Title: Eternal Moment:
 ================================================================ X ================================================================
 11. Category Name: Celestial Beings
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Star Guardians:
     1. First Image: The protagonist meeting celestial beings in a starry, cosmic landscape.
     2. Second Image: Transition From The First Image, The protagonist training with the star guardians, learning celestial magic.
     3. Third Image: Transition From The Second Image, A battle against dark cosmic forces threatening the universe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and star guardians celebrating their victory, with the stars shining brightly.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moonlit Path:
     1. First Image: The protagonist embarking on a journey guided by the light of the full moon.
     2. Second Image: Transition From The First Image, The protagonist encountering moon spirits and learning lunar magic.
@@ -205,14 +205,14 @@ Title: Moonlit Path:
 ================================================================ X ================================================================
 12. Category Name: Magical Schools
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Wizard Academy:
     1. First Image: The protagonist entering a grand academy filled with aspiring wizards and magical creatures.
     2. Second Image: Transition From The First Image, The protagonist attending classes and learning powerful spells.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist and their friends must defend the academy from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The academy safe, with the protagonist recognized as a top student.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enchanted University:
     1. First Image: The protagonist enrolling in an enchanted university, with mystical buildings and libraries.
     2. Second Image: Transition From The First Image, The protagonist forming bonds with other students and mastering complex magic.
@@ -221,14 +221,14 @@ Title: Enchanted University:
 ================================================================ X ================================================================
 13. Category Name: Elemental Guardians
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fire Guardian:
     1. First Image: The protagonist discovering a hidden temple dedicated to the fire element.
     2. Second Image: Transition From The First Image, The protagonist mastering fire magic under the guidance of a fire guardian.
     3. Third Image: Transition From The Second Image, A battle against dark forces threatening to extinguish the flames of the temple.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The flames burning bright, with the protagonist becoming the new fire guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Water Guardian:
     1. First Image: The protagonist finding a serene lake with a hidden underwater temple.
     2. Second Image: Transition From The First Image, The protagonist learning water magic from an ancient water guardian.
@@ -237,14 +237,14 @@ Title: Water Guardian:
 ================================================================ X ================================================================
 14. Category Name: Enchanted Objects
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magic Sword:
     1. First Image: The protagonist discovering an ancient, enchanted sword in a forgotten cave.
     2. Second Image: Transition From The First Image, The protagonist learning the history and powers of the sword.
     3. Third Image: Transition From The Second Image, A battle where the protagonist uses the sword to defeat a powerful enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The sword glowing with power, with the protagonist becoming a legendary hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Amulet:
     1. First Image: The protagonist finding a mysterious amulet in an old, dusty library.
     2. Second Image: Transition From The First Image, The protagonist uncovering the amulet’s magical abilities and its connection to an ancient prophecy.
@@ -253,14 +253,14 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 15. Category Name: Royalty and Nobility
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Royal Heir:
     1. First Image: The protagonist discovering they are the lost heir to a powerful kingdom.
     2. Second Image: Transition From The First Image, The protagonist navigating the politics and intrigue of the royal court.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must defend their claim to the throne against usurpers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist crowned as the rightful ruler, with the kingdom celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Noble Quest:
     1. First Image: The protagonist, a young noble, embarking on a quest to prove their worth.
     2. Second Image: Transition From The First Image, The protagonist facing various challenges and making allies along the way.
@@ -269,14 +269,14 @@ Title: Noble Quest:
 ================================================================ X ================================================================
 16. Category Name: Enchanted Forests
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whispering Woods:
     1. First Image: The protagonist entering a mysterious forest where the trees seem to whisper secrets.
     2. Second Image: Transition From The First Image, The protagonist encountering magical creatures and learning about the forest’s enchantments.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the forest from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest flourishing, with the protagonist becoming a guardian of the woods.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Glade:
     1. First Image: The protagonist discovering a hidden glade filled with glowing flowers and mystical beings.
     2. Second Image: Transition From The First Image, The protagonist learning the ancient magic of the glade from its guardians.
@@ -285,14 +285,14 @@ Title: Mystic Glade:
 ================================================================ X ================================================================
 17. Category Name: Ancient Prophecies
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Chosen One:
     1. First Image: The protagonist discovering they are part of an ancient prophecy.
     2. Second Image: Transition From The First Image, The protagonist training to fulfill their destiny, learning from wise mentors.
     3. Third Image: Transition From The Second Image, A climactic battle where the protagonist must face a prophesied enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The prophecy fulfilled, with the protagonist celebrated as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sacred Scrolls:
     1. First Image: The protagonist finding ancient scrolls that speak of a coming darkness.
     2. Second Image: Transition From The First Image, The protagonist traveling to gather allies and prepare for the foretold battle.
@@ -301,14 +301,14 @@ Title: Sacred Scrolls:
 ================================================================ X ================================================================
 18. Category Name: Mystical Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ethereal Path:
     1. First Image: The protagonist embarking on a journey through a realm of ethereal beauty and magic.
     2. Second Image: Transition From The First Image, The protagonist facing challenges that test their courage and resolve.
     3. Third Image: Transition From The Second Image, A battle against dark forces seeking to corrupt the ethereal realm.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm restored to its glory, with the protagonist recognized as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Journey of Light:
     1. First Image: The protagonist setting out on a journey guided by a mysterious light.
     2. Second Image: Transition From The First Image, The protagonist encountering magical beings and learning powerful spells.
@@ -317,14 +317,14 @@ Title: Journey of Light:
 ================================================================ X ================================================================
 19. Category Name: Elemental Wars
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: War of Fire and Ice:
     1. First Image: The protagonist finding themselves in the middle of a war between fire and ice elemental factions.
     2. Second Image: Transition From The First Image, The protagonist allying with one faction and learning their magic.
     3. Third Image: Transition From The Second Image, A climactic battle where the protagonist must bring balance to the warring elements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The elements at peace, with the protagonist hailed as a hero by both factions.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Storm and Earth:
     1. First Image: The protagonist discovering a conflict between storm and earth elementals.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the earth elementals and learning their ways.
@@ -333,14 +333,14 @@ Title: Storm and Earth:
 ================================================================ X ================================================================
 20. Category Name: Enchanted Castles
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Fortress:
     1. First Image: The protagonist discovering an ancient, enchanted fortress hidden in the mountains.
     2. Second Image: Transition From The First Image, The protagonist exploring the fortress and unlocking its secrets.
     3. Third Image: Transition From The Second Image, A battle against dark forces seeking to claim the fortress’s power.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The fortress glowing with renewed magic, with the protagonist as its guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Castle of Shadows:
     1. First Image: The protagonist entering a dark, foreboding castle shrouded in mystery.
     2. Second Image: Transition From The First Image, The protagonist encountering shadowy beings and learning the castle’s dark history.
@@ -349,14 +349,14 @@ Title: Castle of Shadows:
 ================================================================ X ================================================================
 21. Category Name: Legendary Artifacts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sword of Legends:
     1. First Image: The protagonist discovering an ancient, legendary sword in a forgotten temple.
     2. Second Image: Transition From The First Image, The protagonist learning to wield the sword and uncovering its history.
     3. Third Image: Transition From The Second Image, A battle where the protagonist uses the sword to defeat a powerful enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The sword glowing with power, with the protagonist becoming a legendary hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Shield of Valor:
     1. First Image: The protagonist finding a mythical shield said to possess great power.
     2. Second Image: Transition From The First Image, The protagonist mastering the shield’s abilities and facing various trials.
@@ -365,14 +365,14 @@ Title: Shield of Valor:
 ================================================================ X ================================================================
 22. Category Name: Celestial Realms
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Realm of Stars:
     1. First Image: The protagonist discovering a portal to a realm filled with stars and celestial beings.
     2. Second Image: Transition From The First Image, The protagonist learning celestial magic and exploring the realm.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the realm from dark cosmic forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm safe, with the protagonist honored by celestial beings.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moonlit Realm:
     1. First Image: The protagonist entering a realm illuminated by the light of the full moon.
     2. Second Image: Transition From The First Image, The protagonist encountering moon spirits and learning lunar magic.
@@ -381,14 +381,14 @@ Title: Moonlit Realm:
 ================================================================ X ================================================================
 23. Category Name: Elemental Creatures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Phoenix Rebirth:
     1. First Image: The protagonist discovering a sacred phoenix nest in an ancient temple.
     2. Second Image: Transition From The First Image, The protagonist witnessing the rebirth of the phoenix, engulfed in flames.
     3. Third Image: Transition From The Second Image, A battle against dark forces trying to capture the phoenix, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The phoenix flying free, with the protagonist basking in its magical aura.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dragon’s Roar:
     1. First Image: The protagonist discovering an ancient dragon egg in a hidden cave.
     2. Second Image: Transition From The First Image, The protagonist raising the dragon and forming a strong bond.
@@ -397,14 +397,14 @@ Title: Dragon’s Roar:
 ================================================================ X ================================================================
 24. Category Name: Mythical Realms
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Land of Giants:
     1. First Image: The protagonist entering a realm inhabited by towering giants.
     2. Second Image: Transition From The First Image, The protagonist forming an alliance with the giants and learning their ways.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist and giants must defend their realm from invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm thriving, with the protagonist honored by the giants.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fairy Kingdom:
     1. First Image: The protagonist discovering a hidden fairy kingdom in an enchanted forest.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the fairies and learning their magic.
@@ -413,14 +413,14 @@ Title: Fairy Kingdom:
 ================================================================ X ================================================================
 25. Category Name: Legendary Beasts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Griffin’s Call:
     1. First Image: The protagonist discovering a griffin’s nest in a hidden valley.
     2. Second Image: Transition From The First Image, The protagonist training with the griffin, showing their growing partnership.
     3. Third Image: Transition From The Second Image, A dramatic battle against poachers threatening the griffins.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and griffin protecting their home, with a sense of harmony.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Chimera Hunt:
     1. First Image: The protagonist tracking a powerful chimera in a dark, ancient forest.
     2. Second Image: Transition From The First Image, The protagonist preparing traps and strategies to capture the chimera.
@@ -429,14 +429,14 @@ Title: Chimera Hunt:
 ================================================================ X ================================================================
 26. Category Name: Enchanted Items
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Crystal Ball:
     1. First Image: The protagonist discovering an ancient crystal ball in a forgotten temple.
     2. Second Image: Transition From The First Image, The protagonist learning to use the crystal ball to see visions of the future.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist uses the crystal ball to avert a great disaster.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The crystal ball glowing with power, with the protagonist revered as a seer.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magic Staff:
     1. First Image: The protagonist finding a mystical staff in an old wizard’s tower.
     2. Second Image: Transition From The First Image, The protagonist mastering the staff’s powerful spells.
@@ -445,14 +445,14 @@ Title: Magic Staff:
 ================================================================ X ================================================================
 27. Category Name: Legendary Heroes
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Warrior’s Legacy:
     1. First Image: The protagonist discovering they are the descendant of a legendary warrior.
     2. Second Image: Transition From The First Image, The protagonist training to live up to their ancestor’s legacy.
     3. Third Image: Transition From The Second Image, A climactic battle where the protagonist proves their worth in combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist celebrated as a new legend, with the kingdom honoring their name.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Champion’s Quest:
     1. First Image: The protagonist setting out on a quest to retrieve a legendary artifact.
     2. Second Image: Transition From The First Image, The protagonist facing various trials and challenges along the way.
@@ -461,14 +461,14 @@ Title: Champion’s Quest:
 ================================================================ X ================================================================
 28. Category Name: Ancient Spirits
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spirit of the Forest:
     1. First Image: The protagonist encountering an ancient spirit in a mystical forest.
     2. Second Image: Transition From The First Image, The protagonist learning the ways of the spirit and the secrets of the forest.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the spirit from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest thriving, with the protagonist honored as a guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ghostly Guardian:
     1. First Image: The protagonist encountering a ghostly guardian in an ancient ruin.
     2. Second Image: Transition From The First Image, The protagonist learning the guardian’s history and their unfinished task.
@@ -477,14 +477,14 @@ Title: Ghostly Guardian:
 ================================================================ X ================================================================
 29. Category Name: Hidden Villages
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Village:
     1. First Image: The protagonist discovering a hidden village protected by ancient magic.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the villagers and learning their ways.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the village from invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The village safe, with the protagonist becoming an honorary member.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Secret Sanctuary:
     1. First Image: The protagonist finding a secret sanctuary hidden deep within the mountains.
     2. Second Image: Transition From The First Image, The protagonist learning the sanctuary’s ancient secrets and its guardians.
@@ -493,14 +493,14 @@ Title: Secret Sanctuary:
 ================================================================ X ================================================================
 30. Category Name: Elemental Realms
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Realm of Fire:
     1. First Image: The protagonist entering a fiery realm filled with lava and fire creatures.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the fire beings and learning their magic.
     3. Third Image: Transition From The Second Image, A battle where the protagonist must protect the realm from invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm glowing with power, with the protagonist honored as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Realm of Water:
     1. First Image: The protagonist diving into a watery realm filled with aquatic creatures and magic.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the water beings and learning their ways.
@@ -509,14 +509,14 @@ Title: Realm of Water:
 ================================================================ X ================================================================
 31. Category Name: Legendary Cities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: City of Gold:
     1. First Image: The protagonist discovering a legendary city made entirely of gold.
     2. Second Image: Transition From The First Image, The protagonist exploring the city and uncovering its secrets.
     3. Third Image: Transition From The Second Image, A battle where the protagonist must protect the city from treasure hunters.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city thriving, with the protagonist honored as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Crystal City:
     1. First Image: The protagonist entering a city made of shimmering crystals.
     2. Second Image: Transition From The First Image, The protagonist learning the city’s ancient magic and its guardians.
@@ -525,14 +525,14 @@ Title: Crystal City:
 ================================================================ X ================================================================
 32. Category Name: Magical Portals
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Portal to Another World:
     1. First Image: The protagonist discovering a magical portal that leads to another world.
     2. Second Image: Transition From The First Image, The protagonist exploring the new world and its wonders.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the portal from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The portal safe, with the protagonist gaining the trust of both worlds.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Gateway to the Past:
     1. First Image: The protagonist finding a gateway that leads to a different time period.
     2. Second Image: Transition From The First Image, The protagonist exploring the past and learning its secrets.
@@ -541,14 +541,14 @@ Title: Gateway to the Past:
 ================================================================ X ================================================================
 33. Category Name: Enchanted Gardens
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Garden of Wonders:
     1. First Image: The protagonist discovering a magical garden filled with enchanted plants and creatures.
     2. Second Image: Transition From The First Image, The protagonist learning the secrets of the garden and its magic.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the garden from intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The garden flourishing, with the protagonist becoming its guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Orchard:
     1. First Image: The protagonist entering an orchard where the trees bear magical fruit.
     2. Second Image: Transition From The First Image, The protagonist learning the orchard’s ancient secrets and its caretakers.
@@ -557,14 +557,14 @@ Title: Mystic Orchard:
 ================================================================ X ================================================================
 34. Category Name: Celestial Beings
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Star Guardians:
     1. First Image: The protagonist meeting celestial beings in a starry, cosmic landscape.
     2. Second Image: Transition From The First Image, The protagonist training with the star guardians, learning celestial magic.
     3. Third Image: Transition From The Second Image, A battle against dark cosmic forces threatening the universe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and star guardians celebrating their victory, with the stars shining brightly.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moonlit Path:
     1. First Image: The protagonist embarking on a journey guided by the light of the full moon.
     2. Second Image: Transition From The First Image, The protagonist encountering moon spirits and learning lunar magic.
@@ -573,14 +573,14 @@ Title: Moonlit Path:
 ================================================================ X ================================================================
 35. Category Name: Elemental Guardians
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fire Guardian:
     1. First Image: The protagonist discovering a hidden temple dedicated to the fire element.
     2. Second Image: Transition From The First Image, The protagonist mastering fire magic under the guidance of a fire guardian.
     3. Third Image: Transition From The Second Image, A battle against dark forces threatening to extinguish the flames of the temple.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The flames burning bright, with the protagonist becoming the new fire guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Water Guardian:
     1. First Image: The protagonist finding a serene lake with a hidden underwater temple.
     2. Second Image: Transition From The First Image, The protagonist learning water magic from an ancient water guardian.
@@ -589,14 +589,14 @@ Title: Water Guardian:
 ================================================================ X ================================================================
 36. Category Name: Mythical Creatures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Unicorn Valley:
     1. First Image: The protagonist entering a hidden valley filled with majestic unicorns.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of a unicorn and learning about their magic.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist helps protect the valley from intruders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The valley flourishing with the unicorns, and the protagonist leaving with a blessed token.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Phoenix Rebirth:
     1. First Image: The protagonist discovering a sacred phoenix nest in an ancient temple.
     2. Second Image: Transition From The First Image, The protagonist witnessing the rebirth of the phoenix, engulfed in flames.
@@ -605,14 +605,14 @@ Title: Phoenix Rebirth:
 ================================================================ X ================================================================
 37. Category Name: Dark Magic
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cursed Forest:
     1. First Image: The protagonist entering a dark, cursed forest, with twisted trees and eerie shadows.
     2. Second Image: Transition From The First Image, The protagonist encountering malevolent spirits and overcoming them with light magic.
     3. Third Image: Transition From The Second Image, A confrontation with a powerful dark sorcerer deep within the forest.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest returning to its natural state, with the protagonist lifting the curse.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Haunted Manor:
     1. First Image: The protagonist arriving at a foreboding, abandoned manor on a stormy night.
     2. Second Image: Transition From The First Image, The protagonist exploring the manor, encountering restless spirits.
@@ -621,14 +621,14 @@ Title: Haunted Manor:
 ================================================================ X ================================================================
 38. Category Name: Elemental Forces
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fire and Ice:
     1. First Image: The protagonist discovering a realm divided between fiery landscapes and icy tundras.
     2. Second Image: Transition From The First Image, The protagonist gaining elemental powers and training with ancient guardians.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must balance fire and ice to defeat a common enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm harmonized, with the protagonist recognized as a master of elements.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Storm Chasers:
     1. First Image: The protagonist embarking on a quest to tame wild storms plaguing the land.
     2. Second Image: Transition From The First Image, The protagonist battling elemental creatures, showcasing their command over weather.
@@ -637,14 +637,14 @@ Title: Storm Chasers:
 ================================================================ X ================================================================
 39. Category Name: Ancient Ruins
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Lost City:
     1. First Image: The protagonist discovering the entrance to an ancient, forgotten city buried in the jungle.
     2. Second Image: Transition From The First Image, The protagonist exploring the city’s ruins, uncovering long-lost secrets and treasures.
-    3. Third Image: Transition From The Second Image, A conflict with ancient guardians protecting the city's secrets.
+    3. Third Image: Transition From The Second Image, A conflict with ancient guardians protecting the citys secrets.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving the city with newfound knowledge and artifacts.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Temple of the Sun:
     1. First Image: The protagonist approaching a majestic, sunlit temple atop a mountain.
     2. Second Image: Transition From The First Image, The protagonist solving ancient puzzles and overcoming traps within the temple.
@@ -653,14 +653,14 @@ Title: Temple of the Sun:
 ================================================================ X ================================================================
 40. Category Name: Underwater Realms
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mermaid Kingdom:
     1. First Image: The protagonist diving into an underwater realm, surrounded by mermaids and sea creatures.
     2. Second Image: Transition From The First Image, The protagonist exploring the mermaid kingdom and learning their customs.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist helps defend the kingdom from invaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The kingdom celebrating their victory, with the protagonist leaving with a mermaid’s blessing.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sunken Treasure:
     1. First Image: The protagonist discovering a sunken shipwreck filled with treasures.
     2. Second Image: Transition From The First Image, The protagonist exploring the wreck and facing underwater challenges.
@@ -669,14 +669,14 @@ Title: Sunken Treasure:
 ================================================================ X ================================================================
 41. Category Name: Time Travel
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Temporal Quest:
     1. First Image: The protagonist discovering a magical artifact that allows them to travel through time.
     2. Second Image: Transition From The First Image, The protagonist visiting different eras, each with its unique challenges.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must correct a timeline disrupted by a malevolent force.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The timeline restored, with the protagonist returning to their own time with newfound wisdom.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eternal Moment:
     1. First Image: The protagonist encountering a mysterious figure who offers them the power to stop time.
     2. Second Image: Transition From The First Image, The protagonist exploring frozen moments and learning about the consequences of their power.
@@ -685,14 +685,14 @@ Title: Eternal Moment:
 ================================================================ X ================================================================
 42. Category Name: Celestial Beings
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Star Guardians:
     1. First Image: The protagonist meeting celestial beings in a starry, cosmic landscape.
     2. Second Image: Transition From The First Image, The protagonist training with the star guardians, learning celestial magic.
     3. Third Image: Transition From The Second Image, A battle against dark cosmic forces threatening the universe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist and star guardians celebrating their victory, with the stars shining brightly.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moonlit Path:
     1. First Image: The protagonist embarking on a journey guided by the light of the full moon.
     2. Second Image: Transition From The First Image, The protagonist encountering moon spirits and learning lunar magic.
@@ -701,14 +701,14 @@ Title: Moonlit Path:
 ================================================================ X ================================================================
 43. Category Name: Magical Schools
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Wizard Academy:
     1. First Image: The protagonist entering a grand academy filled with aspiring wizards and magical creatures.
     2. Second Image: Transition From The First Image, The protagonist attending classes and learning powerful spells.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist and their friends must defend the academy from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The academy safe, with the protagonist recognized as a top student.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enchanted University:
     1. First Image: The protagonist enrolling in an enchanted university, with mystical buildings and libraries.
     2. Second Image: Transition From The First Image, The protagonist forming bonds with other students and mastering complex magic.
@@ -717,14 +717,14 @@ Title: Enchanted University:
 ================================================================ X ================================================================
 44. Category Name: Elemental Guardians
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fire Guardian:
     1. First Image: The protagonist discovering a hidden temple dedicated to the fire element.
     2. Second Image: Transition From The First Image, The protagonist mastering fire magic under the guidance of a fire guardian.
     3. Third Image: Transition From The Second Image, A battle against dark forces threatening to extinguish the flames of the temple.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The flames burning bright, with the protagonist becoming the new fire guardian.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Water Guardian:
     1. First Image: The protagonist finding a serene lake with a hidden underwater temple.
     2. Second Image: Transition From The First Image, The protagonist learning water magic from an ancient water guardian.
@@ -733,14 +733,14 @@ Title: Water Guardian:
 ================================================================ X ================================================================
 45. Category Name: Enchanted Objects
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Magic Sword:
     1. First Image: The protagonist discovering an ancient, enchanted sword in a forgotten cave.
     2. Second Image: Transition From The First Image, The protagonist learning the history and powers of the sword.
     3. Third Image: Transition From The Second Image, A battle where the protagonist uses the sword to defeat a powerful enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The sword glowing with power, with the protagonist becoming a legendary hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Amulet:
     1. First Image: The protagonist finding a mysterious amulet in an old, dusty library.
     2. Second Image: Transition From The First Image, The protagonist uncovering the amulet’s magical abilities and its connection to an ancient prophecy.
@@ -749,14 +749,14 @@ Title: Mystic Amulet:
 ================================================================ X ================================================================
 46. Category Name: Royalty and Nobility
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Royal Heir:
     1. First Image: The protagonist discovering they are the lost heir to a powerful kingdom.
     2. Second Image: Transition From The First Image, The protagonist navigating the politics and intrigue of the royal court.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must defend their claim to the throne against usurpers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist crowned as the rightful ruler, with the kingdom celebrating.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Noble Quest:
     1. First Image: The protagonist, a young noble, embarking on a quest to prove their worth.
     2. Second Image: Transition From The First Image, The protagonist facing various challenges and making allies along the way.
@@ -765,14 +765,14 @@ Title: Noble Quest:
 ================================================================ X ================================================================
 47. Category Name: Enchanted Forests
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whispering Woods:
     1. First Image: The protagonist entering a mysterious forest where the trees seem to whisper secrets.
     2. Second Image: Transition From The First Image, The protagonist encountering magical creatures and learning about the forest’s enchantments.
     3. Third Image: Transition From The Second Image, A conflict where the protagonist must protect the forest from dark forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest flourishing, with the protagonist becoming a guardian of the woods.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mystic Glade:
     1. First Image: The protagonist discovering a hidden glade filled with glowing flowers and mystical beings.
     2. Second Image: Transition From The First Image, The protagonist learning the ancient magic of the glade from its guardians.
@@ -781,14 +781,14 @@ Title: Mystic Glade:
 ================================================================ X ================================================================
 48. Category Name: Ancient Prophecies
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Chosen One:
     1. First Image: The protagonist discovering they are part of an ancient prophecy.
     2. Second Image: Transition From The First Image, The protagonist training to fulfill their destiny, learning from wise mentors.
     3. Third Image: Transition From The Second Image, A climactic battle where the protagonist must face a prophesied enemy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The prophecy fulfilled, with the protagonist celebrated as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sacred Scrolls:
     1. First Image: The protagonist finding ancient scrolls that speak of a coming darkness.
     2. Second Image: Transition From The First Image, The protagonist traveling to gather allies and prepare for the foretold battle.
@@ -797,14 +797,14 @@ Title: Sacred Scrolls:
 ================================================================ X ================================================================
 49. Category Name: Mystical Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ethereal Path:
     1. First Image: The protagonist embarking on a journey through a realm of ethereal beauty and magic.
     2. Second Image: Transition From The First Image, The protagonist facing challenges that test their courage and resolve.
     3. Third Image: Transition From The Second Image, A battle against dark forces seeking to corrupt the ethereal realm.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The realm restored to its glory, with the protagonist recognized as a hero.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Journey of Light:
     1. First Image: The protagonist setting out on a journey guided by a mysterious light.
     2. Second Image: Transition From The First Image, The protagonist encountering magical beings and learning powerful spells.
@@ -813,14 +813,14 @@ Title: Journey of Light:
 ================================================================ X ================================================================
 50. Category Name: Elemental Wars
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: War of Fire and Ice:
     1. First Image: The protagonist finding themselves in the middle of a war between fire and ice elemental factions.
     2. Second Image: Transition From The First Image, The protagonist allying with one faction and learning their magic.
     3. Third Image: Transition From The Second Image, A climactic battle where the protagonist must bring balance to the warring elements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The elements at peace, with the protagonist hailed as a hero by both factions.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Fantasy' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Fantasy art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Storm and Earth:
     1. First Image: The protagonist discovering a conflict between storm and earth elementals.
     2. Second Image: Transition From The First Image, The protagonist gaining the trust of the earth elementals and learning their ways.

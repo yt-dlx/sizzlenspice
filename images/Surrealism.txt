@@ -1,6 +1,6 @@
 ================================================================ X ================================================================
 Prompt 1:
-Give Me 50 Categories With 'Surrealism' Design Style. Response Example:
+Give Me 50 Categories With Surrealism Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
         1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Dreamscapes
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Islands:
     1. First Image: An otherworldly scene with floating islands in a cloudy sky.
     2. Second Image: Transition From The First Image, Surreal bridges connecting the islands, with dreamlike creatures moving between them.
     3. Third Image: Transition From The Second Image, The protagonist navigating through the islands, discovering hidden wonders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, A majestic island with a glowing temple, radiating an ethereal light.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Endless Staircase:
     1. First Image: An endless, spiraling staircase floating in a void.
     2. Second Image: Transition From The First Image, Strange, surreal figures climbing and descending the staircase.
@@ -45,14 +45,14 @@ Title: Endless Staircase:
 ================================================================ X ================================================================
 2. Category Name: Metamorphosis
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Morphing Landscape:
     1. First Image: A tranquil landscape with rolling hills and a clear sky.
     2. Second Image: Transition From The First Image, The hills and sky starting to morph into bizarre shapes and forms.
     3. Third Image: Transition From The Second Image, The landscape transforming into a surreal, abstract world.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking through the transformed landscape, awe-struck.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Human-Animal Hybrids:
     1. First Image: A calm forest with ordinary animals.
     2. Second Image: Transition From The First Image, The animals beginning to transform into human-animal hybrids.
@@ -61,14 +61,14 @@ Title: Human-Animal Hybrids:
 ================================================================ X ================================================================
 3. Category Name: Bizarre Worlds
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Upside-Down City:
     1. First Image: A cityscape with normal, bustling activity.
     2. Second Image: Transition From The First Image, Buildings and streets starting to flip upside down.
     3. Third Image: Transition From The Second Image, The city fully transformed, with people walking on inverted surfaces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the inverted city, discovering its secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Melting Structures:
     1. First Image: A city with grand, ornate buildings.
     2. Second Image: Transition From The First Image, The buildings beginning to melt and distort.
@@ -77,14 +77,14 @@ Title: Melting Structures:
 ================================================================ X ================================================================
 4. Category Name: Time Distortion
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Melting Clocks:
     1. First Image: A serene landscape with a few standing clocks.
     2. Second Image: Transition From The First Image, The clocks starting to melt and drip over surfaces.
     3. Third Image: Transition From The Second Image, The entire landscape transforming with distorted timepieces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist moving through the scene, interacting with the melting clocks.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Frozen Time:
     1. First Image: A bustling city street frozen in a moment of time.
     2. Second Image: Transition From The First Image, People and objects suspended in mid-action.
@@ -93,14 +93,14 @@ Title: Frozen Time:
 ================================================================ X ================================================================
 5. Category Name: Surreal Portraits
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fragmented Faces:
     1. First Image: A gallery of portraits with normal human faces.
     2. Second Image: Transition From The First Image, The faces starting to fragment and rearrange.
     3. Third Image: Transition From The Second Image, The portraits fully transformed into abstract, fragmented images.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist reflecting on the surreal, distorted portraits.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mirror Reflections:
     1. First Image: A room filled with mirrors reflecting ordinary scenes.
     2. Second Image: Transition From The First Image, The reflections starting to show bizarre, surreal images.
@@ -109,14 +109,14 @@ Title: Mirror Reflections:
 ================================================================ X ================================================================
 6. Category Name: Dream Beings
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whimsical Creatures:
     1. First Image: A peaceful meadow with ordinary animals.
     2. Second Image: Transition From The First Image, The animals beginning to morph into whimsical, surreal creatures.
     3. Third Image: Transition From The Second Image, The meadow filled with fantastical beings, each unique and bizarre.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the dream creatures, forming a bond.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Otherworldly Giants:
     1. First Image: A vast landscape with a few small figures in the distance.
     2. Second Image: Transition From The First Image, Gigantic, surreal beings emerging from the horizon.
@@ -125,14 +125,14 @@ Title: Otherworldly Giants:
 ================================================================ X ================================================================
 7. Category Name: Surreal Nature
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Trees:
     1. First Image: A dense forest with towering trees.
     2. Second Image: Transition From The First Image, The trees starting to move and take on human-like forms.
     3. Third Image: Transition From The Second Image, The forest transformed into a living, breathing entity.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist communicating with the sentient trees.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Flora:
     1. First Image: A beautiful garden with vibrant flowers.
     2. Second Image: Transition From The First Image, The flowers lifting off the ground, floating in the air.
@@ -141,14 +141,14 @@ Title: Floating Flora:
 ================================================================ X ================================================================
 8. Category Name: Abstract Concepts
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Emotional Landscapes:
     1. First Image: A barren landscape reflecting sadness and despair.
     2. Second Image: Transition From The First Image, The landscape morphing to reflect different emotions like joy, anger, and peace.
-    3. Third Image: Transition From The Second Image, The protagonist experiencing the landscape's emotional shifts.
+    3. Third Image: Transition From The Second Image, The protagonist experiencing the landscapes emotional shifts.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The landscape settling into a state of calm, the protagonist finding peace.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Thought Forms:
     1. First Image: A blank, empty space.
     2. Second Image: Transition From The First Image, Abstract shapes and forms beginning to materialize, representing thoughts.
@@ -157,14 +157,14 @@ Title: Thought Forms:
 ================================================================ X ================================================================
 9. Category Name: Surreal Structures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Impossible Architecture:
     1. First Image: A city with normal, realistic buildings.
     2. Second Image: Transition From The First Image, The buildings starting to twist and turn in impossible ways.
     3. Third Image: Transition From The Second Image, The city transformed into a surreal landscape of impossible structures.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the fantastical architecture.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Endless Hallways:
     1. First Image: A grand mansion with long, elegant hallways.
     2. Second Image: Transition From The First Image, The hallways beginning to extend endlessly, looping in on themselves.
@@ -173,14 +173,14 @@ Title: Endless Hallways:
 ================================================================ X ================================================================
 10. Category Name: Cosmic Surrealism
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Galactic Oceans:
     1. First Image: A serene beach with ordinary waves.
     2. Second Image: Transition From The First Image, The ocean transforming into a swirling galaxy with stars and planets.
     3. Third Image: Transition From The Second Image, The protagonist diving into the cosmic waters, exploring the depths.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Emerging on a distant shore, under a sky filled with otherworldly constellations.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Celestial Beings:
     1. First Image: A clear night sky with twinkling stars.
     2. Second Image: Transition From The First Image, The stars beginning to move and form shapes of celestial beings.
@@ -189,14 +189,14 @@ Title: Celestial Beings:
 ================================================================ X ================================================================
 11. Category Name: Surreal Reflections
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Water Mirrors:
     1. First Image: A tranquil lake reflecting a clear sky and mountains.
     2. Second Image: Transition From The First Image, The reflections starting to show surreal, dreamlike scenes.
     3. Third Image: Transition From The Second Image, The lake transforming into a portal to another world through its reflections.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stepping into the water, entering the surreal world.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Glass Worlds:
     1. First Image: A room filled with mirrors and glass objects.
     2. Second Image: Transition From The First Image, The reflections and glass starting to warp and show alternate realities.
@@ -205,14 +205,14 @@ Title: Glass Worlds:
 ================================================================ X ================================================================
 12. Category Name: Surreal Dualities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Light and Shadow:
     1. First Image: A landscape divided by a stark line of light and shadow.
     2. Second Image: Transition From The First Image, The light and shadow beginning to blend and create surreal patterns.
     3. Third Image: Transition From The Second Image, The protagonist moving between the light and shadow, experiencing their effects.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The landscape transforming into a harmonious blend of light and dark.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Day and Night:
     1. First Image: A cityscape with a clear division between day and night.
     2. Second Image: Transition From The First Image, The boundaries of day and night starting to blur and intermingle.
@@ -221,14 +221,14 @@ Title: Day and Night:
 ================================================================ X ================================================================
 13. Category Name: Surreal Interiors
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Morphing Rooms:
     1. First Image: A normal, elegant room in a grand mansion.
     2. Second Image: Transition From The First Image, The furniture and decor starting to morph and twist into surreal shapes.
     3. Third Image: Transition From The Second Image, The entire room transforming into an abstract, dreamlike space.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the morphing objects, uncovering hidden meanings.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Infinite Library:
     1. First Image: A grand library with towering bookshelves.
     2. Second Image: Transition From The First Image, The bookshelves extending infinitely in all directions.
@@ -237,14 +237,14 @@ Title: Infinite Library:
 ================================================================ X ================================================================
 14. Category Name: Surreal Seasons
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eternal Spring:
     1. First Image: A beautiful meadow in full bloom.
     2. Second Image: Transition From The First Image, The flowers and trees starting to change into surreal, otherworldly forms.
     3. Third Image: Transition From The Second Image, The meadow transformed into a fantastical spring landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist wandering through the surreal spring, feeling a sense of renewal.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Frozen Time:
     1. First Image: A winter landscape frozen in time.
     2. Second Image: Transition From The First Image, The snow and ice beginning to show surreal patterns and shapes.
@@ -253,14 +253,14 @@ Title: Frozen Time:
 ================================================================ X ================================================================
 15. Category Name: Surreal Elements
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Fire:
     1. First Image: A campfire burning brightly in the night.
     2. Second Image: Transition From The First Image, The flames starting to take on surreal, sentient forms.
     3. Third Image: Transition From The Second Image, The fire transforming into a living, moving entity.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist communicating with the living fire, uncovering hidden truths.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Breathing Earth:
     1. First Image: A calm, serene landscape with mountains and valleys.
     2. Second Image: Transition From The First Image, The ground and mountains beginning to move and breathe.
@@ -269,14 +269,14 @@ Title: Breathing Earth:
 ================================================================ X ================================================================
 16. Category Name: Surreal Flora and Fauna
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Walking Trees:
     1. First Image: A dense forest with towering trees.
     2. Second Image: Transition From The First Image, The trees starting to uproot and walk around.
     3. Third Image: Transition From The Second Image, The forest transformed into a surreal, moving landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the walking trees, discovering their secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Flowers:
     1. First Image: A beautiful garden in full bloom.
     2. Second Image: Transition From The First Image, The flowers lifting off the ground and floating in the air.
@@ -285,14 +285,14 @@ Title: Floating Flowers:
 ================================================================ X ================================================================
 17. Category Name: Surreal Underworlds
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Crystal Caves:
     1. First Image: A dark cave with sparkling crystals.
     2. Second Image: Transition From The First Image, The crystals beginning to grow and form surreal shapes.
     3. Third Image: Transition From The Second Image, The cave transformed into a glowing, crystalline wonderland.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the surreal caves, finding hidden treasures.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Subterranean Cities:
     1. First Image: An underground city with normal architecture.
     2. Second Image: Transition From The First Image, The buildings and streets starting to morph into surreal forms.
@@ -301,14 +301,14 @@ Title: Subterranean Cities:
 ================================================================ X ================================================================
 18. Category Name: Surreal Weather
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Colorful Rain:
     1. First Image: A normal, rainy day in a city.
     2. Second Image: Transition From The First Image, The raindrops starting to change color and shape.
     3. Third Image: Transition From The Second Image, The rain transforming into a surreal, colorful downpour.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist experiencing the magical, colorful rain, feeling rejuvenated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Wind:
     1. First Image: A windy day in an open field.
     2. Second Image: Transition From The First Image, The wind starting to form visible, surreal shapes.
@@ -317,14 +317,14 @@ Title: Living Wind:
 ================================================================ X ================================================================
 19. Category Name: Surreal Dreams
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Endless Fields:
     1. First Image: A vast field stretching out to the horizon.
     2. Second Image: Transition From The First Image, The field starting to change into a surreal, abstract landscape.
     3. Third Image: Transition From The Second Image, The field filled with dreamlike, otherworldly elements.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist wandering through the endless fields, lost in a dream.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Castles:
     1. First Image: A grand castle on a hilltop.
     2. Second Image: Transition From The First Image, The castle starting to lift off the ground and float in the sky.
@@ -333,14 +333,14 @@ Title: Floating Castles:
 ================================================================ X ================================================================
 20. Category Name: Surreal Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Path to Nowhere:
     1. First Image: A winding path leading through a forest.
     2. Second Image: Transition From The First Image, The path starting to twist and turn in impossible ways.
     3. Third Image: Transition From The Second Image, The protagonist following the surreal path, encountering strange sights.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The path leading to a fantastical, dreamlike destination.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sea of Stars:
     1. First Image: A calm ocean under a clear night sky.
     2. Second Image: Transition From The First Image, The ocean starting to reflect the stars, creating a sea of stars.
@@ -349,14 +349,14 @@ Title: Sea of Stars:
 ================================================================ X ================================================================
 21. Category Name: Surreal Perspectives
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Distorted Reflections:
     1. First Image: A normal room with mirrors on the walls.
     2. Second Image: Transition From The First Image, The reflections in the mirrors starting to distort and twist.
     3. Third Image: Transition From The Second Image, The room itself transforming into a surreal, warped space.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist navigating through the distorted room, finding hidden secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Infinite Horizons:
     1. First Image: A vast desert with a clear horizon.
     2. Second Image: Transition From The First Image, The horizon starting to extend infinitely in all directions.
@@ -365,14 +365,14 @@ Title: Infinite Horizons:
 ================================================================ X ================================================================
 22. Category Name: Surreal Illusions
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Phantom Shadows:
     1. First Image: A sunny street with clear shadows.
     2. Second Image: Transition From The First Image, The shadows starting to move independently of their objects.
     3. Third Image: Transition From The Second Image, The shadows transforming into surreal, sentient beings.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the phantom shadows, uncovering their secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Shifting Shapes:
     1. First Image: A room with ordinary furniture and decor.
     2. Second Image: Transition From The First Image, The objects in the room starting to shift and change shapes.
@@ -381,14 +381,14 @@ Title: Shifting Shapes:
 ================================================================ X ================================================================
 23. Category Name: Surreal Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Stairway to Nowhere:
     1. First Image: An elegant staircase in a grand hall.
     2. Second Image: Transition From The First Image, The staircase starting to twist and turn in impossible ways.
     3. Third Image: Transition From The Second Image, The protagonist climbing the surreal staircase, encountering strange sights.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The staircase leading to a fantastical, dreamlike destination.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bridge to Another World:
     1. First Image: A bridge spanning a calm river.
     2. Second Image: Transition From The First Image, The bridge starting to extend into the sky, disappearing into the clouds.
@@ -397,14 +397,14 @@ Title: Bridge to Another World:
 ================================================================ X ================================================================
 24. Category Name: Surreal Metaphors
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Time as a River:
     1. First Image: A tranquil river flowing through a landscape.
     2. Second Image: Transition From The First Image, The river starting to reflect different times and eras.
     3. Third Image: Transition From The Second Image, The protagonist experiencing the flow of time through the surreal river.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The river merging past, present, and future into one continuous stream.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Heart of the Forest:
     1. First Image: A dense forest with towering trees.
     2. Second Image: Transition From The First Image, The trees starting to reveal a giant, beating heart at the center.
@@ -413,14 +413,14 @@ Title: Heart of the Forest:
 ================================================================ X ================================================================
 25. Category Name: Surreal Machines
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Clockwork Creatures:
     1. First Image: A workshop filled with mechanical parts and tools.
     2. Second Image: Transition From The First Image, The parts starting to assemble themselves into clockwork creatures.
     3. Third Image: Transition From The Second Image, The creatures coming to life, moving in surreal ways.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the clockwork creatures, uncovering their purpose.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Machines:
     1. First Image: A factory with large, industrial machines.
     2. Second Image: Transition From The First Image, The machines starting to show signs of life, moving independently.
@@ -429,14 +429,14 @@ Title: Living Machines:
 ================================================================ X ================================================================
 26. Category Name: Surreal Elements
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whispering Winds:
     1. First Image: A calm landscape with gentle breezes.
     2. Second Image: Transition From The First Image, The winds starting to form visible, surreal shapes.
     3. Third Image: Transition From The Second Image, The winds whispering secrets to the protagonist.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The landscape transformed by the surreal, whispering winds.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Dancing Flames:
     1. First Image: A campfire burning brightly in the night.
     2. Second Image: Transition From The First Image, The flames starting to take on surreal, dancing forms.
@@ -445,14 +445,14 @@ Title: Dancing Flames:
 ================================================================ X ================================================================
 27. Category Name: Surreal Soundscapes
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Echoing Voices:
     1. First Image: A quiet, empty hall.
     2. Second Image: Transition From The First Image, The hall starting to fill with echoing, surreal voices.
     3. Third Image: Transition From The Second Image, The protagonist hearing the voices speak in strange, dreamlike patterns.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hall transforming into a surreal soundscape, the voices guiding the way.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Musical Forest:
     1. First Image: A serene forest with a gentle breeze.
     2. Second Image: Transition From The First Image, The trees and plants starting to produce musical notes.
@@ -461,14 +461,14 @@ Title: Musical Forest:
 ================================================================ X ================================================================
 28. Category Name: Surreal Dreams
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Islands:
     1. First Image: An otherworldly scene with floating islands in a cloudy sky.
     2. Second Image: Transition From The First Image, Surreal bridges connecting the islands, with dreamlike creatures moving between them.
     3. Third Image: Transition From The Second Image, The protagonist navigating through the islands, discovering hidden wonders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, A majestic island with a glowing temple, radiating an ethereal light.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Endless Staircase:
     1. First Image: An endless, spiraling staircase floating in a void.
     2. Second Image: Transition From The First Image, Strange, surreal figures climbing and descending the staircase.
@@ -477,14 +477,14 @@ Title: Endless Staircase:
 ================================================================ X ================================================================
 29. Category Name: Surreal Creatures
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Morphing Beasts:
     1. First Image: A tranquil meadow with grazing animals.
     2. Second Image: Transition From The First Image, The animals starting to morph into surreal, otherworldly creatures.
     3. Third Image: Transition From The Second Image, The meadow filled with fantastical beasts, each unique and bizarre.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the morphing creatures, forming a bond.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Sentient Shadows:
     1. First Image: A normal, sunny day with clear shadows.
     2. Second Image: Transition From The First Image, The shadows starting to move and interact with their surroundings.
@@ -493,14 +493,14 @@ Title: Sentient Shadows:
 ================================================================ X ================================================================
 30. Category Name: Surreal Cities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Mirror Metropolis:
     1. First Image: A bustling city with towering skyscrapers.
     2. Second Image: Transition From The First Image, The buildings starting to reflect surreal, dreamlike images.
     3. Third Image: Transition From The Second Image, The city transforming into a mirror-filled wonderland.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the surreal metropolis, finding hidden dimensions.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Invisible Streets:
     1. First Image: A crowded city street with people going about their day.
     2. Second Image: Transition From The First Image, The street starting to fade and become invisible.
@@ -509,14 +509,14 @@ Title: Invisible Streets:
 ================================================================ X ================================================================
 31. Category Name: Surreal Architecture
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Twisting Towers:
     1. First Image: A skyline with tall, elegant towers.
     2. Second Image: Transition From The First Image, The towers starting to twist and contort into surreal shapes.
     3. Third Image: Transition From The Second Image, The skyline transformed into a fantastical, dreamlike landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the twisting towers, uncovering their secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Structures:
     1. First Image: A normal cityscape with various buildings.
     2. Second Image: Transition From The First Image, The buildings starting to lift off the ground and float in the air.
@@ -525,14 +525,14 @@ Title: Floating Structures:
 ================================================================ X ================================================================
 32. Category Name: Surreal Seasons
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Blossoming Snow:
     1. First Image: A winter landscape with snow-covered trees.
     2. Second Image: Transition From The First Image, The snow starting to blossom into surreal, colorful flowers.
     3. Third Image: Transition From The Second Image, The winter landscape transforming into a fantastical spring.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist wandering through the blossoming snow, feeling a sense of renewal.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Golden Autumn:
     1. First Image: A forest with vibrant autumn leaves.
     2. Second Image: Transition From The First Image, The leaves starting to turn into gold and glow with a surreal light.
@@ -541,14 +541,14 @@ Title: Golden Autumn:
 ================================================================ X ================================================================
 33. Category Name: Surreal Elements
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Water:
     1. First Image: A calm lake with clear, blue water.
     2. Second Image: Transition From The First Image, The water starting to move and take on sentient forms.
     3. Third Image: Transition From The Second Image, The lake transforming into a surreal, living entity.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the living water, uncovering hidden truths.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Breathing Earth:
     1. First Image: A calm, serene landscape with mountains and valleys.
     2. Second Image: Transition From The First Image, The ground and mountains beginning to move and breathe.
@@ -557,14 +557,14 @@ Title: Breathing Earth:
 ================================================================ X ================================================================
 34. Category Name: Surreal Interiors
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Shifting Walls:
     1. First Image: A normal, elegant room in a grand mansion.
     2. Second Image: Transition From The First Image, The walls starting to move and shift into surreal shapes.
     3. Third Image: Transition From The Second Image, The entire room transforming into an abstract, dreamlike space.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist interacting with the shifting walls, uncovering hidden meanings.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Infinite Mirrors:
     1. First Image: A room filled with mirrors reflecting ordinary scenes.
     2. Second Image: Transition From The First Image, The reflections starting to show surreal, dreamlike images.
@@ -573,14 +573,14 @@ Title: Infinite Mirrors:
 ================================================================ X ================================================================
 35. Category Name: Surreal Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Path to the Stars:
     1. First Image: A winding path leading through a forest.
     2. Second Image: Transition From The First Image, The path starting to extend into the sky, disappearing into the stars.
     3. Third Image: Transition From The Second Image, The protagonist walking the surreal path, encountering cosmic wonders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The path leading to a fantastical realm among the stars.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bridge to the Moon:
     1. First Image: A bridge spanning a calm river.
     2. Second Image: Transition From The First Image, The bridge starting to extend into the night sky, towards the moon.
@@ -589,14 +589,14 @@ Title: Bridge to the Moon:
 ================================================================ X ================================================================
 36. Category Name: Surreal Landscapes
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Floating Forest:
     1. First Image: A dense forest with towering trees.
     2. Second Image: Transition From The First Image, The trees starting to lift off the ground and float in the air.
     3. Third Image: Transition From The Second Image, The forest transformed into a surreal, floating landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist navigating through the floating forest, discovering hidden paths.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Crystal Desert:
     1. First Image: A vast desert with rolling dunes.
     2. Second Image: Transition From The First Image, The sand starting to turn into sparkling crystals.
@@ -605,14 +605,14 @@ Title: Crystal Desert:
 ================================================================ X ================================================================
 37. Category Name: Surreal Nature
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Mountains:
     1. First Image: A mountain range with towering peaks.
     2. Second Image: Transition From The First Image, The mountains starting to move and take on sentient forms.
     3. Third Image: Transition From The Second Image, The mountain range transforming into a surreal, living landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist communicating with the living mountains, uncovering their secrets.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whispering Trees:
     1. First Image: A dense forest with towering trees.
     2. Second Image: Transition From The First Image, The trees starting to whisper and communicate with each other.
@@ -621,14 +621,14 @@ Title: Whispering Trees:
 ================================================================ X ================================================================
 38. Category Name: Surreal Flora and Fauna
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Glowing Plants:
     1. First Image: A beautiful garden with vibrant flowers.
     2. Second Image: Transition From The First Image, The flowers starting to glow with a surreal, magical light.
     3. Third Image: Transition From The Second Image, The garden filled with glowing, otherworldly plants.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking through the surreal garden, feeling a sense of wonder.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Talking Animals:
     1. First Image: A tranquil meadow with grazing animals.
     2. Second Image: Transition From The First Image, The animals starting to talk and communicate with each other.
@@ -637,14 +637,14 @@ Title: Talking Animals:
 ================================================================ X ================================================================
 39. Category Name: Surreal Underworlds
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Glowworm Caves:
     1. First Image: A dark cave with sparkling glowworms.
     2. Second Image: Transition From The First Image, The glowworms starting to form surreal, luminous patterns.
     3. Third Image: Transition From The Second Image, The cave transformed into a glowing, otherworldly wonderland.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist exploring the glowworm caves, finding hidden treasures.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Subterranean Gardens:
     1. First Image: An underground city with normal architecture.
     2. Second Image: Transition From The First Image, The buildings and streets starting to transform into lush, surreal gardens.
@@ -653,14 +653,14 @@ Title: Subterranean Gardens:
 ================================================================ X ================================================================
 40. Category Name: Surreal Weather
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Crystal Rain:
     1. First Image: A normal, rainy day in a city.
     2. Second Image: Transition From The First Image, The raindrops starting to turn into sparkling crystals.
     3. Third Image: Transition From The Second Image, The rain transforming into a surreal, crystalline downpour.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist experiencing the magical, crystal rain, feeling rejuvenated.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Clouds:
     1. First Image: A cloudy sky over an open field.
     2. Second Image: Transition From The First Image, The clouds starting to take on sentient, surreal forms.
@@ -669,14 +669,14 @@ Title: Living Clouds:
 ================================================================ X ================================================================
 41. Category Name: Surreal Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Path to the Stars:
     1. First Image: A winding path leading through a forest.
     2. Second Image: Transition From The First Image, The path starting to extend into the sky, disappearing into the stars.
     3. Third Image: Transition From The Second Image, The protagonist walking the surreal path, encountering cosmic wonders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The path leading to a fantastical realm among the stars.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bridge to the Moon:
     1. First Image: A bridge spanning a calm river.
     2. Second Image: Transition From The First Image, The bridge starting to extend into the night sky, towards the moon.
@@ -685,14 +685,14 @@ Title: Bridge to the Moon:
 ================================================================ X ================================================================
 42. Category Name: Surreal Reflections
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Water Mirrors:
     1. First Image: A tranquil lake reflecting a clear sky and mountains.
     2. Second Image: Transition From The First Image, The reflections starting to show surreal, dreamlike scenes.
     3. Third Image: Transition From The Second Image, The lake transforming into a portal to another world through its reflections.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stepping into the water, entering the surreal world.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Glass Worlds:
     1. First Image: A room filled with mirrors and glass objects.
     2. Second Image: Transition From The First Image, The reflections and glass starting to warp and show alternate realities.
@@ -701,14 +701,14 @@ Title: Glass Worlds:
 ================================================================ X ================================================================
 43. Category Name: Surreal Transformations
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Human to Nature:
     1. First Image: A person standing in a forest.
     2. Second Image: Transition From The First Image, The person starting to transform into a tree.
     3. Third Image: Transition From The Second Image, The person fully transformed into a surreal, sentient tree.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The forest filled with human-nature hybrids, living in harmony.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Object to Life:
     1. First Image: A room filled with ordinary objects.
     2. Second Image: Transition From The First Image, The objects starting to come to life and move independently.
@@ -717,14 +717,14 @@ Title: Object to Life:
 ================================================================ X ================================================================
 44. Category Name: Surreal Light
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Light:
     1. First Image: A dark room with a single light source.
     2. Second Image: Transition From The First Image, The light starting to move and take on sentient forms.
     3. Third Image: Transition From The Second Image, The room filled with living, moving light entities.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist communicating with the living light, uncovering hidden truths.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Glowing Shadows:
     1. First Image: A room with normal shadows cast by objects.
     2. Second Image: Transition From The First Image, The shadows starting to glow with a surreal, magical light.
@@ -733,14 +733,14 @@ Title: Glowing Shadows:
 ================================================================ X ================================================================
 45. Category Name: Surreal Sounds
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Whispering Wind:
     1. First Image: A calm landscape with gentle breezes.
     2. Second Image: Transition From The First Image, The winds starting to form visible, surreal shapes.
     3. Third Image: Transition From The Second Image, The winds whispering secrets to the protagonist.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The landscape transformed by the surreal, whispering winds.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Singing Stones:
     1. First Image: A rocky landscape with scattered stones.
     2. Second Image: Transition From The First Image, The stones starting to produce musical notes.
@@ -749,14 +749,14 @@ Title: Singing Stones:
 ================================================================ X ================================================================
 46. Category Name: Surreal Dualities
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Day and Night:
     1. First Image: A cityscape with a clear division between day and night.
     2. Second Image: Transition From The First Image, The boundaries of day and night starting to blur and intermingle.
     3. Third Image: Transition From The Second Image, The protagonist experiencing the surreal transition between time.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city in a state of perpetual twilight, blending elements of both day and night.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Light and Shadow:
     1. First Image: A landscape divided by a stark line of light and shadow.
     2. Second Image: Transition From The First Image, The light and shadow beginning to blend and create surreal patterns.
@@ -765,14 +765,14 @@ Title: Light and Shadow:
 ================================================================ X ================================================================
 47. Category Name: Surreal Dimensions
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fourth Dimension:
     1. First Image: A normal three-dimensional room.
     2. Second Image: Transition From The First Image, The room starting to extend into a surreal, fourth dimension.
     3. Third Image: Transition From The Second Image, The room filled with impossible, otherworldly shapes and forms.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist navigating through the fourth-dimensional space, uncovering its mysteries.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Time Warp:
     1. First Image: A city street with people going about their day.
     2. Second Image: Transition From The First Image, The street starting to warp and distort through time.
@@ -781,14 +781,14 @@ Title: Time Warp:
 ================================================================ X ================================================================
 48. Category Name: Surreal Memories
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fragmented Memories:
     1. First Image: A room filled with photographs and mementos.
     2. Second Image: Transition From The First Image, The photographs starting to fragment and rearrange into surreal patterns.
     3. Third Image: Transition From The Second Image, The room filled with abstract, fragmented memories.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist piecing together the memories, uncovering hidden stories.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Living Past:
     1. First Image: A quiet, abandoned house.
     2. Second Image: Transition From The First Image, The house starting to come to life with scenes from the past.
@@ -797,14 +797,14 @@ Title: Living Past:
 ================================================================ X ================================================================
 49. Category Name: Surreal Journeys
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Path to the Stars:
     1. First Image: A winding path leading through a forest.
     2. Second Image: Transition From The First Image, The path starting to extend into the sky, disappearing into the stars.
     3. Third Image: Transition From The Second Image, The protagonist walking the surreal path, encountering cosmic wonders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The path leading to a fantastical realm among the stars.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Bridge to the Moon:
     1. First Image: A bridge spanning a calm river.
     2. Second Image: Transition From The First Image, The bridge starting to extend into the night sky, towards the moon.
@@ -813,14 +813,14 @@ Title: Bridge to the Moon:
 ================================================================ X ================================================================
 50. Category Name: Surreal Cycles
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eternal Seasons:
     1. First Image: A landscape divided into four sections, each representing a different season.
     2. Second Image: Transition From The First Image, The sections starting to blend and create surreal transitions between seasons.
     3. Third Image: Transition From The Second Image, The landscape transforming into a harmonious blend of all four seasons.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist experiencing the eternal cycle of seasons, feeling a deep connection to nature.
 
-Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Surrealism' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create four widescreen aspect ratio images in a storybook style with a Surrealism art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Life and Death:
     1. First Image: A field with blooming flowers and a nearby cemetery.
     2. Second Image: Transition From The First Image, The field and cemetery starting to merge and create surreal patterns.
