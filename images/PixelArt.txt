@@ -1,0 +1,29 @@
+================================================================ X ================================================================
+Prompt 1:
+Give Me 50 Categories With 'Pixelart' Design Style. Response Example:
+1. Category Name:
+    1. Wallpaper Name:
+        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Image: Transition From The First Image, Continue The Story.
+        3. Third Image: Transition From The Second Image, Continue The Story.
+        4. Fourth Image: Transition From The Third Image, Ending The Story.
+    2. Wallpaper Name:
+        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Image: Transition From The First Image, Continue The Story.
+        3. Third Image: Transition From The Second Image, Continue The Story.
+        4. Fourth Image: Transition From The Third Image, Ending The Story.
+2. Category Name:
+    1. Wallpaper Name:
+        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Image: Transition From The First Image, Continue The Story.
+        3. Third Image: Transition From The Second Image, Continue The Story.
+        4. Fourth Image: Transition From The Third Image, Ending The Story.
+    2. Wallpaper Name:
+        1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
+        2. Second Image: Transition From The First Image, Continue The Story.
+        3. Third Image: Transition From The Second Image, Continue The Story.
+        4. Fourth Image: Transition From The Third Image, Ending The Story.
+
+Prompt 2:
+    Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
+================================================================ X ================================================================

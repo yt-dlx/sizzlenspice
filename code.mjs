@@ -22,10 +22,14 @@ async function fetchAllData() {
 
 fetchAllData();
 
-// 734003
 // Siliguri, Himachal Colony Railway Bunglow Number 461 A
-// 8250261313
 // 760109785264
+// 8250261313
 // HFRPD8435P
-// Dutta
+// 734003
 // Shovit
+// Dutta
+
+
+
+
