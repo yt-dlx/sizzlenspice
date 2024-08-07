@@ -27,279 +27,279 @@ Give Me 50 Categories With 'Noir' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. **Category Name: Urban Shadows**
-    1. **Dark Alley:**
+1. Category Name: Urban Shadows
+    1. Dark Alley:
         1. First Image: A narrow alleyway shrouded in shadows with a single street lamp casting a dim light.
         2. Second Image: A silhouette of a figure standing under the street lamp.
         3. Third Image: The figure encountering a suspicious character in the alley.
         4. Fourth Image: A tense standoff, with shadows stretching long and ominous.
-    2. **Foggy Street:**
+    2. Foggy Street:
         1. First Image: A deserted street cloaked in fog with vintage cars parked along the curb.
         2. Second Image: The fog thickening, reducing visibility.
         3. Third Image: A mysterious figure emerging from the fog.
         4. Fourth Image: The figure disappearing into the shadows, leaving an air of mystery.
 
-2. **Category Name: Detective Stories**
-    1. **Private Eye's Office:**
+2. Category Name: Detective Stories
+    1. Private Eye's Office:
         1. First Image: A dimly lit office with a cluttered desk, a rotary phone, and half-open blinds.
         2. Second Image: The detective reviewing case files under the lamp's glow.
         3. Third Image: A mysterious client entering the office with a new case.
         4. Fourth Image: The detective and client in a tense discussion, shadows casting dramatic patterns.
-    2. **Interrogation Room:**
+    2. Interrogation Room:
         1. First Image: A stark room with a single hanging bulb and a metal table.
         2. Second Image: The detective interrogating a suspect, both cast in harsh light and deep shadows.
         3. Third Image: The suspect sweating under the pressure, looking nervous.
         4. Fourth Image: The detective leaving the room with a determined expression, the case progressing.
 
-3. **Category Name: Femme Fatale**
-    1. **Mysterious Woman:**
+3. Category Name: Femme Fatale
+    1. Mysterious Woman:
         1. First Image: A glamorous woman in a red dress standing by a large window, backlit by city lights.
         2. Second Image: The woman turning with a cigarette holder in hand, exuding an air of danger.
         3. Third Image: The woman meeting the detective in a smoky bar.
         4. Fourth Image: A dramatic reveal of her true intentions, with shadows accentuating her features.
-    2. **Enigmatic Encounter:**
+    2. Enigmatic Encounter:
         1. First Image: The femme fatale meeting the protagonist in a shadowy nightclub.
         2. Second Image: A conversation with intense eye contact and hidden meanings.
         3. Third Image: The woman slipping a crucial piece of evidence to the protagonist.
         4. Fourth Image: The woman vanishing into the night, leaving the protagonist conflicted.
 
-4. **Category Name: Crime Scenes**
-    1. **Abandoned Warehouse:**
+4. Category Name: Crime Scenes
+    1. Abandoned Warehouse:
         1. First Image: The exterior of a dilapidated warehouse under a full moon.
         2. Second Image: The interior, with beams of moonlight filtering through broken windows.
         3. Third Image: The detective discovering a clue hidden among the debris.
         4. Fourth Image: A tense chase scene within the shadows of the warehouse.
-    2. **Riverside Dock:**
+    2. Riverside Dock:
         1. First Image: A deserted dock at night, with water reflecting the city lights.
         2. Second Image: The detective finding a body floating in the water.
         3. Third Image: A shootout erupting at the dock, with muzzle flashes illuminating the scene.
         4. Fourth Image: The detective standing alone at the dock, deep in thought.
 
-5. **Category Name: Nightlife**
-    1. **Jazz Club:**
+5. Category Name: Nightlife
+    1. Jazz Club:
         1. First Image: A smoky jazz club with a band playing on stage, bathed in soft, moody lighting.
         2. Second Image: Patrons sipping drinks and engaging in hushed conversations.
         3. Third Image: The detective meeting a contact in a dimly lit corner.
         4. Fourth Image: A sudden altercation breaking out, with shadows dancing to the music.
-    2. **Casino:**
+    2. Casino:
         1. First Image: A glamorous casino with people in elegant attire.
         2. Second Image: The protagonist gambling at a high-stakes table.
         3. Third Image: A dramatic moment where a card game takes a deadly turn.
         4. Fourth Image: The protagonist escaping through the casino, pursued by shadowy figures.
 
-6. **Category Name: Noir Romance**
-    1. **Secret Affair:**
+6. Category Name: Noir Romance
+    1. Secret Affair:
         1. First Image: The protagonist meeting a lover in a hidden café.
         2. Second Image: A stolen kiss in the alley behind the café.
         3. Third Image: The lovers parting ways, shadows emphasizing their sorrow.
         4. Fourth Image: The protagonist watching the lover disappear into the night.
-    2. **Forbidden Love:**
+    2. Forbidden Love:
         1. First Image: A clandestine meeting in a luxurious hotel room.
         2. Second Image: The lovers discussing their dangerous situation.
         3. Third Image: A sudden interruption by an antagonist, creating tension.
         4. Fourth Image: A dramatic escape, with the lovers holding hands and running through the darkened streets.
 
-7. **Category Name: Classic Cars**
-    1. **Vintage Car Chase:**
+7. Category Name: Classic Cars
+    1. Vintage Car Chase:
         1. First Image: A sleek vintage car parked under a streetlamp, engine idling.
         2. Second Image: The car speeding through city streets at night.
         3. Third Image: A high-speed chase with another car, tires screeching.
         4. Fourth Image: The car skidding to a halt, narrowly avoiding an obstacle.
-    2. **Hidden Garage:**
+    2. Hidden Garage:
         1. First Image: An old garage with vintage cars covered in dust.
         2. Second Image: The protagonist uncovering a hidden car, wiping away the dust.
         3. Third Image: The car being repaired under dim lighting, tools scattered around.
         4. Fourth Image: The car driving out of the garage, ready for action.
 
-8. **Category Name: Hidden Secrets**
-    1. **Mystery Bookstore:**
+8. Category Name: Hidden Secrets
+    1. Mystery Bookstore:
         1. First Image: The exterior of a small, old bookstore in a shadowy street.
         2. Second Image: The interior, with dusty shelves filled with books.
         3. Third Image: The protagonist discovering a hidden door behind a bookshelf.
         4. Fourth Image: Entering the secret room, filled with mysterious artifacts.
-    2. **Secret Safe:**
+    2. Secret Safe:
         1. First Image: A hidden safe behind a painting in a dimly lit study.
         2. Second Image: The protagonist working to unlock the safe.
         3. Third Image: The safe opening to reveal important documents.
         4. Fourth Image: The protagonist escaping with the documents, shadows lengthening behind them.
 
-9. **Category Name: Noir Portraits**
-    1. **Brooding Detective:**
+9. Category Name: Noir Portraits
+    1. Brooding Detective:
         1. First Image: A close-up of a detective’s face, half in shadow, cigarette smoke curling around.
         2. Second Image: The detective looking out of a rain-streaked window.
         3. Third Image: The detective at a bar, deep in thought, with shadows playing on the wall.
         4. Fourth Image: The detective walking down a dark street, silhouette stark against the city lights.
-    2. **Mysterious Woman:**
+    2. Mysterious Woman:
         1. First Image: A close-up of a woman’s face, with dramatic lighting casting one side in shadow.
         2. Second Image: The woman in a stylish hat, peering from behind a veil.
         3. Third Image: The woman in a glamorous dress, walking alone down a deserted street.
         4. Fourth Image: The woman standing under a streetlamp, her expression enigmatic.
 
-10. **Category Name: Dangerous Liaisons**
-    1. **Secret Meeting:**
+10. Category Name: Dangerous Liaisons
+    1. Secret Meeting:
         1. First Image: The protagonist receiving a cryptic note in a dark alley.
         2. Second Image: A rendezvous at a secluded dock under the cover of night.
         3. Third Image: A whispered conversation with a shadowy figure.
         4. Fourth Image: The protagonist leaving the meeting place with newfound resolve.
-    2. **Betrayal:**
+    2. Betrayal:
         1. First Image: The protagonist discovering a hidden letter revealing a betrayal.
         2. Second Image: A tense confrontation in a dimly lit room.
         3. Third Image: A physical struggle, with shadows adding to the chaos.
         4. Fourth Image: The protagonist walking away, leaving the traitor behind.
 
-11. **Category Name: Noir Cityscapes**
-    1. **Rainy Night:**
+11. Category Name: Noir Cityscapes
+    1. Rainy Night:
         1. First Image: A city street glistening with rain, neon lights reflecting on the wet pavement.
         2. Second Image: Pedestrians with umbrellas, shadows blending into the night.
         3. Third Image: A car driving slowly through the rain, headlights cutting through the gloom.
         4. Fourth Image: The protagonist standing in the rain, trench coat and hat casting a long shadow.
-    2. **Empty Train Station:**
+    2. Empty Train Station:
         1. First Image: A deserted train station with a single bench and a flickering light.
         2. Second Image: The protagonist waiting alone, suitcase by their side.
         3. Third Image: A train arriving in a cloud of steam, creating a ghostly atmosphere.
         4. Fourth Image: The protagonist boarding the train, leaving behind an empty platform.
 
-12. **Category Name: Noir Interiors**
+12. Category Name: Noir Interiors
 
 
-    1. **Smoky Bar:**
+    1. Smoky Bar:
         1. First Image: A dimly lit bar with smoke swirling in the air.
         2. Second Image: Patrons hunched over their drinks, speaking in hushed tones.
         3. Third Image: A jazz band playing softly in the corner.
         4. Fourth Image: The protagonist meeting an informant in a shadowy booth.
-    2. **Abandoned Office:**
+    2. Abandoned Office:
         1. First Image: An old, abandoned office with papers strewn across the floor.
         2. Second Image: The protagonist searching through the mess for clues.
         3. Third Image: A hidden compartment in the desk revealing important documents.
         4. Fourth Image: The protagonist leaving the office with a determined expression.
 
-13. **Category Name: Noir Journeys**
-    1. **Night Train:**
+13. Category Name: Noir Journeys
+    1. Night Train:
         1. First Image: A train pulling out of the station at night, steam billowing.
         2. Second Image: The protagonist sitting in a dimly lit compartment, deep in thought.
         3. Third Image: The train speeding through the dark countryside, shadows flickering.
         4. Fourth Image: The protagonist disembarking at a mysterious destination.
-    2. **Lonely Road:**
+    2. Lonely Road:
         1. First Image: A long, empty road stretching into the night.
         2. Second Image: The protagonist driving a vintage car, headlights cutting through the darkness.
         3. Third Image: A roadside diner appearing in the distance.
         4. Fourth Image: The protagonist stopping at the diner, seeking refuge from the night.
 
-14. **Category Name: Noir Mysteries**
-    1. **Hidden Clue:**
+14. Category Name: Noir Mysteries
+    1. Hidden Clue:
         1. First Image: The protagonist discovering a hidden clue in a dark alley.
         2. Second Image: The clue leading to a shadowy figure.
         3. Third Image: A confrontation with the figure in a dimly lit room.
         4. Fourth Image: The protagonist piecing together the mystery, shadows deepening.
-    2. **Secret Map:**
+    2. Secret Map:
         1. First Image: The protagonist finding a secret map in an old book.
         2. Second Image: The map leading to a hidden location.
         3. Third Image: The protagonist arriving at the location at night.
         4. Fourth Image: The mystery unfolding as the protagonist explores the shadows.
 
-15. **Category Name: Noir Reflections**
-    1. **Rainy Window:**
+15. Category Name: Noir Reflections
+    1. Rainy Window:
         1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
         2. Second Image: The reflection of city lights in the window.
         3. Third Image: A shadowy figure approaching from behind.
         4. Fourth Image: The protagonist turning to face the figure, tension in the air.
-    2. **Broken Mirror:**
+    2. Broken Mirror:
         1. First Image: A broken mirror reflecting the protagonist’s troubled face.
         2. Second Image: The protagonist piecing together the fragments of the mirror.
         3. Third Image: The reflection showing a revelation.
         4. Fourth Image: The protagonist leaving, having found clarity in the shattered glass.
 
-16. **Category Name: Noir Heists**
-    1. **Bank Job:**
+16. Category Name: Noir Heists
+    1. Bank Job:
         1. First Image: The exterior of a bank at night, with security lights casting long shadows.
         2. Second Image: The heist crew preparing their equipment in a dimly lit room.
         3. Third Image: The crew breaking into the bank, tension high.
         4. Fourth Image: The crew escaping into the night, shadows concealing their movements.
-    2. **Art Theft:**
+    2. Art Theft:
         1. First Image: An art gallery with valuable paintings under spotlight.
         2. Second Image: The thieves planning the heist, blueprints spread out.
         3. Third Image: The thieves executing the heist, moving stealthily.
         4. Fourth Image: The empty frames left behind, the gallery in darkness.
 
-17. **Category Name: Noir Secrets**
-    1. **Hidden Room:**
+17. Category Name: Noir Secrets
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
         4. Fourth Image: The protagonist finding a key contact in a dark corner.
 
-18. **Category Name: Noir Revenge**
-    1. **Vendetta:**
+18. Category Name: Noir Revenge
+    1. Vendetta:
         1. First Image: The protagonist plotting revenge in a dimly lit room.
         2. Second Image: The protagonist preparing weapons under the flickering light.
         3. Third Image: A confrontation with the antagonist in a shadowy alley.
         4. Fourth Image: The protagonist standing victorious, shadows enveloping the scene.
-    2. **Betrayal:**
+    2. Betrayal:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist confronting the betrayer in a shadowy setting.
         3. Third Image: A tense standoff with dramatic lighting and deep shadows.
         4. Fourth Image: The protagonist walking away, leaving the betrayer in the dark.
 
-19. **Category Name: Noir Justice**
-    1. **Vigilante:**
+19. Category Name: Noir Justice
+    1. Vigilante:
         1. First Image: The protagonist donning a mask in a dimly lit room.
         2. Second Image: The vigilante patrolling the city streets at night.
         3. Third Image: A confrontation with criminals in a dark alley.
         4. Fourth Image: The vigilante standing on a rooftop, overlooking the city.
-    2. **Corrupt Cops:**
+    2. Corrupt Cops:
         1. First Image: The protagonist discovering corruption within the police force.
         2. Second Image: A tense meeting with a trusted ally in a shadowy location.
         3. Third Image: The protagonist gathering evidence against the corrupt officers.
         4. Fourth Image: A dramatic arrest, with shadows highlighting the tension.
 
-20. **Category Name: Noir Journeys**
-    1. **Night Train:**
+20. Category Name: Noir Journeys
+    1. Night Train:
         1. First Image: A train pulling out of the station at night, steam billowing.
         2. Second Image: The protagonist sitting in a dimly lit compartment, deep in thought.
         3. Third Image: The train speeding through the dark countryside, shadows flickering.
         4. Fourth Image: The protagonist disembarking at a mysterious destination.
-    2. **Lonely Road:**
+    2. Lonely Road:
         1. First Image: A long, empty road stretching into the night.
         2. Second Image: The protagonist driving a vintage car, headlights cutting through the darkness.
         3. Third Image: A roadside diner appearing in the distance.
         4. Fourth Image: The protagonist stopping at the diner, seeking refuge from the night.
 
-21. **Category Name: Noir Reflections**
-    1. **Rainy Window:**
+21. Category Name: Noir Reflections
+    1. Rainy Window:
         1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
         2. Second Image: The reflection of city lights in the window.
         3. Third Image: A shadowy figure approaching from behind.
         4. Fourth Image: The protagonist turning to face the figure, tension in the air.
-    2. **Broken Mirror:**
+    2. Broken Mirror:
         1. First Image: A broken mirror reflecting the protagonist’s troubled face.
         2. Second Image: The protagonist piecing together the fragments of the mirror.
         3. Third Image: The reflection showing a revelation.
         4. Fourth Image: The protagonist leaving, having found clarity in the shattered glass.
 
-22. **Category Name: Noir Heists**
-    1. **Bank Job:**
+22. Category Name: Noir Heists
+    1. Bank Job:
         1. First Image: The exterior of a bank at night, with security lights casting long shadows.
         2. Second Image: The heist crew preparing their equipment in a dimly lit room.
         3. Third Image: The crew breaking into the bank, tension high.
         4. Fourth Image: The crew escaping into the night, shadows concealing their movements.
-    2. **Art Theft:**
+    2. Art Theft:
         1. First Image: An art gallery with valuable paintings under spotlight.
         2. Second Image: The thieves planning the heist, blueprints spread out.
         3. Third Image: The thieves executing the heist, moving stealthily.
         4. Fourth Image: The empty frames left behind, the gallery in darkness.
 
-23. **Category Name: Noir Pursuit**
-    1. **Chase through the Streets:**
+23. Category Name: Noir Pursuit
+    1. Chase through the Streets:
         1. First Image: The protagonist running down a shadowy street.
         2. Second Image: The pursuer close behind, shadows stretching long.
         3. Third Image: A narrow escape through an alleyway.
         4. Fourth Image: The protagonist hiding in a dark corner, catching their breath.
-    2. **Train Station Chase:**
+    2. Train Station Chase:
         1. First Image: The protagonist sprinting through a dimly lit train station.
         2. Second Image: The pursuer weaving through the crowd.
         3. Third Image: A close call as the
@@ -307,145 +307,145 @@ Prompt 2:
  protagonist boards a moving train.
         4. Fourth Image: The protagonist watching the pursuer left behind on the platform.
 
-24. **Category Name: Noir Vengeance**
-    1. **Seeking Revenge:**
+24. Category Name: Noir Vengeance
+    1. Seeking Revenge:
         1. First Image: The protagonist planning revenge in a shadowy room.
         2. Second Image: The protagonist confronting the antagonist in a dark alley.
         3. Third Image: A tense struggle with dramatic lighting.
         4. Fourth Image: The protagonist walking away victorious, leaving the antagonist defeated.
-    2. **Vendetta:**
+    2. Vendetta:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist preparing for confrontation.
         3. Third Image: The protagonist facing the betrayer in a shadowy setting.
         4. Fourth Image: The protagonist emerging victorious, shadows adding to the tension.
 
-25. **Category Name: Noir Secrets**
-    1. **Hidden Room:**
+25. Category Name: Noir Secrets
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
         4. Fourth Image: The protagonist finding a key contact in a dark corner.
 
-26. **Category Name: Noir Justice**
-    1. **Vigilante:**
+26. Category Name: Noir Justice
+    1. Vigilante:
         1. First Image: The protagonist donning a mask in a dimly lit room.
         2. Second Image: The vigilante patrolling the city streets at night.
         3. Third Image: A confrontation with criminals in a dark alley.
         4. Fourth Image: The vigilante standing on a rooftop, overlooking the city.
-    2. **Corrupt Cops:**
+    2. Corrupt Cops:
         1. First Image: The protagonist discovering corruption within the police force.
         2. Second Image: A tense meeting with a trusted ally in a shadowy location.
         3. Third Image: The protagonist gathering evidence against the corrupt officers.
         4. Fourth Image: A dramatic arrest, with shadows highlighting the tension.
 
-27. **Category Name: Noir Mysteries**
-    1. **Hidden Clue:**
+27. Category Name: Noir Mysteries
+    1. Hidden Clue:
         1. First Image: The protagonist discovering a hidden clue in a dark alley.
         2. Second Image: The clue leading to a shadowy figure.
         3. Third Image: A confrontation with the figure in a dimly lit room.
         4. Fourth Image: The protagonist piecing together the mystery, shadows deepening.
-    2. **Secret Map:**
+    2. Secret Map:
         1. First Image: The protagonist finding a secret map in an old book.
         2. Second Image: The map leading to a hidden location.
         3. Third Image: The protagonist arriving at the location at night.
         4. Fourth Image: The mystery unfolding as the protagonist explores the shadows.
 
-28. **Category Name: Noir Reflections**
-    1. **Rainy Window:**
+28. Category Name: Noir Reflections
+    1. Rainy Window:
         1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
         2. Second Image: The reflection of city lights in the window.
         3. Third Image: A shadowy figure approaching from behind.
         4. Fourth Image: The protagonist turning to face the figure, tension in the air.
-    2. **Broken Mirror:**
+    2. Broken Mirror:
         1. First Image: A broken mirror reflecting the protagonist’s troubled face.
         2. Second Image: The protagonist piecing together the fragments of the mirror.
         3. Third Image: The reflection showing a revelation.
         4. Fourth Image: The protagonist leaving, having found clarity in the shattered glass.
 
-29. **Category Name: Noir Intrigue**
-    1. **Secret Rendezvous:**
+29. Category Name: Noir Intrigue
+    1. Secret Rendezvous:
         1. First Image: The protagonist receiving a cryptic message in a shadowy alley.
         2. Second Image: The protagonist meeting a mysterious contact in a dimly lit bar.
         3. Third Image: A whispered conversation filled with tension and secrets.
         4. Fourth Image: The protagonist leaving with new information, shadows deepening the mystery.
-    2. **Mysterious Stranger:**
+    2. Mysterious Stranger:
         1. First Image: The protagonist encountering a stranger in a dark street.
         2. Second Image: The stranger offering a cryptic warning.
         3. Third Image: The protagonist following the stranger into the shadows.
         4. Fourth Image: The stranger disappearing, leaving the protagonist with more questions.
 
-30. **Category Name: Noir Schemes**
-    1. **Elaborate Plan:**
+30. Category Name: Noir Schemes
+    1. Elaborate Plan:
         1. First Image: The protagonist devising a plan in a dimly lit room.
         2. Second Image: The protagonist recruiting allies in shadowy locations.
         3. Third Image: The plan being set into motion, with shadows playing a key role.
         4. Fourth Image: The plan’s success, with the protagonist standing in the aftermath, shadows cast long.
-    2. **Deceptive Plot:**
+    2. Deceptive Plot:
         1. First Image: The antagonist plotting in a darkened room.
         2. Second Image: The antagonist manipulating events from the shadows.
         3. Third Image: The protagonist uncovering the plot, tension rising.
         4. Fourth Image: A dramatic confrontation, with shadows adding to the suspense.
 
-31. **Category Name: Noir Escape**
-    1. **Breaking Free:**
+31. Category Name: Noir Escape
+    1. Breaking Free:
         1. First Image: The protagonist locked in a dimly lit room.
         2. Second Image: The protagonist finding a way to escape through a hidden passage.
         3. Third Image: The protagonist navigating through dark corridors.
         4. Fourth Image: The protagonist emerging into the night, free but wary.
-    2. **Underground Escape:**
+    2. Underground Escape:
         1. First Image: The protagonist trapped in an underground facility.
         2. Second Image: The protagonist discovering a hidden exit.
         3. Third Image: The protagonist navigating through dark tunnels.
         4. Fourth Image: The protagonist reaching the surface, shadows hinting at the danger left behind.
 
-32. **Category Name: Noir Intrigues**
-    1. **Secret Affair:**
+32. Category Name: Noir Intrigues
+    1. Secret Affair:
         1. First Image: The protagonist meeting a lover in a hidden café.
         2. Second Image: A stolen kiss in the alley behind the café.
         3. Third Image: The lovers parting ways, shadows emphasizing their sorrow.
         4. Fourth Image: The protagonist watching the lover disappear into the night.
-    2. **Forbidden Love:**
+    2. Forbidden Love:
         1. First Image: A clandestine meeting in a luxurious hotel room.
         2. Second Image: The lovers discussing their dangerous situation.
         3. Third Image: A sudden interruption by an antagonist, creating tension.
         4. Fourth Image: A dramatic escape, with the lovers holding hands and running through the darkened streets.
 
-33. **Category Name: Noir Pursuit**
-    1. **Chase through the Streets:**
+33. Category Name: Noir Pursuit
+    1. Chase through the Streets:
         1. First Image: The protagonist running down a shadowy street.
         2. Second Image: The pursuer close behind, shadows stretching long.
         3. Third Image: A narrow escape through an alleyway.
         4. Fourth Image: The protagonist hiding in a dark corner, catching their breath.
-    2. **Train Station Chase:**
+    2. Train Station Chase:
         1. First Image: The protagonist sprinting through a dimly lit train station.
         2. Second Image: The pursuer weaving through the crowd.
         3. Third Image: A close call as the protagonist boards a moving train.
         4. Fourth Image: The protagonist watching the pursuer left behind on the platform.
 
-34. **Category Name: Noir Justice**
-    1. **Vigilante:**
+34. Category Name: Noir Justice
+    1. Vigilante:
         1. First Image: The protagonist donning a mask in a dimly lit room.
         2. Second Image: The vigilante patrolling the city streets at night.
         3. Third Image: A confrontation with criminals in a dark alley.
         4. Fourth Image: The vigilante standing on a rooftop, overlooking the city.
-    2. **Corrupt Cops:**
+    2. Corrupt Cops:
         1. First Image: The protagonist discovering corruption within the police force.
         2. Second Image: A tense meeting with a trusted ally in a shadowy location.
         3. Third Image: The protagonist gathering evidence against the corrupt officers.
         4. Fourth Image: A dramatic arrest, with shadows highlighting the tension.
 
-35. **Category Name: Noir Secrets**
-    1. **Hidden Room:**
+35. Category Name: Noir Secrets
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
@@ -453,183 +453,183 @@ Prompt 2:
 
  contact in a dark corner.
 
-36. **Category Name: Noir Vendettas**
-    1. **Seeking Revenge:**
+36. Category Name: Noir Vendettas
+    1. Seeking Revenge:
         1. First Image: The protagonist planning revenge in a shadowy room.
         2. Second Image: The protagonist confronting the antagonist in a dark alley.
         3. Third Image: A tense struggle with dramatic lighting.
         4. Fourth Image: The protagonist walking away victorious, leaving the antagonist defeated.
-    2. **Betrayal:**
+    2. Betrayal:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist preparing for confrontation.
         3. Third Image: The protagonist facing the betrayer in a shadowy setting.
         4. Fourth Image: The protagonist emerging victorious, shadows adding to the tension.
 
-37. **Category Name: Noir Heists**
-    1. **Bank Job:**
+37. Category Name: Noir Heists
+    1. Bank Job:
         1. First Image: The exterior of a bank at night, with security lights casting long shadows.
         2. Second Image: The heist crew preparing their equipment in a dimly lit room.
         3. Third Image: The crew breaking into the bank, tension high.
         4. Fourth Image: The crew escaping into the night, shadows concealing their movements.
-    2. **Art Theft:**
+    2. Art Theft:
         1. First Image: An art gallery with valuable paintings under spotlight.
         2. Second Image: The thieves planning the heist, blueprints spread out.
         3. Third Image: The thieves executing the heist, moving stealthily.
         4. Fourth Image: The empty frames left behind, the gallery in darkness.
 
-38. **Category Name: Noir Mysteries**
-    1. **Hidden Clue:**
+38. Category Name: Noir Mysteries
+    1. Hidden Clue:
         1. First Image: The protagonist discovering a hidden clue in a dark alley.
         2. Second Image: The clue leading to a shadowy figure.
         3. Third Image: A confrontation with the figure in a dimly lit room.
         4. Fourth Image: The protagonist piecing together the mystery, shadows deepening.
-    2. **Secret Map:**
+    2. Secret Map:
         1. First Image: The protagonist finding a secret map in an old book.
         2. Second Image: The map leading to a hidden location.
         3. Third Image: The protagonist arriving at the location at night.
         4. Fourth Image: The mystery unfolding as the protagonist explores the shadows.
 
-39. **Category Name: Noir Romances**
-    1. **Secret Affair:**
+39. Category Name: Noir Romances
+    1. Secret Affair:
         1. First Image: The protagonist meeting a lover in a hidden café.
         2. Second Image: A stolen kiss in the alley behind the café.
         3. Third Image: The lovers parting ways, shadows emphasizing their sorrow.
         4. Fourth Image: The protagonist watching the lover disappear into the night.
-    2. **Forbidden Love:**
+    2. Forbidden Love:
         1. First Image: A clandestine meeting in a luxurious hotel room.
         2. Second Image: The lovers discussing their dangerous situation.
         3. Third Image: A sudden interruption by an antagonist, creating tension.
         4. Fourth Image: A dramatic escape, with the lovers holding hands and running through the darkened streets.
 
-40. **Category Name: Noir Chases**
-    1. **Street Chase:**
+40. Category Name: Noir Chases
+    1. Street Chase:
         1. First Image: The protagonist running down a shadowy street.
         2. Second Image: The pursuer close behind, shadows stretching long.
         3. Third Image: A narrow escape through an alleyway.
         4. Fourth Image: The protagonist hiding in a dark corner, catching their breath.
-    2. **Train Station Chase:**
+    2. Train Station Chase:
         1. First Image: The protagonist sprinting through a dimly lit train station.
         2. Second Image: The pursuer weaving through the crowd.
         3. Third Image: A close call as the protagonist boards a moving train.
         4. Fourth Image: The protagonist watching the pursuer left behind on the platform.
 
-41. **Category Name: Noir Vengeance**
-    1. **Seeking Revenge:**
+41. Category Name: Noir Vengeance
+    1. Seeking Revenge:
         1. First Image: The protagonist plotting revenge in a dimly lit room.
         2. Second Image: The protagonist preparing weapons under the flickering light.
         3. Third Image: A confrontation with the antagonist in a shadowy alley.
         4. Fourth Image: The protagonist walking away victorious, shadows enveloping the scene.
-    2. **Vendetta:**
+    2. Vendetta:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist preparing for confrontation.
         3. Third Image: The protagonist facing the betrayer in a shadowy setting.
         4. Fourth Image: The protagonist emerging victorious, shadows adding to the tension.
 
-42. **Category Name: Noir Crimes**
-    1. **Hidden Room:**
+42. Category Name: Noir Crimes
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
         4. Fourth Image: The protagonist finding a key contact in a dark corner.
 
-43. **Category Name: Noir Journeys**
-    1. **Night Train:**
+43. Category Name: Noir Journeys
+    1. Night Train:
         1. First Image: A train pulling out of the station at night, steam billowing.
         2. Second Image: The protagonist sitting in a dimly lit compartment, deep in thought.
         3. Third Image: The train speeding through the dark countryside, shadows flickering.
         4. Fourth Image: The protagonist disembarking at a mysterious destination.
-    2. **Lonely Road:**
+    2. Lonely Road:
         1. First Image: A long, empty road stretching into the night.
         2. Second Image: The protagonist driving a vintage car, headlights cutting through the darkness.
         3. Third Image: A roadside diner appearing in the distance.
         4. Fourth Image: The protagonist stopping at the diner, seeking refuge from the night.
 
-44. **Category Name: Noir Pursuits**
-    1. **Chase through the Streets:**
+44. Category Name: Noir Pursuits
+    1. Chase through the Streets:
         1. First Image: The protagonist running down a shadowy street.
         2. Second Image: The pursuer close behind, shadows stretching long.
         3. Third Image: A narrow escape through an alleyway.
         4. Fourth Image: The protagonist hiding in a dark corner, catching their breath.
-    2. **Train Station Chase:**
+    2. Train Station Chase:
         1. First Image: The protagonist sprinting through a dimly lit train station.
         2. Second Image: The pursuer weaving through the crowd.
         3. Third Image: A close call as the protagonist boards a moving train.
         4. Fourth Image: The protagonist watching the pursuer left behind on the platform.
 
-45. **Category Name: Noir Mysteries**
-    1. **Hidden Clue:**
+45. Category Name: Noir Mysteries
+    1. Hidden Clue:
         1. First Image: The protagonist discovering a hidden clue in a dark alley.
         2. Second Image: The clue leading to a shadowy figure.
         3. Third Image: A confrontation with the figure in a dimly lit room.
         4. Fourth Image: The protagonist piecing together the mystery, shadows deepening.
-    2. **Secret Map:**
+    2. Secret Map:
         1. First Image: The protagonist finding a secret map in an old book.
         2. Second Image: The map leading to a hidden location.
         3. Third Image: The protagonist arriving at the location at night.
         4. Fourth Image: The mystery unfolding as the protagonist explores the shadows.
 
-46. **Category Name: Noir Reflections**
-    1. **Rainy Window:**
+46. Category Name: Noir Reflections
+    1. Rainy Window:
         1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
         2. Second Image: The reflection of city lights in the window.
         3. Third Image: A shadowy figure approaching from behind.
         4. Fourth Image: The protagonist turning to face the figure, tension in the air.
-    2. **Broken Mirror:**
+    2. Broken Mirror:
         1. First Image: A broken mirror reflecting the protagonist’s troubled face.
         2. Second Image: The protagonist piecing together the fragments of the mirror.
         3. Third Image: The reflection showing a revelation.
         4. Fourth Image: The protagonist leaving, having found clarity in the shattered glass.
 
-47. **Category Name: Noir Betrayal**
-    1. **Double Cross:**
+47. Category Name: Noir Betrayal
+    1. Double Cross:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist preparing for confrontation.
         3. Third Image: The protagonist facing the betrayer in a shadowy setting.
         4. Fourth Image: The protagonist emerging victorious, shadows adding to the tension.
-    2. **False Friends:**
+    2. False Friends:
         1. First Image: The protagonist suspecting betrayal by a close ally.
         2. Second Image: The protagonist gathering evidence in the shadows.
         3. Third Image: A dramatic confrontation in a dimly lit room.
         4. Fourth Image: The protagonist walking away, leaving the betrayer behind.
 
-48. **Category Name: Noir Secrets
+48. Category Name: Noir Secrets
 
-**
-    1. **Hidden Room:**
+
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
         4. Fourth Image: The protagonist finding a key contact in a dark corner.
 
-49. **Category Name: Noir Crimes**
-    1. **Hidden Room:**
+49. Category Name: Noir Crimes
+    1. Hidden Room:
         1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
         2. Second Image: The protagonist discovering the hidden room.
         3. Third Image: The room filled with mysterious artifacts and documents.
         4. Fourth Image: The protagonist uncovering a crucial piece of evidence.
-    2. **Underground Club:**
+    2. Underground Club:
         1. First Image: A hidden entrance to an underground club.
         2. Second Image: The club filled with shady characters, smoke swirling in the air.
         3. Third Image: The protagonist navigating the club, searching for information.
         4. Fourth Image: The protagonist finding a key contact in a dark corner.
 
-50. **Category Name: Noir Vengeance**
-    1. **Seeking Revenge:**
+50. Category Name: Noir Vengeance
+    1. Seeking Revenge:
         1. First Image: The protagonist plotting revenge in a dimly lit room.
         2. Second Image: The protagonist preparing weapons under the flickering light.
         3. Third Image: A confrontation with the antagonist in a shadowy alley.
         4. Fourth Image: The protagonist walking away victorious, shadows enveloping the scene.
-    2. **Vendetta:**
+    2. Vendetta:
         1. First Image: The protagonist discovering a betrayal in a dimly lit room.
         2. Second Image: The protagonist preparing for confrontation.
         3. Third Image: The protagonist facing the betrayer in a shadowy setting.

@@ -27,145 +27,145 @@ Give Me 50 Categories With 'Pixelart' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. **Category Name: Retro Cityscapes**
-    1. **Neon Night:**
+1. Category Name: Retro Cityscapes
+    1. Neon Night:
         1. First Image: A pixelated cityscape with neon lights and a bustling street.
         2. Second Image: The street bustling with pixelated people and cars.
         3. Third Image: A dramatic scene with a pixelated hero standing on a rooftop.
         4. Fourth Image: The city quieting down as night falls, with stars twinkling above.
-    2. **Sunset Overdrive:**
+    2. Sunset Overdrive:
         1. First Image: A pixel art sunset casting a warm glow over a city skyline.
         2. Second Image: The sky turning shades of pink and orange as the sun sets.
         3. Third Image: The city lights starting to flicker on as the day ends.
         4. Fourth Image: The city fully illuminated under a dark night sky.
 
-2. **Category Name: Fantasy Worlds**
-    1. **Enchanted Forest:**
+2. Category Name: Fantasy Worlds
+    1. Enchanted Forest:
         1. First Image: A pixelated enchanted forest with magical creatures.
         2. Second Image: The forest glowing with pixelated fireflies and mystical lights.
         3. Third Image: A pixel hero encountering a magical being in the forest.
         4. Fourth Image: The forest at night, with the moon casting a gentle glow.
-    2. **Dragon’s Lair:**
+    2. Dragon’s Lair:
         1. First Image: A pixelated cave entrance with treasures scattered around.
         2. Second Image: The hero cautiously entering the dragon’s lair.
         3. Third Image: A pixelated dragon guarding a pile of gold.
         4. Fourth Image: The hero and dragon in a climactic battle, with pixelated fire and magic.
 
-3. **Category Name: Sci-Fi Adventures**
-    1. **Space Station:**
+3. Category Name: Sci-Fi Adventures
+    1. Space Station:
         1. First Image: A pixelated space station orbiting a distant planet.
         2. Second Image: The interior of the space station bustling with activity.
         3. Third Image: A space battle outside the station, with pixelated spaceships.
         4. Fourth Image: The hero standing on the station, looking out at the stars.
-    2. **Alien Planet:**
+    2. Alien Planet:
         1. First Image: A pixel art landscape of an alien planet with strange flora.
         2. Second Image: The hero exploring the alien terrain, discovering new creatures.
         3. Third Image: A conflict with hostile alien life forms.
         4. Fourth Image: The hero finding a hidden alien civilization.
 
-4. **Category Name: Medieval Tales**
-    1. **Knight’s Quest:**
+4. Category Name: Medieval Tales
+    1. Knight’s Quest:
         1. First Image: A pixelated knight setting out on a quest from a castle.
         2. Second Image: The knight encountering various challenges in the countryside.
         3. Third Image: A climactic battle with a pixelated monster.
         4. Fourth Image: The knight returning to the castle victorious.
-    2. **Wizards and Spells:**
+    2. Wizards and Spells:
         1. First Image: A pixelated wizard in a mystical tower filled with books and potions.
         2. Second Image: The wizard casting spells and summoning magical creatures.
         3. Third Image: A duel between wizards with pixelated magic effects.
         4. Fourth Image: The wizard mastering a powerful new spell.
 
-5. **Category Name: Underwater Adventures**
-    1. **Deep Sea:**
+5. Category Name: Underwater Adventures
+    1. Deep Sea:
         1. First Image: A pixelated diver exploring the depths of the ocean.
         2. Second Image: The diver encountering colorful pixelated sea creatures.
         3. Third Image: A tense moment with a giant pixelated sea monster.
         4. Fourth Image: The diver discovering a hidden underwater city.
-    2. **Coral Reef:**
+    2. Coral Reef:
         1. First Image: A vibrant pixel art coral reef teeming with life.
         2. Second Image: The hero swimming through the reef, marveling at its beauty.
         3. Third Image: A confrontation with a dangerous pixelated predator.
         4. Fourth Image: The reef at sunset, with the water glowing in warm colors.
 
-6. **Category Name: Dystopian Futures**
-    1. **Cyber City:**
+6. Category Name: Dystopian Futures
+    1. Cyber City:
         1. First Image: A dark, futuristic city with neon signs and towering skyscrapers.
         2. Second Image: A pixelated hero navigating through the crowded streets.
         3. Third Image: A high-stakes chase scene with flying cars and drones.
         4. Fourth Image: The city under a starry sky, with the hero standing victorious.
-    2. **Deserted Wasteland:**
+    2. Deserted Wasteland:
         1. First Image: A pixel art wasteland with abandoned buildings and a desolate landscape.
         2. Second Image: The hero scavenging for supplies in the ruins.
         3. Third Image: A battle with bandits or mutated creatures.
         4. Fourth Image: The hero finding a hidden sanctuary amidst the chaos.
 
-7. **Category Name: Mythical Creatures**
-    1. **Unicorn Valley:**
+7. Category Name: Mythical Creatures
+    1. Unicorn Valley:
         1. First Image: A pixelated valley filled with colorful flowers and a unicorn.
         2. Second Image: The hero befriending the unicorn and exploring the valley.
         3. Third Image: A conflict with dark forces threatening the valley.
         4. Fourth Image: The valley restored to peace, with the unicorn and hero celebrating.
-    2. **Phoenix Rise:**
+    2. Phoenix Rise:
         1. First Image: A pixel art scene of a phoenix nest high in the mountains.
         2. Second Image: The hero watching the phoenix rise from the ashes.
         3. Third Image: A battle to protect the phoenix from enemies.
         4. Fourth Image: The phoenix flying majestically across the sky, symbolizing rebirth.
 
-8. **Category Name: Historical Adventures**
-    1. **Ancient Egypt:**
+8. Category Name: Historical Adventures
+    1. Ancient Egypt:
         1. First Image: A pixelated scene of pyramids and the Sphinx.
         2. Second Image: The hero exploring ancient tombs filled with traps and treasures.
         3. Third Image: A confrontation with a mummy or ancient guardian.
         4. Fourth Image: The hero discovering a hidden chamber with a great treasure.
-    2. **Medieval Europe:**
+    2. Medieval Europe:
         1. First Image: A pixel art village with a castle in the background.
         2. Second Image: The hero interacting with villagers and knights.
         3. Third Image: A battle to defend the village from invaders.
         4. Fourth Image: The village celebrating victory, with fireworks in the sky.
 
-9. **Category Name: Pixelated Horror**
-    1. **Haunted Mansion:**
+9. Category Name: Pixelated Horror
+    1. Haunted Mansion:
         1. First Image: A spooky pixel art mansion with glowing windows.
         2. Second Image: The hero exploring the eerie hallways of the mansion.
         3. Third Image: A jump scare with a ghostly apparition.
         4. Fourth Image: The hero finding a way to banish the spirits and escape.
-    2. **Zombie Apocalypse:**
+    2. Zombie Apocalypse:
         1. First Image: A pixelated city overrun by zombies.
         2. Second Image: The hero fighting through hordes of zombies.
         3. Third Image: A tense moment in a safe house, barricading the doors.
         4. Fourth Image: The hero finding a way to a safe zone, surviving the apocalypse.
 
-10. **Category Name: Pixel Art Fantasy**
-    1. **Magical Forest:**
+10. Category Name: Pixel Art Fantasy
+    1. Magical Forest:
         1. First Image: A pixelated forest with glowing mushrooms and magical creatures.
         2. Second Image: The hero exploring the mystical environment.
         3. Third Image: A battle with an enchanted guardian.
         4. Fourth Image: The forest at night, with fireflies illuminating the surroundings.
-    2. **Dragon’s Peak:**
+    2. Dragon’s Peak:
         1. First Image: A pixel art mountain with a dragon perched on top.
         2. Second Image: The hero climbing the mountain, facing various challenges.
         3. Third Image: A fierce battle with the dragon.
         4. Fourth Image: The hero standing triumphant, the dragon defeated.
 
-11. **Category Name: Pixelated Future**
-    1. **Robot Uprising:**
+11. Category Name: Pixelated Future
+    1. Robot Uprising:
         1. First Image: A pixel art city with robots patrolling the streets.
         2. Second Image: The hero fighting against the robot overlords.
         3. Third Image: A dramatic showdown with the robot leader.
         4. Fourth Image: The city liberated, humans reclaiming their home.
-    2. **Space Exploration:**
+    2. Space Exploration:
         1. First Image: A pixelated spaceship traveling through the galaxy.
         2. Second Image: The crew encountering an alien species.
         3. Third Image: A space battle with enemy ships.
         4. Fourth Image: The crew discovering a new, habitable planet.
 
-12. **Category Name: Retro Adventure**
-    1. **Jungle Quest:**
+12. Category Name: Retro Adventure
+    1. Jungle Quest:
         1. First Image: A pixelated jungle with dense foliage and ancient ruins.
         2. Second Image: The hero navigating through the jungle, encountering wildlife.
         3. Third Image: A tense moment with a wild animal.
         4. Fourth Image: The hero discovering a hidden temple.
-    2. **Desert Trek:**
+    2. Desert Trek:
         1. First Image: A pixel art desert with rolling dunes and a distant oasis.
         2. Second Image: The hero crossing the hot sands, facing harsh conditions.
         3. Third Image: A battle with desert bandits.
@@ -173,157 +173,157 @@ Prompt 2:
 
  The hero reaching the oasis, finding respite.
 
-13. **Category Name: Fantasy Kingdoms**
-    1. **Castle Siege:**
+13. Category Name: Fantasy Kingdoms
+    1. Castle Siege:
         1. First Image: A pixelated castle under siege with catapults and archers.
         2. Second Image: The hero leading a charge to defend the castle.
         3. Third Image: A fierce battle on the castle walls.
         4. Fourth Image: The siege lifted, the castle standing tall.
-    2. **Elven Enclave:**
+    2. Elven Enclave:
         1. First Image: A pixel art elven village nestled in a lush forest.
         2. Second Image: The hero interacting with the elven inhabitants.
         3. Third Image: A conflict with invaders threatening the village.
         4. Fourth Image: The village saved, celebrating with a grand feast.
 
-14. **Category Name: Pixelated Journeys**
-    1. **Mountain Expedition:**
+14. Category Name: Pixelated Journeys
+    1. Mountain Expedition:
         1. First Image: A pixel art mountain range with snow-capped peaks.
         2. Second Image: The hero climbing the mountains, facing treacherous paths.
         3. Third Image: A confrontation with a wild beast.
         4. Fourth Image: The hero reaching the summit, enjoying the view.
-    2. **Island Escape:**
+    2. Island Escape:
         1. First Image: A pixelated tropical island with palm trees and sandy beaches.
         2. Second Image: The hero exploring the island, discovering hidden secrets.
         3. Third Image: A battle with pirates or island creatures.
         4. Fourth Image: The hero finding a way off the island, ready for the next adventure.
 
-15. **Category Name: Pixelated Dreams**
-    1. **Mystic Realm:**
+15. Category Name: Pixelated Dreams
+    1. Mystic Realm:
         1. First Image: A pixel art dreamscape with floating islands and surreal landscapes.
         2. Second Image: The hero navigating through the dream world, encountering strange beings.
         3. Third Image: A battle with a dream guardian.
         4. Fourth Image: The hero waking up, the dream world fading away.
-    2. **Time Travel:**
+    2. Time Travel:
         1. First Image: A pixelated time machine ready for adventure.
         2. Second Image: The hero traveling through different eras, from dinosaurs to futuristic cities.
         3. Third Image: A conflict with time anomalies.
         4. Fourth Image: The hero returning to the present, having restored the timeline.
 
-16. **Category Name: Pixelated Heroes**
-    1. **Masked Vigilante:**
+16. Category Name: Pixelated Heroes
+    1. Masked Vigilante:
         1. First Image: A pixel art hero in a dark city, ready to fight crime.
         2. Second Image: The hero battling villains in the streets.
         3. Third Image: A dramatic rooftop showdown with the main antagonist.
         4. Fourth Image: The city safe, the hero disappearing into the night.
-    2. **Space Ranger:**
+    2. Space Ranger:
         1. First Image: A pixelated space ranger in a futuristic city.
         2. Second Image: The hero patrolling the city, keeping peace.
         3. Third Image: A conflict with space pirates.
         4. Fourth Image: The hero standing victorious, the city grateful.
 
-17. **Category Name: Pixelated Legends**
-    1. **Hero’s Journey:**
+17. Category Name: Pixelated Legends
+    1. Hero’s Journey:
         1. First Image: A pixel art hero setting out from their village.
         2. Second Image: The hero facing various trials and challenges.
         3. Third Image: A climactic battle with a legendary beast.
         4. Fourth Image: The hero returning home, celebrated as a legend.
-    2. **Lost Treasure:**
+    2. Lost Treasure:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
 
-18. **Category Name: Pixel Art Adventures**
-    1. **Cave Explorer:**
+18. Category Name: Pixel Art Adventures
+    1. Cave Explorer:
         1. First Image: A pixelated cave entrance with torches lighting the way.
         2. Second Image: The hero delving deeper, discovering hidden chambers.
         3. Third Image: A battle with cave-dwelling creatures.
         4. Fourth Image: The hero emerging from the cave with newfound treasures.
-    2. **Forest Ranger:**
+    2. Forest Ranger:
         1. First Image: A pixel art forest with towering trees and wildlife.
         2. Second Image: The hero protecting the forest from threats.
         3. Third Image: A conflict with poachers or dark forces.
         4. Fourth Image: The forest restored, the hero standing proud.
 
-19. **Category Name: Pixel Art Battles**
-    1. **Arena Combat:**
+19. Category Name: Pixel Art Battles
+    1. Arena Combat:
         1. First Image: A pixelated arena with a cheering crowd.
         2. Second Image: The hero facing off against a formidable opponent.
         3. Third Image: A tense and thrilling battle.
         4. Fourth Image: The hero standing victorious, the crowd roaring.
-    2. **Castle Defense:**
+    2. Castle Defense:
         1. First Image: A pixel art castle under siege by enemy forces.
         2. Second Image: The hero leading the defense, rallying the troops.
         3. Third Image: A fierce battle on the castle walls.
         4. Fourth Image: The siege lifted, the castle saved.
 
-20. **Category Name: Pixelated Fairytales**
-    1. **Sleeping Beauty:**
+20. Category Name: Pixelated Fairytales
+    1. Sleeping Beauty:
         1. First Image: A pixelated castle with a princess asleep in a tower.
         2. Second Image: The hero navigating through magical obstacles.
         3. Third Image: A battle with the evil sorceress.
         4. Fourth Image: The princess awakening, the kingdom celebrating.
-    2. **Cinderella:**
+    2. Cinderella:
         1. First Image: A pixel art Cinderella in a humble home.
         2. Second Image: The fairy godmother granting magical wishes.
         3. Third Image: Cinderella at the ball, meeting the prince.
         4. Fourth Image: The happily ever after, with the kingdom rejoicing.
 
-21. **Category Name: Pixel Art Fantasy Worlds**
-    1. **Wizard’s Tower:**
+21. Category Name: Pixel Art Fantasy Worlds
+    1. Wizard’s Tower:
         1. First Image: A pixelated tower with a glowing aura.
         2. Second Image: The hero climbing the tower, facing magical traps.
         3. Third Image: A battle with the tower’s guardian.
         4. Fourth Image: The hero reaching the top, claiming a powerful artifact.
-    2. **Dragon’s Lair:**
+    2. Dragon’s Lair:
         1. First Image: A pixel art cave with a dragon sleeping inside.
         2. Second Image: The hero sneaking into the lair, avoiding detection.
         3. Third Image: A battle with the dragon.
         4. Fourth Image: The hero emerging victorious, the dragon defeated.
 
-22. **Category Name: Pixel Art Legends**
-    1. **Knight’s Quest:**
+22. Category Name: Pixel Art Legends
+    1. Knight’s Quest:
         1. First Image: A pixelated knight setting out from a castle.
         2. Second Image: The knight encountering various challenges.
         3. Third Image: A climactic battle with a powerful foe.
         4. Fourth Image: The knight returning home, celebrated as a hero.
-    2. **Hero’s Journey:**
+    2. Hero’s Journey:
         1. First Image: A pixel art hero setting out on an adventure.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
 
-23. **Category Name: Pixel Art Realms**
-    1. **Mystic Woods:**
+23. Category Name: Pixel Art Realms
+    1. Mystic Woods:
         1. First Image: A pixelated forest with glowing flora and fauna.
         2. Second Image: The hero exploring the mystical woods.
         3. Third Image: A battle with enchanted creatures.
         4. Fourth Image: The hero discovering the heart of the forest, filled with magic.
-    2. **Crystal Caves:**
+    2. Crystal Caves:
         1. First Image: A pixel art cave with glittering crystals.
         2. Second Image: The hero navigating through the crystal labyrinth.
         3. Third Image: A battle with cave guardians.
         4. Fourth Image: The hero finding a hidden treasure within the crystals.
 
-24. **Category Name: Pixel Art Dreams**
-    1. **Dreamscape:**
+24. Category Name: Pixel Art Dreams
+    1. Dreamscape:
         1. First Image: A pixelated dream world with floating islands and surreal landscapes.
         2. Second Image: The hero navigating through the dreamscape.
         3. Third Image: A battle with a dream guardian.
         4. Fourth Image: The hero waking up, the dream world fading away.
-    2. **Nightmare Realm:**
+    2. Nightmare Realm:
         1. First Image: A pixel art nightmare world with dark, twisted landscapes.
         2. Second Image: The hero facing their fears in the nightmare realm.
         3. Third Image: A confrontation with a nightmare creature.
         4. Fourth Image: The hero overcoming the nightmare, waking up relieved.
 
-25. **Category Name: Pixel Art Legends**
-    1. **Lost Kingdom:**
+25. Category Name: Pixel Art Legends
+    1. Lost Kingdom:
         1. First Image: A pixelated ancient kingdom lost to time.
         2. Second Image: The hero discovering the ruins of the kingdom.
         3. Third Image: A battle with the kingdom’s guardians.
         4. Fourth Image: The hero uncovering the secrets of the lost kingdom.
-    2. **Legendary Weapon:**
+    2. Legendary Weapon:
         1. First Image: A pixel art
 
  scene of a legendary weapon hidden in a cave.
@@ -331,303 +331,303 @@ Prompt 2:
         3. Third Image: A battle using the newfound weapon’s power.
         4. Fourth Image: The hero standing victorious, the weapon glowing with magic.
 
-26. **Category Name: Pixel Art Realms**
-    1. **Enchanted Forest:**
+26. Category Name: Pixel Art Realms
+    1. Enchanted Forest:
         1. First Image: A pixelated forest with glowing plants and magical creatures.
         2. Second Image: The hero exploring the forest, meeting mystical beings.
         3. Third Image: A battle with enchanted guardians.
         4. Fourth Image: The forest at peace, the hero standing triumphant.
-    2. **Cursed Swamp:**
+    2. Cursed Swamp:
         1. First Image: A pixel art swamp with eerie, twisted trees and fog.
         2. Second Image: The hero navigating through the swamp, facing dangers.
         3. Third Image: A confrontation with swamp monsters.
         4. Fourth Image: The curse lifted, the swamp returning to a peaceful state.
 
-27. **Category Name: Pixel Art Adventures**
-    1. **Desert Oasis:**
+27. Category Name: Pixel Art Adventures
+    1. Desert Oasis:
         1. First Image: A pixelated desert with a hidden oasis.
         2. Second Image: The hero discovering the oasis, finding respite.
         3. Third Image: A conflict with desert raiders.
         4. Fourth Image: The oasis protected, the hero standing victorious.
-    2. **Ice Cavern:**
+    2. Ice Cavern:
         1. First Image: A pixel art ice cavern with shimmering icicles.
         2. Second Image: The hero exploring the icy depths.
         3. Third Image: A battle with ice creatures.
         4. Fourth Image: The hero discovering a hidden treasure within the ice.
 
-28. **Category Name: Pixel Art Quests**
-    1. **Treasure Hunt:**
+28. Category Name: Pixel Art Quests
+    1. Treasure Hunt:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
-    2. **Rescue Mission:**
+    2. Rescue Mission:
         1. First Image: A pixel art scene of a village in distress.
         2. Second Image: The hero setting out to rescue the villagers.
         3. Third Image: A battle with the captors.
         4. Fourth Image: The villagers freed, celebrating their hero.
 
-29. **Category Name: Pixel Art Worlds**
-    1. **Floating Islands:**
+29. Category Name: Pixel Art Worlds
+    1. Floating Islands:
         1. First Image: A pixelated world of floating islands in the sky.
         2. Second Image: The hero exploring the islands, encountering challenges.
         3. Third Image: A conflict with aerial creatures.
         4. Fourth Image: The hero discovering the heart of the islands, a hidden sanctuary.
-    2. **Underwater City:**
+    2. Underwater City:
         1. First Image: A pixel art underwater city with glowing buildings.
         2. Second Image: The hero navigating through the city, meeting its inhabitants.
         3. Third Image: A battle with sea monsters.
         4. Fourth Image: The city saved, the hero celebrated as a savior.
 
-30. **Category Name: Pixel Art Legends**
-    1. **Hero’s Quest:**
+30. Category Name: Pixel Art Legends
+    1. Hero’s Quest:
         1. First Image: A pixel art hero setting out on an epic quest.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
-    2. **Legendary Beast:**
+    2. Legendary Beast:
         1. First Image: A pixel art scene of a legendary beast sleeping in a cave.
         2. Second Image: The hero sneaking into the cave, avoiding detection.
         3. Third Image: A battle with the beast.
         4. Fourth Image: The hero emerging victorious, the beast defeated.
 
-31. **Category Name: Pixel Art Realms**
-    1. **Mystic Woods:**
+31. Category Name: Pixel Art Realms
+    1. Mystic Woods:
         1. First Image: A pixelated forest with glowing flora and fauna.
         2. Second Image: The hero exploring the mystical woods.
         3. Third Image: A battle with enchanted creatures.
         4. Fourth Image: The hero discovering the heart of the forest, filled with magic.
-    2. **Crystal Caves:**
+    2. Crystal Caves:
         1. First Image: A pixel art cave with glittering crystals.
         2. Second Image: The hero navigating through the crystal labyrinth.
         3. Third Image: A battle with cave guardians.
         4. Fourth Image: The hero finding a hidden treasure within the crystals.
 
-32. **Category Name: Pixel Art Adventures**
-    1. **Cave Explorer:**
+32. Category Name: Pixel Art Adventures
+    1. Cave Explorer:
         1. First Image: A pixelated cave entrance with torches lighting the way.
         2. Second Image: The hero delving deeper, discovering hidden chambers.
         3. Third Image: A battle with cave-dwelling creatures.
         4. Fourth Image: The hero emerging from the cave with newfound treasures.
-    2. **Forest Ranger:**
+    2. Forest Ranger:
         1. First Image: A pixel art forest with towering trees and wildlife.
         2. Second Image: The hero protecting the forest from threats.
         3. Third Image: A conflict with poachers or dark forces.
         4. Fourth Image: The forest restored, the hero standing proud.
 
-33. **Category Name: Pixel Art Quests**
-    1. **Treasure Hunt:**
+33. Category Name: Pixel Art Quests
+    1. Treasure Hunt:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
-    2. **Rescue Mission:**
+    2. Rescue Mission:
         1. First Image: A pixel art scene of a village in distress.
         2. Second Image: The hero setting out to rescue the villagers.
         3. Third Image: A battle with the captors.
         4. Fourth Image: The villagers freed, celebrating their hero.
 
-34. **Category Name: Pixel Art Realms**
-    1. **Enchanted Forest:**
+34. Category Name: Pixel Art Realms
+    1. Enchanted Forest:
         1. First Image: A pixelated forest with glowing plants and magical creatures.
         2. Second Image: The hero exploring the forest, meeting mystical beings.
         3. Third Image: A battle with enchanted guardians.
         4. Fourth Image: The forest at peace, the hero standing triumphant.
-    2. **Cursed Swamp:**
+    2. Cursed Swamp:
         1. First Image: A pixel art swamp with eerie, twisted trees and fog.
         2. Second Image: The hero navigating through the swamp, facing dangers.
         3. Third Image: A confrontation with swamp monsters.
         4. Fourth Image: The curse lifted, the swamp returning to a peaceful state.
 
-35. **Category Name: Pixel Art Legends**
-    1. **Lost Kingdom:**
+35. Category Name: Pixel Art Legends
+    1. Lost Kingdom:
         1. First Image: A pixelated ancient kingdom lost to time.
         2. Second Image: The hero discovering the ruins of the kingdom.
         3. Third Image: A battle with the kingdom’s guardians.
         4. Fourth Image: The hero uncovering the secrets of the lost kingdom.
-    2. **Legendary Weapon:**
+    2. Legendary Weapon:
         1. First Image: A pixel art scene of a legendary weapon hidden in a cave.
         2. Second Image: The hero finding the weapon.
         3. Third Image: A battle using the newfound weapon’s power.
         4. Fourth Image: The hero standing victorious, the weapon glowing with magic.
 
-36. **Category Name: Pixel Art Legends**
-    1. **Hero’s Quest:**
+36. Category Name: Pixel Art Legends
+    1. Hero’s Quest:
         1. First Image: A pixel art hero setting out on an epic quest.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
-    2. **Legendary Beast:**
+    2. Legendary Beast:
         1. First Image: A pixel art scene of a legendary beast sleeping in a cave.
         2. Second Image: The hero sneaking into the cave, avoiding detection.
         3. Third Image: A battle with the beast.
         4. Fourth Image: The hero emerging victorious, the beast defeated.
 
-37. **Category Name: Pixel Art Realms**
-    1. **Mystic Woods:**
+37. Category Name: Pixel Art Realms
+    1. Mystic Woods:
         1. First Image: A pixelated forest with glowing flora and fauna.
         2. Second Image: The hero exploring the mystical woods.
         3. Third Image: A battle with enchanted creatures.
         4. Fourth Image: The hero discovering the heart of the forest, filled with magic.
-    2. **Crystal Caves:**
+    2. Crystal Caves:
         1. First Image: A pixel art cave with glittering crystals.
         2. Second Image: The hero navigating through the crystal labyrinth.
         3. Third Image: A battle with cave guardians.
         4. Fourth Image: The hero finding a hidden treasure within the crystals.
 
-38. **Category Name: Pixel Art Adventures**
-    1. **Cave Explorer:**
+38. Category Name: Pixel Art Adventures
+    1. Cave Explorer:
         1. First Image: A pixelated cave entrance with torches lighting the way.
         2. Second Image: The hero delving deeper, discovering hidden chambers.
         3. Third Image: A battle with cave-dwelling creatures
 
 .
         4. Fourth Image: The hero emerging from the cave with newfound treasures.
-    2. **Forest Ranger:**
+    2. Forest Ranger:
         1. First Image: A pixel art forest with towering trees and wildlife.
         2. Second Image: The hero protecting the forest from threats.
         3. Third Image: A conflict with poachers or dark forces.
         4. Fourth Image: The forest restored, the hero standing proud.
 
-39. **Category Name: Pixel Art Quests**
-    1. **Treasure Hunt:**
+39. Category Name: Pixel Art Quests
+    1. Treasure Hunt:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
-    2. **Rescue Mission:**
+    2. Rescue Mission:
         1. First Image: A pixel art scene of a village in distress.
         2. Second Image: The hero setting out to rescue the villagers.
         3. Third Image: A battle with the captors.
         4. Fourth Image: The villagers freed, celebrating their hero.
 
-40. **Category Name: Pixel Art Worlds**
-    1. **Floating Islands:**
+40. Category Name: Pixel Art Worlds
+    1. Floating Islands:
         1. First Image: A pixelated world of floating islands in the sky.
         2. Second Image: The hero exploring the islands, encountering challenges.
         3. Third Image: A conflict with aerial creatures.
         4. Fourth Image: The hero discovering the heart of the islands, a hidden sanctuary.
-    2. **Underwater City:**
+    2. Underwater City:
         1. First Image: A pixel art underwater city with glowing buildings.
         2. Second Image: The hero navigating through the city, meeting its inhabitants.
         3. Third Image: A battle with sea monsters.
         4. Fourth Image: The city saved, the hero celebrated as a savior.
 
-41. **Category Name: Pixel Art Legends**
-    1. **Hero’s Quest:**
+41. Category Name: Pixel Art Legends
+    1. Hero’s Quest:
         1. First Image: A pixel art hero setting out on an epic quest.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
-    2. **Legendary Beast:**
+    2. Legendary Beast:
         1. First Image: A pixel art scene of a legendary beast sleeping in a cave.
         2. Second Image: The hero sneaking into the cave, avoiding detection.
         3. Third Image: A battle with the beast.
         4. Fourth Image: The hero emerging victorious, the beast defeated.
 
-42. **Category Name: Pixel Art Realms**
-    1. **Mystic Woods:**
+42. Category Name: Pixel Art Realms
+    1. Mystic Woods:
         1. First Image: A pixelated forest with glowing flora and fauna.
         2. Second Image: The hero exploring the mystical woods.
         3. Third Image: A battle with enchanted creatures.
         4. Fourth Image: The hero discovering the heart of the forest, filled with magic.
-    2. **Crystal Caves:**
+    2. Crystal Caves:
         1. First Image: A pixel art cave with glittering crystals.
         2. Second Image: The hero navigating through the crystal labyrinth.
         3. Third Image: A battle with cave guardians.
         4. Fourth Image: The hero finding a hidden treasure within the crystals.
 
-43. **Category Name: Pixel Art Legends**
-    1. **Hero’s Quest:**
+43. Category Name: Pixel Art Legends
+    1. Hero’s Quest:
         1. First Image: A pixel art hero setting out on an epic quest.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
-    2. **Legendary Beast:**
+    2. Legendary Beast:
         1. First Image: A pixel art scene of a legendary beast sleeping in a cave.
         2. Second Image: The hero sneaking into the cave, avoiding detection.
         3. Third Image: A battle with the beast.
         4. Fourth Image: The hero emerging victorious, the beast defeated.
 
-44. **Category Name: Pixel Art Adventures**
-    1. **Cave Explorer:**
+44. Category Name: Pixel Art Adventures
+    1. Cave Explorer:
         1. First Image: A pixelated cave entrance with torches lighting the way.
         2. Second Image: The hero delving deeper, discovering hidden chambers.
         3. Third Image: A battle with cave-dwelling creatures.
         4. Fourth Image: The hero emerging from the cave with newfound treasures.
-    2. **Forest Ranger:**
+    2. Forest Ranger:
         1. First Image: A pixel art forest with towering trees and wildlife.
         2. Second Image: The hero protecting the forest from threats.
         3. Third Image: A conflict with poachers or dark forces.
         4. Fourth Image: The forest restored, the hero standing proud.
 
-45. **Category Name: Pixel Art Quests**
-    1. **Treasure Hunt:**
+45. Category Name: Pixel Art Quests
+    1. Treasure Hunt:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
-    2. **Rescue Mission:**
+    2. Rescue Mission:
         1. First Image: A pixel art scene of a village in distress.
         2. Second Image: The hero setting out to rescue the villagers.
         3. Third Image: A battle with the captors.
         4. Fourth Image: The villagers freed, celebrating their hero.
 
-46. **Category Name: Pixel Art Worlds**
-    1. **Floating Islands:**
+46. Category Name: Pixel Art Worlds
+    1. Floating Islands:
         1. First Image: A pixelated world of floating islands in the sky.
         2. Second Image: The hero exploring the islands, encountering challenges.
         3. Third Image: A conflict with aerial creatures.
         4. Fourth Image: The hero discovering the heart of the islands, a hidden sanctuary.
-    2. **Underwater City:**
+    2. Underwater City:
         1. First Image: A pixel art underwater city with glowing buildings.
         2. Second Image: The hero navigating through the city, meeting its inhabitants.
         3. Third Image: A battle with sea monsters.
         4. Fourth Image: The city saved, the hero celebrated as a savior.
 
-47. **Category Name: Pixel Art Legends**
-    1. **Hero’s Quest:**
+47. Category Name: Pixel Art Legends
+    1. Hero’s Quest:
         1. First Image: A pixel art hero setting out on an epic quest.
         2. Second Image: The hero facing trials and overcoming obstacles.
         3. Third Image: A confrontation with the main antagonist.
         4. Fourth Image: The hero’s triumphant return, hailed as a legend.
-    2. **Legendary Beast:**
+    2. Legendary Beast:
         1. First Image: A pixel art scene of a legendary beast sleeping in a cave.
         2. Second Image: The hero sneaking into the cave, avoiding detection.
         3. Third Image: A battle with the beast.
         4. Fourth Image: The hero emerging victorious, the beast defeated.
 
-48. **Category Name: Pixel Art Adventures**
-    1. **Cave Explorer:**
+48. Category Name: Pixel Art Adventures
+    1. Cave Explorer:
         1. First Image: A pixelated cave entrance with torches lighting the way.
         2. Second Image: The hero delving deeper, discovering hidden chambers.
         3. Third Image: A battle with cave-dwelling creatures.
         4. Fourth Image: The hero emerging from the cave with newfound treasures.
-    2. **Forest Ranger:**
+    2. Forest Ranger:
         1. First Image: A pixel art forest with towering trees and wildlife.
         2. Second Image: The hero protecting the forest from threats.
         3. Third Image: A conflict with poachers or dark forces.
         4. Fourth Image: The forest restored, the hero standing proud.
 
-49. **Category Name: Pixel Art Quests**
-    1. **Treasure Hunt:**
+49. Category Name: Pixel Art Quests
+    1. Treasure Hunt:
         1. First Image: A pixelated map leading to hidden treasure.
         2. Second Image: The hero deciphering clues and solving puzzles.
         3. Third Image: A confrontation with treasure guardians.
         4. Fourth Image: The hero finding the treasure, their journey complete.
-    2. **Rescue Mission:**
+    2. Rescue Mission:
         1. First Image: A pixel art scene of a village in distress.
         2. Second Image: The hero setting out to rescue the villagers.
         3. Third Image: A battle with the captors.
         4. Fourth Image: The villagers freed, celebrating their hero.
 
-50. **Category Name: Pixel Art Worlds**
-    1. **Floating Islands:**
+50. Category Name: Pixel Art Worlds
+    1. Floating Islands:
         1. First Image: A pixelated world of floating islands in the sky.
         2. Second Image: The hero exploring the islands, encountering challenges.
         3. Third Image: A conflict with aerial creatures.
         4. Fourth Image: The hero discovering the heart of the islands, a hidden sanctuary.
-    2. **Underwater City:**
+    2. Underwater City:
         1. First Image: A pixel art underwater city with glowing buildings.
         2. Second Image: The hero navigating through the city, meeting its inhabitants.
         3. Third Image: A battle with sea monsters.

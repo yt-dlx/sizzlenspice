@@ -27,133 +27,133 @@ Give Me 50 Categories With 'Steampunk' Design Style. Response Example:
 Prompt 2:
     Give Me More 50 And Make Sure Nothing Should Repeat From The Previous Categories And Wallpapers.
 ================================================================ X ================================================================
-1. **Category Name: Steampunk Cities**
-    1. **Clockwork Metropolis:**
+1. Category Name: Steampunk Cities
+    1. Clockwork Metropolis:
         1. First Image: A bustling steampunk city with towering clockwork buildings and airships flying above.
         2. Second Image: Street-level view with people in Victorian attire, steam-powered vehicles, and vendors selling mechanical trinkets.
         3. Third Image: A dramatic scene with an airship docking at a towering platform.
         4. Fourth Image: The city illuminated at night with glowing lanterns and mechanical lights.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: A sprawling industrial city with smokestacks and factories churning out steam.
         2. Second Image: Workers in Victorian-era clothing operating massive steampunk machinery.
         3. Third Image: An inventor showcasing a new steam-powered device in a crowded marketplace.
         4. Fourth Image: The city skyline at dusk, with factories silhouetted against the setting sun.
 
-2. **Category Name: Steampunk Adventures**
-    1. **Airship Pirates:**
+2. Category Name: Steampunk Adventures
+    1. Airship Pirates:
         1. First Image: A steampunk airship flying through the clouds, with pirate flags waving.
         2. Second Image: The crew, dressed in steampunk pirate attire, preparing for a raid.
         3. Third Image: A fierce battle in the sky between rival airships.
         4. Fourth Image: The victorious pirates celebrating with their loot, the cityscape below.
-    2. **Explorers of the Unknown:**
+    2. Explorers of the Unknown:
         1. First Image: A team of steampunk adventurers setting out on an expedition in a rugged terrain.
         2. Second Image: The group encountering mysterious mechanical creatures in a dense forest.
         3. Third Image: A thrilling moment as the adventurers navigate through ancient ruins filled with traps.
         4. Fourth Image: Discovering a hidden steampunk city, their expressions filled with awe.
 
-3. **Category Name: Steampunk Technology**
-    1. **Automaton Workshop:**
+3. Category Name: Steampunk Technology
+    1. Automaton Workshop:
         1. First Image: A workshop filled with half-finished automatons and intricate mechanical parts.
         2. Second Image: An inventor tinkering with a clockwork robot, surrounded by blueprints.
         3. Third Image: The automaton coming to life, with gears and cogs moving smoothly.
         4. Fourth Image: The inventor showcasing the completed automaton to an intrigued audience.
-    2. **Steam-Powered Inventions:**
+    2. Steam-Powered Inventions:
         1. First Image: A grand exhibition hall displaying various steam-powered inventions.
         2. Second Image: Inventors presenting their creations, from steam-powered vehicles to intricate gadgets.
         3. Third Image: A dramatic demonstration of a large steam-powered machine.
         4. Fourth Image: The crowd applauding as the exhibition closes, inventors packing up their creations.
 
-4. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+4. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
         2. Second Image: Detailed view of their gear, including belts, pouches, and mechanical tools.
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-5. **Category Name: Steampunk Architecture**
-    1. **Clockwork Castle:**
+5. Category Name: Steampunk Architecture
+    1. Clockwork Castle:
         1. First Image: A majestic steampunk castle with towers and gears visible on the exterior.
         2. Second Image: The grand entrance hall with intricate mechanical decorations.
         3. Third Image: Secret passages and hidden rooms filled with steam-powered contraptions.
         4. Fourth Image: The castle illuminated at night, gears and cogs moving in synchrony.
-    2. **Mechanical Mansion:**
+    2. Mechanical Mansion:
         1. First Image: A lavish mansion with a blend of Victorian and steampunk design elements.
         2. Second Image: The interior, showcasing rooms with elegant furniture and mechanical gadgets.
         3. Third Image: The mansion’s library filled with old books and blueprints.
         4. Fourth Image: The mansion’s garden, with mechanical fountains and automatons tending to the plants.
 
-6. **Category Name: Steampunk Transport**
-    1. **Airships:**
+6. Category Name: Steampunk Transport
+    1. Airships:
         1. First Image: A massive steampunk airship docked at a floating skyport.
         2. Second Image: The interior of the airship, with luxurious cabins and a control room filled with gears.
         3. Third Image: The airship in flight, with passengers enjoying the scenic view from above.
         4. Fourth Image: The airship landing at a remote outpost, with crew members preparing for departure.
-    2. **Steam Trains:**
+    2. Steam Trains:
         1. First Image: A powerful steam train with intricate designs, arriving at a bustling station.
         2. Second Image: Passengers boarding the train, excited for their journey.
         3. Third Image: The train traveling through picturesque landscapes, steam billowing from its engine.
         4. Fourth Image: The train arriving at a grand station, with porters helping passengers disembark.
 
-7. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+7. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-8. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+8. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         1. First Image: A forest with mechanical animals roaming and interacting with the environment.
         2. Second Image: A steampunk explorer observing the mechanical wildlife.
         3. Third Image: A dramatic encounter with a large mechanical beast.
         4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-9. **Category Name: Steampunk Warfare**
-    1. **Mechanical Soldiers:**
+9. Category Name: Steampunk Warfare
+    1. Mechanical Soldiers:
         1. First Image: An army of steam-powered soldiers preparing for battle.
         2. Second Image: The soldiers marching through a steampunk city.
         3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
         4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-    2. **Airship Battles:**
+    2. Airship Battles:
         1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
         2. Second Image: Crew members scrambling to man their battle stations.
         3. Third Image: The airships closing in for a boarding action.
         4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-10. **Category Name: Steampunk Festivals**
-    1. **Steam Fair:**
+10. Category Name: Steampunk Festivals
+    1. Steam Fair:
         1. First Image: A lively steampunk fair with mechanical rides, games, and attractions.
         2. Second Image: Visitors in elaborate steampunk costumes enjoying the festivities.
         3. Third Image: A grand parade with steam-powered floats and performers.
         4. Fourth Image: The fairgrounds illuminated at night with glowing lanterns and fireworks.
-    2. **Clockwork Carnival:**
+    2. Clockwork Carnival:
         1. First Image: A carnival filled with mechanical wonders and steampunk rides.
         2. Second Image: People playing games, winning mechanical prizes.
         3. Third Image: A dramatic performance by clockwork acrobats.
         4. Fourth Image: The carnival winding down, with the lights casting a warm glow.
 
-11. **Category Name: Steampunk History**
-    1. **Victorian Era:**
+11. Category Name: Steampunk History
+    1. Victorian Era:
         1. First Image: A bustling Victorian street with steam-powered carriages and elegantly dressed pedestrians.
         2. Second Image: Inside a grand Victorian house with steampunk decorations.
         3. Third Image: A high-society event with guests in steampunk attire.
         4. Fourth Image: The city at night, illuminated by gas lamps and mechanical lanterns.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: Factories and smokestacks dominating a steampunk industrial landscape.
         2. Second Image: Workers operating massive steam-powered machines.
         3.
@@ -161,133 +161,133 @@ Prompt 2:
  Third Image: Inventors and engineers collaborating on new technologies.
         4. Fourth Image: The city skyline with factories silhouetted against a smoky sunset.
 
-12. **Category Name: Steampunk Science**
-    1. **Mad Scientist's Lab:**
+12. Category Name: Steampunk Science
+    1. Mad Scientist's Lab:
         1. First Image: A cluttered lab filled with bizarre steam-powered contraptions.
         2. Second Image: The scientist working on an experiment with bubbling vials and mechanical arms.
         3. Third Image: A dramatic moment as an experiment goes awry, with steam and sparks flying.
         4. Fourth Image: The scientist making a breakthrough, with a newly created device glowing softly.
-    2. **Steampunk Laboratory:**
+    2. Steampunk Laboratory:
         1. First Image: A grand laboratory with massive gears and glass tubes.
         2. Second Image: Scientists working on various projects, surrounded by steam and machinery.
         3. Third Image: A successful experiment unveiling a new steampunk invention.
         4. Fourth Image: The laboratory celebrating their achievements, the atmosphere filled with excitement.
 
-13. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+13. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-14. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+14. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
         2. Second Image: Detailed view of their gear, including belts, pouches, and mechanical tools.
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-15. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+15. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         1. First Image: A forest with mechanical animals roaming and interacting with the environment.
         2. Second Image: A steampunk explorer observing the mechanical wildlife.
         3. Third Image: A dramatic encounter with a large mechanical beast.
         4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-16. **Category Name: Steampunk Technology**
-    1. **Automaton Workshop:**
+16. Category Name: Steampunk Technology
+    1. Automaton Workshop:
         1. First Image: A workshop filled with half-finished automatons and intricate mechanical parts.
         2. Second Image: An inventor tinkering with a clockwork robot, surrounded by blueprints.
         3. Third Image: The automaton coming to life, with gears and cogs moving smoothly.
         4. Fourth Image: The inventor showcasing the completed automaton to an intrigued audience.
-    2. **Steam-Powered Inventions:**
+    2. Steam-Powered Inventions:
         1. First Image: A grand exhibition hall displaying various steam-powered inventions.
         2. Second Image: Inventors presenting their creations, from steam-powered vehicles to intricate gadgets.
         3. Third Image: A dramatic demonstration of a large steam-powered machine.
         4. Fourth Image: The crowd applauding as the exhibition closes, inventors packing up their creations.
 
-17. **Category Name: Steampunk Fantasy**
-    1. **Magical Steam:**
+17. Category Name: Steampunk Fantasy
+    1. Magical Steam:
         1. First Image: A world where magic and steampunk technology coexist, with wizards wielding mechanical staffs.
         2. Second Image: A dramatic battle between magical creatures and steam-powered warriors.
         3. Third Image: A city where floating islands are held aloft by steam and magic.
         4. Fourth Image: The protagonist discovering a hidden realm where the two forces are in perfect harmony.
-    2. **Enchanted Machines:**
+    2. Enchanted Machines:
         1. First Image: A workshop where enchanted machinery is crafted by skilled artisans.
         2. Second Image: An inventor using magical crystals to power a new creation.
         3. Third Image: The machine coming to life with a blend of steam and enchantment.
         4. Fourth Image: The invention being used to solve a critical problem in the city.
 
-18. **Category Name: Steampunk Warfare**
-    1. **Mechanical Soldiers:**
+18. Category Name: Steampunk Warfare
+    1. Mechanical Soldiers:
         1. First Image: An army of steam-powered soldiers preparing for battle.
         2. Second Image: The soldiers marching through a steampunk city.
         3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
         4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-    2. **Airship Battles:**
+    2. Airship Battles:
         1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
         2. Second Image: Crew members scrambling to man their battle stations.
         3. Third Image: The airships closing in for a boarding action.
         4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-19. **Category Name: Steampunk Cities**
-    1. **Clockwork Metropolis:**
+19. Category Name: Steampunk Cities
+    1. Clockwork Metropolis:
         1. First Image: A bustling steampunk city with towering clockwork buildings and airships flying above.
         2. Second Image: Street-level view with people in Victorian attire, steam-powered vehicles, and vendors selling mechanical trinkets.
         3. Third Image: A dramatic scene with an airship docking at a towering platform.
         4. Fourth Image: The city illuminated at night with glowing lanterns and mechanical lights.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: A sprawling industrial city with smokestacks and factories churning out steam.
         2. Second Image: Workers in Victorian-era clothing operating massive steampunk machinery.
         3. Third Image: An inventor showcasing a new steam-powered device in a crowded marketplace.
         4. Fourth Image: The city skyline at dusk, with factories silhouetted against the setting sun.
 
-20. **Category Name: Steampunk Adventures**
-    1. **Airship Pirates:**
+20. Category Name: Steampunk Adventures
+    1. Airship Pirates:
         1. First Image: A steampunk airship flying through the clouds, with pirate flags waving.
         2. Second Image: The crew, dressed in steampunk pirate attire, preparing for a raid.
         3. Third Image: A fierce battle in the sky between rival airships.
         4. Fourth Image: The victorious pirates celebrating with their loot, the cityscape below.
-    2. **Explorers of the Unknown:**
+    2. Explorers of the Unknown:
         1. First Image: A team of steampunk adventurers setting out on an expedition in a rugged terrain.
         2. Second Image: The group encountering mysterious mechanical creatures in a dense forest.
         3. Third Image: A thrilling moment as the adventurers navigate through ancient ruins filled with traps.
         4. Fourth Image: Discovering a hidden steampunk city, their expressions filled with awe.
 
-21. **Category Name: Steampunk Technology**
-    1. **Automaton Workshop:**
+21. Category Name: Steampunk Technology
+    1. Automaton Workshop:
         1. First Image: A workshop filled with half-finished automatons and intricate mechanical parts.
         2. Second Image: An inventor tinkering with a clockwork robot, surrounded by blueprints.
         3. Third Image: The automaton coming to life, with gears and cogs moving smoothly.
         4. Fourth Image: The inventor showcasing the completed automaton to an intrigued audience.
-    2. **Steam-Powered Inventions:**
+    2. Steam-Powered Inventions:
         1. First Image: A grand exhibition hall displaying various steam-powered inventions.
         2. Second Image: Inventors presenting their creations, from steam-powered vehicles to intricate gadgets.
         3. Third Image: A dramatic demonstration of a large steam-powered machine.
         4. Fourth Image: The crowd applauding as the exhibition closes, inventors packing up their creations.
 
-22. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+22. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
 
 
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
@@ -295,133 +295,133 @@ Prompt 2:
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-23. **Category Name: Steampunk Architecture**
-    1. **Clockwork Castle:**
+23. Category Name: Steampunk Architecture
+    1. Clockwork Castle:
         1. First Image: A majestic steampunk castle with towers and gears visible on the exterior.
         2. Second Image: The grand entrance hall with intricate mechanical decorations.
         3. Third Image: Secret passages and hidden rooms filled with steam-powered contraptions.
         4. Fourth Image: The castle illuminated at night, gears and cogs moving in synchrony.
-    2. **Mechanical Mansion:**
+    2. Mechanical Mansion:
         1. First Image: A lavish mansion with a blend of Victorian and steampunk design elements.
         2. Second Image: The interior, showcasing rooms with elegant furniture and mechanical gadgets.
         3. Third Image: The mansion’s library filled with old books and blueprints.
         4. Fourth Image: The mansion’s garden, with mechanical fountains and automatons tending to the plants.
 
-24. **Category Name: Steampunk Transport**
-    1. **Airships:**
+24. Category Name: Steampunk Transport
+    1. Airships:
         1. First Image: A massive steampunk airship docked at a floating skyport.
         2. Second Image: The interior of the airship, with luxurious cabins and a control room filled with gears.
         3. Third Image: The airship in flight, with passengers enjoying the scenic view from above.
         4. Fourth Image: The airship landing at a remote outpost, with crew members preparing for departure.
-    2. **Steam Trains:**
+    2. Steam Trains:
         1. First Image: A powerful steam train with intricate designs, arriving at a bustling station.
         2. Second Image: Passengers boarding the train, excited for their journey.
         3. Third Image: The train traveling through picturesque landscapes, steam billowing from its engine.
         4. Fourth Image: The train arriving at a grand station, with porters helping passengers disembark.
 
-25. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+25. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-26. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+26. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         1. First Image: A forest with mechanical animals roaming and interacting with the environment.
         2. Second Image: A steampunk explorer observing the mechanical wildlife.
         3. Third Image: A dramatic encounter with a large mechanical beast.
         4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-27. **Category Name: Steampunk Warfare**
-    1. **Mechanical Soldiers:**
+27. Category Name: Steampunk Warfare
+    1. Mechanical Soldiers:
         1. First Image: An army of steam-powered soldiers preparing for battle.
         2. Second Image: The soldiers marching through a steampunk city.
         3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
         4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-    2. **Airship Battles:**
+    2. Airship Battles:
         1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
         2. Second Image: Crew members scrambling to man their battle stations.
         3. Third Image: The airships closing in for a boarding action.
         4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-28. **Category Name: Steampunk Festivals**
-    1. **Steam Fair:**
+28. Category Name: Steampunk Festivals
+    1. Steam Fair:
         1. First Image: A lively steampunk fair with mechanical rides, games, and attractions.
         2. Second Image: Visitors in elaborate steampunk costumes enjoying the festivities.
         3. Third Image: A grand parade with steam-powered floats and performers.
         4. Fourth Image: The fairgrounds illuminated at night with glowing lanterns and fireworks.
-    2. **Clockwork Carnival:**
+    2. Clockwork Carnival:
         1. First Image: A carnival filled with mechanical wonders and steampunk rides.
         2. Second Image: People playing games, winning mechanical prizes.
         3. Third Image: A dramatic performance by clockwork acrobats.
         4. Fourth Image: The carnival winding down, with the lights casting a warm glow.
 
-29. **Category Name: Steampunk History**
-    1. **Victorian Era:**
+29. Category Name: Steampunk History
+    1. Victorian Era:
         1. First Image: A bustling Victorian street with steam-powered carriages and elegantly dressed pedestrians.
         2. Second Image: Inside a grand Victorian house with steampunk decorations.
         3. Third Image: A high-society event with guests in steampunk attire.
         4. Fourth Image: The city at night, illuminated by gas lamps and mechanical lanterns.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: Factories and smokestacks dominating a steampunk industrial landscape.
         2. Second Image: Workers operating massive steam-powered machines.
         3. Third Image: Inventors and engineers collaborating on new technologies.
         4. Fourth Image: The city skyline with factories silhouetted against a smoky sunset.
 
-30. **Category Name: Steampunk Science**
-    1. **Mad Scientist's Lab:**
+30. Category Name: Steampunk Science
+    1. Mad Scientist's Lab:
         1. First Image: A cluttered lab filled with bizarre steam-powered contraptions.
         2. Second Image: The scientist working on an experiment with bubbling vials and mechanical arms.
         3. Third Image: A dramatic moment as an experiment goes awry, with steam and sparks flying.
         4. Fourth Image: The scientist making a breakthrough, with a newly created device glowing softly.
-    2. **Steampunk Laboratory:**
+    2. Steampunk Laboratory:
         1. First Image: A grand laboratory with massive gears and glass tubes.
         2. Second Image: Scientists working on various projects, surrounded by steam and machinery.
         3. Third Image: A successful experiment unveiling a new steampunk invention.
         4. Fourth Image: The laboratory celebrating their achievements, the atmosphere filled with excitement.
 
-31. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+31. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-32. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+32. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
         2. Second Image: Detailed view of their gear, including belts, pouches, and mechanical tools.
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-33. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+33. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         
 
  1. First Image: A forest with mechanical animals roaming and interacting with the environment.
@@ -429,133 +429,133 @@ Prompt 2:
          3. Third Image: A dramatic encounter with a large mechanical beast.
          4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-34. **Category Name: Steampunk Warfare**
-     1. **Mechanical Soldiers:**
+34. Category Name: Steampunk Warfare
+     1. Mechanical Soldiers:
          1. First Image: An army of steam-powered soldiers preparing for battle.
          2. Second Image: The soldiers marching through a steampunk city.
          3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
          4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-     2. **Airship Battles:**
+     2. Airship Battles:
          1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
          2. Second Image: Crew members scrambling to man their battle stations.
          3. Third Image: The airships closing in for a boarding action.
          4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-35. **Category Name: Steampunk Festivals**
-    1. **Steam Fair:**
+35. Category Name: Steampunk Festivals
+    1. Steam Fair:
         1. First Image: A lively steampunk fair with mechanical rides, games, and attractions.
         2. Second Image: Visitors in elaborate steampunk costumes enjoying the festivities.
         3. Third Image: A grand parade with steam-powered floats and performers.
         4. Fourth Image: The fairgrounds illuminated at night with glowing lanterns and fireworks.
-    2. **Clockwork Carnival:**
+    2. Clockwork Carnival:
         1. First Image: A carnival filled with mechanical wonders and steampunk rides.
         2. Second Image: People playing games, winning mechanical prizes.
         3. Third Image: A dramatic performance by clockwork acrobats.
         4. Fourth Image: The carnival winding down, with the lights casting a warm glow.
 
-36. **Category Name: Steampunk History**
-    1. **Victorian Era:**
+36. Category Name: Steampunk History
+    1. Victorian Era:
         1. First Image: A bustling Victorian street with steam-powered carriages and elegantly dressed pedestrians.
         2. Second Image: Inside a grand Victorian house with steampunk decorations.
         3. Third Image: A high-society event with guests in steampunk attire.
         4. Fourth Image: The city at night, illuminated by gas lamps and mechanical lanterns.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: Factories and smokestacks dominating a steampunk industrial landscape.
         2. Second Image: Workers operating massive steam-powered machines.
         3. Third Image: Inventors and engineers collaborating on new technologies.
         4. Fourth Image: The city skyline with factories silhouetted against a smoky sunset.
 
-37. **Category Name: Steampunk Science**
-    1. **Mad Scientist's Lab:**
+37. Category Name: Steampunk Science
+    1. Mad Scientist's Lab:
         1. First Image: A cluttered lab filled with bizarre steam-powered contraptions.
         2. Second Image: The scientist working on an experiment with bubbling vials and mechanical arms.
         3. Third Image: A dramatic moment as an experiment goes awry, with steam and sparks flying.
         4. Fourth Image: The scientist making a breakthrough, with a newly created device glowing softly.
-    2. **Steampunk Laboratory:**
+    2. Steampunk Laboratory:
         1. First Image: A grand laboratory with massive gears and glass tubes.
         2. Second Image: Scientists working on various projects, surrounded by steam and machinery.
         3. Third Image: A successful experiment unveiling a new steampunk invention.
         4. Fourth Image: The laboratory celebrating their achievements, the atmosphere filled with excitement.
 
-38. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+38. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-39. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+39. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
         2. Second Image: Detailed view of their gear, including belts, pouches, and mechanical tools.
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-40. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+40. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         1. First Image: A forest with mechanical animals roaming and interacting with the environment.
         2. Second Image: A steampunk explorer observing the mechanical wildlife.
         3. Third Image: A dramatic encounter with a large mechanical beast.
         4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-41. **Category Name: Steampunk Warfare**
-    1. **Mechanical Soldiers:**
+41. Category Name: Steampunk Warfare
+    1. Mechanical Soldiers:
         1. First Image: An army of steam-powered soldiers preparing for battle.
         2. Second Image: The soldiers marching through a steampunk city.
         3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
         4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-    2. **Airship Battles:**
+    2. Airship Battles:
         1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
         2. Second Image: Crew members scrambling to man their battle stations.
         3. Third Image: The airships closing in for a boarding action.
         4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-42. **Category Name: Steampunk Festivals**
-    1. **Steam Fair:**
+42. Category Name: Steampunk Festivals
+    1. Steam Fair:
         1. First Image: A lively steampunk fair with mechanical rides, games, and attractions.
         2. Second Image: Visitors in elaborate steampunk costumes enjoying the festivities.
         3. Third Image: A grand parade with steam-powered floats and performers.
         4. Fourth Image: The fairgrounds illuminated at night with glowing lanterns and fireworks.
-    2. **Clockwork Carnival:**
+    2. Clockwork Carnival:
         1. First Image: A carnival filled with mechanical wonders and steampunk rides.
         2. Second Image: People playing games, winning mechanical prizes.
         3. Third Image: A dramatic performance by clockwork acrobats.
         4. Fourth Image: The carnival winding down, with the lights casting a warm glow.
 
-43. **Category Name: Steampunk History**
-    1. **Victorian Era:**
+43. Category Name: Steampunk History
+    1. Victorian Era:
         1. First Image: A bustling Victorian street with steam-powered carriages and elegantly dressed pedestrians.
         2. Second Image: Inside a grand Victorian house with steampunk decorations.
         3. Third Image: A high-society event with guests in steampunk attire.
         4. Fourth Image: The city at night, illuminated by gas lamps and mechanical lanterns.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: Factories and smokestacks dominating a steampunk industrial landscape.
         2. Second Image: Workers operating massive steam-powered machines.
         3. Third Image: Inventors and engineers collaborating on new technologies.
         4. Fourth Image: The city skyline with factories silhouetted against a smoky sunset.
 
-44. **Category Name: Steampunk Science**
-    1. **Mad Scientist's Lab:**
+44. Category Name: Steampunk Science
+    1. Mad Scientist's Lab:
         1. First Image: A cluttered lab filled with bizarre steam-powered contraptions.
         2. Second Image: The scientist working on an experiment with bubbling vials and mechanical arms.
         3. Third Image: A dramatic moment as an experiment goes awry, with steam and sparks flying.
         4. Fourth Image: The scientist making a breakthrough, with a newly created device glowing softly.
-    2. **Steampunk Laboratory:**
+    2. Steampunk Laboratory:
         1. First Image: A grand laboratory with massive gears and glass tubes.
         2. Second Image: Scientists working on various projects, surrounded by steam and machinery.
         3. Third Image: A successful experiment unveiling a new steampunk invention.
@@ -563,73 +563,73 @@ Prompt 2:
 
 : The laboratory celebrating their achievements, the atmosphere filled with excitement.
 
-45. **Category Name: Steampunk Mysteries**
-    1. **Clockwork Detective:**
+45. Category Name: Steampunk Mysteries
+    1. Clockwork Detective:
         1. First Image: A steampunk detective's office filled with gadgets, maps, and clues.
         2. Second Image: The detective examining a mysterious mechanical device.
         3. Third Image: A tense moment as the detective confronts a suspect in a dark alley.
         4. Fourth Image: The mystery solved, with the detective revealing the intricate plot.
-    2. **Secret Society:**
+    2. Secret Society:
         1. First Image: A hidden meeting of a secret society in a candlelit room.
         2. Second Image: Members in elaborate steampunk masks discussing plans around a mechanical table.
         3. Third Image: The society enacting their plans in the shadows of the city.
         4. Fourth Image: The protagonist infiltrating the society and uncovering their secrets.
 
-46. **Category Name: Steampunk Fashion**
-    1. **Victorian Elegance:**
+46. Category Name: Steampunk Fashion
+    1. Victorian Elegance:
         1. First Image: A grand ballroom filled with elegantly dressed individuals in steampunk Victorian attire.
         2. Second Image: Close-up of intricate accessories like gears, goggles, and pocket watches.
         3. Third Image: A couple dancing gracefully under a chandelier.
         4. Fourth Image: The ball winding down, with guests conversing in small groups.
-    2. **Steampunk Adventurers:**
+    2. Steampunk Adventurers:
         1. First Image: A group of steampunk adventurers in rugged yet stylish attire, ready for an expedition.
         2. Second Image: Detailed view of their gear, including belts, pouches, and mechanical tools.
         3. Third Image: The adventurers in action, navigating through a challenging environment.
         4. Fourth Image: The group resting around a campfire, discussing their journey.
 
-47. **Category Name: Steampunk Nature**
-    1. **Mechanical Gardens:**
+47. Category Name: Steampunk Nature
+    1. Mechanical Gardens:
         1. First Image: A garden with steam-powered fountains, mechanical plants, and clockwork insects.
         2. Second Image: Visitors marveling at the blend of nature and technology.
         3. Third Image: The garden illuminated by glowing mechanical flowers at dusk.
         4. Fourth Image: The garden’s caretakers maintaining the intricate machinery.
-    2. **Steam-Powered Wildlife:**
+    2. Steam-Powered Wildlife:
         1. First Image: A forest with mechanical animals roaming and interacting with the environment.
         2. Second Image: A steampunk explorer observing the mechanical wildlife.
         3. Third Image: A dramatic encounter with a large mechanical beast.
         4. Fourth Image: The forest at night, with mechanical creatures glowing softly.
 
-48. **Category Name: Steampunk Warfare**
-    1. **Mechanical Soldiers:**
+48. Category Name: Steampunk Warfare
+    1. Mechanical Soldiers:
         1. First Image: An army of steam-powered soldiers preparing for battle.
         2. Second Image: The soldiers marching through a steampunk city.
         3. Third Image: A fierce battle with explosions and mechanical war machines clashing.
         4. Fourth Image: The battlefield after the fight, with steam rising from the fallen machines.
-    2. **Airship Battles:**
+    2. Airship Battles:
         1. First Image: Two massive airships engaging in a sky battle, with cannons firing.
         2. Second Image: Crew members scrambling to man their battle stations.
         3. Third Image: The airships closing in for a boarding action.
         4. Fourth Image: The victorious airship flying away, with the other smoldering in defeat.
 
-49. **Category Name: Steampunk Festivals**
-    1. **Steam Fair:**
+49. Category Name: Steampunk Festivals
+    1. Steam Fair:
         1. First Image: A lively steampunk fair with mechanical rides, games, and attractions.
         2. Second Image: Visitors in elaborate steampunk costumes enjoying the festivities.
         3. Third Image: A grand parade with steam-powered floats and performers.
         4. Fourth Image: The fairgrounds illuminated at night with glowing lanterns and fireworks.
-    2. **Clockwork Carnival:**
+    2. Clockwork Carnival:
         1. First Image: A carnival filled with mechanical wonders and steampunk rides.
         2. Second Image: People playing games, winning mechanical prizes.
         3. Third Image: A dramatic performance by clockwork acrobats.
         4. Fourth Image: The carnival winding down, with the lights casting a warm glow.
 
-50. **Category Name: Steampunk History**
-    1. **Victorian Era:**
+50. Category Name: Steampunk History
+    1. Victorian Era:
         1. First Image: A bustling Victorian street with steam-powered carriages and elegantly dressed pedestrians.
         2. Second Image: Inside a grand Victorian house with steampunk decorations.
         3. Third Image: A high-society event with guests in steampunk attire.
         4. Fourth Image: The city at night, illuminated by gas lamps and mechanical lanterns.
-    2. **Industrial Revolution:**
+    2. Industrial Revolution:
         1. First Image: Factories and smokestacks dominating a steampunk industrial landscape.
         2. Second Image: Workers operating massive steam-powered machines.
         3. Third Image: Inventors and engineers collaborating on new technologies.
