@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Serene Landscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Calm Lake:
     1. First Image: A Tranquil Lake Surrounded By Mountains And Trees.
     2. Second Image: Transition From The First Image, Gentle Ripples On The Water Reflecting A Golden Sunset.
     3. Third Image: Transition From The Second Image, A Small Boat Drifting Peacefully On The Lake.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Under A Starry Night Sky, With Reflections Shimmering.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Misty Forest:
     1. First Image: A Dense Forest With A Light Mist Hanging In The Air.
     2. Second Image: Transition From The First Image, Sunlight Filtering Through The Trees, Creating Dappled Patterns.
@@ -45,14 +45,14 @@ Title: Misty Forest:
 ================================================================ X ================================================================
 2. Category Name: Coastal Scenes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Sunny Beach:
     1. First Image: A Wide, Sandy Beach With Gentle Waves Lapping At The Shore.
     2. Second Image: Transition From The First Image, Seagulls Flying Overhead, Casting Shadows On The Sand.
     3. Third Image: Transition From The Second Image, A Beach Umbrella And A Few People Relaxing Near The Water.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With The Sky Ablaze In Oranges And Pinks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shoreline:
     1. First Image: A Rugged Coastline With Waves Crashing Against Rocks.
     2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
@@ -61,14 +61,14 @@ Title: Rocky Shoreline:
 ================================================================ X ================================================================
 3. Category Name: Tranquil Gardens
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Japanese Garden:
     1. First Image: A Serene Japanese Garden With A Koi Pond And Arched Bridges.
     2. Second Image: Transition From The First Image, Cherry Blossom Petals Falling Gently Onto The Water.
     3. Third Image: Transition From The Second Image, A Tea House Nestled Among The Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Illuminated By Soft Lanterns At Dusk.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: English Cottage Garden:
     1. First Image: A Quaint Cottage Surrounded By Blooming Flowers.
     2. Second Image: Transition From The First Image, A Cobblestone Path Leading To A Wooden Gate.
@@ -77,14 +77,14 @@ Title: English Cottage Garden:
 ================================================================ X ================================================================
 4. Category Name: Urban Scenes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Street:
     1. First Image: A Bustling City Street With Rain Pouring Down.
     2. Second Image: Transition From The First Image, Umbrellas And Reflections On The Wet Pavement.
     3. Third Image: Transition From The Second Image, A Café With A Warm Glow Inviting Passersby.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Streetlights Creating A Hazy, Romantic Atmosphere.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Sunset Skyline:
     1. First Image: A City Skyline Against A Vibrant Sunset.
     2. Second Image: Transition From The First Image, Skyscrapers Reflecting The Colorful Sky.
@@ -93,14 +93,14 @@ Title: Sunset Skyline:
 ================================================================ X ================================================================
 5. Category Name: Wildlife Wonders
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jungle Animals:
     1. First Image: A Dense Jungle With Exotic Animals Peeking Through The Foliage.
     2. Second Image: Transition From The First Image, A Majestic Tiger Drinking From A Clear Stream.
     3. Third Image: Transition From The Second Image, Colorful Birds Perched On Branches, Their Feathers Vivid Against The Green.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Jungle Under A Dusky Sky, With Nocturnal Animals Beginning To Stir.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Desert Wildlife:
     1. First Image: A Vast Desert With Rolling Dunes And Sparse Vegetation.
     2. Second Image: Transition From The First Image, A Caravan Of Camels Trekking Across The Sand.
@@ -109,14 +109,14 @@ Title: Desert Wildlife:
 ================================================================ X ================================================================
 6. Category Name: Winter Wonderland
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Snowy Forest:
     1. First Image: A Forest Blanketed In Fresh Snow.
     2. Second Image: Transition From The First Image, Animal Tracks Winding Through The Snow.
     3. Third Image: Transition From The Second Image, A Small Cabin With Smoke Rising From The Chimney.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Twilight, With A Soft, Ethereal Glow.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Frozen Lake:
     1. First Image: A Lake Frozen Over With A Smooth, Reflective Surface.
     2. Second Image: Transition From The First Image, Ice Skaters Gliding Gracefully Across The Ice.
@@ -125,14 +125,14 @@ Title: Frozen Lake:
 ================================================================ X ================================================================
 7. Category Name: Underwater World
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Coral Reef:
     1. First Image: A Vibrant Coral Reef Teeming With Colorful Fish.
     2. Second Image: Transition From The First Image, A Sea Turtle Swimming Gracefully Among The Corals.
     3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Water, Creating A Shimmering Effect.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Reef At Dusk, With Bioluminescent Creatures Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Deep Ocean:
     1. First Image: The Deep Ocean With Mysterious, Dark Waters.
     2. Second Image: Transition From The First Image, Strange, Otherworldly Creatures Drifting Through The Deep.
@@ -141,14 +141,14 @@ Title: Deep Ocean:
 ================================================================ X ================================================================
 8. Category Name: Majestic Mountains
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Snow-Capped Peaks:
     1. First Image: Tall, Snow-Capped Mountains Against A Clear Blue Sky.
     2. Second Image: Transition From The First Image, A Climber Making Their Way Up A Steep Incline.
     3. Third Image: Transition From The Second Image, A Pristine Mountain Lake Reflecting The Peaks.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains At Sunrise, With The First Light Hitting The Peaks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Misty Highlands:
     1. First Image: Rolling Highlands Shrouded In Mist.
     2. Second Image: Transition From The First Image, A Herd Of Sheep Grazing On The Green Slopes.
@@ -157,14 +157,14 @@ Title: Misty Highlands:
 ================================================================ X ================================================================
 9. Category Name: Enchanted Forests
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Fairy Glade:
     1. First Image: A Magical Glade With Sparkling Lights And Whimsical Creatures.
     2. Second Image: Transition From The First Image, Fairies Flitting Among The Flowers And Trees.
     3. Third Image: Transition From The Second Image, A Crystal-Clear Stream Winding Through The Glade.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Glade Under A Full Moon, With A Mystical Glow.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mystic Woods:
     1. First Image: A Dense, Ancient Forest With Towering Trees.
     2. Second Image: Transition From The First Image, Strange, Glowing Plants And Fungi Growing In The Underbrush.
@@ -173,14 +173,14 @@ Title: Mystic Woods:
 ================================================================ X ================================================================
 10. Category Name: Idyllic Countryside
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rolling Hills:
     1. First Image: Gentle Rolling Hills Covered In Lush, Green Grass.
     2. Second Image: Transition From The First Image, A Winding Path Leading Through The Hills.
     3. Third Image: Transition From The Second Image, A Quaint Farmhouse Nestled Among The Hills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Hills At Sunset, With Golden Light Washing Over The Landscape.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Peaceful Valley:
     1. First Image: A Serene Valley With A River Running Through It.
     2. Second Image: Transition From The First Image, Wildflowers Blooming Along The Riverbanks.
@@ -189,14 +189,14 @@ Title: Peaceful Valley:
 ================================================================ X ================================================================
 11. Category Name: Vibrant Cityscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Paris In Spring:
     1. First Image: The Eiffel Tower Surrounded By Blooming Cherry Blossoms.
     2. Second Image: Transition From The First Image, Café Tables Lining A Charming Parisian Street.
     3. Third Image: Transition From The Second Image, Artists Painting By The Seine River.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City Lights Reflecting On The River At Dusk.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: New York At Night:
     1. First Image: The New York City Skyline Lit Up Against A Night Sky.
     2. Second Image: Transition From The First Image, Times Square With Its Bright Neon Lights And Bustling Crowds.
@@ -205,14 +205,14 @@ Title: New York At Night:
 ================================================================ X ================================================================
 12. Category Name: Beautiful Sunsets
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Beach Sunset:
     1. First Image: A Beach With The Sun Setting Over The Horizon.
     2. Second Image: Transition From The First Image, The Sky Filled With Vibrant Oranges, Pinks, And Purples.
     3. Third Image: Transition From The Second Image, Silhouettes Of Palm Trees Against The Colorful Sky.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Last Light Of The Sun Reflecting On The Gentle Waves.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Sunset:
     1. First Image: A Mountain Range With The Sun Setting Behind The Peaks.
     2. Second Image: Transition From The First Image, The Sky Ablaze With Warm, Golden Hues.
@@ -221,14 +221,14 @@ Title: Mountain Sunset:
 ================================================================ X ================================================================
 13. Category Name: Dynamic Weather
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Stormy Seas:
     1. First Image: A Turbulent Sea With Dark, Stormy Clouds Overhead.
     2. Second Image: Transition From The First Image, Waves Crashing Against A Rocky Shore.
     3. Third Image: Transition From The Second Image, A Ship Battling The Fierce Waves.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Sea Calming As The Storm Begins To Pass.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Autumn Rain:
     1. First Image: A Quiet Street Lined With Autumn Trees, With Leaves Starting To Fall.
     2. Second Image: Transition From The First Image, Raindrops Creating Ripples In Puddles On The Ground.
@@ -237,14 +237,14 @@ Title: Autumn Rain:
 ================================================================ X ================================================================
 14. Category Name: Rustic Charm
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old Barn:
     1. First Image: A Weathered Barn Standing In A Field Of Tall Grass.
     2. Second Image: Transition From The First Image, Sunlight Streaming Through The Gaps In The Wooden Walls.
     3. Third Image: Transition From The Second Image, Farm Animals Grazing Nearby.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Barn Bathed In The Warm Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Country Road:
     1. First Image: A Dirt Road Winding Through The Countryside.
     2. Second Image: Transition From The First Image, Wildflowers Growing Along The Roadside.
@@ -253,14 +253,14 @@ Title: Country Road:
 ================================================================ X ================================================================
 15. Category Name: Romantic Vignettes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lovers Park:
     1. First Image: A Beautiful Park With Blooming Flowers And A Picturesque Gazebo.
     2. Second Image: Transition From The First Image, A Couple Walking Hand-In-Hand Along A Tree-Lined Path.
     3. Third Image: Transition From The Second Image, The Couple Sitting On A Bench, Enjoying The View.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Park At Twilight, With Soft, Romantic Lighting.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Evening Stroll:
     1. First Image: A Cobblestone Street In A Charming Old Town.
     2. Second Image: Transition From The First Image, A Couple Walking Arm-In-Arm Under The Glow Of Street Lamps.
@@ -269,14 +269,14 @@ Title: Evening Stroll:
 ================================================================ X ================================================================
 16. Category Name: Colorful Markets
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Flower Market:
     1. First Image: A Bustling Market Filled With Stalls Of Vibrant Flowers.
     2. Second Image: Transition From The First Image, People Browsing And Buying Bouquets.
     3. Third Image: Transition From The Second Image, A Vendor Arranging A Beautiful Floral Display.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Market At Dusk, With Lanterns Illuminating The Colorful Blooms.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spice Bazaar:
     1. First Image: A Lively Bazaar With Stalls Piled High With Colorful Spices.
     2. Second Image: Transition From The First Image, The Rich, Aromatic Scents Filling The Air.
@@ -285,14 +285,14 @@ Title: Spice Bazaar:
 ================================================================ X ================================================================
 17. Category Name: Tranquil Lakes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Lake:
     1. First Image: A Serene Lake Surrounded By Towering Mountains.
     2. Second Image: Transition From The First Image, The Water Perfectly Reflecting The Mountain Peaks.
     3. Third Image: Transition From The Second Image, A Canoe Gliding Across The Still Surface.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake At Sunset, With Golden Light On The Water.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Forest Lake:
     1. First Image: A Quiet Lake Nestled In A Dense Forest.
     2. Second Image: Transition From The First Image, Birds Flying Low Over The Water.
@@ -301,14 +301,14 @@ Title: Forest Lake:
 ================================================================ X ================================================================
 18. Category Name: Idyllic Villages
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tuscan Village:
     1. First Image: A Picturesque Village Nestled In The Rolling Hills Of Tuscany.
     2. Second Image: Transition From The First Image, Vineyards Stretching Out As Far As The Eye Can See.
     3. Third Image: Transition From The Second Image, A Cobblestone Street Lined With Charming Stone Houses.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village At Sunset, With The Sky Painted In Warm Hues.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Alpine Village:
     1. First Image: A Quaint Village Surrounded By Snow-Capped Mountains.
     2. Second Image: Transition From The First Image, A Cozy Chalet With Smoke Rising From The Chimney.
@@ -317,14 +317,14 @@ Title: Alpine Village:
 ================================================================ X ================================================================
 19. Category Name: Exotic Locations
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tropical Paradise:
     1. First Image: A White Sandy Beach With Turquoise Waters.
     2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
     3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Palm Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With Vibrant Colors In The Sky.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Desert Oasis:
     1. First Image: A Lush Oasis In The Middle Of A Vast Desert.
     2. Second Image: Transition From The First Image, Palm Trees And A Clear Pool Of Water.
@@ -333,14 +333,14 @@ Title: Desert Oasis:
 ================================================================ X ================================================================
 20. Category Name: Majestic Waterfalls
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jungle Waterfall:
     1. First Image: A Powerful Waterfall Cascading Into A Pool In The Jungle.
     2. Second Image: Transition From The First Image, Mist Rising From The Base Of The Waterfall.
     3. Third Image: Transition From The Second Image, Exotic Birds Flying Through The Spray.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Waterfall Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Falls:
     1. First Image: A Stunning Waterfall Flowing Down A Rocky Mountain Face.
     2. Second Image: Transition From The First Image, The Water Crashing Into The Rocks Below.
@@ -349,14 +349,14 @@ Title: Mountain Falls:
 ================================================================ X ================================================================
 21. Category Name: Mystical Landscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Enchanted Meadow:
     1. First Image: A Lush Meadow Filled With Vibrant Wildflowers.
     2. Second Image: Transition From The First Image, A Soft, Golden Light Filtering Through The Trees.
     3. Third Image: Transition From The Second Image, A Unicorn Grazing Peacefully In The Meadow.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Under A Starry Sky, With Fireflies Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Foggy Moor:
     1. First Image: A Vast Moorland Shrouded In Fog.
     2. Second Image: Transition From The First Image, Mysterious Shapes And Shadows Moving Through The Mist.
@@ -365,14 +365,14 @@ Title: Foggy Moor:
 ================================================================ X ================================================================
 22. Category Name: Majestic Wildlife
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lions On The Savannah:
     1. First Image: A Pride Of Lions Resting In The Tall Grass.
     2. Second Image: Transition From The First Image, The Lions Alert And Watching The Horizon.
     3. Third Image: Transition From The Second Image, A Lioness Leading Her Cubs To A Waterhole.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Savannah Bathed In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Eagles In Flight:
     1. First Image: A Pair Of Eagles Soaring High Above A Mountain Range.
     2. Second Image: Transition From The First Image, The Eagles Diving And Playing In The Air.
@@ -381,14 +381,14 @@ Title: Eagles In Flight:
 ================================================================ X ================================================================
 23. Category Name: Cultural Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Chinese New Year:
     1. First Image: A Bustling Street Decorated With Red Lanterns.
     2. Second Image: Transition From The First Image, A Dragon Dance Procession Making Its Way Through The Crowd.
     3. Third Image: Transition From The Second Image, Fireworks Lighting Up The Night Sky.
     4. Fourth Image: Transition From The Third Image, Ending The Story, Families Gathered Around A Table, Sharing A Festive Meal.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Diwali Celebration:
     1. First Image: A Street Lined With Homes Decorated With Colorful Lights.
     2. Second Image: Transition From The First Image, People Lighting Diyas (Oil Lamps) And Placing Them Along The Path.
@@ -397,14 +397,14 @@ Title: Diwali Celebration:
 ================================================================ X ================================================================
 24. Category Name: Majestic Landscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Grand Canyon:
     1. First Image: The Vast Expanse Of The Grand Canyon With Its Layered Rock Formations.
     2. Second Image: Transition From The First Image, A Hiker Standing On The Edge, Looking Out Over The Canyon.
     3. Third Image: Transition From The Second Image, The Colorado River Winding Through The Canyon.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon At Sunset, With The Rocks Glowing In Warm Colors.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Aurora Borealis:
     1. First Image: A Snowy Landscape Under A Clear Night Sky.
     2. Second Image: Transition From The First Image, The Northern Lights Beginning To Dance Across The Sky.
@@ -413,14 +413,14 @@ Title: Aurora Borealis:
 ================================================================ X ================================================================
 25. Category Name: Dreamy Gardens
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Garden:
     1. First Image: A Hidden Garden Behind An Ivy-Covered Wall.
     2. Second Image: Transition From The First Image, A Wrought-Iron Gate Leading Into The Garden.
     3. Third Image: Transition From The Second Image, The Garden Filled With Blooming Flowers And A Bubbling Fountain.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rose Garden:
     1. First Image: Rows Of Rose Bushes In Full Bloom.
     2. Second Image: Transition From The First Image, A Path Winding Through The Garden, Lined With Roses.
@@ -429,14 +429,14 @@ Title: Rose Garden:
 ================================================================ X ================================================================
 26. Category Name: Captivating Cityscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Venice Canals:
     1. First Image: The Iconic Canals Of Venice With Gondolas Gliding Through The Water.
     2. Second Image: Transition From The First Image, Beautiful Buildings Lining The Canals, Reflected In The Water.
     3. Third Image: Transition From The Second Image, A Gondolier Serenading Passengers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Canals At Dusk, With Lights Twinkling In The Water.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Kyoto In Autumn:
     1. First Image: A Traditional Japanese Street With Autumn Foliage.
     2. Second Image: Transition From The First Image, Red And Orange Leaves Creating A Vibrant Canopy.
@@ -445,14 +445,14 @@ Title: Kyoto In Autumn:
 ================================================================ X ================================================================
 27. Category Name: Ancient Ruins
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Machu Picchu:
     1. First Image: The Ancient Incan City Of Machu Picchu Nestled In The Mountains.
     2. Second Image: Transition From The First Image, The Stone Structures And Terraces Bathed In Early Morning Light.
     3. Third Image: Transition From The Second Image, Llamas Grazing Among The Ruins.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City Under A Starry Sky, With The Mountains Silhouetted In The Background.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Petra:
     1. First Image: The Ancient City Of Petra With Its Rock-Cut Architecture.
     2. Second Image: Transition From The First Image, The Iconic Treasury Building Illuminated By The Sun.
@@ -461,14 +461,14 @@ Title: Petra:
 ================================================================ X ================================================================
 28. Category Name: Stunning Coastlines
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cliffs Of Moher:
     1. First Image: The Dramatic Cliffs Of Moher Rising Above The Atlantic Ocean.
     2. Second Image: Transition From The First Image, Waves Crashing Against The Base Of The Cliffs.
     3. Third Image: Transition From The Second Image, Birds Soaring High Above The Cliffs.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Cliffs Bathed In The Golden Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Santorini:
     1. First Image: The White-Washed Buildings Of Santorini Overlooking The Aegean Sea.
     2. Second Image: Transition From The First Image, A Winding Path Leading Through The Picturesque Town.
@@ -477,14 +477,14 @@ Title: Santorini:
 ================================================================ X ================================================================
 29. Category Name: Breathtaking Vistas
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Swiss Alps:
     1. First Image: The Majestic Peaks Of The Swiss Alps Covered In Snow.
     2. Second Image: Transition From The First Image, A Charming Alpine Village Nestled In A Valley.
     3. Third Image: Transition From The Second Image, Skiers Making Their Way Down The Slopes.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Glowing In The Light Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Norwegian Fjords:
     1. First Image: The Stunning Fjords Of Norway With Their Steep Cliffs And Deep Waters.
     2. Second Image: Transition From The First Image, A Boat Making Its Way Through The Narrow Passage.
@@ -493,14 +493,14 @@ Title: Norwegian Fjords:
 ================================================================ X ================================================================
 30. Category Name: Autumn Splendor
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Maple Forest:
     1. First Image: A Forest Of Maple Trees With Vibrant Autumn Foliage.
     2. Second Image: Transition From The First Image, A Carpet Of Red And Orange Leaves Covering The Ground.
     3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Colorful Canopy.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Sunset, With The Leaves Glowing In The Warm Light.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pumpkin Patch:
     1. First Image: A Sprawling Pumpkin Patch With Rows Of Pumpkins Ready For Harvest.
     2. Second Image: Transition From The First Image, Families Picking Out The Perfect Pumpkins.
@@ -509,14 +509,14 @@ Title: Pumpkin Patch:
 ================================================================ X ================================================================
 31. Category Name: Charming Towns
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Provencal Village:
     1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
     2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
     3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Dutch Canal Town:
     1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
     2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
@@ -525,14 +525,14 @@ Title: Dutch Canal Town:
 ================================================================ X ================================================================
 32. Category Name: Serene Rivers
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tranquil River:
     1. First Image: A Peaceful River Winding Through A Lush Landscape.
     2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
     3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Stream:
     1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
     2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
@@ -541,14 +541,14 @@ Title: Mountain Stream:
 ================================================================ X ================================================================
 33. Category Name: Enchanting Castles
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scottish Highlands Castle:
     1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
     2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
     3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bavarian Castle:
     1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
     2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
@@ -557,14 +557,14 @@ Title: Bavarian Castle:
 ================================================================ X ================================================================
 34. Category Name: Blossoming Orchards
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Apple Orchard:
     1. First Image: Rows Of Apple Trees In Full Bloom.
     2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
     3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cherry Blossom Grove:
     1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
     2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
@@ -573,14 +573,14 @@ Title: Cherry Blossom Grove:
 ================================================================ X ================================================================
 35. Category Name: Peaceful Ponds
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lily Pond:
     1. First Image: A Serene Pond Covered In Water Lilies.
     2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
     3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Koi Pond:
     1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
     2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
@@ -589,14 +589,14 @@ Title: Koi Pond:
 ================================================================ X ================================================================
 36. Category Name: Majestic Canyons
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bryce Canyon:
     1. First Image: The Unique Rock Formations Of Bryce Canyon.
     2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
     3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Antelope Canyon:
     1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
     2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
@@ -605,14 +605,14 @@ Title: Antelope Canyon:
 ================================================================ X ================================================================
 37. Category Name: Idyllic Meadows
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spring Meadow:
     1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
     2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
     3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Summer Field:
     1. First Image: A Sunny Field With Tall, Swaying Grasses.
     2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
@@ -621,14 +621,14 @@ Title: Summer Field:
 ================================================================ X ================================================================
 38. Category Name: Enchanting Forests
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Birch Forest:
     1. First Image: A Dense Forest Of Tall Birch Trees.
     2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
     3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pine Woods:
     1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
     2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
@@ -637,14 +637,14 @@ Title: Pine Woods:
 ================================================================ X ================================================================
 39. Category Name: Colorful Landscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lavender Fields:
     1. First Image: Endless Rows Of Lavender In Full Bloom.
     2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
     3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tulip Fields:
     1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
     2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
@@ -653,14 +653,14 @@ Title: Tulip Fields:
 ================================================================ X ================================================================
 40. Category Name: Serene Beaches
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secluded Cove:
     1. First Image: A Hidden Cove With Clear, Turquoise Waters.
     2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
     3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shore:
     1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
     2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
@@ -669,14 +669,14 @@ Title: Rocky Shore:
 ================================================================ X ================================================================
 41. Category Name: Idyllic Villages
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Provencal Village:
     1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
     2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
     3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Dutch Canal Town:
     1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
     2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
@@ -685,14 +685,14 @@ Title: Dutch Canal Town:
 ================================================================ X ================================================================
 42. Category Name: Tranquil Rivers
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tranquil River:
     1. First Image: A Peaceful River Winding Through A Lush Landscape.
     2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
     3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Stream:
     1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
     2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
@@ -701,14 +701,14 @@ Title: Mountain Stream:
 ================================================================ X ================================================================
 43. Category Name: Enchanting Castles
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scottish Highlands Castle:
     1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
     2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
     3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bavarian Castle:
     1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
     2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
@@ -717,14 +717,14 @@ Title: Bavarian Castle:
 ================================================================ X ================================================================
 44. Category Name: Blossoming Orchards
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Apple Orchard:
     1. First Image: Rows Of Apple Trees In Full Bloom.
     2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
     3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cherry Blossom Grove:
     1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
     2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
@@ -733,14 +733,14 @@ Title: Cherry Blossom Grove:
 ================================================================ X ================================================================
 45. Category Name: Peaceful Ponds
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lily Pond:
     1. First Image: A Serene Pond Covered In Water Lilies.
     2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
     3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Koi Pond:
     1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
     2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
@@ -749,14 +749,14 @@ Title: Koi Pond:
 ================================================================ X ================================================================
 46. Category Name: Majestic Canyons
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bryce Canyon:
     1. First Image: The Unique Rock Formations Of Bryce Canyon.
     2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
     3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Antelope Canyon:
     1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
     2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
@@ -765,14 +765,14 @@ Title: Antelope Canyon:
 ================================================================ X ================================================================
 47. Category Name: Idyllic Meadows
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spring Meadow:
     1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
     2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
     3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Summer Field:
     1. First Image: A Sunny Field With Tall, Swaying Grasses.
     2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
@@ -781,14 +781,14 @@ Title: Summer Field:
 ================================================================ X ================================================================
 48. Category Name: Enchanting Forests
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Birch Forest:
     1. First Image: A Dense Forest Of Tall Birch Trees.
     2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
     3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pine Woods:
     1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
     2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
@@ -797,14 +797,14 @@ Title: Pine Woods:
 ================================================================ X ================================================================
 49. Category Name: Colorful Landscapes
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lavender Fields:
     1. First Image: Endless Rows Of Lavender In Full Bloom.
     2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
     3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tulip Fields:
     1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
     2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
@@ -813,14 +813,14 @@ Title: Tulip Fields:
 ================================================================ X ================================================================
 50. Category Name: Serene Beaches
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secluded Cove:
     1. First Image: A Hidden Cove With Clear, Turquoise Waters.
     2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
     3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shore:
     1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
     2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.

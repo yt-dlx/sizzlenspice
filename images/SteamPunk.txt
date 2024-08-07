@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Steamppunk Cities
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Metropolis:
     1. First Image: A Bustling Steamppunk City With Towering Clockwork Buildings And Airships Flying Above.
     2. Second Image: Transition From The First Image, Street-Level View With People In Victorian Attire, Steam-Powered Vehicles, And Vendors Selling Mechanical Trinkets.
     3. Third Image: Transition From The Second Image, A Dramatic Scene With An Airship Docking At A Towering Platform.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City Illuminated At Night With Glowing Lanterns And Mechanical Lights.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: A Sprawling Industrial City With Smokestacks And Factories Churning Out Steam.
     2. Second Image: Transition From The First Image, Workers In Victorian-Era Clothing Operating Massive Steamppunk Machinery.
@@ -45,14 +45,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 2. Category Name: Steamppunk Adventures
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Pirates:
     1. First Image: A Steamppunk Airship Flying Through The Clouds, With Pirate Flags Waving.
     2. Second Image: Transition From The First Image, The Crew, Dressed In Steamppunk Pirate Attire, Preparing For A Raid.
     3. Third Image: Transition From The Second Image, A Fierce Battle In The Sky Between Rival Airships.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Pirates Celebrating With Their Loot, The Cityscape Below.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Explorers Of The Unknown:
     1. First Image: A Team Of Steamppunk Adventurers Setting Out On An Expedition In A Rugged Terrain.
     2. Second Image: Transition From The First Image, The Group Encountering Mysterious Mechanical Creatures In A Dense Forest.
@@ -61,14 +61,14 @@ Title: Explorers Of The Unknown:
 ================================================================ X ================================================================
 3. Category Name: Steamppunk Technology
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Automaton Workshop:
     1. First Image: A Workshop Filled With Half-Finished Automatons And Intricate Mechanical Parts.
     2. Second Image: Transition From The First Image, An Inventor Tinkering With A Clockwork Robot, Surrounded By Blueprints.
     3. Third Image: Transition From The Second Image, The Automaton Coming To Life, With Gears And Cogs Moving Smoothly.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Inventor Showcasing The Completed Automaton To An Intrigued Audience.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Inventions:
     1. First Image: A Grand Exhibition Hall Displaying Various Steam-Powered Inventions.
     2. Second Image: Transition From The First Image, Inventors Presenting Their Creations, From Steam-Powered Vehicles To Intricate Gadgets.
@@ -77,14 +77,14 @@ Title: Steam-Powered Inventions:
 ================================================================ X ================================================================
 4. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -93,14 +93,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 5. Category Name: Steamppunk Architecture
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Castle:
     1. First Image: A Majestic Steamppunk Castle With Towers And Gears Visible On The Exterior.
     2. Second Image: Transition From The First Image, The Grand Entrance Hall With Intricate Mechanical Decorations.
     3. Third Image: Transition From The Second Image, Secret Passages And Hidden Rooms Filled With Steam-Powered Contraptions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated At Night, Gears And Cogs Moving In Synchrony.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Mansion:
     1. First Image: A Lavish Mansion With A Blend Of Victorian And Steamppunk Design Elements.
     2. Second Image: Transition From The First Image, The Interior, Showcasing Rooms With Elegant Furniture And Mechanical Gadgets.
@@ -109,14 +109,14 @@ Title: Mechanical Mansion:
 ================================================================ X ================================================================
 6. Category Name: Steamppunk Transport
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airships:
     1. First Image: A Massive Steamppunk Airship Docked At A Floating Skyport.
     2. Second Image: Transition From The First Image, The Interior Of The Airship, With Luxurious Cabins And A Control Room Filled With Gears.
     3. Third Image: Transition From The Second Image, The Airship In Flight, With Passengers Enjoying The Scenic View From Above.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Airship Landing At A Remote Outpost, With Crew Members Preparing For Departure.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Trains:
     1. First Image: A Powerful Steam Train With Intricate Designs, Arriving At A Bustling Station.
     2. Second Image: Transition From The First Image, Passengers Boarding The Train, Excited For Their Journey.
@@ -125,14 +125,14 @@ Title: Steam Trains:
 ================================================================ X ================================================================
 7. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -141,14 +141,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 8. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:
     1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
     2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -157,14 +157,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 9. Category Name: Steamppunk Warfare
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Soldiers:
     1. First Image: An Army Of Steam-Powered Soldiers Preparing For Battle.
     2. Second Image: Transition From The First Image, The Soldiers Marching Through A Steamppunk City.
     3. Third Image: Transition From The Second Image, A Fierce Battle With Explosions And Mechanical War Machines Clashing.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield After The Fight, With Steam Rising From The Fallen Machines.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Battles:
     1. First Image: Two Massive Airships Engaging In A Sky Battle, With Cannons Firing.
     2. Second Image: Transition From The First Image, Crew Members Scrambling To Man Their Battle Stations.
@@ -173,14 +173,14 @@ Title: Airship Battles:
 ================================================================ X ================================================================
 10. Category Name: Steamppunk Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Fair:
     1. First Image: A Lively Steamppunk Fair With Mechanical Rides, Games, And Attractions.
     2. Second Image: Transition From The First Image, Visitors In Elaborate Steamppunk Costumes Enjoying The Festivities.
     3. Third Image: Transition From The Second Image, A Grand Parade With Steam-Powered Floats And Performers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fairgrounds Illuminated At Night With Glowing Lanterns And Fireworks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Carnival:
     1. First Image: A Carnival Filled With Mechanical Wonders And Steamppunk Rides.
     2. Second Image: Transition From The First Image, People Playing Games, Winning Mechanical Prizes.
@@ -189,14 +189,14 @@ Title: Clockwork Carnival:
 ================================================================ X ================================================================
 11. Category Name: Steamppunk History
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Era:
     1. First Image: A Bustling Victorian Street With Steam-Powered Carriages And Elegantly Dressed Pedestrians.
     2. Second Image: Transition From The First Image, Inside A Grand Victorian House With Steamppunk Decorations.
     3. Third Image: Transition From The Second Image, A High-Society Event With Guests In Steamppunk Attire.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, Illuminated By Gas Lamps And Mechanical Lanterns.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: Factories And Smokestacks Dominating A Steamppunk Industrial Landscape.
     2. Second Image: Transition From The First Image, Workers Operating Massive Steam-Powered Machines.
@@ -205,14 +205,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 12. Category Name: Steamppunk Science
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mad Scientists Lab:
     1. First Image: A Cluttered Lab Filled With Bizarre Steam-Powered Contraptions.
     2. Second Image: Transition From The First Image, The Scientist Working On An Experiment With Bubbling Vials And Mechanical Arms.
     3. Third Image: Transition From The Second Image, A Dramatic Moment As An Experiment Goes Awry, With Steam And Sparks Flying.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Scientist Making A Breakthrough, With A Newly Created Device Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Laboratory:
     1. First Image: A Grand Laboratory With Massive Gears And Glass Tubes.
     2. Second Image: Transition From The First Image, Scientists Working On Various Projects, Surrounded By Steam And Machinery.
@@ -221,14 +221,14 @@ Title: Steamppunk Laboratory:
 ================================================================ X ================================================================
 13. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -237,14 +237,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 14. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -253,14 +253,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 15. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:
     1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
     2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -269,14 +269,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 16. Category Name: Steamppunk Technology
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Automaton Workshop:
     1. First Image: A Workshop Filled With Half-Finished Automatons And Intricate Mechanical Parts.
     2. Second Image: Transition From The First Image, An Inventor Tinkering With A Clockwork Robot, Surrounded By Blueprints.
     3. Third Image: Transition From The Second Image, The Automaton Coming To Life, With Gears And Cogs Moving Smoothly.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Inventor Showcasing The Completed Automaton To An Intrigued Audience.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Inventions:
     1. First Image: A Grand Exhibition Hall Displaying Various Steam-Powered Inventions.
     2. Second Image: Transition From The First Image, Inventors Presenting Their Creations, From Steam-Powered Vehicles To Intricate Gadgets.
@@ -285,14 +285,14 @@ Title: Steam-Powered Inventions:
 ================================================================ X ================================================================
 17. Category Name: Steamppunk Fantasy
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Magical Steam:
     1. First Image: A World Where Magic And Steamppunk Technology Coexist, With Wizards Wielding Mechanical Staffs.
     2. Second Image: Transition From The First Image, A Dramatic Battle Between Magical Creatures And Steam-Powered Warriors.
     3. Third Image: Transition From The Second Image, A City Where Floating Islands Are Held Aloft By Steam And Magic.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Discovering A Hidden Realm Where The Two Forces Are In Perfect Harmony.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Enchanted Machines:
     1. First Image: A Workshop Where Enchanted Machinery Is Crafted By Skilled Artisans.
     2. Second Image: Transition From The First Image, An Inventor Using Magical Crystals To Power A New Creation.
@@ -301,14 +301,14 @@ Title: Enchanted Machines:
 ================================================================ X ================================================================
 18. Category Name: Steamppunk Warfare
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Soldiers:
     1. First Image: An Army Of Steam-Powered Soldiers Preparing For Battle.
     2. Second Image: Transition From The First Image, The Soldiers Marching Through A Steamppunk City.
     3. Third Image: Transition From The Second Image, A Fierce Battle With Explosions And Mechanical War Machines Clashing.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield After The Fight, With Steam Rising From The Fallen Machines.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Battles:
     1. First Image: Two Massive Airships Engaging In A Sky Battle, With Cannons Firing.
     2. Second Image: Transition From The First Image, Crew Members Scrambling To Man Their Battle Stations.
@@ -317,14 +317,14 @@ Title: Airship Battles:
 ================================================================ X ================================================================
 19. Category Name: Steamppunk Cities
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Metropolis:
     1. First Image: A Bustling Steamppunk City With Towering Clockwork Buildings And Airships Flying Above.
     2. Second Image: Transition From The First Image, Street-Level View With People In Victorian Attire, Steam-Powered Vehicles, And Vendors Selling Mechanical Trinkets.
     3. Third Image: Transition From The Second Image, A Dramatic Scene With An Airship Docking At A Towering Platform.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City Illuminated At Night With Glowing Lanterns And Mechanical Lights.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: A Sprawling Industrial City With Smokestacks And Factories Churning Out Steam.
     2. Second Image: Transition From The First Image, Workers In Victorian-Era Clothing Operating Massive Steamppunk Machinery.
@@ -333,14 +333,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 20. Category Name: Steamppunk Adventures
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Pirates:
     1. First Image: A Steamppunk Airship Flying Through The Clouds, With Pirate Flags Waving.
     2. Second Image: Transition From The First Image, The Crew, Dressed In Steamppunk Pirate Attire, Preparing For A Raid.
     3. Third Image: Transition From The Second Image, A Fierce Battle In The Sky Between Rival Airships.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Pirates Celebrating With Their Loot, The Cityscape Below.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Explorers Of The Unknown:
     1. First Image: A Team Of Steamppunk Adventurers Setting Out On An Expedition In A Rugged Terrain.
     2. Second Image: Transition From The First Image, The Group Encountering Mysterious Mechanical Creatures In A Dense Forest.
@@ -349,14 +349,14 @@ Title: Explorers Of The Unknown:
 ================================================================ X ================================================================
 21. Category Name: Steamppunk Technology
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Automaton Workshop:
     1. First Image: A Workshop Filled With Half-Finished Automatons And Intricate Mechanical Parts.
     2. Second Image: Transition From The First Image, An Inventor Tinkering With A Clockwork Robot, Surrounded By Blueprints.
     3. Third Image: Transition From The Second Image, The Automaton Coming To Life, With Gears And Cogs Moving Smoothly.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Inventor Showcasing The Completed Automaton To An Intrigued Audience.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Inventions:
     1. First Image: A Grand Exhibition Hall Displaying Various Steam-Powered Inventions.
     2. Second Image: Transition From The First Image, Inventors Presenting Their Creations, From Steam-Powered Vehicles To Intricate Gadgets.
@@ -365,14 +365,14 @@ Title: Steam-Powered Inventions:
 ================================================================ X ================================================================
 22. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -381,14 +381,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 23. Category Name: Steamppunk Architecture
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Castle:
     1. First Image: A Majestic Steamppunk Castle With Towers And Gears Visible On The Exterior.
     2. Second Image: Transition From The First Image, The Grand Entrance Hall With Intricate Mechanical Decorations.
     3. Third Image: Transition From The Second Image, Secret Passages And Hidden Rooms Filled With Steam-Powered Contraptions.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated At Night, Gears And Cogs Moving In Synchrony.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Mansion:
     1. First Image: A Lavish Mansion With A Blend Of Victorian And Steamppunk Design Elements.
     2. Second Image: Transition From The First Image, The Interior, Showcasing Rooms With Elegant Furniture And Mechanical Gadgets.
@@ -397,14 +397,14 @@ Title: Mechanical Mansion:
 ================================================================ X ================================================================
 24. Category Name: Steamppunk Transport
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airships:
     1. First Image: A Massive Steamppunk Airship Docked At A Floating Skyport.
     2. Second Image: Transition From The First Image, The Interior Of The Airship, With Luxurious Cabins And A Control Room Filled With Gears.
     3. Third Image: Transition From The Second Image, The Airship In Flight, With Passengers Enjoying The Scenic View From Above.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Airship Landing At A Remote Outpost, With Crew Members Preparing For Departure.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Trains:
     1. First Image: A Powerful Steam Train With Intricate Designs, Arriving At A Bustling Station.
     2. Second Image: Transition From The First Image, Passengers Boarding The Train, Excited For Their Journey.
@@ -413,14 +413,14 @@ Title: Steam Trains:
 ================================================================ X ================================================================
 25. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -429,14 +429,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 26. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:
     1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
     2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -445,14 +445,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 27. Category Name: Steamppunk Warfare
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Soldiers:
     1. First Image: An Army Of Steam-Powered Soldiers Preparing For Battle.
     2. Second Image: Transition From The First Image, The Soldiers Marching Through A Steamppunk City.
     3. Third Image: Transition From The Second Image, A Fierce Battle With Explosions And Mechanical War Machines Clashing.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield After The Fight, With Steam Rising From The Fallen Machines.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Battles:
     1. First Image: Two Massive Airships Engaging In A Sky Battle, With Cannons Firing.
     2. Second Image: Transition From The First Image, Crew Members Scrambling To Man Their Battle Stations.
@@ -461,14 +461,14 @@ Title: Airship Battles:
 ================================================================ X ================================================================
 28. Category Name: Steamppunk Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Fair:
     1. First Image: A Lively Steamppunk Fair With Mechanical Rides, Games, And Attractions.
     2. Second Image: Transition From The First Image, Visitors In Elaborate Steamppunk Costumes Enjoying The Festivities.
     3. Third Image: Transition From The Second Image, A Grand Parade With Steam-Powered Floats And Performers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fairgrounds Illuminated At Night With Glowing Lanterns And Fireworks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Carnival:
     1. First Image: A Carnival Filled With Mechanical Wonders And Steamppunk Rides.
     2. Second Image: Transition From The First Image, People Playing Games, Winning Mechanical Prizes.
@@ -477,14 +477,14 @@ Title: Clockwork Carnival:
 ================================================================ X ================================================================
 29. Category Name: Steamppunk History
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Era:
     1. First Image: A Bustling Victorian Street With Steam-Powered Carriages And Elegantly Dressed Pedestrians.
     2. Second Image: Transition From The First Image, Inside A Grand Victorian House With Steamppunk Decorations.
     3. Third Image: Transition From The Second Image, A High-Society Event With Guests In Steamppunk Attire.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, Illuminated By Gas Lamps And Mechanical Lanterns.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: Factories And Smokestacks Dominating A Steamppunk Industrial Landscape.
     2. Second Image: Transition From The First Image, Workers Operating Massive Steam-Powered Machines.
@@ -493,14 +493,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 30. Category Name: Steamppunk Science
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mad Scientists Lab:
     1. First Image: A Cluttered Lab Filled With Bizarre Steam-Powered Contraptions.
     2. Second Image: Transition From The First Image, The Scientist Working On An Experiment With Bubbling Vials And Mechanical Arms.
     3. Third Image: Transition From The Second Image, A Dramatic Moment As An Experiment Goes Awry, With Steam And Sparks Flying.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Scientist Making A Breakthrough, With A Newly Created Device Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Laboratory:
     1. First Image: A Grand Laboratory With Massive Gears And Glass Tubes.
     2. Second Image: Transition From The First Image, Scientists Working On Various Projects, Surrounded By Steam And Machinery.
@@ -509,14 +509,14 @@ Title: Steamppunk Laboratory:
 ================================================================ X ================================================================
 31. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -525,14 +525,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 32. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -541,14 +541,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 33. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:     
      1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
      2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -569,14 +569,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 35. Category Name: Steamppunk Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Fair:
     1. First Image: A Lively Steamppunk Fair With Mechanical Rides, Games, And Attractions.
     2. Second Image: Transition From The First Image, Visitors In Elaborate Steamppunk Costumes Enjoying The Festivities.
     3. Third Image: Transition From The Second Image, A Grand Parade With Steam-Powered Floats And Performers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fairgrounds Illuminated At Night With Glowing Lanterns And Fireworks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Carnival:
     1. First Image: A Carnival Filled With Mechanical Wonders And Steamppunk Rides.
     2. Second Image: Transition From The First Image, People Playing Games, Winning Mechanical Prizes.
@@ -585,14 +585,14 @@ Title: Clockwork Carnival:
 ================================================================ X ================================================================
 36. Category Name: Steamppunk History
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Era:
     1. First Image: A Bustling Victorian Street With Steam-Powered Carriages And Elegantly Dressed Pedestrians.
     2. Second Image: Transition From The First Image, Inside A Grand Victorian House With Steamppunk Decorations.
     3. Third Image: Transition From The Second Image, A High-Society Event With Guests In Steamppunk Attire.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, Illuminated By Gas Lamps And Mechanical Lanterns.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: Factories And Smokestacks Dominating A Steamppunk Industrial Landscape.
     2. Second Image: Transition From The First Image, Workers Operating Massive Steam-Powered Machines.
@@ -601,14 +601,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 37. Category Name: Steamppunk Science
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mad Scientists Lab:
     1. First Image: A Cluttered Lab Filled With Bizarre Steam-Powered Contraptions.
     2. Second Image: Transition From The First Image, The Scientist Working On An Experiment With Bubbling Vials And Mechanical Arms.
     3. Third Image: Transition From The Second Image, A Dramatic Moment As An Experiment Goes Awry, With Steam And Sparks Flying.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Scientist Making A Breakthrough, With A Newly Created Device Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Laboratory:
     1. First Image: A Grand Laboratory With Massive Gears And Glass Tubes.
     2. Second Image: Transition From The First Image, Scientists Working On Various Projects, Surrounded By Steam And Machinery.
@@ -617,14 +617,14 @@ Title: Steamppunk Laboratory:
 ================================================================ X ================================================================
 38. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -633,14 +633,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 39. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -649,14 +649,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 40. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:
     1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
     2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -665,14 +665,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 41. Category Name: Steamppunk Warfare
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Soldiers:
     1. First Image: An Army Of Steam-Powered Soldiers Preparing For Battle.
     2. Second Image: Transition From The First Image, The Soldiers Marching Through A Steamppunk City.
     3. Third Image: Transition From The Second Image, A Fierce Battle With Explosions And Mechanical War Machines Clashing.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield After The Fight, With Steam Rising From The Fallen Machines.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Battles:
     1. First Image: Two Massive Airships Engaging In A Sky Battle, With Cannons Firing.
     2. Second Image: Transition From The First Image, Crew Members Scrambling To Man Their Battle Stations.
@@ -681,14 +681,14 @@ Title: Airship Battles:
 ================================================================ X ================================================================
 42. Category Name: Steamppunk Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Fair:
     1. First Image: A Lively Steamppunk Fair With Mechanical Rides, Games, And Attractions.
     2. Second Image: Transition From The First Image, Visitors In Elaborate Steamppunk Costumes Enjoying The Festivities.
     3. Third Image: Transition From The Second Image, A Grand Parade With Steam-Powered Floats And Performers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fairgrounds Illuminated At Night With Glowing Lanterns And Fireworks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Carnival:
     1. First Image: A Carnival Filled With Mechanical Wonders And Steamppunk Rides.
     2. Second Image: Transition From The First Image, People Playing Games, Winning Mechanical Prizes.
@@ -697,14 +697,14 @@ Title: Clockwork Carnival:
 ================================================================ X ================================================================
 43. Category Name: Steamppunk History
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Era:
     1. First Image: A Bustling Victorian Street With Steam-Powered Carriages And Elegantly Dressed Pedestrians.
     2. Second Image: Transition From The First Image, Inside A Grand Victorian House With Steamppunk Decorations.
     3. Third Image: Transition From The Second Image, A High-Society Event With Guests In Steamppunk Attire.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, Illuminated By Gas Lamps And Mechanical Lanterns.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: Factories And Smokestacks Dominating A Steamppunk Industrial Landscape.
     2. Second Image: Transition From The First Image, Workers Operating Massive Steam-Powered Machines.
@@ -713,14 +713,14 @@ Title: Industrial Revolution:
 ================================================================ X ================================================================
 44. Category Name: Steamppunk Science
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mad Scientists Lab:
     1. First Image: A Cluttered Lab Filled With Bizarre Steam-Powered Contraptions.
     2. Second Image: Transition From The First Image, The Scientist Working On An Experiment With Bubbling Vials And Mechanical Arms.
     3. Third Image: Transition From The Second Image, A Dramatic Moment As An Experiment Goes Awry, With Steam And Sparks Flying.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Scientist Making A Breakthrough, With A Newly Created Device Glowing Softly.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Laboratory:
     1. First Image: A Grand Laboratory With Massive Gears And Glass Tubes.
     2. Second Image: Transition From The First Image, Scientists Working On Various Projects, Surrounded By Steam And Machinery.
@@ -729,14 +729,14 @@ Title: Steamppunk Laboratory:
 ================================================================ X ================================================================
 45. Category Name: Steamppunk Mysteries
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Detective:
     1. First Image: A Steamppunk Detectives Office Filled With Gadgets, Maps, And Clues.
     2. Second Image: Transition From The First Image, The Detective Examining A Mysterious Mechanical Device.
     3. Third Image: Transition From The Second Image, A Tense Moment As The Detective Confronts A Suspect In A Dark Alley.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Solved, With The Detective Revealing The Intricate Plot.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Society:
     1. First Image: A Hidden Meeting Of A Secret Society In A Candlelit Room.
     2. Second Image: Transition From The First Image, Members In Elaborate Steamppunk Masks Discussing Plans Around A Mechanical Table.
@@ -745,14 +745,14 @@ Title: Secret Society:
 ================================================================ X ================================================================
 46. Category Name: Steamppunk Fashion
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Elegance:
     1. First Image: A Grand Ballroom Filled With Elegantly Dressed Individuals In Steamppunk Victorian Attire.
     2. Second Image: Transition From The First Image, Close-Up Of Intricate Accessories Like Gears, Goggles, And Pocket Watches.
     3. Third Image: Transition From The Second Image, A Couple Dancing Gracefully Under A Chandelier.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Ball Winding Down, With Guests Conversing In Small Groups.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steamppunk Adventurers:
     1. First Image: A Group Of Steamppunk Adventurers In Rugged Yet Stylish Attire, Ready For An Expedition.
     2. Second Image: Transition From The First Image, Detailed View Of Their Gear, Including Belts, Pouches, And Mechanical Tools.
@@ -761,14 +761,14 @@ Title: Steamppunk Adventurers:
 ================================================================ X ================================================================
 47. Category Name: Steamppunk Nature
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Gardens:
     1. First Image: A Garden With Steam-Powered Fountains, Mechanical Plants, And Clockwork Insects.
     2. Second Image: Transition From The First Image, Visitors Marveling At The Blend Of Nature And Technology.
     3. Third Image: Transition From The Second Image, The Garden Illuminated By Glowing Mechanical Flowers At Dusk.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden’S Caretakers Maintaining The Intricate Machinery.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam-Powered Wildlife:
     1. First Image: A Forest With Mechanical Animals Roaming And Interacting With The Environment.
     2. Second Image: Transition From The First Image, A Steamppunk Explorer Observing The Mechanical Wildlife.
@@ -777,14 +777,14 @@ Title: Steam-Powered Wildlife:
 ================================================================ X ================================================================
 48. Category Name: Steamppunk Warfare
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mechanical Soldiers:
     1. First Image: An Army Of Steam-Powered Soldiers Preparing For Battle.
     2. Second Image: Transition From The First Image, The Soldiers Marching Through A Steamppunk City.
     3. Third Image: Transition From The Second Image, A Fierce Battle With Explosions And Mechanical War Machines Clashing.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield After The Fight, With Steam Rising From The Fallen Machines.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Airship Battles:
     1. First Image: Two Massive Airships Engaging In A Sky Battle, With Cannons Firing.
     2. Second Image: Transition From The First Image, Crew Members Scrambling To Man Their Battle Stations.
@@ -793,14 +793,14 @@ Title: Airship Battles:
 ================================================================ X ================================================================
 49. Category Name: Steamppunk Festivals
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Steam Fair:
     1. First Image: A Lively Steamppunk Fair With Mechanical Rides, Games, And Attractions.
     2. Second Image: Transition From The First Image, Visitors In Elaborate Steamppunk Costumes Enjoying The Festivities.
     3. Third Image: Transition From The Second Image, A Grand Parade With Steam-Powered Floats And Performers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The Fairgrounds Illuminated At Night With Glowing Lanterns And Fireworks.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Clockwork Carnival:
     1. First Image: A Carnival Filled With Mechanical Wonders And Steamppunk Rides.
     2. Second Image: Transition From The First Image, People Playing Games, Winning Mechanical Prizes.
@@ -809,14 +809,14 @@ Title: Clockwork Carnival:
 ================================================================ X ================================================================
 50. Category Name: Steamppunk History
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian Era:
     1. First Image: A Bustling Victorian Street With Steam-Powered Carriages And Elegantly Dressed Pedestrians.
     2. Second Image: Transition From The First Image, Inside A Grand Victorian House With Steamppunk Decorations.
     3. Third Image: Transition From The Second Image, A High-Society Event With Guests In Steamppunk Attire.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, Illuminated By Gas Lamps And Mechanical Lanterns.
 
-Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create 4 Separate Widescreen Aspect Ratio Images In A Storybook Style With A Steamppunk Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Industrial Revolution:
     1. First Image: Factories And Smokestacks Dominating A Steamppunk Industrial Landscape.
     2. Second Image: Transition From The First Image, Workers Operating Massive Steam-Powered Machines.
