@@ -29,800 +29,800 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Urban Shadows
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Dark Alley:
-    1. First Image: A narrow alleyway shrouded in shadows with a single street lamp casting a dim light.
-    2. Second Image: Transition From The First Image, A silhouette of a figure standing under the street lamp.
-    3. Third Image: Transition From The Second Image, The figure encountering a suspicious character in the alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A tense standoff, with shadows stretching long and ominous.
+    1. First Image: A Narrow Alleyway Shrouded In Shadows With A Single Street Lamp Casting A Dim Light.
+    2. Second Image: Transition From The First Image, A Silhouette Of A Figure Standing Under The Street Lamp.
+    3. Third Image: Transition From The Second Image, The Figure Encountering A Suspicious Character In The Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Tense Standoff, With Shadows Stretching Long And Ominous.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Foggy Street:
-    1. First Image: A deserted street cloaked in fog with vintage cars parked along the curb.
-    2. Second Image: Transition From The First Image, The fog thickening, reducing visibility.
-    3. Third Image: Transition From The Second Image, A mysterious figure emerging from the fog.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The figure disappearing into the shadows, leaving an air of mystery.
+    1. First Image: A Deserted Street Cloaked In Fog With Vintage Cars Parked Along The Curb.
+    2. Second Image: Transition From The First Image, The Fog Thickening, Reducing Visibility.
+    3. Third Image: Transition From The Second Image, A Mysterious Figure Emerging From The Fog.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Figure Disappearing Into The Shadows, Leaving An Air Of Mystery.
 ================================================================ X ================================================================
 2. Category Name: Detective Stories
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Private Eyes Office:
-    1. First Image: A dimly lit office with a cluttered desk, a rotary phone, and half-open blinds.
-    2. Second Image: Transition From The First Image, The detective reviewing case files under the lamps glow.
-    3. Third Image: Transition From The Second Image, A mysterious client entering the office with a new case.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective and client in a tense discussion, shadows casting dramatic patterns.
+    1. First Image: A Dimly Lit Office With A Cluttered Desk, A Rotary Phone, And Half-Open Blinds.
+    2. Second Image: Transition From The First Image, The Detective Reviewing Case Files Under The Lamps Glow.
+    3. Third Image: Transition From The Second Image, A Mysterious Client Entering The Office With A New Case.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Detective And Client In A Tense Discussion, Shadows Casting Dramatic Patterns.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Interrogation Room:
-    1. First Image: A stark room with a single hanging bulb and a metal table.
-    2. Second Image: Transition From The First Image, The detective interrogating a suspect, both cast in harsh light and deep shadows.
-    3. Third Image: Transition From The Second Image, The suspect sweating under the pressure, looking nervous.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective leaving the room with a determined expression, the case progressing.
+    1. First Image: A Stark Room With A Single Hanging Bulb And A Metal Table.
+    2. Second Image: Transition From The First Image, The Detective Interrogating A Suspect, Both Cast In Harsh Light And Deep Shadows.
+    3. Third Image: Transition From The Second Image, The Suspect Sweating Under The Pressure, Looking Nervous.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Detective Leaving The Room With A Determined Expression, The Case Progressing.
 ================================================================ X ================================================================
 3. Category Name: Femme Fatale
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mysterious Woman:
-    1. First Image: A glamorous woman in a red dress standing by a large window, backlit by city lights.
-    2. Second Image: Transition From The First Image, The woman turning with a cigarette holder in hand, exuding an air of danger.
-    3. Third Image: Transition From The Second Image, The woman meeting the detective in a smoky bar.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic reveal of her true intentions, with shadows accentuating her features.
+    1. First Image: A Glamorous Woman In A Red Dress Standing By A Large Window, Backlit By City Lights.
+    2. Second Image: Transition From The First Image, The Woman Turning With A Cigarette Holder In Hand, Exuding An Air Of Danger.
+    3. Third Image: Transition From The Second Image, The Woman Meeting The Detective In A Smoky Bar.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Reveal Of Her True Intentions, With Shadows Accentuating Her Features.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Enigmatic Encounter:
-    1. First Image: The femme fatale meeting the protagonist in a shadowy nightclub.
-    2. Second Image: Transition From The First Image, A conversation with intense eye contact and hidden meanings.
-    3. Third Image: Transition From The Second Image, The woman slipping a crucial piece of evidence to the protagonist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The woman vanishing into the night, leaving the protagonist conflicted.
+    1. First Image: The Femme Fatale Meeting The Protagonist In A Shadowy Nightclub.
+    2. Second Image: Transition From The First Image, A Conversation With Intense Eye Contact And Hidden Meanings.
+    3. Third Image: Transition From The Second Image, The Woman Slipping A Crucial Piece Of Evidence To The Protagonist.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Woman Vanishing Into The Night, Leaving The Protagonist Conflicted.
 ================================================================ X ================================================================
 4. Category Name: Crime Scenes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Abandoned Warehouse:
-    1. First Image: The exterior of a dilapidated warehouse under a full moon.
-    2. Second Image: Transition From The First Image, The interior, with beams of moonlight filtering through broken windows.
-    3. Third Image: Transition From The Second Image, The detective discovering a clue hidden among the debris.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A tense chase scene within the shadows of the warehouse.
+    1. First Image: The Exterior Of A Dilapidated Warehouse Under A Full Moon.
+    2. Second Image: Transition From The First Image, The Interior, With Beams Of Moonlight Filtering Through Broken Windows.
+    3. Third Image: Transition From The Second Image, The Detective Discovering A Clue Hidden Among The Debris.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Tense Chase Scene Within The Shadows Of The Warehouse.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Riverside Dock:
-    1. First Image: A deserted dock at night, with water reflecting the city lights.
-    2. Second Image: Transition From The First Image, The detective finding a body floating in the water.
-    3. Third Image: Transition From The Second Image, A shootout erupting at the dock, with muzzle flashes illuminating the scene.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective standing alone at the dock, deep in thought.
+    1. First Image: A Deserted Dock At Night, With Water Reflecting The City Lights.
+    2. Second Image: Transition From The First Image, The Detective Finding A Body Floating In The Water.
+    3. Third Image: Transition From The Second Image, A Shootout Erupting At The Dock, With Muzzle Flashes Illuminating The Scene.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Detective Standing Alone At The Dock, Deep In Thought.
 ================================================================ X ================================================================
 5. Category Name: Nightlife
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jazz Club:
-    1. First Image: A smoky jazz club with a band playing on stage, bathed in soft, moody lighting.
-    2. Second Image: Transition From The First Image, Patrons sipping drinks and engaging in hushed conversations.
-    3. Third Image: Transition From The Second Image, The detective meeting a contact in a dimly lit corner.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A sudden altercation breaking out, with shadows dancing to the music.
+    1. First Image: A Smoky Jazz Club With A Band Playing On Stage, Bathed In Soft, Moody Lighting.
+    2. Second Image: Transition From The First Image, Patrons Sipping Drinks And Engaging In Hushed Conversations.
+    3. Third Image: Transition From The Second Image, The Detective Meeting A Contact In A Dimly Lit Corner.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Sudden Altercation Breaking Out, With Shadows Dancing To The Music.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Casino:
-    1. First Image: A glamorous casino with people in elegant attire.
-    2. Second Image: Transition From The First Image, The protagonist gambling at a high-stakes table.
-    3. Third Image: Transition From The Second Image, A dramatic moment where a card game takes a deadly turn.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist escaping through the casino, pursued by shadowy figures.
+    1. First Image: A Glamorous Casino With People In Elegant Attire.
+    2. Second Image: Transition From The First Image, The Protagonist Gambling At A High-Stakes Table.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where A Card Game Takes A Deadly Turn.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Escaping Through The Casino, Pursued By Shadowy Figures.
 ================================================================ X ================================================================
 6. Category Name: Noir Romance
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Affair:
-    1. First Image: The protagonist meeting a lover in a hidden café.
-    2. Second Image: Transition From The First Image, A stolen kiss in the alley behind the café.
-    3. Third Image: Transition From The Second Image, The lovers parting ways, shadows emphasizing their sorrow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the lover disappear into the night.
+    1. First Image: The Protagonist Meeting A Lover In A Hidden Café.
+    2. Second Image: Transition From The First Image, A Stolen Kiss In The Alley Behind The Café.
+    3. Third Image: Transition From The Second Image, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Forbidden Love:
-    1. First Image: A clandestine meeting in a luxurious hotel room.
-    2. Second Image: Transition From The First Image, The lovers discussing their dangerous situation.
-    3. Third Image: Transition From The Second Image, A sudden interruption by an antagonist, creating tension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic escape, with the lovers holding hands and running through the darkened streets.
+    1. First Image: A Clandestine Meeting In A Luxurious Hotel Room.
+    2. Second Image: Transition From The First Image, The Lovers Discussing Their Dangerous Situation.
+    3. Third Image: Transition From The Second Image, A Sudden Interruption By An Antagonist, Creating Tension.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Escape, With The Lovers Holding Hands And Running Through The Darkened Streets.
 ================================================================ X ================================================================
 7. Category Name: Classic Cars
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Car Chase:
-    1. First Image: A sleek vintage car parked under a streetlamp, engine idling.
-    2. Second Image: Transition From The First Image, The car speeding through city streets at night.
-    3. Third Image: Transition From The Second Image, A high-speed chase with another car, tires screeching.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car skidding to a halt, narrowly avoiding an obstacle.
+    1. First Image: A Sleek Vintage Car Parked Under A Streetlamp, Engine Idling.
+    2. Second Image: Transition From The First Image, The Car Speeding Through City Streets At Night.
+    3. Third Image: Transition From The Second Image, A High-Speed Chase With Another Car, Tires Screeching.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Skidding To A Halt, Narrowly Avoiding An Obstacle.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Garage:
-    1. First Image: An old garage with vintage cars covered in dust.
-    2. Second Image: Transition From The First Image, The protagonist uncovering a hidden car, wiping away the dust.
-    3. Third Image: Transition From The Second Image, The car being repaired under dim lighting, tools scattered around.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car driving out of the garage, ready for action.
+    1. First Image: An Old Garage With Vintage Cars Covered In Dust.
+    2. Second Image: Transition From The First Image, The Protagonist Uncovering A Hidden Car, Wiping Away The Dust.
+    3. Third Image: Transition From The Second Image, The Car Being Repaired Under Dim Lighting, Tools Scattered Around.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Driving Out Of The Garage, Ready For Action.
 ================================================================ X ================================================================
 8. Category Name: Hidden Secrets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mystery Bookstore:
-    1. First Image: The exterior of a small, old bookstore in a shadowy street.
-    2. Second Image: Transition From The First Image, The interior, with dusty shelves filled with books.
-    3. Third Image: Transition From The Second Image, The protagonist discovering a hidden door behind a bookshelf.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Entering the secret room, filled with mysterious artifacts.
+    1. First Image: The Exterior Of A Small, Old Bookstore In A Shadowy Street.
+    2. Second Image: Transition From The First Image, The Interior, With Dusty Shelves Filled With Books.
+    3. Third Image: Transition From The Second Image, The Protagonist Discovering A Hidden Door Behind A Bookshelf.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Entering The Secret Room, Filled With Mysterious Artifacts.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Safe:
-    1. First Image: A hidden safe behind a painting in a dimly lit study.
-    2. Second Image: Transition From The First Image, The protagonist working to unlock the safe.
-    3. Third Image: Transition From The Second Image, The safe opening to reveal important documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist escaping with the documents, shadows lengthening behind them.
+    1. First Image: A Hidden Safe Behind A Painting In A Dimly Lit Study.
+    2. Second Image: Transition From The First Image, The Protagonist Working To Unlock The Safe.
+    3. Third Image: Transition From The Second Image, The Safe Opening To Reveal Important Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Escaping With The Documents, Shadows Lengthening Behind Them.
 ================================================================ X ================================================================
 9. Category Name: Noir Portraits
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Brooding Detective:
-    1. First Image: A close-up of a detective’s face, half in shadow, cigarette smoke curling around.
-    2. Second Image: Transition From The First Image, The detective looking out of a rain-streaked window.
-    3. Third Image: Transition From The Second Image, The detective at a bar, deep in thought, with shadows playing on the wall.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The detective walking down a dark street, silhouette stark against the city lights.
+    1. First Image: A Close-Up Of A Detective’S Face, Half In Shadow, Cigarette Smoke Curling Around.
+    2. Second Image: Transition From The First Image, The Detective Looking Out Of A Rain-Streaked Window.
+    3. Third Image: Transition From The Second Image, The Detective At A Bar, Deep In Thought, With Shadows Playing On The Wall.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Detective Walking Down A Dark Street, Silhouette Stark Against The City Lights.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mysterious Woman:
-    1. First Image: A close-up of a woman’s face, with dramatic lighting casting one side in shadow.
-    2. Second Image: Transition From The First Image, The woman in a stylish hat, peering from behind a veil.
-    3. Third Image: Transition From The Second Image, The woman in a glamorous dress, walking alone down a deserted street.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The woman standing under a streetlamp, her expression enigmatic.
+    1. First Image: A Close-Up Of A Woman’S Face, With Dramatic Lighting Casting One Side In Shadow.
+    2. Second Image: Transition From The First Image, The Woman In A Stylish Hat, Peering From Behind A Veil.
+    3. Third Image: Transition From The Second Image, The Woman In A Glamorous Dress, Walking Alone Down A Deserted Street.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Woman Standing Under A Streetlamp, Her Expression Enigmatic.
 ================================================================ X ================================================================
 10. Category Name: Dangerous Liaisons
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Meeting:
-    1. First Image: The protagonist receiving a cryptic note in a dark alley.
-    2. Second Image: Transition From The First Image, A rendezvous at a secluded dock under the cover of night.
-    3. Third Image: Transition From The Second Image, A whispered conversation with a shadowy figure.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving the meeting place with newfound resolve.
+    1. First Image: The Protagonist Receiving A Cryptic Note In A Dark Alley.
+    2. Second Image: Transition From The First Image, A Rendezvous At A Secluded Dock Under The Cover Of Night.
+    3. Third Image: Transition From The Second Image, A Whispered Conversation With A Shadowy Figure.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving The Meeting Place With Newfound Resolve.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Betrayal:
-    1. First Image: The protagonist discovering a hidden letter revealing a betrayal.
-    2. Second Image: Transition From The First Image, A tense confrontation in a dimly lit room.
-    3. Third Image: Transition From The Second Image, A physical struggle, with shadows adding to the chaos.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away, leaving the traitor behind.
+    1. First Image: The Protagonist Discovering A Hidden Letter Revealing A Betrayal.
+    2. Second Image: Transition From The First Image, A Tense Confrontation In A Dimly Lit Room.
+    3. Third Image: Transition From The Second Image, A Physical Struggle, With Shadows Adding To The Chaos.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away, Leaving The Traitor Behind.
 ================================================================ X ================================================================
 11. Category Name: Noir Cityscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Night:
-    1. First Image: A city street glistening with rain, neon lights reflecting on the wet pavement.
-    2. Second Image: Transition From The First Image, Pedestrians with umbrellas, shadows blending into the night.
-    3. Third Image: Transition From The Second Image, A car driving slowly through the rain, headlights cutting through the gloom.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing in the rain, trench coat and hat casting a long shadow.
+    1. First Image: A City Street Glistening With Rain, Neon Lights Reflecting On The Wet Pavement.
+    2. Second Image: Transition From The First Image, Pedestrians With Umbrellas, Shadows Blending Into The Night.
+    3. Third Image: Transition From The Second Image, A Car Driving Slowly Through The Rain, Headlights Cutting Through The Gloom.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Standing In The Rain, Trench Coat And Hat Casting A Long Shadow.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Empty Train Station:
-    1. First Image: A deserted train station with a single bench and a flickering light.
-    2. Second Image: Transition From The First Image, The protagonist waiting alone, suitcase by their side.
-    3. Third Image: Transition From The Second Image, A train arriving in a cloud of steam, creating a ghostly atmosphere.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist boarding the train, leaving behind an empty platform.
+    1. First Image: A Deserted Train Station With A Single Bench And A Flickering Light.
+    2. Second Image: Transition From The First Image, The Protagonist Waiting Alone, Suitcase By Their Side.
+    3. Third Image: Transition From The Second Image, A Train Arriving In A Cloud Of Steam, Creating A Ghostly Atmosphere.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Boarding The Train, Leaving Behind An Empty Platform.
 ================================================================ X ================================================================
 12. Category Name: Noir Interiors
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Smoky Bar:
-    1. First Image: A dimly lit bar with smoke swirling in the air.
-    2. Second Image: Transition From The First Image, Patrons hunched over their drinks, speaking in hushed tones.
-    3. Third Image: Transition From The Second Image, A jazz band playing softly in the corner.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist meeting an informant in a shadowy booth.
+    1. First Image: A Dimly Lit Bar With Smoke Swirling In The Air.
+    2. Second Image: Transition From The First Image, Patrons Hunched Over Their Drinks, Speaking In Hushed Tones.
+    3. Third Image: Transition From The Second Image, A Jazz Band Playing Softly In The Corner.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Meeting An Informant In A Shadowy Booth.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Abandoned Office:
-    1. First Image: An old, abandoned office with papers strewn across the floor.
-    2. Second Image: Transition From The First Image, The protagonist searching through the mess for clues.
-    3. Third Image: Transition From The Second Image, A hidden compartment in the desk revealing important documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving the office with a determined expression.
+    1. First Image: An Old, Abandoned Office With Papers Strewn Across The Floor.
+    2. Second Image: Transition From The First Image, The Protagonist Searching Through The Mess For Clues.
+    3. Third Image: Transition From The Second Image, A Hidden Compartment In The Desk Revealing Important Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving The Office With A Determined Expression.
 ================================================================ X ================================================================
 13. Category Name: Noir Journeys
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Night Train:
-    1. First Image: A train pulling out of the station at night, steam billowing.
-    2. Second Image: Transition From The First Image, The protagonist sitting in a dimly lit compartment, deep in thought.
-    3. Third Image: Transition From The Second Image, The train speeding through the dark countryside, shadows flickering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist disembarking at a mysterious destination.
+    1. First Image: A Train Pulling Out Of The Station At Night, Steam Billowing.
+    2. Second Image: Transition From The First Image, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
+    3. Third Image: Transition From The Second Image, The Train Speeding Through The Dark Countryside, Shadows Flickering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lonely Road:
-    1. First Image: A long, empty road stretching into the night.
-    2. Second Image: Transition From The First Image, The protagonist driving a vintage car, headlights cutting through the darkness.
-    3. Third Image: Transition From The Second Image, A roadside diner appearing in the distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stopping at the diner, seeking refuge from the night.
+    1. First Image: A Long, Empty Road Stretching Into The Night.
+    2. Second Image: Transition From The First Image, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
+    3. Third Image: Transition From The Second Image, A Roadside Diner Appearing In The Distance.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stopping At The Diner, Seeking Refuge From The Night.
 ================================================================ X ================================================================
 14. Category Name: Noir Mysteries
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Clue:
-    1. First Image: The protagonist discovering a hidden clue in a dark alley.
-    2. Second Image: Transition From The First Image, The clue leading to a shadowy figure.
-    3. Third Image: Transition From The Second Image, A confrontation with the figure in a dimly lit room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist piecing together the mystery, shadows deepening.
+    1. First Image: The Protagonist Discovering A Hidden Clue In A Dark Alley.
+    2. Second Image: Transition From The First Image, The Clue Leading To A Shadowy Figure.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Figure In A Dimly Lit Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Map:
-    1. First Image: The protagonist finding a secret map in an old book.
-    2. Second Image: Transition From The First Image, The map leading to a hidden location.
-    3. Third Image: Transition From The Second Image, The protagonist arriving at the location at night.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mystery unfolding as the protagonist explores the shadows.
+    1. First Image: The Protagonist Finding A Secret Map In An Old Book.
+    2. Second Image: Transition From The First Image, The Map Leading To A Hidden Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Arriving At The Location At Night.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Unfolding As The Protagonist Explores The Shadows.
 ================================================================ X ================================================================
 15. Category Name: Noir Reflections
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Window:
-    1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
-    2. Second Image: Transition From The First Image, The reflection of city lights in the window.
-    3. Third Image: Transition From The Second Image, A shadowy figure approaching from behind.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist turning to face the figure, tension in the air.
+    1. First Image: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
+    2. Second Image: Transition From The First Image, The Reflection Of City Lights In The Window.
+    3. Third Image: Transition From The Second Image, A Shadowy Figure Approaching From Behind.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Broken Mirror:
-    1. First Image: A broken mirror reflecting the protagonist’s troubled face.
-    2. Second Image: Transition From The First Image, The protagonist piecing together the fragments of the mirror.
-    3. Third Image: Transition From The Second Image, The reflection showing a revelation.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving, having found clarity in the shattered glass.
+    1. First Image: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
+    2. Second Image: Transition From The First Image, The Protagonist Piecing Together The Fragments Of The Mirror.
+    3. Third Image: Transition From The Second Image, The Reflection Showing A Revelation.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving, Having Found Clarity In The Shattered Glass.
 ================================================================ X ================================================================
 16. Category Name: Noir Heists
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bank Job:
-    1. First Image: The exterior of a bank at night, with security lights casting long shadows.
-    2. Second Image: Transition From The First Image, The heist crew preparing their equipment in a dimly lit room.
-    3. Third Image: Transition From The Second Image, The crew breaking into the bank, tension high.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The crew escaping into the night, shadows concealing their movements.
+    1. First Image: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
+    2. Second Image: Transition From The First Image, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
+    3. Third Image: Transition From The Second Image, The Crew Breaking Into The Bank, Tension High.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Art Theft:
-    1. First Image: An art gallery with valuable paintings under spotlight.
-    2. Second Image: Transition From The First Image, The thieves planning the heist, blueprints spread out.
-    3. Third Image: Transition From The Second Image, The thieves executing the heist, moving stealthily.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The empty frames left behind, the gallery in darkness.
+    1. First Image: An Art Gallery With Valuable Paintings Under Spotlight.
+    2. Second Image: Transition From The First Image, The Thieves Planning The Heist, Blueprints Spread Out.
+    3. Third Image: Transition From The Second Image, The Thieves Executing The Heist, Moving Stealthily.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Empty Frames Left Behind, The Gallery In Darkness.
 ================================================================ X ================================================================
 17. Category Name: Noir Secrets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 18. Category Name: Noir Revenge
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vendetta:
-    1. First Image: The protagonist plotting revenge in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing weapons under the flickering light.
-    3. Third Image: Transition From The Second Image, A confrontation with the antagonist in a shadowy alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, shadows enveloping the scene.
+    1. First Image: The Protagonist Plotting Revenge In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing Weapons Under The Flickering Light.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Antagonist In A Shadowy Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Standing Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Betrayal:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist confronting the betrayer in a shadowy setting.
-    3. Third Image: Transition From The Second Image, A tense standoff with dramatic lighting and deep shadows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away, leaving the betrayer in the dark.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Confronting The Betrayer In A Shadowy Setting.
+    3. Third Image: Transition From The Second Image, A Tense Standoff With Dramatic Lighting And Deep Shadows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away, Leaving The Betrayer In The Dark.
 ================================================================ X ================================================================
 19. Category Name: Noir Justice
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vigilante:
-    1. First Image: The protagonist donning a mask in a dimly lit room.
-    2. Second Image: Transition From The First Image, The vigilante patrolling the city streets at night.
-    3. Third Image: Transition From The Second Image, A confrontation with criminals in a dark alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The vigilante standing on a rooftop, overlooking the city.
+    1. First Image: The Protagonist Donning A Mask In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Vigilante Patrolling The City Streets At Night.
+    3. Third Image: Transition From The Second Image, A Confrontation With Criminals In A Dark Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Corrupt Cops:
-    1. First Image: The protagonist discovering corruption within the police force.
-    2. Second Image: Transition From The First Image, A tense meeting with a trusted ally in a shadowy location.
-    3. Third Image: Transition From The Second Image, The protagonist gathering evidence against the corrupt officers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic arrest, with shadows highlighting the tension.
+    1. First Image: The Protagonist Discovering Corruption Within The Police Force.
+    2. Second Image: Transition From The First Image, A Tense Meeting With A Trusted Ally In A Shadowy Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Gathering Evidence Against The Corrupt Officers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Arrest, With Shadows Highlighting The Tension.
 ================================================================ X ================================================================
 20. Category Name: Noir Journeys
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Night Train:
-    1. First Image: A train pulling out of the station at night, steam billowing.
-    2. Second Image: Transition From The First Image, The protagonist sitting in a dimly lit compartment, deep in thought.
-    3. Third Image: Transition From The Second Image, The train speeding through the dark countryside, shadows flickering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist disembarking at a mysterious destination.
+    1. First Image: A Train Pulling Out Of The Station At Night, Steam Billowing.
+    2. Second Image: Transition From The First Image, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
+    3. Third Image: Transition From The Second Image, The Train Speeding Through The Dark Countryside, Shadows Flickering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lonely Road:
-    1. First Image: A long, empty road stretching into the night.
-    2. Second Image: Transition From The First Image, The protagonist driving a vintage car, headlights cutting through the darkness.
-    3. Third Image: Transition From The Second Image, A roadside diner appearing in the distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stopping at the diner, seeking refuge from the night.
+    1. First Image: A Long, Empty Road Stretching Into The Night.
+    2. Second Image: Transition From The First Image, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
+    3. Third Image: Transition From The Second Image, A Roadside Diner Appearing In The Distance.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stopping At The Diner, Seeking Refuge From The Night.
 ================================================================ X ================================================================
 21. Category Name: Noir Reflections
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Window:
-    1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
-    2. Second Image: Transition From The First Image, The reflection of city lights in the window.
-    3. Third Image: Transition From The Second Image, A shadowy figure approaching from behind.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist turning to face the figure, tension in the air.
+    1. First Image: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
+    2. Second Image: Transition From The First Image, The Reflection Of City Lights In The Window.
+    3. Third Image: Transition From The Second Image, A Shadowy Figure Approaching From Behind.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Broken Mirror:
-    1. First Image: A broken mirror reflecting the protagonist’s troubled face.
-    2. Second Image: Transition From The First Image, The protagonist piecing together the fragments of the mirror.
-    3. Third Image: Transition From The Second Image, The reflection showing a revelation.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving, having found clarity in the shattered glass.
+    1. First Image: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
+    2. Second Image: Transition From The First Image, The Protagonist Piecing Together The Fragments Of The Mirror.
+    3. Third Image: Transition From The Second Image, The Reflection Showing A Revelation.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving, Having Found Clarity In The Shattered Glass.
 ================================================================ X ================================================================
 22. Category Name: Noir Heists
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bank Job:
-    1. First Image: The exterior of a bank at night, with security lights casting long shadows.
-    2. Second Image: Transition From The First Image, The heist crew preparing their equipment in a dimly lit room.
-    3. Third Image: Transition From The Second Image, The crew breaking into the bank, tension high.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The crew escaping into the night, shadows concealing their movements.
+    1. First Image: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
+    2. Second Image: Transition From The First Image, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
+    3. Third Image: Transition From The Second Image, The Crew Breaking Into The Bank, Tension High.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Art Theft:
-    1. First Image: An art gallery with valuable paintings under spotlight.
-    2. Second Image: Transition From The First Image, The thieves planning the heist, blueprints spread out.
-    3. Third Image: Transition From The Second Image, The thieves executing the heist, moving stealthily.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The empty frames left behind, the gallery in darkness.
+    1. First Image: An Art Gallery With Valuable Paintings Under Spotlight.
+    2. Second Image: Transition From The First Image, The Thieves Planning The Heist, Blueprints Spread Out.
+    3. Third Image: Transition From The Second Image, The Thieves Executing The Heist, Moving Stealthily.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Empty Frames Left Behind, The Gallery In Darkness.
 ================================================================ X ================================================================
 23. Category Name: Noir Pursuit
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Chase through the Streets:
-    1. First Image: The protagonist running down a shadowy street.
-    2. Second Image: Transition From The First Image, The pursuer close behind, shadows stretching long.
-    3. Third Image: Transition From The Second Image, A narrow escape through an alleyway.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist hiding in a dark corner, catching their breath.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Chase Through The Streets:
+    1. First Image: The Protagonist Running Down A Shadowy Street.
+    2. Second Image: Transition From The First Image, The Pursuer Close Behind, Shadows Stretching Long.
+    3. Third Image: Transition From The Second Image, A Narrow Escape Through An Alleyway.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Train Station Chase:
-    1. First Image: The protagonist sprinting through a dimly lit train station.
-    2. Second Image: Transition From The First Image, The pursuer weaving through the crowd.
-    3. Third Image: Transition From The Second Image, A close call as the protagonist boards a moving train.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the pursuer left behind on the platform.
+    1. First Image: The Protagonist Sprinting Through A Dimly Lit Train Station.
+    2. Second Image: Transition From The First Image, The Pursuer Weaving Through The Crowd.
+    3. Third Image: Transition From The Second Image, A Close Call As The Protagonist Boards A Moving Train.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Pursuer Left Behind On The Platform.
 ================================================================ X ================================================================
 24. Category Name: Noir Vengeance
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Seeking Revenge:
-    1. First Image: The protagonist planning revenge in a shadowy room.
-    2. Second Image: Transition From The First Image, The protagonist confronting the antagonist in a dark alley.
-    3. Third Image: Transition From The Second Image, A tense struggle with dramatic lighting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away victorious, leaving the antagonist defeated.
+    1. First Image: The Protagonist Planning Revenge In A Shadowy Room.
+    2. Second Image: Transition From The First Image, The Protagonist Confronting The Antagonist In A Dark Alley.
+    3. Third Image: Transition From The Second Image, A Tense Struggle With Dramatic Lighting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away Victorious, Leaving The Antagonist Defeated.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vendetta:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing for confrontation.
-    3. Third Image: Transition From The Second Image, The protagonist facing the betrayer in a shadowy setting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, shadows adding to the tension.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing For Confrontation.
+    3. Third Image: Transition From The Second Image, The Protagonist Facing The Betrayer In A Shadowy Setting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.
 ================================================================ X ================================================================
 25. Category Name: Noir Secrets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 26. Category Name: Noir Justice
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vigilante:
-    1. First Image: The protagonist donning a mask in a dimly lit room.
-    2. Second Image: Transition From The First Image, The vigilante patrolling the city streets at night.
-    3. Third Image: Transition From The Second Image, A confrontation with criminals in a dark alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The vigilante standing on a rooftop, overlooking the city.
+    1. First Image: The Protagonist Donning A Mask In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Vigilante Patrolling The City Streets At Night.
+    3. Third Image: Transition From The Second Image, A Confrontation With Criminals In A Dark Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Corrupt Cops:
-    1. First Image: The protagonist discovering corruption within the police force.
-    2. Second Image: Transition From The First Image, A tense meeting with a trusted ally in a shadowy location.
-    3. Third Image: Transition From The Second Image, The protagonist gathering evidence against the corrupt officers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic arrest, with shadows highlighting the tension.
+    1. First Image: The Protagonist Discovering Corruption Within The Police Force.
+    2. Second Image: Transition From The First Image, A Tense Meeting With A Trusted Ally In A Shadowy Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Gathering Evidence Against The Corrupt Officers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Arrest, With Shadows Highlighting The Tension.
 ================================================================ X ================================================================
 27. Category Name: Noir Mysteries
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Clue:
-    1. First Image: The protagonist discovering a hidden clue in a dark alley.
-    2. Second Image: Transition From The First Image, The clue leading to a shadowy figure.
-    3. Third Image: Transition From The Second Image, A confrontation with the figure in a dimly lit room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist piecing together the mystery, shadows deepening.
+    1. First Image: The Protagonist Discovering A Hidden Clue In A Dark Alley.
+    2. Second Image: Transition From The First Image, The Clue Leading To A Shadowy Figure.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Figure In A Dimly Lit Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Map:
-    1. First Image: The protagonist finding a secret map in an old book.
-    2. Second Image: Transition From The First Image, The map leading to a hidden location.
-    3. Third Image: Transition From The Second Image, The protagonist arriving at the location at night.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mystery unfolding as the protagonist explores the shadows.
+    1. First Image: The Protagonist Finding A Secret Map In An Old Book.
+    2. Second Image: Transition From The First Image, The Map Leading To A Hidden Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Arriving At The Location At Night.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Unfolding As The Protagonist Explores The Shadows.
 ================================================================ X ================================================================
 28. Category Name: Noir Reflections
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Window:
-    1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
-    2. Second Image: Transition From The First Image, The reflection of city lights in the window.
-    3. Third Image: Transition From The Second Image, A shadowy figure approaching from behind.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist turning to face the figure, tension in the air.
+    1. First Image: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
+    2. Second Image: Transition From The First Image, The Reflection Of City Lights In The Window.
+    3. Third Image: Transition From The Second Image, A Shadowy Figure Approaching From Behind.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Broken Mirror:
-    1. First Image: A broken mirror reflecting the protagonist’s troubled face.
-    2. Second Image: Transition From The First Image, The protagonist piecing together the fragments of the mirror.
-    3. Third Image: Transition From The Second Image, The reflection showing a revelation.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving, having found clarity in the shattered glass.
+    1. First Image: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
+    2. Second Image: Transition From The First Image, The Protagonist Piecing Together The Fragments Of The Mirror.
+    3. Third Image: Transition From The Second Image, The Reflection Showing A Revelation.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving, Having Found Clarity In The Shattered Glass.
 ================================================================ X ================================================================
 29. Category Name: Noir Intrigue
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Rendezvous:
-    1. First Image: The protagonist receiving a cryptic message in a shadowy alley.
-    2. Second Image: Transition From The First Image, The protagonist meeting a mysterious contact in a dimly lit bar.
-    3. Third Image: Transition From The Second Image, A whispered conversation filled with tension and secrets.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving with new information, shadows deepening the mystery.
+    1. First Image: The Protagonist Receiving A Cryptic Message In A Shadowy Alley.
+    2. Second Image: Transition From The First Image, The Protagonist Meeting A Mysterious Contact In A Dimly Lit Bar.
+    3. Third Image: Transition From The Second Image, A Whispered Conversation Filled With Tension And Secrets.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving With New Information, Shadows Deepening The Mystery.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mysterious Stranger:
-    1. First Image: The protagonist encountering a stranger in a dark street.
-    2. Second Image: Transition From The First Image, The stranger offering a cryptic warning.
-    3. Third Image: Transition From The Second Image, The protagonist following the stranger into the shadows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The stranger disappearing, leaving the protagonist with more questions.
+    1. First Image: The Protagonist Encountering A Stranger In A Dark Street.
+    2. Second Image: Transition From The First Image, The Stranger Offering A Cryptic Warning.
+    3. Third Image: Transition From The Second Image, The Protagonist Following The Stranger Into The Shadows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Stranger Disappearing, Leaving The Protagonist With More Questions.
 ================================================================ X ================================================================
 30. Category Name: Noir Schemes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Elaborate Plan:
-    1. First Image: The protagonist devising a plan in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist recruiting allies in shadowy locations.
-    3. Third Image: Transition From The Second Image, The plan being set into motion, with shadows playing a key role.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The plan’s success, with the protagonist standing in the aftermath, shadows cast long.
+    1. First Image: The Protagonist Devising A Plan In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Recruiting Allies In Shadowy Locations.
+    3. Third Image: Transition From The Second Image, The Plan Being Set Into Motion, With Shadows Playing A Key Role.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Plan’S Success, With The Protagonist Standing In The Aftermath, Shadows Cast Long.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Deceptive Plot:
-    1. First Image: The antagonist plotting in a darkened room.
-    2. Second Image: Transition From The First Image, The antagonist manipulating events from the shadows.
-    3. Third Image: Transition From The Second Image, The protagonist uncovering the plot, tension rising.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic confrontation, with shadows adding to the suspense.
+    1. First Image: The Antagonist Plotting In A Darkened Room.
+    2. Second Image: Transition From The First Image, The Antagonist Manipulating Events From The Shadows.
+    3. Third Image: Transition From The Second Image, The Protagonist Uncovering The Plot, Tension Rising.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Confrontation, With Shadows Adding To The Suspense.
 ================================================================ X ================================================================
 31. Category Name: Noir Escape
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Breaking Free:
-    1. First Image: The protagonist locked in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist finding a way to escape through a hidden passage.
-    3. Third Image: Transition From The Second Image, The protagonist navigating through dark corridors.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging into the night, free but wary.
+    1. First Image: The Protagonist Locked In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Finding A Way To Escape Through A Hidden Passage.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating Through Dark Corridors.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Into The Night, Free But Wary.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Escape:
-    1. First Image: The protagonist trapped in an underground facility.
-    2. Second Image: Transition From The First Image, The protagonist discovering a hidden exit.
-    3. Third Image: Transition From The Second Image, The protagonist navigating through dark tunnels.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist reaching the surface, shadows hinting at the danger left behind.
+    1. First Image: The Protagonist Trapped In An Underground Facility.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering A Hidden Exit.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating Through Dark Tunnels.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Reaching The Surface, Shadows Hinting At The Danger Left Behind.
 ================================================================ X ================================================================
 32. Category Name: Noir Intrigues
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Affair:
-    1. First Image: The protagonist meeting a lover in a hidden café.
-    2. Second Image: Transition From The First Image, A stolen kiss in the alley behind the café.
-    3. Third Image: Transition From The Second Image, The lovers parting ways, shadows emphasizing their sorrow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the lover disappear into the night.
+    1. First Image: The Protagonist Meeting A Lover In A Hidden Café.
+    2. Second Image: Transition From The First Image, A Stolen Kiss In The Alley Behind The Café.
+    3. Third Image: Transition From The Second Image, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Forbidden Love:
-    1. First Image: A clandestine meeting in a luxurious hotel room.
-    2. Second Image: Transition From The First Image, The lovers discussing their dangerous situation.
-    3. Third Image: Transition From The Second Image, A sudden interruption by an antagonist, creating tension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic escape, with the lovers holding hands and running through the darkened streets.
+    1. First Image: A Clandestine Meeting In A Luxurious Hotel Room.
+    2. Second Image: Transition From The First Image, The Lovers Discussing Their Dangerous Situation.
+    3. Third Image: Transition From The Second Image, A Sudden Interruption By An Antagonist, Creating Tension.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Escape, With The Lovers Holding Hands And Running Through The Darkened Streets.
 ================================================================ X ================================================================
 33. Category Name: Noir Pursuit
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Chase through the Streets:
-    1. First Image: The protagonist running down a shadowy street.
-    2. Second Image: Transition From The First Image, The pursuer close behind, shadows stretching long.
-    3. Third Image: Transition From The Second Image, A narrow escape through an alleyway.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist hiding in a dark corner, catching their breath.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Chase Through The Streets:
+    1. First Image: The Protagonist Running Down A Shadowy Street.
+    2. Second Image: Transition From The First Image, The Pursuer Close Behind, Shadows Stretching Long.
+    3. Third Image: Transition From The Second Image, A Narrow Escape Through An Alleyway.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Train Station Chase:
-    1. First Image: The protagonist sprinting through a dimly lit train station.
-    2. Second Image: Transition From The First Image, The pursuer weaving through the crowd.
-    3. Third Image: Transition From The Second Image, A close call as the protagonist boards a moving train.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the pursuer left behind on the platform.
+    1. First Image: The Protagonist Sprinting Through A Dimly Lit Train Station.
+    2. Second Image: Transition From The First Image, The Pursuer Weaving Through The Crowd.
+    3. Third Image: Transition From The Second Image, A Close Call As The Protagonist Boards A Moving Train.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Pursuer Left Behind On The Platform.
 ================================================================ X ================================================================
 34. Category Name: Noir Justice
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vigilante:
-    1. First Image: The protagonist donning a mask in a dimly lit room.
-    2. Second Image: Transition From The First Image, The vigilante patrolling the city streets at night.
-    3. Third Image: Transition From The Second Image, A confrontation with criminals in a dark alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The vigilante standing on a rooftop, overlooking the city.
+    1. First Image: The Protagonist Donning A Mask In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Vigilante Patrolling The City Streets At Night.
+    3. Third Image: Transition From The Second Image, A Confrontation With Criminals In A Dark Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Vigilante Standing On A Rooftop, Overlooking The City.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Corrupt Cops:
-    1. First Image: The protagonist discovering corruption within the police force.
-    2. Second Image: Transition From The First Image, A tense meeting with a trusted ally in a shadowy location.
-    3. Third Image: Transition From The Second Image, The protagonist gathering evidence against the corrupt officers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic arrest, with shadows highlighting the tension.
+    1. First Image: The Protagonist Discovering Corruption Within The Police Force.
+    2. Second Image: Transition From The First Image, A Tense Meeting With A Trusted Ally In A Shadowy Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Gathering Evidence Against The Corrupt Officers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Arrest, With Shadows Highlighting The Tension.
 ================================================================ X ================================================================
 35. Category Name: Noir Secrets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 36. Category Name: Noir Vendettas
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Seeking Revenge:
-    1. First Image: The protagonist planning revenge in a shadowy room.
-    2. Second Image: Transition From The First Image, The protagonist confronting the antagonist in a dark alley.
-    3. Third Image: Transition From The Second Image, A tense struggle with dramatic lighting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away victorious, leaving the antagonist defeated.
+    1. First Image: The Protagonist Planning Revenge In A Shadowy Room.
+    2. Second Image: Transition From The First Image, The Protagonist Confronting The Antagonist In A Dark Alley.
+    3. Third Image: Transition From The Second Image, A Tense Struggle With Dramatic Lighting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away Victorious, Leaving The Antagonist Defeated.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Betrayal:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing for confrontation.
-    3. Third Image: Transition From The Second Image, The protagonist facing the betrayer in a shadowy setting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, shadows adding to the tension.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing For Confrontation.
+    3. Third Image: Transition From The Second Image, The Protagonist Facing The Betrayer In A Shadowy Setting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.
 ================================================================ X ================================================================
 37. Category Name: Noir Heists
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bank Job:
-    1. First Image: The exterior of a bank at night, with security lights casting long shadows.
-    2. Second Image: Transition From The First Image, The heist crew preparing their equipment in a dimly lit room.
-    3. Third Image: Transition From The Second Image, The crew breaking into the bank, tension high.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The crew escaping into the night, shadows concealing their movements.
+    1. First Image: The Exterior Of A Bank At Night, With Security Lights Casting Long Shadows.
+    2. Second Image: Transition From The First Image, The Heist Crew Preparing Their Equipment In A Dimly Lit Room.
+    3. Third Image: Transition From The Second Image, The Crew Breaking Into The Bank, Tension High.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crew Escaping Into The Night, Shadows Concealing Their Movements.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Art Theft:
-    1. First Image: An art gallery with valuable paintings under spotlight.
-    2. Second Image: Transition From The First Image, The thieves planning the heist, blueprints spread out.
-    3. Third Image: Transition From The Second Image, The thieves executing the heist, moving stealthily.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The empty frames left behind, the gallery in darkness.
+    1. First Image: An Art Gallery With Valuable Paintings Under Spotlight.
+    2. Second Image: Transition From The First Image, The Thieves Planning The Heist, Blueprints Spread Out.
+    3. Third Image: Transition From The Second Image, The Thieves Executing The Heist, Moving Stealthily.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Empty Frames Left Behind, The Gallery In Darkness.
 ================================================================ X ================================================================
 38. Category Name: Noir Mysteries
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Clue:
-    1. First Image: The protagonist discovering a hidden clue in a dark alley.
-    2. Second Image: Transition From The First Image, The clue leading to a shadowy figure.
-    3. Third Image: Transition From The Second Image, A confrontation with the figure in a dimly lit room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist piecing together the mystery, shadows deepening.
+    1. First Image: The Protagonist Discovering A Hidden Clue In A Dark Alley.
+    2. Second Image: Transition From The First Image, The Clue Leading To A Shadowy Figure.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Figure In A Dimly Lit Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Map:
-    1. First Image: The protagonist finding a secret map in an old book.
-    2. Second Image: Transition From The First Image, The map leading to a hidden location.
-    3. Third Image: Transition From The Second Image, The protagonist arriving at the location at night.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mystery unfolding as the protagonist explores the shadows.
+    1. First Image: The Protagonist Finding A Secret Map In An Old Book.
+    2. Second Image: Transition From The First Image, The Map Leading To A Hidden Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Arriving At The Location At Night.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Unfolding As The Protagonist Explores The Shadows.
 ================================================================ X ================================================================
 39. Category Name: Noir Romances
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Affair:
-    1. First Image: The protagonist meeting a lover in a hidden café.
-    2. Second Image: Transition From The First Image, A stolen kiss in the alley behind the café.
-    3. Third Image: Transition From The Second Image, The lovers parting ways, shadows emphasizing their sorrow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the lover disappear into the night.
+    1. First Image: The Protagonist Meeting A Lover In A Hidden Café.
+    2. Second Image: Transition From The First Image, A Stolen Kiss In The Alley Behind The Café.
+    3. Third Image: Transition From The Second Image, The Lovers Parting Ways, Shadows Emphasizing Their Sorrow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Lover Disappear Into The Night.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Forbidden Love:
-    1. First Image: A clandestine meeting in a luxurious hotel room.
-    2. Second Image: Transition From The First Image, The lovers discussing their dangerous situation.
-    3. Third Image: Transition From The Second Image, A sudden interruption by an antagonist, creating tension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, A dramatic escape, with the lovers holding hands and running through the darkened streets.
+    1. First Image: A Clandestine Meeting In A Luxurious Hotel Room.
+    2. Second Image: Transition From The First Image, The Lovers Discussing Their Dangerous Situation.
+    3. Third Image: Transition From The Second Image, A Sudden Interruption By An Antagonist, Creating Tension.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, A Dramatic Escape, With The Lovers Holding Hands And Running Through The Darkened Streets.
 ================================================================ X ================================================================
 40. Category Name: Noir Chases
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Street Chase:
-    1. First Image: The protagonist running down a shadowy street.
-    2. Second Image: Transition From The First Image, The pursuer close behind, shadows stretching long.
-    3. Third Image: Transition From The Second Image, A narrow escape through an alleyway.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist hiding in a dark corner, catching their breath.
+    1. First Image: The Protagonist Running Down A Shadowy Street.
+    2. Second Image: Transition From The First Image, The Pursuer Close Behind, Shadows Stretching Long.
+    3. Third Image: Transition From The Second Image, A Narrow Escape Through An Alleyway.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Train Station Chase:
-    1. First Image: The protagonist sprinting through a dimly lit train station.
-    2. Second Image: Transition From The First Image, The pursuer weaving through the crowd.
-    3. Third Image: Transition From The Second Image, A close call as the protagonist boards a moving train.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the pursuer left behind on the platform.
+    1. First Image: The Protagonist Sprinting Through A Dimly Lit Train Station.
+    2. Second Image: Transition From The First Image, The Pursuer Weaving Through The Crowd.
+    3. Third Image: Transition From The Second Image, A Close Call As The Protagonist Boards A Moving Train.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Pursuer Left Behind On The Platform.
 ================================================================ X ================================================================
 41. Category Name: Noir Vengeance
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Seeking Revenge:
-    1. First Image: The protagonist plotting revenge in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing weapons under the flickering light.
-    3. Third Image: Transition From The Second Image, A confrontation with the antagonist in a shadowy alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away victorious, shadows enveloping the scene.
+    1. First Image: The Protagonist Plotting Revenge In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing Weapons Under The Flickering Light.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Antagonist In A Shadowy Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vendetta:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing for confrontation.
-    3. Third Image: Transition From The Second Image, The protagonist facing the betrayer in a shadowy setting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, shadows adding to the tension.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing For Confrontation.
+    3. Third Image: Transition From The Second Image, The Protagonist Facing The Betrayer In A Shadowy Setting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.
 ================================================================ X ================================================================
 42. Category Name: Noir Crimes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 43. Category Name: Noir Journeys
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Night Train:
-    1. First Image: A train pulling out of the station at night, steam billowing.
-    2. Second Image: Transition From The First Image, The protagonist sitting in a dimly lit compartment, deep in thought.
-    3. Third Image: Transition From The Second Image, The train speeding through the dark countryside, shadows flickering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist disembarking at a mysterious destination.
+    1. First Image: A Train Pulling Out Of The Station At Night, Steam Billowing.
+    2. Second Image: Transition From The First Image, The Protagonist Sitting In A Dimly Lit Compartment, Deep In Thought.
+    3. Third Image: Transition From The Second Image, The Train Speeding Through The Dark Countryside, Shadows Flickering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Disembarking At A Mysterious Destination.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lonely Road:
-    1. First Image: A long, empty road stretching into the night.
-    2. Second Image: Transition From The First Image, The protagonist driving a vintage car, headlights cutting through the darkness.
-    3. Third Image: Transition From The Second Image, A roadside diner appearing in the distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist stopping at the diner, seeking refuge from the night.
+    1. First Image: A Long, Empty Road Stretching Into The Night.
+    2. Second Image: Transition From The First Image, The Protagonist Driving A Vintage Car, Headlights Cutting Through The Darkness.
+    3. Third Image: Transition From The Second Image, A Roadside Diner Appearing In The Distance.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Stopping At The Diner, Seeking Refuge From The Night.
 ================================================================ X ================================================================
 44. Category Name: Noir Pursuits
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Chase through the Streets:
-    1. First Image: The protagonist running down a shadowy street.
-    2. Second Image: Transition From The First Image, The pursuer close behind, shadows stretching long.
-    3. Third Image: Transition From The Second Image, A narrow escape through an alleyway.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist hiding in a dark corner, catching their breath.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Chase Through The Streets:
+    1. First Image: The Protagonist Running Down A Shadowy Street.
+    2. Second Image: Transition From The First Image, The Pursuer Close Behind, Shadows Stretching Long.
+    3. Third Image: Transition From The Second Image, A Narrow Escape Through An Alleyway.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Hiding In A Dark Corner, Catching Their Breath.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Train Station Chase:
-    1. First Image: The protagonist sprinting through a dimly lit train station.
-    2. Second Image: Transition From The First Image, The pursuer weaving through the crowd.
-    3. Third Image: Transition From The Second Image, A close call as the protagonist boards a moving train.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist watching the pursuer left behind on the platform.
+    1. First Image: The Protagonist Sprinting Through A Dimly Lit Train Station.
+    2. Second Image: Transition From The First Image, The Pursuer Weaving Through The Crowd.
+    3. Third Image: Transition From The Second Image, A Close Call As The Protagonist Boards A Moving Train.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Watching The Pursuer Left Behind On The Platform.
 ================================================================ X ================================================================
 45. Category Name: Noir Mysteries
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Clue:
-    1. First Image: The protagonist discovering a hidden clue in a dark alley.
-    2. Second Image: Transition From The First Image, The clue leading to a shadowy figure.
-    3. Third Image: Transition From The Second Image, A confrontation with the figure in a dimly lit room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist piecing together the mystery, shadows deepening.
+    1. First Image: The Protagonist Discovering A Hidden Clue In A Dark Alley.
+    2. Second Image: Transition From The First Image, The Clue Leading To A Shadowy Figure.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Figure In A Dimly Lit Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Piecing Together The Mystery, Shadows Deepening.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Map:
-    1. First Image: The protagonist finding a secret map in an old book.
-    2. Second Image: Transition From The First Image, The map leading to a hidden location.
-    3. Third Image: Transition From The Second Image, The protagonist arriving at the location at night.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mystery unfolding as the protagonist explores the shadows.
+    1. First Image: The Protagonist Finding A Secret Map In An Old Book.
+    2. Second Image: Transition From The First Image, The Map Leading To A Hidden Location.
+    3. Third Image: Transition From The Second Image, The Protagonist Arriving At The Location At Night.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mystery Unfolding As The Protagonist Explores The Shadows.
 ================================================================ X ================================================================
 46. Category Name: Noir Reflections
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Window:
-    1. First Image: The protagonist looking out of a rain-streaked window, lost in thought.
-    2. Second Image: Transition From The First Image, The reflection of city lights in the window.
-    3. Third Image: Transition From The Second Image, A shadowy figure approaching from behind.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist turning to face the figure, tension in the air.
+    1. First Image: The Protagonist Looking Out Of A Rain-Streaked Window, Lost In Thought.
+    2. Second Image: Transition From The First Image, The Reflection Of City Lights In The Window.
+    3. Third Image: Transition From The Second Image, A Shadowy Figure Approaching From Behind.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Turning To Face The Figure, Tension In The Air.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Broken Mirror:
-    1. First Image: A broken mirror reflecting the protagonist’s troubled face.
-    2. Second Image: Transition From The First Image, The protagonist piecing together the fragments of the mirror.
-    3. Third Image: Transition From The Second Image, The reflection showing a revelation.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leaving, having found clarity in the shattered glass.
+    1. First Image: A Broken Mirror Reflecting The Protagonist’S Troubled Face.
+    2. Second Image: Transition From The First Image, The Protagonist Piecing Together The Fragments Of The Mirror.
+    3. Third Image: Transition From The Second Image, The Reflection Showing A Revelation.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Leaving, Having Found Clarity In The Shattered Glass.
 ================================================================ X ================================================================
 47. Category Name: Noir Betrayal
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Double Cross:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing for confrontation.
-    3. Third Image: Transition From The Second Image, The protagonist facing the betrayer in a shadowy setting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, shadows adding to the tension.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing For Confrontation.
+    3. Third Image: Transition From The Second Image, The Protagonist Facing The Betrayer In A Shadowy Setting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: False Friends:
-    1. First Image: The protagonist suspecting betrayal by a close ally.
-    2. Second Image: Transition From The First Image, The protagonist gathering evidence in the shadows.
-    3. Third Image: Transition From The Second Image, A dramatic confrontation in a dimly lit room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away, leaving the betrayer behind.
+    1. First Image: The Protagonist Suspecting Betrayal By A Close Ally.
+    2. Second Image: Transition From The First Image, The Protagonist Gathering Evidence In The Shadows.
+    3. Third Image: Transition From The Second Image, A Dramatic Confrontation In A Dimly Lit Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away, Leaving The Betrayer Behind.
 ================================================================ X ================================================================
 48. Category Name: Noir Secrets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 49. Category Name: Noir Crimes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hidden Room:
-    1. First Image: A secret door hidden behind a bookshelf in a dimly lit library.
-    2. Second Image: Transition From The First Image, The protagonist discovering the hidden room.
-    3. Third Image: Transition From The Second Image, The room filled with mysterious artifacts and documents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist uncovering a crucial piece of evidence.
+    1. First Image: A Secret Door Hidden Behind A Bookshelf In A Dimly Lit Library.
+    2. Second Image: Transition From The First Image, The Protagonist Discovering The Hidden Room.
+    3. Third Image: Transition From The Second Image, The Room Filled With Mysterious Artifacts And Documents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Uncovering A Crucial Piece Of Evidence.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Underground Club:
-    1. First Image: A hidden entrance to an underground club.
-    2. Second Image: Transition From The First Image, The club filled with shady characters, smoke swirling in the air.
-    3. Third Image: Transition From The Second Image, The protagonist navigating the club, searching for information.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist finding a key contact in a dark corner.
+    1. First Image: A Hidden Entrance To An Underground Club.
+    2. Second Image: Transition From The First Image, The Club Filled With Shady Characters, Smoke Swirling In The Air.
+    3. Third Image: Transition From The Second Image, The Protagonist Navigating The Club, Searching For Information.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Finding A Key Contact In A Dark Corner.
 ================================================================ X ================================================================
 50. Category Name: Noir Vengeance
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Seeking Revenge:
-    1. First Image: The protagonist plotting revenge in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing weapons under the flickering light.
-    3. Third Image: Transition From The Second Image, A confrontation with the antagonist in a shadowy alley.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist walking away victorious, shadows enveloping the scene.
+    1. First Image: The Protagonist Plotting Revenge In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing Weapons Under The Flickering Light.
+    3. Third Image: Transition From The Second Image, A Confrontation With The Antagonist In A Shadowy Alley.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Walking Away Victorious, Shadows Enveloping The Scene.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Noir art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Noir Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vendetta:
-    1. First Image: The protagonist discovering a betrayal in a dimly lit room.
-    2. Second Image: Transition From The First Image, The protagonist preparing for confrontation.
-    3. Third Image: Transition From The Second Image, The protagonist facing the betrayer in a shadowy setting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist emerging victorious, shadows adding to the tension.
+    1. First Image: The Protagonist Discovering A Betrayal In A Dimly Lit Room.
+    2. Second Image: Transition From The First Image, The Protagonist Preparing For Confrontation.
+    3. Third Image: Transition From The Second Image, The Protagonist Facing The Betrayer In A Shadowy Setting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Protagonist Emerging Victorious, Shadows Adding To The Tension.

@@ -29,800 +29,800 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Superhero Teams
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Avengers Assemble:
-    1. First Image: The Avengers assembling in New York City, ready for action.
-    2. Second Image: Transition From The First Image, Facing a powerful enemy together, showcasing their teamwork.
-    3. Third Image: Transition From The Second Image, An intense battle where the Avengers use their unique abilities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Avengers standing victorious, with the city cheering them on.
+    1. First Image: The Avengers Assembling In New York City, Ready For Action.
+    2. Second Image: Transition From The First Image, Facing A Powerful Enemy Together, Showcasing Their Teamwork.
+    3. Third Image: Transition From The Second Image, An Intense Battle Where The Avengers Use Their Unique Abilities.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Avengers Standing Victorious, With The City Cheering Them On.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Guardians of the Galaxy:
-    1. First Image: The Guardians aboard their spaceship, preparing for a new mission.
-    2. Second Image: Transition From The First Image, Exploring a colorful alien planet filled with strange creatures.
-    3. Third Image: Transition From The Second Image, A dramatic fight against intergalactic villains.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Guardians celebrating their victory with a dance-off.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Guardians Of The Galaxy:
+    1. First Image: The Guardians Aboard Their Spaceship, Preparing For A New Mission.
+    2. Second Image: Transition From The First Image, Exploring A Colorful Alien Planet Filled With Strange Creatures.
+    3. Third Image: Transition From The Second Image, A Dramatic Fight Against Intergalactic Villains.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Guardians Celebrating Their Victory With A Dance-Off.
 ================================================================ X ================================================================
 2. Category Name: Iconic Battles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of New York:
-    1. First Image: The Chitauri invading New York City, causing chaos.
-    2. Second Image: Transition From The First Image, The Avengers assembling to defend the city.
-    3. Third Image: Transition From The Second Image, An epic showdown between the Avengers and the Chitauri.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with the Avengers standing triumphantly.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of New York:
+    1. First Image: The Chitauri Invading New York City, Causing Chaos.
+    2. Second Image: Transition From The First Image, The Avengers Assembling To Defend The City.
+    3. Third Image: Transition From The Second Image, An Epic Showdown Between The Avengers And The Chitauri.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With The Avengers Standing Triumphantly.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Civil War:
-    1. First Image: Captain America and Iron Man facing off at the airport.
-    2. Second Image: Transition From The First Image, The two factions of heroes preparing for battle.
-    3. Third Image: Transition From The Second Image, A fierce fight between the divided Avengers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with the heroes reflecting on their conflict.
+    1. First Image: Captain America And Iron Man Facing Off At The Airport.
+    2. Second Image: Transition From The First Image, The Two Factions Of Heroes Preparing For Battle.
+    3. Third Image: Transition From The Second Image, A Fierce Fight Between The Divided Avengers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With The Heroes Reflecting On Their Conflict.
 ================================================================ X ================================================================
 3. Category Name: Legendary Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man:
-    1. First Image: Peter Parker swinging through the streets of New York City.
-    2. Second Image: Transition From The First Image, Spider-Man fighting against the Green Goblin.
-    3. Third Image: Transition From The Second Image, A tense moment where Spider-Man saves civilians from danger.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Man standing on a rooftop, looking out over the city.
+    1. First Image: Peter Parker Swinging Through The Streets Of New York City.
+    2. Second Image: Transition From The First Image, Spider-Man Fighting Against The Green Goblin.
+    3. Third Image: Transition From The Second Image, A Tense Moment Where Spider-Man Saves Civilians From Danger.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Man Standing On A Rooftop, Looking Out Over The City.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Black Panther:
-    1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
-    2. Second Image: Transition From The First Image, Black Panther fighting against Erik Killmonger.
-    3. Third Image: Transition From The Second Image, A powerful scene where Black Panther leads his people in battle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, T’Challa crowned king, with Wakanda celebrating.
+    1. First Image: T’Challa In His Black Panther Suit, Standing In The Wakandan Throne Room.
+    2. Second Image: Transition From The First Image, Black Panther Fighting Against Erik Killmonger.
+    3. Third Image: Transition From The Second Image, A Powerful Scene Where Black Panther Leads His People In Battle.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, T’Challa Crowned King, With Wakanda Celebrating.
 ================================================================ X ================================================================
 4. Category Name: Cosmic Adventures
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Thor:
-    1. First Image: Thor in Asgard, holding Mjolnir.
-    2. Second Image: Transition From The First Image, Thor battling Loki in the Bifrost Bridge.
-    3. Third Image: Transition From The Second Image, An epic fight against the forces of Hela.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Thor reigning as the king of Asgard, with the realm at peace.
+    1. First Image: Thor In Asgard, Holding Mjolnir.
+    2. Second Image: Transition From The First Image, Thor Battling Loki In The Bifrost Bridge.
+    3. Third Image: Transition From The Second Image, An Epic Fight Against The Forces Of Hela.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Thor Reigning As The King Of Asgard, With The Realm At Peace.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain Marvel:
-    1. First Image: Carol Danvers discovering her powers as Captain Marvel.
-    2. Second Image: Transition From The First Image, Captain Marvel soaring through space, ready for battle.
-    3. Third Image: Transition From The Second Image, A showdown with the Skrulls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain Marvel standing victorious, with the galaxy safe.
+    1. First Image: Carol Danvers Discovering Her Powers As Captain Marvel.
+    2. Second Image: Transition From The First Image, Captain Marvel Soaring Through Space, Ready For Battle.
+    3. Third Image: Transition From The Second Image, A Showdown With The Skrulls.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain Marvel Standing Victorious, With The Galaxy Safe.
 ================================================================ X ================================================================
 5. Category Name: Legendary Villains
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Thanos:
-    1. First Image: Thanos sitting on his throne, plotting his next move.
-    2. Second Image: Transition From The First Image, The Mad Titan collecting the Infinity Stones.
-    3. Third Image: Transition From The Second Image, A climactic battle where the heroes confront Thanos.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with Thanos defeated and balance restored.
+    1. First Image: Thanos Sitting On His Throne, Plotting His Next Move.
+    2. Second Image: Transition From The First Image, The Mad Titan Collecting The Infinity Stones.
+    3. Third Image: Transition From The Second Image, A Climactic Battle Where The Heroes Confront Thanos.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With Thanos Defeated And Balance Restored.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Loki:
-    1. First Image: Loki scheming in Asgard, with a mischievous smile.
-    2. Second Image: Transition From The First Image, Loki facing off against Thor in a dramatic battle.
-    3. Third Image: Transition From The Second Image, Loki causing chaos in New York City.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki, redeemed, standing beside Thor as an ally.
+    1. First Image: Loki Scheming In Asgard, With A Mischievous Smile.
+    2. Second Image: Transition From The First Image, Loki Facing Off Against Thor In A Dramatic Battle.
+    3. Third Image: Transition From The Second Image, Loki Causing Chaos In New York City.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki, Redeemed, Standing Beside Thor As An Ally.
 ================================================================ X ================================================================
 6. Category Name: Heroic Origins
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man:
-    1. First Image: Tony Stark building his first Iron Man suit in a cave.
-    2. Second Image: Transition From The First Image, Tony perfecting his suit and taking flight for the first time.
-    3. Third Image: Transition From The Second Image, Iron Man battling against Obadiah Stane.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony declaring “I am Iron Man” at a press conference.
+    1. First Image: Tony Stark Building His First Iron Man Suit In A Cave.
+    2. Second Image: Transition From The First Image, Tony Perfecting His Suit And Taking Flight For The First Time.
+    3. Third Image: Transition From The Second Image, Iron Man Battling Against Obadiah Stane.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony Declaring “I Am Iron Man” At A Press Conference.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain America:
-    1. First Image: Steve Rogers volunteering for the super-soldier program.
-    2. Second Image: Transition From The First Image, Captain America fighting Hydra forces in World War II.
-    3. Third Image: Transition From The Second Image, A heroic moment where Cap saves his fellow soldiers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America waking up in the modern world, ready for new challenges.
+    1. First Image: Steve Rogers Volunteering For The Super-Soldier Program.
+    2. Second Image: Transition From The First Image, Captain America Fighting Hydra Forces In World War Ii.
+    3. Third Image: Transition From The Second Image, A Heroic Moment Where Cap Saves His Fellow Soldiers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America Waking Up In The Modern World, Ready For New Challenges.
 ================================================================ X ================================================================
 7. Category Name: Mystical Realms
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Doctor Strange:
-    1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
-    2. Second Image: Transition From The First Image, Doctor Strange using the Eye of Agamotto in battle.
-    3. Third Image: Transition From The Second Image, A mind-bending fight in the Mirror Dimension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
+    1. First Image: Stephen Strange Discovering The Mystical Arts At Kamar-Taj.
+    2. Second Image: Transition From The First Image, Doctor Strange Using The Eye Of Agamotto In Battle.
+    3. Third Image: Transition From The Second Image, A Mind-Bending Fight In The Mirror Dimension.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Doctor Strange Standing As The Sorcerer Supreme, Protecting Earth From Mystical Threats.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scarlet Witch:
-    1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
-    2. Second Image: Transition From The First Image, Scarlet Witch fighting alongside the Avengers.
-    3. Third Image: Transition From The Second Image, A dramatic moment where Scarlet Witch confronts her inner demons.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Scarlet Witch mastering her powers and finding peace.
+    1. First Image: Wanda Maximoff Discovering Her Powers As Scarlet Witch.
+    2. Second Image: Transition From The First Image, Scarlet Witch Fighting Alongside The Avengers.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where Scarlet Witch Confronts Her Inner Demons.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Scarlet Witch Mastering Her Powers And Finding Peace.
 ================================================================ X ================================================================
 8. Category Name: High-Tech Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Ant-Man:
-    1. First Image: Scott Lang discovering the Ant-Man suit.
-    2. Second Image: Transition From The First Image, Ant-Man shrinking down and exploring the Quantum Realm.
-    3. Third Image: Transition From The Second Image, A thrilling heist where Ant-Man must retrieve a crucial item.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Ant-Man standing tall with his allies, mission accomplished.
+    1. First Image: Scott Lang Discovering The Ant-Man Suit.
+    2. Second Image: Transition From The First Image, Ant-Man Shrinking Down And Exploring The Quantum Realm.
+    3. Third Image: Transition From The Second Image, A Thrilling Heist Where Ant-Man Must Retrieve A Crucial Item.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Ant-Man Standing Tall With His Allies, Mission Accomplished.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: War Machine:
-    1. First Image: James Rhodes suiting up as War Machine.
-    2. Second Image: Transition From The First Image, War Machine fighting alongside Iron Man.
-    3. Third Image: Transition From The Second Image, A battle where War Machine’s firepower turns the tide.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, War Machine standing ready to defend, with the Avengers.
+    1. First Image: James Rhodes Suiting Up As War Machine.
+    2. Second Image: Transition From The First Image, War Machine Fighting Alongside Iron Man.
+    3. Third Image: Transition From The Second Image, A Battle Where War Machine’S Firepower Turns The Tide.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, War Machine Standing Ready To Defend, With The Avengers.
 ================================================================ X ================================================================
 9. Category Name: Underworld Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Daredevil:
-    1. First Image: Matt Murdock training to become Daredevil in Hell’s Kitchen.
-    2. Second Image: Transition From The First Image, Daredevil fighting against Kingpin’s thugs.
-    3. Third Image: Transition From The Second Image, A tense rooftop battle with Elektra by his side.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Daredevil standing watch over the city, vigilant and determined.
+    1. First Image: Matt Murdock Training To Become Daredevil In Hell’S Kitchen.
+    2. Second Image: Transition From The First Image, Daredevil Fighting Against Kingpin’S Thugs.
+    3. Third Image: Transition From The Second Image, A Tense Rooftop Battle With Elektra By His Side.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Daredevil Standing Watch Over The City, Vigilant And Determined.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: The Punisher:
-    1. First Image: Frank Castle gearing up as The Punisher.
-    2. Second Image: Transition From The First Image, The Punisher taking on a gang in a brutal fight.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful crime lord.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Punisher walking away from an explosion, mission complete.
+    1. First Image: Frank Castle Gearing Up As The Punisher.
+    2. Second Image: Transition From The First Image, The Punisher Taking On A Gang In A Brutal Fight.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Crime Lord.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Punisher Walking Away From An Explosion, Mission Complete.
 ================================================================ X ================================================================
 10. Category Name: Alien Worlds
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Asgard:
-    1. First Image: The majestic city of Asgard, with its golden spires.
-    2. Second Image: Transition From The First Image, Thor and Loki standing on the Bifrost Bridge.
-    3. Third Image: Transition From The Second Image, An epic battle against the Frost Giants.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Asgard celebrating, with Thor as the hero.
+    1. First Image: The Majestic City Of Asgard, With Its Golden Spires.
+    2. Second Image: Transition From The First Image, Thor And Loki Standing On The Bifrost Bridge.
+    3. Third Image: Transition From The Second Image, An Epic Battle Against The Frost Giants.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Asgard Celebrating, With Thor As The Hero.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Xandar:
-    1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
-    2. Second Image: Transition From The First Image, The Guardians of the Galaxy arriving on Xandar.
-    3. Third Image: Transition From The Second Image, A battle against Ronan the Accuser’s forces.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Xandar safe and flourishing, with the Nova Corps and Guardians as protectors.
+    1. First Image: The Vibrant City Of Xandar, Capital Of The Nova Corps.
+    2. Second Image: Transition From The First Image, The Guardians Of The Galaxy Arriving On Xandar.
+    3. Third Image: Transition From The Second Image, A Battle Against Ronan The Accuser’S Forces.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Xandar Safe And Flourishing, With The Nova Corps And Guardians As Protectors.
 ================================================================ X ================================================================
 11. Category Name: Legendary Battles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of Wakanda:
-    1. First Image: The Avengers and Wakandan forces preparing for battle.
-    2. Second Image: Transition From The First Image, Thanos’ army attacking Wakanda’s shield.
-    3. Third Image: Transition From The Second Image, A fierce battle with the Avengers and Wakandans fighting side by side.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The battlefield calm, with the heroes standing victorious.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of Wakanda:
+    1. First Image: The Avengers And Wakandan Forces Preparing For Battle.
+    2. Second Image: Transition From The First Image, Thanos’ Army Attacking Wakanda’S Shield.
+    3. Third Image: Transition From The Second Image, A Fierce Battle With The Avengers And Wakandans Fighting Side By Side.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield Calm, With The Heroes Standing Victorious.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of Titan:
-    1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
-    2. Second Image: Transition From The First Image, A strategic fight against Thanos, with heroes using their unique abilities.
-    3. Third Image: Transition From The Second Image, The dramatic moment where Thanos nearly gains the upper hand.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with the heroes regrouping and planning their next move.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of Titan:
+    1. First Image: The Avengers And Guardians Arriving On Titan To Confront Thanos.
+    2. Second Image: Transition From The First Image, A Strategic Fight Against Thanos, With Heroes Using Their Unique Abilities.
+    3. Third Image: Transition From The Second Image, The Dramatic Moment Where Thanos Nearly Gains The Upper Hand.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With The Heroes Regrouping And Planning Their Next Move.
 ================================================================ X ================================================================
 12. Category Name: Enigmatic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Black Widow:
-    1. First Image: Natasha Romanoff on a covert mission.
-    2. Second Image: Transition From The First Image, Black Widow fighting off attackers with her acrobatic skills.
-    3. Third Image: Transition From The Second Image, A tense confrontation with an enemy spy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Black Widow standing strong, having completed her mission.
+    1. First Image: Natasha Romanoff On A Covert Mission.
+    2. Second Image: Transition From The First Image, Black Widow Fighting Off Attackers With Her Acrobatic Skills.
+    3. Third Image: Transition From The Second Image, A Tense Confrontation With An Enemy Spy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Black Widow Standing Strong, Having Completed Her Mission.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hawkeye:
-    1. First Image: Clint Barton preparing his bow and arrows.
-    2. Second Image: Transition From The First Image, Hawkeye taking down enemies with precise shots.
-    3. Third Image: Transition From The Second Image, A dramatic rooftop battle with allies.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Hawkeye standing vigilant, ready for the next challenge.
+    1. First Image: Clint Barton Preparing His Bow And Arrows.
+    2. Second Image: Transition From The First Image, Hawkeye Taking Down Enemies With Precise Shots.
+    3. Third Image: Transition From The Second Image, A Dramatic Rooftop Battle With Allies.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Hawkeye Standing Vigilant, Ready For The Next Challenge.
 ================================================================ X ================================================================
-13. Category Name: Heroes of the Multiverse
+13. Category Name: Heroes Of The Multiverse
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Verse:
-    1. First Image: Different versions of Spider-Man from various universes meeting.
-    2. Second Image: Transition From The First Image, The Spider-People working together to stop a multiversal threat.
-    3. Third Image: Transition From The Second Image, A climactic battle where the Spider-Verse heroes showcase their unique abilities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse safe, with the Spider-People returning to their respective worlds.
+    1. First Image: Different Versions Of Spider-Man From Various Universes Meeting.
+    2. Second Image: Transition From The First Image, The Spider-People Working Together To Stop A Multiversal Threat.
+    3. Third Image: Transition From The Second Image, A Climactic Battle Where The Spider-Verse Heroes Showcase Their Unique Abilities.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Safe, With The Spider-People Returning To Their Respective Worlds.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Doctor Strange in the Multiverse:
-    1. First Image: Doctor Strange discovering portals to alternate realities.
-    2. Second Image: Transition From The First Image, Strange encountering alternate versions of himself.
-    3. Third Image: Transition From The Second Image, A conflict where Strange must prevent a multiversal collapse.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse stabilized, with Strange standing as its guardian.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Doctor Strange In The Multiverse:
+    1. First Image: Doctor Strange Discovering Portals To Alternate Realities.
+    2. Second Image: Transition From The First Image, Strange Encountering Alternate Versions Of Himself.
+    3. Third Image: Transition From The Second Image, A Conflict Where Strange Must Prevent A Multiversal Collapse.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Stabilized, With Strange Standing As Its Guardian.
 ================================================================ X ================================================================
 14. Category Name: Futuristic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man 2020:
-    1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
-    2. Second Image: Transition From The First Image, Battling against futuristic villains with advanced technology.
-    3. Third Image: Transition From The Second Image, A tense moment where Iron Man uses his intelligence to outsmart an enemy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Iron Man flying off into the sunset.
+    1. First Image: Tony Stark In A Highly Advanced Iron Man Suit In A Futuristic City.
+    2. Second Image: Transition From The First Image, Battling Against Futuristic Villains With Advanced Technology.
+    3. Third Image: Transition From The Second Image, A Tense Moment Where Iron Man Uses His Intelligence To Outsmart An Enemy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Iron Man Flying Off Into The Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man 2099:
-    1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
-    2. Second Image: Transition From The First Image, Fighting against futuristic criminals with high-tech gadgets.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful corporate villain.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Spider-Man 2099 standing as its protector.
+    1. First Image: Miguel O’Hara, The Spider-Man Of The Future, Swinging Through A Neon-Lit City.
+    2. Second Image: Transition From The First Image, Fighting Against Futuristic Criminals With High-Tech Gadgets.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Corporate Villain.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Spider-Man 2099 Standing As Its Protector.
 ================================================================ X ================================================================
 15. Category Name: Street-Level Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Luke Cage:
-    1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
-    2. Second Image: Transition From The First Image, Cage fighting off gang members with his super strength.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful crime lord.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Harlem safe, with Luke Cage celebrated as a hero.
+    1. First Image: Luke Cage Walking Through The Streets Of Harlem, Determined To Protect His Community.
+    2. Second Image: Transition From The First Image, Cage Fighting Off Gang Members With His Super Strength.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Crime Lord.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Harlem Safe, With Luke Cage Celebrated As A Hero.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jessica Jones:
-    1. First Image: Jessica Jones in her detective office, contemplating her next case.
-    2. Second Image: Transition From The First Image, Investigating a crime scene with her keen intuition.
-    3. Third Image: Transition From The Second Image, A confrontation with a dangerous adversary.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Case solved, with Jessica Jones ready for her next challenge.
+    1. First Image: Jessica Jones In Her Detective Office, Contemplating Her Next Case.
+    2. Second Image: Transition From The First Image, Investigating A Crime Scene With Her Keen Intuition.
+    3. Third Image: Transition From The Second Image, A Confrontation With A Dangerous Adversary.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Case Solved, With Jessica Jones Ready For Her Next Challenge.
 ================================================================ X ================================================================
-16. Category Name: Guardians of the Multiverse
+16. Category Name: Guardians Of The Multiverse
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain Britain:
-    1. First Image: Brian Braddock discovering the mystical amulet that transforms him into Captain Britain.
-    2. Second Image: Transition From The First Image, Fighting supernatural threats with his new powers.
-    3. Third Image: Transition From The Second Image, A battle where Captain Britain defends his homeland.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The land safe, with Captain Britain standing as a symbol of hope.
+    1. First Image: Brian Braddock Discovering The Mystical Amulet That Transforms Him Into Captain Britain.
+    2. Second Image: Transition From The First Image, Fighting Supernatural Threats With His New Powers.
+    3. Third Image: Transition From The Second Image, A Battle Where Captain Britain Defends His Homeland.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Land Safe, With Captain Britain Standing As A Symbol Of Hope.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Defenders of the Multiverse:
-    1. First Image: Various heroes from different universes meeting to protect the multiverse.
-    2. Second Image: Transition From The First Image, Coordinating strategies to fend off a multiversal threat.
-    3. Third Image: Transition From The Second Image, A climactic battle where each hero uses their unique abilities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse safe, with the defenders returning to their worlds.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Defenders Of The Multiverse:
+    1. First Image: Various Heroes From Different Universes Meeting To Protect The Multiverse.
+    2. Second Image: Transition From The First Image, Coordinating Strategies To Fend Off A Multiversal Threat.
+    3. Third Image: Transition From The Second Image, A Climactic Battle Where Each Hero Uses Their Unique Abilities.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Safe, With The Defenders Returning To Their Worlds.
 ================================================================ X ================================================================
 17. Category Name: Legendary Beasts
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Fin Fang Foom:
-    1. First Image: The ancient dragon Fin Fang Foom awakening from his slumber.
-    2. Second Image: Transition From The First Image, Heroes like Iron Man and Hulk preparing to confront the beast.
-    3. Third Image: Transition From The Second Image, A battle where the heroes must combine their strengths to defeat the dragon.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The dragon subdued, with the heroes standing victorious.
+    1. First Image: The Ancient Dragon Fin Fang Foom Awakening From His Slumber.
+    2. Second Image: Transition From The First Image, Heroes Like Iron Man And Hulk Preparing To Confront The Beast.
+    3. Third Image: Transition From The Second Image, A Battle Where The Heroes Must Combine Their Strengths To Defeat The Dragon.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dragon Subdued, With The Heroes Standing Victorious.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: The Phoenix:
-    1. First Image: Jean Grey transforming into the Phoenix.
-    2. Second Image: Transition From The First Image, The X-Men trying to reach Jean and control the Phoenix’s power.
-    3. Third Image: Transition From The Second Image, A battle where the Phoenix’s power threatens to consume everything.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Jean regaining control, with the Phoenix force stabilized.
+    1. First Image: Jean Grey Transforming Into The Phoenix.
+    2. Second Image: Transition From The First Image, The X-Men Trying To Reach Jean And Control The Phoenix’S Power.
+    3. Third Image: Transition From The Second Image, A Battle Where The Phoenix’S Power Threatens To Consume Everything.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Jean Regaining Control, With The Phoenix Force Stabilized.
 ================================================================ X ================================================================
 18. Category Name: Mystical Artifacts
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Infinity Gauntlet:
-    1. First Image: Thanos wielding the Infinity Gauntlet with all the stones.
-    2. Second Image: Transition From The First Image, Heroes strategizing to remove the Gauntlet from Thanos.
-    3. Third Image: Transition From The Second Image, A battle where the Gauntlet’s power is showcased.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Gauntlet destroyed, with the universe safe once again.
+    1. First Image: Thanos Wielding The Infinity Gauntlet With All The Stones.
+    2. Second Image: Transition From The First Image, Heroes Strategizing To Remove The Gauntlet From Thanos.
+    3. Third Image: Transition From The Second Image, A Battle Where The Gauntlet’S Power Is Showcased.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Gauntlet Destroyed, With The Universe Safe Once Again.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Eye of Agamotto:
-    1. First Image: Doctor Strange using the Eye of Agamotto to manipulate time.
-    2. Second Image: Transition From The First Image, A moment where Strange must use the Eye to prevent a catastrophe.
-    3. Third Image: Transition From The Second Image, A battle where the Eye’s power is crucial to the heroes’ success.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The Eye safely kept, with Strange standing as its guardian.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Eye Of Agamotto:
+    1. First Image: Doctor Strange Using The Eye Of Agamotto To Manipulate Time.
+    2. Second Image: Transition From The First Image, A Moment Where Strange Must Use The Eye To Prevent A Catastrophe.
+    3. Third Image: Transition From The Second Image, A Battle Where The Eye’S Power Is Crucial To The Heroes’ Success.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Eye Safely Kept, With Strange Standing As Its Guardian.
 ================================================================ X ================================================================
 19. Category Name: Heroes Reborn
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old Man Logan:
-    1. First Image: An older Wolverine in a post-apocalyptic world.
-    2. Second Image: Transition From The First Image, Logan fighting off enemies despite his age.
-    3. Third Image: Transition From The Second Image, A dramatic moment where Logan’s past haunts him.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Logan standing as a lone hero, ready to protect the innocent.
+    1. First Image: An Older Wolverine In A Post-Apocalyptic World.
+    2. Second Image: Transition From The First Image, Logan Fighting Off Enemies Despite His Age.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where Logan’S Past Haunts Him.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Logan Standing As A Lone Hero, Ready To Protect The Innocent.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Gwen:
-    1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
-    2. Second Image: Transition From The First Image, Spider-Gwen fighting crime in her universe.
-    3. Third Image: Transition From The Second Image, A showdown with a familiar villain from her past.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Gwen swinging through the city, ready for new challenges.
+    1. First Image: Gwen Stacy Discovering Her Powers As Spider-Woman.
+    2. Second Image: Transition From The First Image, Spider-Gwen Fighting Crime In Her Universe.
+    3. Third Image: Transition From The Second Image, A Showdown With A Familiar Villain From Her Past.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Gwen Swinging Through The City, Ready For New Challenges.
 ================================================================ X ================================================================
 20. Category Name: Time-Travel Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Kang the Conqueror:
-    1. First Image: Kang arriving in the present day with plans to conquer time.
-    2. Second Image: Transition From The First Image, Heroes from different eras teaming up to stop Kang.
-    3. Third Image: Transition From The Second Image, A battle across multiple time periods.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Kang defeated, with the timeline restored.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Kang The Conqueror:
+    1. First Image: Kang Arriving In The Present Day With Plans To Conquer Time.
+    2. Second Image: Transition From The First Image, Heroes From Different Eras Teaming Up To Stop Kang.
+    3. Third Image: Transition From The Second Image, A Battle Across Multiple Time Periods.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Kang Defeated, With The Timeline Restored.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cable:
-    1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
-    2. Second Image: Transition From The First Image, Cable teaming up with modern-day heroes.
-    3. Third Image: Transition From The Second Image, A battle where Cable’s futuristic weapons are key to victory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Cable returning to his time, mission accomplished.
+    1. First Image: Cable Arriving From The Future With A Mission To Prevent A Catastrophe.
+    2. Second Image: Transition From The First Image, Cable Teaming Up With Modern-Day Heroes.
+    3. Third Image: Transition From The Second Image, A Battle Where Cable’S Futuristic Weapons Are Key To Victory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Cable Returning To His Time, Mission Accomplished.
 ================================================================ X ================================================================
 21. Category Name: Legendary Allies
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Falcon:
-    1. First Image: Sam Wilson soaring through the sky with his Falcon suit.
-    2. Second Image: Transition From The First Image, Falcon fighting alongside Captain America.
-    3. Third Image: Transition From The Second Image, A dramatic moment where Falcon’s aerial skills save the day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Falcon standing tall, ready for the next mission.
+    1. First Image: Sam Wilson Soaring Through The Sky With His Falcon Suit.
+    2. Second Image: Transition From The First Image, Falcon Fighting Alongside Captain America.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where Falcon’S Aerial Skills Save The Day.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Falcon Standing Tall, Ready For The Next Mission.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Winter Soldier:
-    1. First Image: Bucky Barnes as the Winter Soldier, battling his inner demons.
-    2. Second Image: Transition From The First Image, Winter Soldier fighting alongside the Avengers.
-    3. Third Image: Transition From The Second Image, A confrontation with a past enemy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Bucky finding peace and redemption.
+    1. First Image: Bucky Barnes As The Winter Soldier, Battling His Inner Demons.
+    2. Second Image: Transition From The First Image, Winter Soldier Fighting Alongside The Avengers.
+    3. Third Image: Transition From The Second Image, A Confrontation With A Past Enemy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Bucky Finding Peace And Redemption.
 ================================================================ X ================================================================
 22. Category Name: Cosmic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Silver Surfer:
-    1. First Image: Silver Surfer gliding through space on his cosmic board.
-    2. Second Image: Transition From The First Image, Encountering Galactus and other cosmic beings.
-    3. Third Image: Transition From The Second Image, A battle where the Surfer’s cosmic powers are crucial.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cosmos safe, with Silver Surfer continuing his journey.
+    1. First Image: Silver Surfer Gliding Through Space On His Cosmic Board.
+    2. Second Image: Transition From The First Image, Encountering Galactus And Other Cosmic Beings.
+    3. Third Image: Transition From The Second Image, A Battle Where The Surfer’S Cosmic Powers Are Crucial.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cosmos Safe, With Silver Surfer Continuing His Journey.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Adam Warlock:
-    1. First Image: Adam Warlock emerging from his cocoon.
-    2. Second Image: Transition From The First Image, Warlock facing off against Thanos.
-    3. Third Image: Transition From The Second Image, A moment where Warlock’s powers are tested to the limit.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Warlock standing as a protector of the universe.
+    1. First Image: Adam Warlock Emerging From His Cocoon.
+    2. Second Image: Transition From The First Image, Warlock Facing Off Against Thanos.
+    3. Third Image: Transition From The Second Image, A Moment Where Warlock’S Powers Are Tested To The Limit.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Warlock Standing As A Protector Of The Universe.
 ================================================================ X ================================================================
 23. Category Name: Elemental Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Storm:
-    1. First Image: Ororo Munroe discovering her powers over the weather.
-    2. Second Image: Transition From The First Image, Storm using her abilities to protect her village.
-    3. Third Image: Transition From The Second Image, A dramatic battle where Storm’s powers turn the tide.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Storm joining the X-Men, ready to fight for mutantkind.
+    1. First Image: Ororo Munroe Discovering Her Powers Over The Weather.
+    2. Second Image: Transition From The First Image, Storm Using Her Abilities To Protect Her Village.
+    3. Third Image: Transition From The Second Image, A Dramatic Battle Where Storm’S Powers Turn The Tide.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Storm Joining The X-Men, Ready To Fight For Mutantkind.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iceman:
-    1. First Image: Bobby Drake discovering his ability to control ice.
-    2. Second Image: Transition From The First Image, Iceman creating ice structures to protect civilians.
-    3. Third Image: Transition From The Second Image, A showdown where Iceman’s powers are crucial to victory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Iceman standing with his fellow X-Men, confident in his abilities.
+    1. First Image: Bobby Drake Discovering His Ability To Control Ice.
+    2. Second Image: Transition From The First Image, Iceman Creating Ice Structures To Protect Civilians.
+    3. Third Image: Transition From The Second Image, A Showdown Where Iceman’S Powers Are Crucial To Victory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Iceman Standing With His Fellow X-Men, Confident In His Abilities.
 ================================================================ X ================================================================
 24. Category Name: Heroic Duos
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Ant-Man and the Wasp:
-    1. First Image: Scott Lang and Hope van Dyne suiting up as Ant-Man and the Wasp.
-    2. Second Image: Transition From The First Image, The duo shrinking and flying to infiltrate a high-security facility.
-    3. Third Image: Transition From The Second Image, A battle where their combined skills are key to success.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Ant-Man and the Wasp standing victorious, ready for their next mission.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Ant-Man And The Wasp:
+    1. First Image: Scott Lang And Hope Van Dyne Suiting Up As Ant-Man And The Wasp.
+    2. Second Image: Transition From The First Image, The Duo Shrinking And Flying To Infiltrate A High-Security Facility.
+    3. Third Image: Transition From The Second Image, A Battle Where Their Combined Skills Are Key To Success.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Ant-Man And The Wasp Standing Victorious, Ready For Their Next Mission.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Rocket and Groot:
-    1. First Image: Rocket and Groot on a new adventure in space.
-    2. Second Image: Transition From The First Image, Rocket using his gadgets while Groot provides backup.
-    3. Third Image: Transition From The Second Image, A conflict where Groot’s strength and Rocket’s brains save the day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The duo celebrating their victory with the Guardians of the Galaxy.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Rocket And Groot:
+    1. First Image: Rocket And Groot On A New Adventure In Space.
+    2. Second Image: Transition From The First Image, Rocket Using His Gadgets While Groot Provides Backup.
+    3. Third Image: Transition From The Second Image, A Conflict Where Groot’S Strength And Rocket’S Brains Save The Day.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Duo Celebrating Their Victory With The Guardians Of The Galaxy.
 ================================================================ X ================================================================
 25. Category Name: Legendary Teachers
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Professor X:
-    1. First Image: Charles Xavier founding the Xavier Institute for Gifted Youngsters.
-    2. Second Image: Transition From The First Image, Teaching young mutants to control their powers.
-    3. Third Image: Transition From The Second Image, A conflict where Professor X must use his powers to protect his students.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The institute thriving, with Professor X as its wise leader.
+    1. First Image: Charles Xavier Founding The Xavier Institute For Gifted Youngsters.
+    2. Second Image: Transition From The First Image, Teaching Young Mutants To Control Their Powers.
+    3. Third Image: Transition From The Second Image, A Conflict Where Professor X Must Use His Powers To Protect His Students.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Institute Thriving, With Professor X As Its Wise Leader.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Nick Fury:
-    1. First Image: Nick Fury assembling a team of heroes for a top-secret mission.
-    2. Second Image: Transition From The First Image, Coordinating strategies and guiding the team.
-    3. Third Image: Transition From The Second Image, A battle where Fury’s leadership is crucial to victory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The team standing strong, ready for future missions with Fury.
+    1. First Image: Nick Fury Assembling A Team Of Heroes For A Top-Secret Mission.
+    2. Second Image: Transition From The First Image, Coordinating Strategies And Guiding The Team.
+    3. Third Image: Transition From The Second Image, A Battle Where Fury’S Leadership Is Crucial To Victory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Standing Strong, Ready For Future Missions With Fury.
 ================================================================ X ================================================================
 26. Category Name: Anti-Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Deadpool:
-    1. First Image: Wade Wilson becoming Deadpool.
-    2. Second Image: Transition From The First Image, Deadpool taking on mercenary missions with his unique style.
-    3. Third Image: Transition From The Second Image, A battle where Deadpool’s unorthodox methods save the day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Deadpool standing triumphant, with a witty comment.
+    1. First Image: Wade Wilson Becoming Deadpool.
+    2. Second Image: Transition From The First Image, Deadpool Taking On Mercenary Missions With His Unique Style.
+    3. Third Image: Transition From The Second Image, A Battle Where Deadpool’S Unorthodox Methods Save The Day.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Deadpool Standing Triumphant, With A Witty Comment.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Venom:
-    1. First Image: Eddie Brock bonding with the symbiote to become Venom.
-    2. Second Image: Transition From The First Image, Venom fighting against other symbiotes and criminals.
-    3. Third Image: Transition From The Second Image, A confrontation with Spider-Man.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Venom finding a balance between his human and alien sides.
+    1. First Image: Eddie Brock Bonding With The Symbiote To Become Venom.
+    2. Second Image: Transition From The First Image, Venom Fighting Against Other Symbiotes And Criminals.
+    3. Third Image: Transition From The Second Image, A Confrontation With Spider-Man.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Venom Finding A Balance Between His Human And Alien Sides.
 ================================================================ X ================================================================
 27. Category Name: Mystical Realms
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Doctor Strange:
-    1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
-    2. Second Image: Transition From The First Image, Doctor Strange using the Eye of Agamotto in battle.
-    3. Third Image: Transition From The Second Image, A mind-bending fight in the Mirror Dimension.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
+    1. First Image: Stephen Strange Discovering The Mystical Arts At Kamar-Taj.
+    2. Second Image: Transition From The First Image, Doctor Strange Using The Eye Of Agamotto In Battle.
+    3. Third Image: Transition From The Second Image, A Mind-Bending Fight In The Mirror Dimension.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Doctor Strange Standing As The Sorcerer Supreme, Protecting Earth From Mystical Threats.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scarlet Witch:
-    1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
-    2. Second Image: Transition From The First Image, Scarlet Witch fighting alongside the Avengers.
-    3. Third Image: Transition From The Second Image, A dramatic moment where Scarlet Witch confronts her inner demons.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Scarlet Witch mastering her powers and finding peace.
+    1. First Image: Wanda Maximoff Discovering Her Powers As Scarlet Witch.
+    2. Second Image: Transition From The First Image, Scarlet Witch Fighting Alongside The Avengers.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where Scarlet Witch Confronts Her Inner Demons.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Scarlet Witch Mastering Her Powers And Finding Peace.
 ================================================================ X ================================================================
-28. Category Name: Heroes of Wakanda
+28. Category Name: Heroes Of Wakanda
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Shuri:
-    1. First Image: Shuri in her lab, working on advanced technology.
-    2. Second Image: Transition From The First Image, Shuri using her inventions to aid Black Panther in battle.
-    3. Third Image: Transition From The Second Image, A conflict where Shuri’s tech expertise saves the day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Shuri standing as a respected leader in Wakanda.
+    1. First Image: Shuri In Her Lab, Working On Advanced Technology.
+    2. Second Image: Transition From The First Image, Shuri Using Her Inventions To Aid Black Panther In Battle.
+    3. Third Image: Transition From The Second Image, A Conflict Where Shuri’S Tech Expertise Saves The Day.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Shuri Standing As A Respected Leader In Wakanda.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Okoye:
-    1. First Image: Okoye leading the Dora Milaje in Wakanda.
-    2. Second Image: Transition From The First Image, Okoye fighting alongside Black Panther against enemies.
-    3. Third Image: Transition From The Second Image, A dramatic battle where Okoye’s skills are crucial.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Okoye honored as a hero of Wakanda.
+    1. First Image: Okoye Leading The Dora Milaje In Wakanda.
+    2. Second Image: Transition From The First Image, Okoye Fighting Alongside Black Panther Against Enemies.
+    3. Third Image: Transition From The Second Image, A Dramatic Battle Where Okoye’S Skills Are Crucial.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Okoye Honored As A Hero Of Wakanda.
 ================================================================ X ================================================================
 29. Category Name: Multiverse Guardians
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Loki:
-    1. First Image: Loki discovering the existence of the multiverse.
-    2. Second Image: Transition From The First Image, Loki navigating through different realities.
-    3. Third Image: Transition From The Second Image, A conflict where Loki must save the multiverse from a looming threat.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki standing as a protector of the multiverse, embracing his destiny.
+    1. First Image: Loki Discovering The Existence Of The Multiverse.
+    2. Second Image: Transition From The First Image, Loki Navigating Through Different Realities.
+    3. Third Image: Transition From The Second Image, A Conflict Where Loki Must Save The Multiverse From A Looming Threat.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki Standing As A Protector Of The Multiverse, Embracing His Destiny.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man (Miles Morales):
-    1. First Image: Miles Morales discovering his Spider-Man powers.
-    2. Second Image: Transition From The First Image, Miles learning to control his abilities with the help of Peter Parker.
-    3. Third Image: Transition From The Second Image, A battle where Miles proves himself as a true Spider-Man.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Miles swinging through the city, ready to protect his world.
+    1. First Image: Miles Morales Discovering His Spider-Man Powers.
+    2. Second Image: Transition From The First Image, Miles Learning To Control His Abilities With The Help Of Peter Parker.
+    3. Third Image: Transition From The Second Image, A Battle Where Miles Proves Himself As A True Spider-Man.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Miles Swinging Through The City, Ready To Protect His World.
 ================================================================ X ================================================================
 30. Category Name: Cosmic Enforcers
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Nova:
-    1. First Image: Richard Rider receiving the Nova Force.
-    2. Second Image: Transition From The First Image, Nova patrolling the galaxy as a member of the Nova Corps.
-    3. Third Image: Transition From The Second Image, A battle against cosmic threats where Nova’s powers are crucial.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Nova standing as a protector of the galaxy.
+    1. First Image: Richard Rider Receiving The Nova Force.
+    2. Second Image: Transition From The First Image, Nova Patrolling The Galaxy As A Member Of The Nova Corps.
+    3. Third Image: Transition From The Second Image, A Battle Against Cosmic Threats Where Nova’S Powers Are Crucial.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Nova Standing As A Protector Of The Galaxy.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Quasar:
-    1. First Image: Wendell Vaughn becoming Quasar and wielding the Quantum Bands.
-    2. Second Image: Transition From The First Image, Quasar exploring the far reaches of space.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful cosmic enemy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Quasar standing as a guardian of the universe.
+    1. First Image: Wendell Vaughn Becoming Quasar And Wielding The Quantum Bands.
+    2. Second Image: Transition From The First Image, Quasar Exploring The Far Reaches Of Space.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Cosmic Enemy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Quasar Standing As A Guardian Of The Universe.
 ================================================================ X ================================================================
 31. Category Name: Legendary Warriors
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hercules:
-    1. First Image: Hercules arriving on Earth from Olympus.
-    2. Second Image: Transition From The First Image, Hercules fighting alongside the Avengers.
-    3. Third Image: Transition From The Second Image, A battle where Hercules’ strength is key to victory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Hercules celebrated as a hero both on Earth and Olympus.
+    1. First Image: Hercules Arriving On Earth From Olympus.
+    2. Second Image: Transition From The First Image, Hercules Fighting Alongside The Avengers.
+    3. Third Image: Transition From The Second Image, A Battle Where Hercules’ Strength Is Key To Victory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Hercules Celebrated As A Hero Both On Earth And Olympus.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Ares:
-    1. First Image: Ares, the god of war, arriving in the modern world.
-    2. Second Image: Transition From The First Image, Ares joining forces with heroes to combat a greater threat.
-    3. Third Image: Transition From The Second Image, A battle where Ares’ warrior skills are crucial.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Ares finding a new purpose as a hero.
+    1. First Image: Ares, The God Of War, Arriving In The Modern World.
+    2. Second Image: Transition From The First Image, Ares Joining Forces With Heroes To Combat A Greater Threat.
+    3. Third Image: Transition From The Second Image, A Battle Where Ares’ Warrior Skills Are Crucial.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Ares Finding A New Purpose As A Hero.
 ================================================================ X ================================================================
 32. Category Name: Legendary Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man:
-    1. First Image: Peter Parker swinging through the streets of New York City.
-    2. Second Image: Transition From The First Image, Spider-Man fighting against the Green Goblin.
-    3. Third Image: Transition From The Second Image, A tense moment where Spider-Man saves civilians from danger.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Man standing on a rooftop, looking out over the city.
+    1. First Image: Peter Parker Swinging Through The Streets Of New York City.
+    2. Second Image: Transition From The First Image, Spider-Man Fighting Against The Green Goblin.
+    3. Third Image: Transition From The Second Image, A Tense Moment Where Spider-Man Saves Civilians From Danger.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Man Standing On A Rooftop, Looking Out Over The City.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Black Panther:
-    1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
-    2. Second Image: Transition From The First Image, Black Panther fighting against Erik Killmonger.
-    3. Third Image: Transition From The Second Image, A powerful scene where Black Panther leads his people in battle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, T’Challa crowned king, with Wakanda celebrating.
+    1. First Image: T’Challa In His Black Panther Suit, Standing In The Wakandan Throne Room.
+    2. Second Image: Transition From The First Image, Black Panther Fighting Against Erik Killmonger.
+    3. Third Image: Transition From The Second Image, A Powerful Scene Where Black Panther Leads His People In Battle.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, T’Challa Crowned King, With Wakanda Celebrating.
 ================================================================ X ================================================================
-33. Category Name: Heroes of the Night
+33. Category Name: Heroes Of The Night
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Moon Knight:
-    1. First Image: Marc Spector embracing his identity as Moon Knight.
-    2. Second Image: Transition From The First Image, Moon Knight fighting criminals under the moonlight.
-    3. Third Image: Transition From The Second Image, A battle where Moon Knight’s multiple identities play a crucial role.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Moon Knight standing vigilant as a protector of the night.
+    1. First Image: Marc Spector Embracing His Identity As Moon Knight.
+    2. Second Image: Transition From The First Image, Moon Knight Fighting Criminals Under The Moonlight.
+    3. Third Image: Transition From The Second Image, A Battle Where Moon Knight’S Multiple Identities Play A Crucial Role.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Moon Knight Standing Vigilant As A Protector Of The Night.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Blade:
-    1. First Image: Blade preparing his weapons to hunt vampires.
-    2. Second Image: Transition From The First Image, Blade fighting against a horde of vampires.
-    3. Third Image: Transition From The Second Image, A confrontation with a powerful vampire lord.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Blade standing as the ultimate vampire hunter, ready for the next battle.
+    1. First Image: Blade Preparing His Weapons To Hunt Vampires.
+    2. Second Image: Transition From The First Image, Blade Fighting Against A Horde Of Vampires.
+    3. Third Image: Transition From The Second Image, A Confrontation With A Powerful Vampire Lord.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Blade Standing As The Ultimate Vampire Hunter, Ready For The Next Battle.
 ================================================================ X ================================================================
 34. Category Name: Legendary Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man:
-    1. First Image: Tony Stark building his first Iron Man suit in a cave.
-    2. Second Image: Transition From The First Image, Tony perfecting his suit and taking flight for the first time.
-    3. Third Image: Transition From The Second Image, Iron Man battling against Obadiah Stane.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony declaring “I am Iron Man” at a press conference.
+    1. First Image: Tony Stark Building His First Iron Man Suit In A Cave.
+    2. Second Image: Transition From The First Image, Tony Perfecting His Suit And Taking Flight For The First Time.
+    3. Third Image: Transition From The Second Image, Iron Man Battling Against Obadiah Stane.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony Declaring “I Am Iron Man” At A Press Conference.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain America:
-    1. First Image: Steve Rogers volunteering for the super-soldier program.
-    2. Second Image: Transition From The First Image, Captain America fighting Hydra forces in World War II.
-    3. Third Image: Transition From The Second Image, A heroic moment where Cap saves his fellow soldiers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America waking up in the modern world, ready for new challenges.
+    1. First Image: Steve Rogers Volunteering For The Super-Soldier Program.
+    2. Second Image: Transition From The First Image, Captain America Fighting Hydra Forces In World War Ii.
+    3. Third Image: Transition From The Second Image, A Heroic Moment Where Cap Saves His Fellow Soldiers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America Waking Up In The Modern World, Ready For New Challenges.
 ================================================================ X ================================================================
 35. Category Name: Futuristic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man 2020:
-    1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
-    2. Second Image: Transition From The First Image, Battling against futuristic villains with advanced technology.
-    3. Third Image: Transition From The Second Image, A tense moment where Iron Man uses his intelligence to outsmart an enemy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Iron Man flying off into the sunset.
+    1. First Image: Tony Stark In A Highly Advanced Iron Man Suit In A Futuristic City.
+    2. Second Image: Transition From The First Image, Battling Against Futuristic Villains With Advanced Technology.
+    3. Third Image: Transition From The Second Image, A Tense Moment Where Iron Man Uses His Intelligence To Outsmart An Enemy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Iron Man Flying Off Into The Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man 2099:
-    1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
-    2. Second Image: Transition From The First Image, Fighting against futuristic criminals with high-tech gadgets.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful corporate villain.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Spider-Man 2099 standing as its protector.
+    1. First Image: Miguel O’Hara, The Spider-Man Of The Future, Swinging Through A Neon-Lit City.
+    2. Second Image: Transition From The First Image, Fighting Against Futuristic Criminals With High-Tech Gadgets.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Corporate Villain.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Spider-Man 2099 Standing As Its Protector.
 ================================================================ X ================================================================
 36. Category Name: Cosmic Adventures
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Thor:
-    1. First Image: Thor in Asgard, holding Mjolnir.
-    2. Second Image: Transition From The First Image, Thor battling Loki in the Bifrost Bridge.
-    3. Third Image: Transition From The Second Image, An epic fight against the forces of Hela.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Thor reigning as the king of Asgard, with the realm at peace.
+    1. First Image: Thor In Asgard, Holding Mjolnir.
+    2. Second Image: Transition From The First Image, Thor Battling Loki In The Bifrost Bridge.
+    3. Third Image: Transition From The Second Image, An Epic Fight Against The Forces Of Hela.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Thor Reigning As The King Of Asgard, With The Realm At Peace.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain Marvel:
-    1. First Image: Carol Danvers discovering her powers as Captain Marvel.
-    2. Second Image: Transition From The First Image, Captain Marvel soaring through space, ready for battle.
-    3. Third Image: Transition From The Second Image, A showdown with the Skrulls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain Marvel standing victorious, with the galaxy safe.
+    1. First Image: Carol Danvers Discovering Her Powers As Captain Marvel.
+    2. Second Image: Transition From The First Image, Captain Marvel Soaring Through Space, Ready For Battle.
+    3. Third Image: Transition From The Second Image, A Showdown With The Skrulls.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain Marvel Standing Victorious, With The Galaxy Safe.
 ================================================================ X ================================================================
 37. Category Name: Multiverse Guardians
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man (Miles Morales):
-    1. First Image: Miles Morales discovering his Spider-Man powers.
-    2. Second Image: Transition From The First Image, Miles learning to control his abilities with the help of Peter Parker.
-    3. Third Image: Transition From The Second Image, A battle where Miles proves himself as a true Spider-Man.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Miles swinging through the city, ready to protect his world.
+    1. First Image: Miles Morales Discovering His Spider-Man Powers.
+    2. Second Image: Transition From The First Image, Miles Learning To Control His Abilities With The Help Of Peter Parker.
+    3. Third Image: Transition From The Second Image, A Battle Where Miles Proves Himself As A True Spider-Man.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Miles Swinging Through The City, Ready To Protect His World.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Doctor Strange in the Multiverse:
-    1. First Image: Doctor Strange discovering portals to alternate realities.
-    2. Second Image: Transition From The First Image, Strange encountering alternate versions of himself.
-    3. Third Image: Transition From The Second Image, A conflict where Strange must prevent a multiversal collapse.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse stabilized, with Strange standing as its guardian.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Doctor Strange In The Multiverse:
+    1. First Image: Doctor Strange Discovering Portals To Alternate Realities.
+    2. Second Image: Transition From The First Image, Strange Encountering Alternate Versions Of Himself.
+    3. Third Image: Transition From The Second Image, A Conflict Where Strange Must Prevent A Multiversal Collapse.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Stabilized, With Strange Standing As Its Guardian.
 ================================================================ X ================================================================
 38. Category Name: Legendary Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man:
-    1. First Image: Tony Stark building his first Iron Man suit in a cave.
-    2. Second Image: Transition From The First Image, Tony perfecting his suit and taking flight for the first time.
-    3. Third Image: Transition From The Second Image, Iron Man battling against Obadiah Stane.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony declaring “I am Iron Man” at a press conference.
+    1. First Image: Tony Stark Building His First Iron Man Suit In A Cave.
+    2. Second Image: Transition From The First Image, Tony Perfecting His Suit And Taking Flight For The First Time.
+    3. Third Image: Transition From The Second Image, Iron Man Battling Against Obadiah Stane.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony Declaring “I Am Iron Man” At A Press Conference.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain America:
-    1. First Image: Steve Rogers volunteering for the super-soldier program.
-    2. Second Image: Transition From The First Image, Captain America fighting Hydra forces in World War II.
-    3. Third Image: Transition From The Second Image, A heroic moment where Cap saves his fellow soldiers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America waking up in the modern world, ready for new challenges.
+    1. First Image: Steve Rogers Volunteering For The Super-Soldier Program.
+    2. Second Image: Transition From The First Image, Captain America Fighting Hydra Forces In World War Ii.
+    3. Third Image: Transition From The Second Image, A Heroic Moment Where Cap Saves His Fellow Soldiers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America Waking Up In The Modern World, Ready For New Challenges.
 ================================================================ X ================================================================
 39. Category Name: Legendary Villains
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Thanos:
-    1. First Image: Thanos sitting on his throne, plotting his next move.
-    2. Second Image: Transition From The First Image, The Mad Titan collecting the Infinity Stones.
-    3. Third Image: Transition From The Second Image, A climactic battle where the heroes confront Thanos.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with Thanos defeated and balance restored.
+    1. First Image: Thanos Sitting On His Throne, Plotting His Next Move.
+    2. Second Image: Transition From The First Image, The Mad Titan Collecting The Infinity Stones.
+    3. Third Image: Transition From The Second Image, A Climactic Battle Where The Heroes Confront Thanos.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With Thanos Defeated And Balance Restored.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Loki:
-    1. First Image: Loki scheming in Asgard, with a mischievous smile.
-    2. Second Image: Transition From The First Image, Loki facing off against Thor in a dramatic battle.
-    3. Third Image: Transition From The Second Image, Loki causing chaos in New York City.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki, redeemed, standing beside Thor as an ally.
+    1. First Image: Loki Scheming In Asgard, With A Mischievous Smile.
+    2. Second Image: Transition From The First Image, Loki Facing Off Against Thor In A Dramatic Battle.
+    3. Third Image: Transition From The Second Image, Loki Causing Chaos In New York City.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Loki, Redeemed, Standing Beside Thor As An Ally.
 ================================================================ X ================================================================
 40. Category Name: Time-Travel Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Kang the Conqueror:
-    1. First Image: Kang arriving in the present day with plans to conquer time.
-    2. Second Image: Transition From The First Image, Heroes from different eras teaming up to stop Kang.
-    3. Third Image: Transition From The Second Image, A battle across multiple time periods.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Kang defeated, with the timeline restored.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Kang The Conqueror:
+    1. First Image: Kang Arriving In The Present Day With Plans To Conquer Time.
+    2. Second Image: Transition From The First Image, Heroes From Different Eras Teaming Up To Stop Kang.
+    3. Third Image: Transition From The Second Image, A Battle Across Multiple Time Periods.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Kang Defeated, With The Timeline Restored.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cable:
-    1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
-    2. Second Image: Transition From The First Image, Cable teaming up with modern-day heroes.
-    3. Third Image: Transition From The Second Image, A battle where Cable’s futuristic weapons are key to victory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Cable returning to his time, mission accomplished.
+    1. First Image: Cable Arriving From The Future With A Mission To Prevent A Catastrophe.
+    2. Second Image: Transition From The First Image, Cable Teaming Up With Modern-Day Heroes.
+    3. Third Image: Transition From The Second Image, A Battle Where Cable’S Futuristic Weapons Are Key To Victory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Cable Returning To His Time, Mission Accomplished.
 ================================================================ X ================================================================
 41. Category Name: Heroic Origins
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man:
-    1. First Image: Tony Stark building his first Iron Man suit in a cave.
-    2. Second Image: Transition From The First Image, Tony perfecting his suit and taking flight for the first time.
-    3. Third Image: Transition From The Second Image, Iron Man battling against Obadiah Stane.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony declaring “I am Iron Man” at a press conference.
+    1. First Image: Tony Stark Building His First Iron Man Suit In A Cave.
+    2. Second Image: Transition From The First Image, Tony Perfecting His Suit And Taking Flight For The First Time.
+    3. Third Image: Transition From The Second Image, Iron Man Battling Against Obadiah Stane.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Tony Declaring “I Am Iron Man” At A Press Conference.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Captain America:
-    1. First Image: Steve Rogers volunteering for the super-soldier program.
-    2. Second Image: Transition From The First Image, Captain America fighting Hydra forces in World War II.
-    3. Third Image: Transition From The Second Image, A heroic moment where Cap saves his fellow soldiers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America waking up in the modern world, ready for new challenges.
+    1. First Image: Steve Rogers Volunteering For The Super-Soldier Program.
+    2. Second Image: Transition From The First Image, Captain America Fighting Hydra Forces In World War Ii.
+    3. Third Image: Transition From The Second Image, A Heroic Moment Where Cap Saves His Fellow Soldiers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Captain America Waking Up In The Modern World, Ready For New Challenges.
 ================================================================ X ================================================================
 42. Category Name: Iconic Battles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of New York:
-    1. First Image: The Chitauri invading New York City, causing chaos.
-    2. Second Image: Transition From The First Image, The Avengers assembling to defend the city.
-    3. Third Image: Transition From The Second Image, An epic showdown between the Avengers and the Chitauri.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with the Avengers standing triumphantly.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of New York:
+    1. First Image: The Chitauri Invading New York City, Causing Chaos.
+    2. Second Image: Transition From The First Image, The Avengers Assembling To Defend The City.
+    3. Third Image: Transition From The Second Image, An Epic Showdown Between The Avengers And The Chitauri.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With The Avengers Standing Triumphantly.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Civil War:
-    1. First Image: Captain America and Iron Man facing off at the airport.
-    2. Second Image: Transition From The First Image, The two factions of heroes preparing for battle.
-    3. Third Image: Transition From The Second Image, A fierce fight between the divided Avengers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with the heroes reflecting on their conflict.
+    1. First Image: Captain America And Iron Man Facing Off At The Airport.
+    2. Second Image: Transition From The First Image, The Two Factions Of Heroes Preparing For Battle.
+    3. Third Image: Transition From The Second Image, A Fierce Fight Between The Divided Avengers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With The Heroes Reflecting On Their Conflict.
 ================================================================ X ================================================================
 43. Category Name: Enigmatic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Black Widow:
-    1. First Image: Natasha Romanoff on a covert mission.
-    2. Second Image: Transition From The First Image, Black Widow fighting off attackers with her acrobatic skills.
-    3. Third Image: Transition From The Second Image, A tense confrontation with an enemy spy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Black Widow standing strong, having completed her mission.
+    1. First Image: Natasha Romanoff On A Covert Mission.
+    2. Second Image: Transition From The First Image, Black Widow Fighting Off Attackers With Her Acrobatic Skills.
+    3. Third Image: Transition From The Second Image, A Tense Confrontation With An Enemy Spy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Black Widow Standing Strong, Having Completed Her Mission.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Hawkeye:
-    1. First Image: Clint Barton preparing his bow and arrows.
-    2. Second Image: Transition From The First Image, Hawkeye taking down enemies with precise shots.
-    3. Third Image: Transition From The Second Image, A dramatic rooftop battle with allies.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Hawkeye standing vigilant, ready for the next challenge.
+    1. First Image: Clint Barton Preparing His Bow And Arrows.
+    2. Second Image: Transition From The First Image, Hawkeye Taking Down Enemies With Precise Shots.
+    3. Third Image: Transition From The Second Image, A Dramatic Rooftop Battle With Allies.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Hawkeye Standing Vigilant, Ready For The Next Challenge.
 ================================================================ X ================================================================
 44. Category Name: Alien Worlds
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Asgard:
-    1. First Image: The majestic city of Asgard, with its golden spires.
-    2. Second Image: Transition From The First Image, Thor and Loki standing on the Bifrost Bridge.
-    3. Third Image: Transition From The Second Image, An epic battle against the Frost Giants.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Asgard celebrating, with Thor as the hero.
+    1. First Image: The Majestic City Of Asgard, With Its Golden Spires.
+    2. Second Image: Transition From The First Image, Thor And Loki Standing On The Bifrost Bridge.
+    3. Third Image: Transition From The Second Image, An Epic Battle Against The Frost Giants.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Asgard Celebrating, With Thor As The Hero.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Xandar:
-    1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
-    2. Second Image: Transition From The First Image, The Guardians of the Galaxy arriving on Xandar.
-    3. Third Image: Transition From The Second Image, A battle against Ronan the Accuser’s forces.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Xandar safe and flourishing, with the Nova Corps and Guardians as protectors.
+    1. First Image: The Vibrant City Of Xandar, Capital Of The Nova Corps.
+    2. Second Image: Transition From The First Image, The Guardians Of The Galaxy Arriving On Xandar.
+    3. Third Image: Transition From The Second Image, A Battle Against Ronan The Accuser’S Forces.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Xandar Safe And Flourishing, With The Nova Corps And Guardians As Protectors.
 ================================================================ X ================================================================
 45. Category Name: Legendary Battles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of Wakanda:
-    1. First Image: The Avengers and Wakandan forces preparing for battle.
-    2. Second Image: Transition From The First Image, Thanos’ army attacking Wakanda’s shield.
-    3. Third Image: Transition From The Second Image, A fierce battle with the Avengers and Wakandans fighting side by side.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The battlefield calm, with the heroes standing victorious.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of Wakanda:
+    1. First Image: The Avengers And Wakandan Forces Preparing For Battle.
+    2. Second Image: Transition From The First Image, Thanos’ Army Attacking Wakanda’S Shield.
+    3. Third Image: Transition From The Second Image, A Fierce Battle With The Avengers And Wakandans Fighting Side By Side.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Battlefield Calm, With The Heroes Standing Victorious.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Battle of Titan:
-    1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
-    2. Second Image: Transition From The First Image, A strategic fight against Thanos, with heroes using their unique abilities.
-    3. Third Image: Transition From The Second Image, The dramatic moment where Thanos nearly gains the upper hand.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aftermath, with the heroes regrouping and planning their next move.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Battle Of Titan:
+    1. First Image: The Avengers And Guardians Arriving On Titan To Confront Thanos.
+    2. Second Image: Transition From The First Image, A Strategic Fight Against Thanos, With Heroes Using Their Unique Abilities.
+    3. Third Image: Transition From The Second Image, The Dramatic Moment Where Thanos Nearly Gains The Upper Hand.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aftermath, With The Heroes Regrouping And Planning Their Next Move.
 ================================================================ X ================================================================
-46. Category Name: Heroes of the Multiverse
+46. Category Name: Heroes Of The Multiverse
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Verse:
-    1. First Image: Different versions of Spider-Man from various universes meeting.
-    2. Second Image: Transition From The First Image, The Spider-People working together to stop a multiversal threat.
-    3. Third Image: Transition From The Second Image, A climactic battle where the Spider-Verse heroes showcase their unique abilities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse safe, with the Spider-People returning to their respective worlds.
+    1. First Image: Different Versions Of Spider-Man From Various Universes Meeting.
+    2. Second Image: Transition From The First Image, The Spider-People Working Together To Stop A Multiversal Threat.
+    3. Third Image: Transition From The Second Image, A Climactic Battle Where The Spider-Verse Heroes Showcase Their Unique Abilities.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Safe, With The Spider-People Returning To Their Respective Worlds.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Doctor Strange in the Multiverse:
-    1. First Image: Doctor Strange discovering portals to alternate realities.
-    2. Second Image: Transition From The First Image, Strange encountering alternate versions of himself.
-    3. Third Image: Transition From The Second Image, A conflict where Strange must prevent a multiversal collapse.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The multiverse stabilized, with Strange standing as its guardian.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Doctor Strange In The Multiverse:
+    1. First Image: Doctor Strange Discovering Portals To Alternate Realities.
+    2. Second Image: Transition From The First Image, Strange Encountering Alternate Versions Of Himself.
+    3. Third Image: Transition From The Second Image, A Conflict Where Strange Must Prevent A Multiversal Collapse.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Multiverse Stabilized, With Strange Standing As Its Guardian.
 ================================================================ X ================================================================
 47. Category Name: Futuristic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Iron Man 2020:
-    1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
-    2. Second Image: Transition From The First Image, Battling against futuristic villains with advanced technology.
-    3. Third Image: Transition From The Second Image, A tense moment where Iron Man uses his intelligence to outsmart an enemy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Iron Man flying off into the sunset.
+    1. First Image: Tony Stark In A Highly Advanced Iron Man Suit In A Futuristic City.
+    2. Second Image: Transition From The First Image, Battling Against Futuristic Villains With Advanced Technology.
+    3. Third Image: Transition From The Second Image, A Tense Moment Where Iron Man Uses His Intelligence To Outsmart An Enemy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Iron Man Flying Off Into The Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Man 2099:
-    1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
-    2. Second Image: Transition From The First Image, Fighting against futuristic criminals with high-tech gadgets.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful corporate villain.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city safe, with Spider-Man 2099 standing as its protector.
+    1. First Image: Miguel O’Hara, The Spider-Man Of The Future, Swinging Through A Neon-Lit City.
+    2. Second Image: Transition From The First Image, Fighting Against Futuristic Criminals With High-Tech Gadgets.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Corporate Villain.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Safe, With Spider-Man 2099 Standing As Its Protector.
 ================================================================ X ================================================================
 48. Category Name: Street-Level Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Luke Cage:
-    1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
-    2. Second Image: Transition From The First Image, Cage fighting off gang members with his super strength.
-    3. Third Image: Transition From The Second Image, A showdown with a powerful crime lord.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Harlem safe, with Luke Cage celebrated as a hero.
+    1. First Image: Luke Cage Walking Through The Streets Of Harlem, Determined To Protect His Community.
+    2. Second Image: Transition From The First Image, Cage Fighting Off Gang Members With His Super Strength.
+    3. Third Image: Transition From The Second Image, A Showdown With A Powerful Crime Lord.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Harlem Safe, With Luke Cage Celebrated As A Hero.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jessica Jones:
-    1. First Image: Jessica Jones in her detective office, contemplating her next case.
-    2. Second Image: Transition From The First Image, Investigating a crime scene with her keen intuition.
-    3. Third Image: Transition From The Second Image, A confrontation with a dangerous adversary.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Case solved, with Jessica Jones ready for her next challenge.
+    1. First Image: Jessica Jones In Her Detective Office, Contemplating Her Next Case.
+    2. Second Image: Transition From The First Image, Investigating A Crime Scene With Her Keen Intuition.
+    3. Third Image: Transition From The Second Image, A Confrontation With A Dangerous Adversary.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Case Solved, With Jessica Jones Ready For Her Next Challenge.
 ================================================================ X ================================================================
 49. Category Name: Heroes Reborn
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old Man Logan:
-    1. First Image: An older Wolverine in a post-apocalyptic world.
-    2. Second Image: Transition From The First Image, Logan fighting off enemies despite his age.
-    3. Third Image: Transition From The Second Image, A dramatic moment where Logan’s past haunts him.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Logan standing as a lone hero, ready to protect the innocent.
+    1. First Image: An Older Wolverine In A Post-Apocalyptic World.
+    2. Second Image: Transition From The First Image, Logan Fighting Off Enemies Despite His Age.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Where Logan’S Past Haunts Him.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Logan Standing As A Lone Hero, Ready To Protect The Innocent.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spider-Gwen:
-    1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
-    2. Second Image: Transition From The First Image, Spider-Gwen fighting crime in her universe.
-    3. Third Image: Transition From The Second Image, A showdown with a familiar villain from her past.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Gwen swinging through the city, ready for new challenges.
+    1. First Image: Gwen Stacy Discovering Her Powers As Spider-Woman.
+    2. Second Image: Transition From The First Image, Spider-Gwen Fighting Crime In Her Universe.
+    3. Third Image: Transition From The Second Image, A Showdown With A Familiar Villain From Her Past.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Spider-Gwen Swinging Through The City, Ready For New Challenges.
 ================================================================ X ================================================================
 50. Category Name: Cosmic Heroes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Silver Surfer:
-    1. First Image: Silver Surfer gliding through space on his cosmic board.
-    2. Second Image: Transition From The First Image, Encountering Galactus and other cosmic beings.
-    3. Third Image: Transition From The Second Image, A battle where the Surfer’s cosmic powers are crucial.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cosmos safe, with Silver Surfer continuing his journey.
+    1. First Image: Silver Surfer Gliding Through Space On His Cosmic Board.
+    2. Second Image: Transition From The First Image, Encountering Galactus And Other Cosmic Beings.
+    3. Third Image: Transition From The Second Image, A Battle Where The Surfer’S Cosmic Powers Are Crucial.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cosmos Safe, With Silver Surfer Continuing His Journey.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Marvel art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Marvel Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Adam Warlock:
-    1. First Image: Adam Warlock emerging from his cocoon.
-    2. Second Image: Transition From The First Image, Warlock facing off against Thanos.
-    3. Third Image: Transition From The Second Image, A moment where Warlock’s powers are tested to the limit.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Warlock standing as a protector of the universe.
+    1. First Image: Adam Warlock Emerging From His Cocoon.
+    2. Second Image: Transition From The First Image, Warlock Facing Off Against Thanos.
+    3. Third Image: Transition From The Second Image, A Moment Where Warlock’S Powers Are Tested To The Limit.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Warlock Standing As A Protector Of The Universe.

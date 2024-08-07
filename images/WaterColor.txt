@@ -1,6 +1,6 @@
 ================================================================ X ================================================================
 Prompt 1:
-Give Me 50 Categories With WaterColor Design Style. Response Example:
+Give Me 50 Categories With Watercolor Design Style. Response Example:
 1. Category Name:
     1. Wallpaper Name:
         1. First Image: Insert Description Of The Initial Scene, Characters, And Elements.
@@ -29,800 +29,800 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Serene Landscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Calm Lake:
-    1. First Image: A tranquil lake surrounded by mountains and trees.
-    2. Second Image: Transition From The First Image, Gentle ripples on the water reflecting a golden sunset.
-    3. Third Image: Transition From The Second Image, A small boat drifting peacefully on the lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The lake under a starry night sky, with reflections shimmering.
+    1. First Image: A Tranquil Lake Surrounded By Mountains And Trees.
+    2. Second Image: Transition From The First Image, Gentle Ripples On The Water Reflecting A Golden Sunset.
+    3. Third Image: Transition From The Second Image, A Small Boat Drifting Peacefully On The Lake.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Under A Starry Night Sky, With Reflections Shimmering.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Misty Forest:
-    1. First Image: A dense forest with a light mist hanging in the air.
-    2. Second Image: Transition From The First Image, Sunlight filtering through the trees, creating dappled patterns.
-    3. Third Image: Transition From The Second Image, A deer standing still, partially obscured by the mist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest as night falls, with fireflies beginning to glow.
+    1. First Image: A Dense Forest With A Light Mist Hanging In The Air.
+    2. Second Image: Transition From The First Image, Sunlight Filtering Through The Trees, Creating Dappled Patterns.
+    3. Third Image: Transition From The Second Image, A Deer Standing Still, Partially Obscured By The Mist.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest As Night Falls, With Fireflies Beginning To Glow.
 ================================================================ X ================================================================
 2. Category Name: Coastal Scenes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Sunny Beach:
-    1. First Image: A wide, sandy beach with gentle waves lapping at the shore.
-    2. Second Image: Transition From The First Image, Seagulls flying overhead, casting shadows on the sand.
-    3. Third Image: Transition From The Second Image, A beach umbrella and a few people relaxing near the water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The beach at sunset, with the sky ablaze in oranges and pinks.
+    1. First Image: A Wide, Sandy Beach With Gentle Waves Lapping At The Shore.
+    2. Second Image: Transition From The First Image, Seagulls Flying Overhead, Casting Shadows On The Sand.
+    3. Third Image: Transition From The Second Image, A Beach Umbrella And A Few People Relaxing Near The Water.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With The Sky Ablaze In Oranges And Pinks.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shoreline:
-    1. First Image: A rugged coastline with waves crashing against rocks.
-    2. Second Image: Transition From The First Image, Tide pools forming in the rocky crevices.
-    3. Third Image: Transition From The Second Image, A lighthouse standing tall against the elements.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The shoreline under a moonlit sky, with the lighthouse beam cutting through the darkness.
+    1. First Image: A Rugged Coastline With Waves Crashing Against Rocks.
+    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
+    3. Third Image: Transition From The Second Image, A Lighthouse Standing Tall Against The Elements.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shoreline Under A Moonlit Sky, With The Lighthouse Beam Cutting Through The Darkness.
 ================================================================ X ================================================================
 3. Category Name: Tranquil Gardens
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Japanese Garden:
-    1. First Image: A serene Japanese garden with a koi pond and arched bridges.
-    2. Second Image: Transition From The First Image, Cherry blossom petals falling gently onto the water.
-    3. Third Image: Transition From The Second Image, A tea house nestled among the trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The garden illuminated by soft lanterns at dusk.
+    1. First Image: A Serene Japanese Garden With A Koi Pond And Arched Bridges.
+    2. Second Image: Transition From The First Image, Cherry Blossom Petals Falling Gently Onto The Water.
+    3. Third Image: Transition From The Second Image, A Tea House Nestled Among The Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Illuminated By Soft Lanterns At Dusk.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: English Cottage Garden:
-    1. First Image: A quaint cottage surrounded by blooming flowers.
-    2. Second Image: Transition From The First Image, A cobblestone path leading to a wooden gate.
-    3. Third Image: Transition From The Second Image, Bees buzzing around vibrant, colorful blooms.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The garden bathed in the golden light of late afternoon.
+    1. First Image: A Quaint Cottage Surrounded By Blooming Flowers.
+    2. Second Image: Transition From The First Image, A Cobblestone Path Leading To A Wooden Gate.
+    3. Third Image: Transition From The Second Image, Bees Buzzing Around Vibrant, Colorful Blooms.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Bathed In The Golden Light Of Late Afternoon.
 ================================================================ X ================================================================
 4. Category Name: Urban Scenes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rainy Street:
-    1. First Image: A bustling city street with rain pouring down.
-    2. Second Image: Transition From The First Image, Umbrellas and reflections on the wet pavement.
-    3. Third Image: Transition From The Second Image, A café with a warm glow inviting passersby.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The streetlights creating a hazy, romantic atmosphere.
+    1. First Image: A Bustling City Street With Rain Pouring Down.
+    2. Second Image: Transition From The First Image, Umbrellas And Reflections On The Wet Pavement.
+    3. Third Image: Transition From The Second Image, A Café With A Warm Glow Inviting Passersby.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Streetlights Creating A Hazy, Romantic Atmosphere.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Sunset Skyline:
-    1. First Image: A city skyline against a vibrant sunset.
-    2. Second Image: Transition From The First Image, Skyscrapers reflecting the colorful sky.
-    3. Third Image: Transition From The Second Image, A river running through the city, catching the last light of day.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The skyline transitioning into the night, with city lights twinkling.
+    1. First Image: A City Skyline Against A Vibrant Sunset.
+    2. Second Image: Transition From The First Image, Skyscrapers Reflecting The Colorful Sky.
+    3. Third Image: Transition From The Second Image, A River Running Through The City, Catching The Last Light Of Day.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Skyline Transitioning Into The Night, With City Lights Twinkling.
 ================================================================ X ================================================================
 5. Category Name: Wildlife Wonders
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jungle Animals:
-    1. First Image: A dense jungle with exotic animals peeking through the foliage.
-    2. Second Image: Transition From The First Image, A majestic tiger drinking from a clear stream.
-    3. Third Image: Transition From The Second Image, Colorful birds perched on branches, their feathers vivid against the green.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The jungle under a dusky sky, with nocturnal animals beginning to stir.
+    1. First Image: A Dense Jungle With Exotic Animals Peeking Through The Foliage.
+    2. Second Image: Transition From The First Image, A Majestic Tiger Drinking From A Clear Stream.
+    3. Third Image: Transition From The Second Image, Colorful Birds Perched On Branches, Their Feathers Vivid Against The Green.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Jungle Under A Dusky Sky, With Nocturnal Animals Beginning To Stir.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Desert Wildlife:
-    1. First Image: A vast desert with rolling dunes and sparse vegetation.
-    2. Second Image: Transition From The First Image, A caravan of camels trekking across the sand.
-    3. Third Image: Transition From The Second Image, A desert fox standing alert on a dune.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The desert landscape at sunset, with long shadows stretching across the sand.
+    1. First Image: A Vast Desert With Rolling Dunes And Sparse Vegetation.
+    2. Second Image: Transition From The First Image, A Caravan Of Camels Trekking Across The Sand.
+    3. Third Image: Transition From The Second Image, A Desert Fox Standing Alert On A Dune.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Desert Landscape At Sunset, With Long Shadows Stretching Across The Sand.
 ================================================================ X ================================================================
 6. Category Name: Winter Wonderland
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Snowy Forest:
-    1. First Image: A forest blanketed in fresh snow.
-    2. Second Image: Transition From The First Image, Animal tracks winding through the snow.
-    3. Third Image: Transition From The Second Image, A small cabin with smoke rising from the chimney.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest at twilight, with a soft, ethereal glow.
+    1. First Image: A Forest Blanketed In Fresh Snow.
+    2. Second Image: Transition From The First Image, Animal Tracks Winding Through The Snow.
+    3. Third Image: Transition From The Second Image, A Small Cabin With Smoke Rising From The Chimney.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Twilight, With A Soft, Ethereal Glow.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Frozen Lake:
-    1. First Image: A lake frozen over with a smooth, reflective surface.
-    2. Second Image: Transition From The First Image, Ice skaters gliding gracefully across the ice.
-    3. Third Image: Transition From The Second Image, Snowflakes gently falling onto the frozen lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The lake under a clear, starry night sky.
+    1. First Image: A Lake Frozen Over With A Smooth, Reflective Surface.
+    2. Second Image: Transition From The First Image, Ice Skaters Gliding Gracefully Across The Ice.
+    3. Third Image: Transition From The Second Image, Snowflakes Gently Falling Onto The Frozen Lake.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake Under A Clear, Starry Night Sky.
 ================================================================ X ================================================================
 7. Category Name: Underwater World
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Coral Reef:
-    1. First Image: A vibrant coral reef teeming with colorful fish.
-    2. Second Image: Transition From The First Image, A sea turtle swimming gracefully among the corals.
-    3. Third Image: Transition From The Second Image, Sunlight filtering through the water, creating a shimmering effect.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The reef at dusk, with bioluminescent creatures glowing softly.
+    1. First Image: A Vibrant Coral Reef Teeming With Colorful Fish.
+    2. Second Image: Transition From The First Image, A Sea Turtle Swimming Gracefully Among The Corals.
+    3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Water, Creating A Shimmering Effect.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Reef At Dusk, With Bioluminescent Creatures Glowing Softly.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Deep Ocean:
-    1. First Image: The deep ocean with mysterious, dark waters.
-    2. Second Image: Transition From The First Image, Strange, otherworldly creatures drifting through the deep.
-    3. Third Image: Transition From The Second Image, A sunken ship covered in marine life.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The deep ocean illuminated by the glow of a submersible’s lights.
+    1. First Image: The Deep Ocean With Mysterious, Dark Waters.
+    2. Second Image: Transition From The First Image, Strange, Otherworldly Creatures Drifting Through The Deep.
+    3. Third Image: Transition From The Second Image, A Sunken Ship Covered In Marine Life.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Deep Ocean Illuminated By The Glow Of A Submersible’S Lights.
 ================================================================ X ================================================================
 8. Category Name: Majestic Mountains
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Snow-capped Peaks:
-    1. First Image: Tall, snow-capped mountains against a clear blue sky.
-    2. Second Image: Transition From The First Image, A climber making their way up a steep incline.
-    3. Third Image: Transition From The Second Image, A pristine mountain lake reflecting the peaks.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mountains at sunrise, with the first light hitting the peaks.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Snow-Capped Peaks:
+    1. First Image: Tall, Snow-Capped Mountains Against A Clear Blue Sky.
+    2. Second Image: Transition From The First Image, A Climber Making Their Way Up A Steep Incline.
+    3. Third Image: Transition From The Second Image, A Pristine Mountain Lake Reflecting The Peaks.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains At Sunrise, With The First Light Hitting The Peaks.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Misty Highlands:
-    1. First Image: Rolling highlands shrouded in mist.
-    2. Second Image: Transition From The First Image, A herd of sheep grazing on the green slopes.
-    3. Third Image: Transition From The Second Image, Ancient stone ruins perched on a hilltop.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The highlands bathed in the soft light of early evening.
+    1. First Image: Rolling Highlands Shrouded In Mist.
+    2. Second Image: Transition From The First Image, A Herd Of Sheep Grazing On The Green Slopes.
+    3. Third Image: Transition From The Second Image, Ancient Stone Ruins Perched On A Hilltop.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Highlands Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 9. Category Name: Enchanted Forests
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Fairy Glade:
-    1. First Image: A magical glade with sparkling lights and whimsical creatures.
-    2. Second Image: Transition From The First Image, Fairies flitting among the flowers and trees.
-    3. Third Image: Transition From The Second Image, A crystal-clear stream winding through the glade.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The glade under a full moon, with a mystical glow.
+    1. First Image: A Magical Glade With Sparkling Lights And Whimsical Creatures.
+    2. Second Image: Transition From The First Image, Fairies Flitting Among The Flowers And Trees.
+    3. Third Image: Transition From The Second Image, A Crystal-Clear Stream Winding Through The Glade.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Glade Under A Full Moon, With A Mystical Glow.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mystic Woods:
-    1. First Image: A dense, ancient forest with towering trees.
-    2. Second Image: Transition From The First Image, Strange, glowing plants and fungi growing in the underbrush.
-    3. Third Image: Transition From The Second Image, An owl perched on a gnarled branch, watching silently.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest at dusk, with eerie, beautiful light filtering through.
+    1. First Image: A Dense, Ancient Forest With Towering Trees.
+    2. Second Image: Transition From The First Image, Strange, Glowing Plants And Fungi Growing In The Underbrush.
+    3. Third Image: Transition From The Second Image, An Owl Perched On A Gnarled Branch, Watching Silently.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Dusk, With Eerie, Beautiful Light Filtering Through.
 ================================================================ X ================================================================
 10. Category Name: Idyllic Countryside
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rolling Hills:
-    1. First Image: Gentle rolling hills covered in lush, green grass.
-    2. Second Image: Transition From The First Image, A winding path leading through the hills.
-    3. Third Image: Transition From The Second Image, A quaint farmhouse nestled among the hills.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The hills at sunset, with golden light washing over the landscape.
+    1. First Image: Gentle Rolling Hills Covered In Lush, Green Grass.
+    2. Second Image: Transition From The First Image, A Winding Path Leading Through The Hills.
+    3. Third Image: Transition From The Second Image, A Quaint Farmhouse Nestled Among The Hills.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Hills At Sunset, With Golden Light Washing Over The Landscape.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Peaceful Valley:
-    1. First Image: A serene valley with a river running through it.
-    2. Second Image: Transition From The First Image, Wildflowers blooming along the riverbanks.
-    3. Third Image: Transition From The Second Image, A rustic bridge crossing the river.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The valley under a sky filled with soft, pastel clouds.
+    1. First Image: A Serene Valley With A River Running Through It.
+    2. Second Image: Transition From The First Image, Wildflowers Blooming Along The Riverbanks.
+    3. Third Image: Transition From The Second Image, A Rustic Bridge Crossing The River.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Valley Under A Sky Filled With Soft, Pastel Clouds.
 ================================================================ X ================================================================
 11. Category Name: Vibrant Cityscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Paris in Spring:
-    1. First Image: The Eiffel Tower surrounded by blooming cherry blossoms.
-    2. Second Image: Transition From The First Image, Café tables lining a charming Parisian street.
-    3. Third Image: Transition From The Second Image, Artists painting by the Seine River.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city lights reflecting on the river at dusk.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Paris In Spring:
+    1. First Image: The Eiffel Tower Surrounded By Blooming Cherry Blossoms.
+    2. Second Image: Transition From The First Image, Café Tables Lining A Charming Parisian Street.
+    3. Third Image: Transition From The Second Image, Artists Painting By The Seine River.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Lights Reflecting On The River At Dusk.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: New York at Night:
-    1. First Image: The New York City skyline lit up against a night sky.
-    2. Second Image: Transition From The First Image, Times Square with its bright neon lights and bustling crowds.
-    3. Third Image: Transition From The Second Image, A yellow taxi making its way through the city streets.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Central Park under the soft glow of street lamps.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: New York At Night:
+    1. First Image: The New York City Skyline Lit Up Against A Night Sky.
+    2. Second Image: Transition From The First Image, Times Square With Its Bright Neon Lights And Bustling Crowds.
+    3. Third Image: Transition From The Second Image, A Yellow Taxi Making Its Way Through The City Streets.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Central Park Under The Soft Glow Of Street Lamps.
 ================================================================ X ================================================================
 12. Category Name: Beautiful Sunsets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Beach Sunset:
-    1. First Image: A beach with the sun setting over the horizon.
-    2. Second Image: Transition From The First Image, The sky filled with vibrant oranges, pinks, and purples.
-    3. Third Image: Transition From The Second Image, Silhouettes of palm trees against the colorful sky.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The last light of the sun reflecting on the gentle waves.
+    1. First Image: A Beach With The Sun Setting Over The Horizon.
+    2. Second Image: Transition From The First Image, The Sky Filled With Vibrant Oranges, Pinks, And Purples.
+    3. Third Image: Transition From The Second Image, Silhouettes Of Palm Trees Against The Colorful Sky.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Last Light Of The Sun Reflecting On The Gentle Waves.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Sunset:
-    1. First Image: A mountain range with the sun setting behind the peaks.
-    2. Second Image: Transition From The First Image, The sky ablaze with warm, golden hues.
-    3. Third Image: Transition From The Second Image, The mountains casting long shadows over the valleys.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The sky transitioning to twilight, with stars beginning to appear.
+    1. First Image: A Mountain Range With The Sun Setting Behind The Peaks.
+    2. Second Image: Transition From The First Image, The Sky Ablaze With Warm, Golden Hues.
+    3. Third Image: Transition From The Second Image, The Mountains Casting Long Shadows Over The Valleys.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sky Transitioning To Twilight, With Stars Beginning To Appear.
 ================================================================ X ================================================================
 13. Category Name: Dynamic Weather
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Stormy Seas:
-    1. First Image: A turbulent sea with dark, stormy clouds overhead.
-    2. Second Image: Transition From The First Image, Waves crashing against a rocky shore.
-    3. Third Image: Transition From The Second Image, A ship battling the fierce waves.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The sea calming as the storm begins to pass.
+    1. First Image: A Turbulent Sea With Dark, Stormy Clouds Overhead.
+    2. Second Image: Transition From The First Image, Waves Crashing Against A Rocky Shore.
+    3. Third Image: Transition From The Second Image, A Ship Battling The Fierce Waves.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sea Calming As The Storm Begins To Pass.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Autumn Rain:
-    1. First Image: A quiet street lined with autumn trees, with leaves starting to fall.
-    2. Second Image: Transition From The First Image, Raindrops creating ripples in puddles on the ground.
-    3. Third Image: Transition From The Second Image, People walking under umbrellas, leaves swirling around them.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The street lights reflecting off the wet pavement.
+    1. First Image: A Quiet Street Lined With Autumn Trees, With Leaves Starting To Fall.
+    2. Second Image: Transition From The First Image, Raindrops Creating Ripples In Puddles On The Ground.
+    3. Third Image: Transition From The Second Image, People Walking Under Umbrellas, Leaves Swirling Around Them.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Street Lights Reflecting Off The Wet Pavement.
 ================================================================ X ================================================================
 14. Category Name: Rustic Charm
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old Barn:
-    1. First Image: A weathered barn standing in a field of tall grass.
-    2. Second Image: Transition From The First Image, Sunlight streaming through the gaps in the wooden walls.
-    3. Third Image: Transition From The Second Image, Farm animals grazing nearby.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The barn bathed in the warm light of late afternoon.
+    1. First Image: A Weathered Barn Standing In A Field Of Tall Grass.
+    2. Second Image: Transition From The First Image, Sunlight Streaming Through The Gaps In The Wooden Walls.
+    3. Third Image: Transition From The Second Image, Farm Animals Grazing Nearby.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Barn Bathed In The Warm Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Country Road:
-    1. First Image: A dirt road winding through the countryside.
-    2. Second Image: Transition From The First Image, Wildflowers growing along the roadside.
-    3. Third Image: Transition From The Second Image, A horse-drawn carriage making its way down the road.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The road disappearing into the distance under a pastel sky.
+    1. First Image: A Dirt Road Winding Through The Countryside.
+    2. Second Image: Transition From The First Image, Wildflowers Growing Along The Roadside.
+    3. Third Image: Transition From The Second Image, A Horse-Drawn Carriage Making Its Way Down The Road.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Road Disappearing Into The Distance Under A Pastel Sky.
 ================================================================ X ================================================================
 15. Category Name: Romantic Vignettes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lovers Park:
-    1. First Image: A beautiful park with blooming flowers and a picturesque gazebo.
-    2. Second Image: Transition From The First Image, A couple walking hand-in-hand along a tree-lined path.
-    3. Third Image: Transition From The Second Image, The couple sitting on a bench, enjoying the view.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The park at twilight, with soft, romantic lighting.
+    1. First Image: A Beautiful Park With Blooming Flowers And A Picturesque Gazebo.
+    2. Second Image: Transition From The First Image, A Couple Walking Hand-In-Hand Along A Tree-Lined Path.
+    3. Third Image: Transition From The Second Image, The Couple Sitting On A Bench, Enjoying The View.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Park At Twilight, With Soft, Romantic Lighting.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Evening Stroll:
-    1. First Image: A cobblestone street in a charming old town.
-    2. Second Image: Transition From The First Image, A couple walking arm-in-arm under the glow of street lamps.
-    3. Third Image: Transition From The Second Image, A small café with candlelit tables spilling onto the sidewalk.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The town square with a beautiful fountain, illuminated by soft lights.
+    1. First Image: A Cobblestone Street In A Charming Old Town.
+    2. Second Image: Transition From The First Image, A Couple Walking Arm-In-Arm Under The Glow Of Street Lamps.
+    3. Third Image: Transition From The Second Image, A Small Café With Candlelit Tables Spilling Onto The Sidewalk.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Square With A Beautiful Fountain, Illuminated By Soft Lights.
 ================================================================ X ================================================================
 16. Category Name: Colorful Markets
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Flower Market:
-    1. First Image: A bustling market filled with stalls of vibrant flowers.
-    2. Second Image: Transition From The First Image, People browsing and buying bouquets.
-    3. Third Image: Transition From The Second Image, A vendor arranging a beautiful floral display.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The market at dusk, with lanterns illuminating the colorful blooms.
+    1. First Image: A Bustling Market Filled With Stalls Of Vibrant Flowers.
+    2. Second Image: Transition From The First Image, People Browsing And Buying Bouquets.
+    3. Third Image: Transition From The Second Image, A Vendor Arranging A Beautiful Floral Display.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Market At Dusk, With Lanterns Illuminating The Colorful Blooms.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spice Bazaar:
-    1. First Image: A lively bazaar with stalls piled high with colorful spices.
-    2. Second Image: Transition From The First Image, The rich, aromatic scents filling the air.
-    3. Third Image: Transition From The Second Image, Shoppers haggling with vendors over prices.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The bazaar under a canopy of twinkling lights.
+    1. First Image: A Lively Bazaar With Stalls Piled High With Colorful Spices.
+    2. Second Image: Transition From The First Image, The Rich, Aromatic Scents Filling The Air.
+    3. Third Image: Transition From The Second Image, Shoppers Haggling With Vendors Over Prices.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bazaar Under A Canopy Of Twinkling Lights.
 ================================================================ X ================================================================
 17. Category Name: Tranquil Lakes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Lake:
-    1. First Image: A serene lake surrounded by towering mountains.
-    2. Second Image: Transition From The First Image, The water perfectly reflecting the mountain peaks.
-    3. Third Image: Transition From The Second Image, A canoe gliding across the still surface.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The lake at sunset, with golden light on the water.
+    1. First Image: A Serene Lake Surrounded By Towering Mountains.
+    2. Second Image: Transition From The First Image, The Water Perfectly Reflecting The Mountain Peaks.
+    3. Third Image: Transition From The Second Image, A Canoe Gliding Across The Still Surface.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Lake At Sunset, With Golden Light On The Water.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Forest Lake:
-    1. First Image: A quiet lake nestled in a dense forest.
-    2. Second Image: Transition From The First Image, Birds flying low over the water.
-    3. Third Image: Transition From The Second Image, A small dock extending into the lake.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest and lake bathed in the soft light of early morning.
+    1. First Image: A Quiet Lake Nestled In A Dense Forest.
+    2. Second Image: Transition From The First Image, Birds Flying Low Over The Water.
+    3. Third Image: Transition From The Second Image, A Small Dock Extending Into The Lake.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest And Lake Bathed In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 18. Category Name: Idyllic Villages
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tuscan Village:
-    1. First Image: A picturesque village nestled in the rolling hills of Tuscany.
-    2. Second Image: Transition From The First Image, Vineyards stretching out as far as the eye can see.
-    3. Third Image: Transition From The Second Image, A cobblestone street lined with charming stone houses.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The village at sunset, with the sky painted in warm hues.
+    1. First Image: A Picturesque Village Nestled In The Rolling Hills Of Tuscany.
+    2. Second Image: Transition From The First Image, Vineyards Stretching Out As Far As The Eye Can See.
+    3. Third Image: Transition From The Second Image, A Cobblestone Street Lined With Charming Stone Houses.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village At Sunset, With The Sky Painted In Warm Hues.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Alpine Village:
-    1. First Image: A quaint village surrounded by snow-capped mountains.
-    2. Second Image: Transition From The First Image, A cozy chalet with smoke rising from the chimney.
-    3. Third Image: Transition From The Second Image, Villagers going about their daily activities.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The village illuminated by the glow of street lamps at dusk.
+    1. First Image: A Quaint Village Surrounded By Snow-Capped Mountains.
+    2. Second Image: Transition From The First Image, A Cozy Chalet With Smoke Rising From The Chimney.
+    3. Third Image: Transition From The Second Image, Villagers Going About Their Daily Activities.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Illuminated By The Glow Of Street Lamps At Dusk.
 ================================================================ X ================================================================
 19. Category Name: Exotic Locations
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tropical Paradise:
-    1. First Image: A white sandy beach with turquoise waters.
-    2. Second Image: Transition From The First Image, Palm trees swaying gently in the breeze.
-    3. Third Image: Transition From The Second Image, A hammock strung between two palm trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The beach at sunset, with vibrant colors in the sky.
+    1. First Image: A White Sandy Beach With Turquoise Waters.
+    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
+    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Palm Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Beach At Sunset, With Vibrant Colors In The Sky.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Desert Oasis:
-    1. First Image: A lush oasis in the middle of a vast desert.
-    2. Second Image: Transition From The First Image, Palm trees and a clear pool of water.
-    3. Third Image: Transition From The Second Image, Camels resting near the waters edge.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The oasis under the soft glow of the setting sun.
+    1. First Image: A Lush Oasis In The Middle Of A Vast Desert.
+    2. Second Image: Transition From The First Image, Palm Trees And A Clear Pool Of Water.
+    3. Third Image: Transition From The Second Image, Camels Resting Near The Waters Edge.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Oasis Under The Soft Glow Of The Setting Sun.
 ================================================================ X ================================================================
 20. Category Name: Majestic Waterfalls
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Jungle Waterfall:
-    1. First Image: A powerful waterfall cascading into a pool in the jungle.
-    2. Second Image: Transition From The First Image, Mist rising from the base of the waterfall.
-    3. Third Image: Transition From The Second Image, Exotic birds flying through the spray.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The waterfall bathed in the golden light of late afternoon.
+    1. First Image: A Powerful Waterfall Cascading Into A Pool In The Jungle.
+    2. Second Image: Transition From The First Image, Mist Rising From The Base Of The Waterfall.
+    3. Third Image: Transition From The Second Image, Exotic Birds Flying Through The Spray.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Waterfall Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Falls:
-    1. First Image: A stunning waterfall flowing down a rocky mountain face.
-    2. Second Image: Transition From The First Image, The water crashing into the rocks below.
-    3. Third Image: Transition From The Second Image, A rainbow forming in the mist.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The falls at sunset, with the surrounding mountains glowing softly.
+    1. First Image: A Stunning Waterfall Flowing Down A Rocky Mountain Face.
+    2. Second Image: Transition From The First Image, The Water Crashing Into The Rocks Below.
+    3. Third Image: Transition From The Second Image, A Rainbow Forming In The Mist.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Falls At Sunset, With The Surrounding Mountains Glowing Softly.
 ================================================================ X ================================================================
 21. Category Name: Mystical Landscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Enchanted Meadow:
-    1. First Image: A lush meadow filled with vibrant wildflowers.
-    2. Second Image: Transition From The First Image, A soft, golden light filtering through the trees.
-    3. Third Image: Transition From The Second Image, A unicorn grazing peacefully in the meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The meadow under a starry sky, with fireflies glowing softly.
+    1. First Image: A Lush Meadow Filled With Vibrant Wildflowers.
+    2. Second Image: Transition From The First Image, A Soft, Golden Light Filtering Through The Trees.
+    3. Third Image: Transition From The Second Image, A Unicorn Grazing Peacefully In The Meadow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Under A Starry Sky, With Fireflies Glowing Softly.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Foggy Moor:
-    1. First Image: A vast moorland shrouded in fog.
-    2. Second Image: Transition From The First Image, Mysterious shapes and shadows moving through the mist.
-    3. Third Image: Transition From The Second Image, A lone figure walking across the moor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fog lifting to reveal a hidden, magical landscape.
+    1. First Image: A Vast Moorland Shrouded In Fog.
+    2. Second Image: Transition From The First Image, Mysterious Shapes And Shadows Moving Through The Mist.
+    3. Third Image: Transition From The Second Image, A Lone Figure Walking Across The Moor.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fog Lifting To Reveal A Hidden, Magical Landscape.
 ================================================================ X ================================================================
 22. Category Name: Majestic Wildlife
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Lions on the Savannah:
-    1. First Image: A pride of lions resting in the tall grass.
-    2. Second Image: Transition From The First Image, The lions alert and watching the horizon.
-    3. Third Image: Transition From The Second Image, A lioness leading her cubs to a waterhole.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The savannah bathed in the warm light of sunset.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Lions On The Savannah:
+    1. First Image: A Pride Of Lions Resting In The Tall Grass.
+    2. Second Image: Transition From The First Image, The Lions Alert And Watching The Horizon.
+    3. Third Image: Transition From The Second Image, A Lioness Leading Her Cubs To A Waterhole.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Savannah Bathed In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Eagles in Flight:
-    1. First Image: A pair of eagles soaring high above a mountain range.
-    2. Second Image: Transition From The First Image, The eagles diving and playing in the air.
-    3. Third Image: Transition From The Second Image, An eagle perched on a rocky outcrop, surveying its territory.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The eagles flying off into the distance as the sun sets.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Eagles In Flight:
+    1. First Image: A Pair Of Eagles Soaring High Above A Mountain Range.
+    2. Second Image: Transition From The First Image, The Eagles Diving And Playing In The Air.
+    3. Third Image: Transition From The Second Image, An Eagle Perched On A Rocky Outcrop, Surveying Its Territory.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Eagles Flying Off Into The Distance As The Sun Sets.
 ================================================================ X ================================================================
 23. Category Name: Cultural Festivals
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Chinese New Year:
-    1. First Image: A bustling street decorated with red lanterns.
-    2. Second Image: Transition From The First Image, A dragon dance procession making its way through the crowd.
-    3. Third Image: Transition From The Second Image, Fireworks lighting up the night sky.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Families gathered around a table, sharing a festive meal.
+    1. First Image: A Bustling Street Decorated With Red Lanterns.
+    2. Second Image: Transition From The First Image, A Dragon Dance Procession Making Its Way Through The Crowd.
+    3. Third Image: Transition From The Second Image, Fireworks Lighting Up The Night Sky.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Families Gathered Around A Table, Sharing A Festive Meal.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Diwali Celebration:
-    1. First Image: A street lined with homes decorated with colorful lights.
-    2. Second Image: Transition From The First Image, People lighting diyas (oil lamps) and placing them along the path.
-    3. Third Image: Transition From The Second Image, A spectacular fireworks display.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The celebration continuing into the night with music and dance.
+    1. First Image: A Street Lined With Homes Decorated With Colorful Lights.
+    2. Second Image: Transition From The First Image, People Lighting Diyas (Oil Lamps) And Placing Them Along The Path.
+    3. Third Image: Transition From The Second Image, A Spectacular Fireworks Display.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Celebration Continuing Into The Night With Music And Dance.
 ================================================================ X ================================================================
 24. Category Name: Majestic Landscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Grand Canyon:
-    1. First Image: The vast expanse of the Grand Canyon with its layered rock formations.
-    2. Second Image: Transition From The First Image, A hiker standing on the edge, looking out over the canyon.
-    3. Third Image: Transition From The Second Image, The Colorado River winding through the canyon.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canyon at sunset, with the rocks glowing in warm colors.
+    1. First Image: The Vast Expanse Of The Grand Canyon With Its Layered Rock Formations.
+    2. Second Image: Transition From The First Image, A Hiker Standing On The Edge, Looking Out Over The Canyon.
+    3. Third Image: Transition From The Second Image, The Colorado River Winding Through The Canyon.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon At Sunset, With The Rocks Glowing In Warm Colors.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Aurora Borealis:
-    1. First Image: A snowy landscape under a clear night sky.
-    2. Second Image: Transition From The First Image, The Northern Lights beginning to dance across the sky.
-    3. Third Image: Transition From The Second Image, The sky filled with vibrant greens, pinks, and purples.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The aurora reflecting on a frozen lake.
+    1. First Image: A Snowy Landscape Under A Clear Night Sky.
+    2. Second Image: Transition From The First Image, The Northern Lights Beginning To Dance Across The Sky.
+    3. Third Image: Transition From The Second Image, The Sky Filled With Vibrant Greens, Pinks, And Purples.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Aurora Reflecting On A Frozen Lake.
 ================================================================ X ================================================================
 25. Category Name: Dreamy Gardens
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secret Garden:
-    1. First Image: A hidden garden behind an ivy-covered wall.
-    2. Second Image: Transition From The First Image, A wrought-iron gate leading into the garden.
-    3. Third Image: Transition From The Second Image, The garden filled with blooming flowers and a bubbling fountain.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The garden bathed in the soft light of early morning.
+    1. First Image: A Hidden Garden Behind An Ivy-Covered Wall.
+    2. Second Image: Transition From The First Image, A Wrought-Iron Gate Leading Into The Garden.
+    3. Third Image: Transition From The Second Image, The Garden Filled With Blooming Flowers And A Bubbling Fountain.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rose Garden:
-    1. First Image: Rows of rose bushes in full bloom.
-    2. Second Image: Transition From The First Image, A path winding through the garden, lined with roses.
-    3. Third Image: Transition From The Second Image, A gazebo covered in climbing roses.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The garden at sunset, with the roses glowing in the warm light.
+    1. First Image: Rows Of Rose Bushes In Full Bloom.
+    2. Second Image: Transition From The First Image, A Path Winding Through The Garden, Lined With Roses.
+    3. Third Image: Transition From The Second Image, A Gazebo Covered In Climbing Roses.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Garden At Sunset, With The Roses Glowing In The Warm Light.
 ================================================================ X ================================================================
 26. Category Name: Captivating Cityscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Venice Canals:
-    1. First Image: The iconic canals of Venice with gondolas gliding through the water.
-    2. Second Image: Transition From The First Image, Beautiful buildings lining the canals, reflected in the water.
-    3. Third Image: Transition From The Second Image, A gondolier serenading passengers.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canals at dusk, with lights twinkling in the water.
+    1. First Image: The Iconic Canals Of Venice With Gondolas Gliding Through The Water.
+    2. Second Image: Transition From The First Image, Beautiful Buildings Lining The Canals, Reflected In The Water.
+    3. Third Image: Transition From The Second Image, A Gondolier Serenading Passengers.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canals At Dusk, With Lights Twinkling In The Water.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Kyoto in Autumn:
-    1. First Image: A traditional Japanese street with autumn foliage.
-    2. Second Image: Transition From The First Image, Red and orange leaves creating a vibrant canopy.
-    3. Third Image: Transition From The Second Image, A temple surrounded by colorful trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The street illuminated by lanterns as night falls.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Kyoto In Autumn:
+    1. First Image: A Traditional Japanese Street With Autumn Foliage.
+    2. Second Image: Transition From The First Image, Red And Orange Leaves Creating A Vibrant Canopy.
+    3. Third Image: Transition From The Second Image, A Temple Surrounded By Colorful Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Street Illuminated By Lanterns As Night Falls.
 ================================================================ X ================================================================
 27. Category Name: Ancient Ruins
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Machu Picchu:
-    1. First Image: The ancient Incan city of Machu Picchu nestled in the mountains.
-    2. Second Image: Transition From The First Image, The stone structures and terraces bathed in early morning light.
-    3. Third Image: Transition From The Second Image, Llamas grazing among the ruins.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city under a starry sky, with the mountains silhouetted in the background.
+    1. First Image: The Ancient Incan City Of Machu Picchu Nestled In The Mountains.
+    2. Second Image: Transition From The First Image, The Stone Structures And Terraces Bathed In Early Morning Light.
+    3. Third Image: Transition From The Second Image, Llamas Grazing Among The Ruins.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City Under A Starry Sky, With The Mountains Silhouetted In The Background.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Petra:
-    1. First Image: The ancient city of Petra with its rock-cut architecture.
-    2. Second Image: Transition From The First Image, The iconic Treasury building illuminated by the sun.
-    3. Third Image: Transition From The Second Image, A narrow canyon leading into the city.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The city at night, with candles lighting the way.
+    1. First Image: The Ancient City Of Petra With Its Rock-Cut Architecture.
+    2. Second Image: Transition From The First Image, The Iconic Treasury Building Illuminated By The Sun.
+    3. Third Image: Transition From The Second Image, A Narrow Canyon Leading Into The City.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The City At Night, With Candles Lighting The Way.
 ================================================================ X ================================================================
 28. Category Name: Stunning Coastlines
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Cliffs of Moher:
-    1. First Image: The dramatic Cliffs of Moher rising above the Atlantic Ocean.
-    2. Second Image: Transition From The First Image, Waves crashing against the base of the cliffs.
-    3. Third Image: Transition From The Second Image, Birds soaring high above the cliffs.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cliffs bathed in the golden light of sunset.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Cliffs Of Moher:
+    1. First Image: The Dramatic Cliffs Of Moher Rising Above The Atlantic Ocean.
+    2. Second Image: Transition From The First Image, Waves Crashing Against The Base Of The Cliffs.
+    3. Third Image: Transition From The Second Image, Birds Soaring High Above The Cliffs.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cliffs Bathed In The Golden Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Santorini:
-    1. First Image: The white-washed buildings of Santorini overlooking the Aegean Sea.
-    2. Second Image: Transition From The First Image, A winding path leading through the picturesque town.
-    3. Third Image: Transition From The Second Image, Blue-domed churches contrasting with the white buildings.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The town glowing in the warm light of dusk.
+    1. First Image: The White-Washed Buildings Of Santorini Overlooking The Aegean Sea.
+    2. Second Image: Transition From The First Image, A Winding Path Leading Through The Picturesque Town.
+    3. Third Image: Transition From The Second Image, Blue-Domed Churches Contrasting With The White Buildings.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Glowing In The Warm Light Of Dusk.
 ================================================================ X ================================================================
 29. Category Name: Breathtaking Vistas
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Swiss Alps:
-    1. First Image: The majestic peaks of the Swiss Alps covered in snow.
-    2. Second Image: Transition From The First Image, A charming alpine village nestled in a valley.
-    3. Third Image: Transition From The Second Image, Skiers making their way down the slopes.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The mountains glowing in the light of the setting sun.
+    1. First Image: The Majestic Peaks Of The Swiss Alps Covered In Snow.
+    2. Second Image: Transition From The First Image, A Charming Alpine Village Nestled In A Valley.
+    3. Third Image: Transition From The Second Image, Skiers Making Their Way Down The Slopes.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Mountains Glowing In The Light Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Norwegian Fjords:
-    1. First Image: The stunning fjords of Norway with their steep cliffs and deep waters.
-    2. Second Image: Transition From The First Image, A boat making its way through the narrow passage.
-    3. Third Image: Transition From The Second Image, Waterfalls cascading down the cliffs.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fjords bathed in the soft light of early evening.
+    1. First Image: The Stunning Fjords Of Norway With Their Steep Cliffs And Deep Waters.
+    2. Second Image: Transition From The First Image, A Boat Making Its Way Through The Narrow Passage.
+    3. Third Image: Transition From The Second Image, Waterfalls Cascading Down The Cliffs.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fjords Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 30. Category Name: Autumn Splendor
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Maple Forest:
-    1. First Image: A forest of maple trees with vibrant autumn foliage.
-    2. Second Image: Transition From The First Image, A carpet of red and orange leaves covering the ground.
-    3. Third Image: Transition From The Second Image, Sunlight filtering through the colorful canopy.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest at sunset, with the leaves glowing in the warm light.
+    1. First Image: A Forest Of Maple Trees With Vibrant Autumn Foliage.
+    2. Second Image: Transition From The First Image, A Carpet Of Red And Orange Leaves Covering The Ground.
+    3. Third Image: Transition From The Second Image, Sunlight Filtering Through The Colorful Canopy.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest At Sunset, With The Leaves Glowing In The Warm Light.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pumpkin Patch:
-    1. First Image: A sprawling pumpkin patch with rows of pumpkins ready for harvest.
-    2. Second Image: Transition From The First Image, Families picking out the perfect pumpkins.
-    3. Third Image: Transition From The Second Image, A hayride making its way through the patch.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The patch illuminated by the soft light of dusk.
+    1. First Image: A Sprawling Pumpkin Patch With Rows Of Pumpkins Ready For Harvest.
+    2. Second Image: Transition From The First Image, Families Picking Out The Perfect Pumpkins.
+    3. Third Image: Transition From The Second Image, A Hayride Making Its Way Through The Patch.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Patch Illuminated By The Soft Light Of Dusk.
 ================================================================ X ================================================================
 31. Category Name: Charming Towns
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Provencal Village:
-    1. First Image: A charming village in Provence with lavender fields in full bloom.
-    2. Second Image: Transition From The First Image, Stone houses with colorful shutters.
-    3. Third Image: Transition From The Second Image, A bustling market square with stalls selling local produce.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The village bathed in the golden light of late afternoon.
+    1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
+    2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
+    3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Dutch Canal Town:
-    1. First Image: A picturesque town in the Netherlands with canals and quaint houses.
-    2. Second Image: Transition From The First Image, Bicycles lined up along the canal.
-    3. Third Image: Transition From The Second Image, Boats gently floating on the water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The town illuminated by soft, warm lights at dusk.
+    1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
+    2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
+    3. Third Image: Transition From The Second Image, Boats Gently Floating On The Water.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
 ================================================================ X ================================================================
 32. Category Name: Serene Rivers
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tranquil River:
-    1. First Image: A peaceful river winding through a lush landscape.
-    2. Second Image: Transition From The First Image, Ducks swimming gracefully on the water.
-    3. Third Image: Transition From The Second Image, A small wooden dock extending into the river.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The river reflecting the colors of the setting sun.
+    1. First Image: A Peaceful River Winding Through A Lush Landscape.
+    2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
+    3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Stream:
-    1. First Image: A clear mountain stream flowing over smooth rocks.
-    2. Second Image: Transition From The First Image, The stream surrounded by vibrant wildflowers.
-    3. Third Image: Transition From The Second Image, A small waterfall cascading into a pool.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The stream glowing in the soft light of early morning.
+    1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
+    2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
+    3. Third Image: Transition From The Second Image, A Small Waterfall Cascading Into A Pool.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 33. Category Name: Enchanting Castles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scottish Highlands Castle:
-    1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
-    2. Second Image: Transition From The First Image, The castle surrounded by rolling green hills.
-    3. Third Image: Transition From The Second Image, A misty landscape with the castle looming in the distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The castle illuminated by the light of the setting sun.
+    1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
+    2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
+    3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bavarian Castle:
-    1. First Image: A fairytale-like castle in the Bavarian countryside.
-    2. Second Image: Transition From The First Image, The castle nestled among forested hills.
-    3. Third Image: Transition From The Second Image, A winding path leading up to the castle gates.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The castle glowing softly under a starry sky.
+    1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
+    2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
+    3. Third Image: Transition From The Second Image, A Winding Path Leading Up To The Castle Gates.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
 ================================================================ X ================================================================
 34. Category Name: Blossoming Orchards
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Apple Orchard:
-    1. First Image: Rows of apple trees in full bloom.
-    2. Second Image: Transition From The First Image, Bees buzzing among the blossoms.
-    3. Third Image: Transition From The Second Image, Families picking apples from the trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The orchard at sunset, with the trees bathed in warm light.
+    1. First Image: Rows Of Apple Trees In Full Bloom.
+    2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
+    3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cherry Blossom Grove:
-    1. First Image: A grove of cherry trees covered in pink blossoms.
-    2. Second Image: Transition From The First Image, Petals gently falling to the ground.
-    3. Third Image: Transition From The Second Image, A path winding through the grove.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The grove illuminated by the soft light of early morning.
+    1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
+    2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
+    3. Third Image: Transition From The Second Image, A Path Winding Through The Grove.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 35. Category Name: Peaceful Ponds
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lily Pond:
-    1. First Image: A serene pond covered in water lilies.
-    2. Second Image: Transition From The First Image, Dragonflies flitting over the water.
-    3. Third Image: Transition From The Second Image, A frog sitting on a lily pad.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The pond reflecting the colors of the setting sun.
+    1. First Image: A Serene Pond Covered In Water Lilies.
+    2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
+    3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Koi Pond:
-    1. First Image: A tranquil pond filled with colorful koi fish.
-    2. Second Image: Transition From The First Image, The fish swimming gracefully among the plants.
-    3. Third Image: Transition From The Second Image, A small wooden bridge crossing the pond.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The pond glowing softly in the light of dusk.
+    1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
+    2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
+    3. Third Image: Transition From The Second Image, A Small Wooden Bridge Crossing The Pond.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
 ================================================================ X ================================================================
 36. Category Name: Majestic Canyons
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bryce Canyon:
-    1. First Image: The unique rock formations of Bryce Canyon.
-    2. Second Image: Transition From The First Image, Sunlight casting dramatic shadows in the canyon.
-    3. Third Image: Transition From The Second Image, A hiker standing at the edge, looking out over the landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canyon glowing in the warm light of sunset.
+    1. First Image: The Unique Rock Formations Of Bryce Canyon.
+    2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
+    3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Antelope Canyon:
-    1. First Image: The narrow, winding passages of Antelope Canyon.
-    2. Second Image: Transition From The First Image, Sunbeams filtering through the openings above.
-    3. Third Image: Transition From The Second Image, The swirling, colorful patterns in the rock walls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canyon bathed in the soft light of late afternoon.
+    1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
+    2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
+    3. Third Image: Transition From The Second Image, The Swirling, Colorful Patterns In The Rock Walls.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
 ================================================================ X ================================================================
 37. Category Name: Idyllic Meadows
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spring Meadow:
-    1. First Image: A vibrant meadow filled with blooming wildflowers.
-    2. Second Image: Transition From The First Image, Butterflies fluttering among the flowers.
-    3. Third Image: Transition From The Second Image, A small stream winding through the meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The meadow bathed in the golden light of late afternoon.
+    1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
+    2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
+    3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Summer Field:
-    1. First Image: A sunny field with tall, swaying grasses.
-    2. Second Image: Transition From The First Image, Birds singing in the trees at the edge of the field.
-    3. Third Image: Transition From The Second Image, A wooden fence dividing the field.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The field glowing in the warm light of sunset.
+    1. First Image: A Sunny Field With Tall, Swaying Grasses.
+    2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
+    3. Third Image: Transition From The Second Image, A Wooden Fence Dividing The Field.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
 ================================================================ X ================================================================
 38. Category Name: Enchanting Forests
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Birch Forest:
-    1. First Image: A dense forest of tall birch trees.
-    2. Second Image: Transition From The First Image, Sunlight filtering through the white trunks.
-    3. Third Image: Transition From The Second Image, A carpet of fallen leaves covering the forest floor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest bathed in the soft light of early morning.
+    1. First Image: A Dense Forest Of Tall Birch Trees.
+    2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
+    3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pine Woods:
-    1. First Image: A tranquil pine forest with tall, straight trees.
-    2. Second Image: Transition From The First Image, The scent of pine needles filling the air.
-    3. Third Image: Transition From The Second Image, A path winding through the trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest glowing in the light of late afternoon.
+    1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
+    2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
+    3. Third Image: Transition From The Second Image, A Path Winding Through The Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
 ================================================================ X ================================================================
 39. Category Name: Colorful Landscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lavender Fields:
-    1. First Image: Endless rows of lavender in full bloom.
-    2. Second Image: Transition From The First Image, Bees buzzing among the purple flowers.
-    3. Third Image: Transition From The Second Image, A farmhouse nestled in the middle of the fields.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fields glowing in the warm light of sunset.
+    1. First Image: Endless Rows Of Lavender In Full Bloom.
+    2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
+    3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tulip Fields:
-    1. First Image: Vibrant tulip fields stretching out to the horizon.
-    2. Second Image: Transition From The First Image, A windmill standing tall among the flowers.
-    3. Third Image: Transition From The Second Image, Families walking through the colorful rows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fields illuminated by the soft light of early evening.
+    1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
+    2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
+    3. Third Image: Transition From The Second Image, Families Walking Through The Colorful Rows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 40. Category Name: Serene Beaches
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secluded Cove:
-    1. First Image: A hidden cove with clear, turquoise waters.
-    2. Second Image: Transition From The First Image, Palm trees swaying gently in the breeze.
-    3. Third Image: Transition From The Second Image, A hammock strung between two trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cove glowing in the warm light of sunset.
+    1. First Image: A Hidden Cove With Clear, Turquoise Waters.
+    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
+    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shore:
-    1. First Image: A rugged shore with waves crashing against the rocks.
-    2. Second Image: Transition From The First Image, Tide pools forming in the rocky crevices.
-    3. Third Image: Transition From The Second Image, Seagulls flying above the water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The shore bathed in the soft light of early evening.
+    1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
+    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
+    3. Third Image: Transition From The Second Image, Seagulls Flying Above The Water.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 41. Category Name: Idyllic Villages
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Provencal Village:
-    1. First Image: A charming village in Provence with lavender fields in full bloom.
-    2. Second Image: Transition From The First Image, Stone houses with colorful shutters.
-    3. Third Image: Transition From The Second Image, A bustling market square with stalls selling local produce.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The village bathed in the golden light of late afternoon.
+    1. First Image: A Charming Village In Provence With Lavender Fields In Full Bloom.
+    2. Second Image: Transition From The First Image, Stone Houses With Colorful Shutters.
+    3. Third Image: Transition From The Second Image, A Bustling Market Square With Stalls Selling Local Produce.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Village Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Dutch Canal Town:
-    1. First Image: A picturesque town in the Netherlands with canals and quaint houses.
-    2. Second Image: Transition From The First Image, Bicycles lined up along the canal.
-    3. Third Image: Transition From The Second Image, Boats gently floating on the water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The town illuminated by soft, warm lights at dusk.
+    1. First Image: A Picturesque Town In The Netherlands With Canals And Quaint Houses.
+    2. Second Image: Transition From The First Image, Bicycles Lined Up Along The Canal.
+    3. Third Image: Transition From The Second Image, Boats Gently Floating On The Water.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Town Illuminated By Soft, Warm Lights At Dusk.
 ================================================================ X ================================================================
 42. Category Name: Tranquil Rivers
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tranquil River:
-    1. First Image: A peaceful river winding through a lush landscape.
-    2. Second Image: Transition From The First Image, Ducks swimming gracefully on the water.
-    3. Third Image: Transition From The Second Image, A small wooden dock extending into the river.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The river reflecting the colors of the setting sun.
+    1. First Image: A Peaceful River Winding Through A Lush Landscape.
+    2. Second Image: Transition From The First Image, Ducks Swimming Gracefully On The Water.
+    3. Third Image: Transition From The Second Image, A Small Wooden Dock Extending Into The River.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The River Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mountain Stream:
-    1. First Image: A clear mountain stream flowing over smooth rocks.
-    2. Second Image: Transition From The First Image, The stream surrounded by vibrant wildflowers.
-    3. Third Image: Transition From The Second Image, A small waterfall cascading into a pool.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The stream glowing in the soft light of early morning.
+    1. First Image: A Clear Mountain Stream Flowing Over Smooth Rocks.
+    2. Second Image: Transition From The First Image, The Stream Surrounded By Vibrant Wildflowers.
+    3. Third Image: Transition From The Second Image, A Small Waterfall Cascading Into A Pool.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Stream Glowing In The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 43. Category Name: Enchanting Castles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Scottish Highlands Castle:
-    1. First Image: A majestic castle standing on a hill in the Scottish Highlands.
-    2. Second Image: Transition From The First Image, The castle surrounded by rolling green hills.
-    3. Third Image: Transition From The Second Image, A misty landscape with the castle looming in the distance.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The castle illuminated by the light of the setting sun.
+    1. First Image: A Majestic Castle Standing On A Hill In The Scottish Highlands.
+    2. Second Image: Transition From The First Image, The Castle Surrounded By Rolling Green Hills.
+    3. Third Image: Transition From The Second Image, A Misty Landscape With The Castle Looming In The Distance.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Illuminated By The Light Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bavarian Castle:
-    1. First Image: A fairytale-like castle in the Bavarian countryside.
-    2. Second Image: Transition From The First Image, The castle nestled among forested hills.
-    3. Third Image: Transition From The Second Image, A winding path leading up to the castle gates.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The castle glowing softly under a starry sky.
+    1. First Image: A Fairytale-Like Castle In The Bavarian Countryside.
+    2. Second Image: Transition From The First Image, The Castle Nestled Among Forested Hills.
+    3. Third Image: Transition From The Second Image, A Winding Path Leading Up To The Castle Gates.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Castle Glowing Softly Under A Starry Sky.
 ================================================================ X ================================================================
 44. Category Name: Blossoming Orchards
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Apple Orchard:
-    1. First Image: Rows of apple trees in full bloom.
-    2. Second Image: Transition From The First Image, Bees buzzing among the blossoms.
-    3. Third Image: Transition From The Second Image, Families picking apples from the trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The orchard at sunset, with the trees bathed in warm light.
+    1. First Image: Rows Of Apple Trees In Full Bloom.
+    2. Second Image: Transition From The First Image, Bees Buzzing Among The Blossoms.
+    3. Third Image: Transition From The Second Image, Families Picking Apples From The Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Orchard At Sunset, With The Trees Bathed In Warm Light.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Cherry Blossom Grove:
-    1. First Image: A grove of cherry trees covered in pink blossoms.
-    2. Second Image: Transition From The First Image, Petals gently falling to the ground.
-    3. Third Image: Transition From The Second Image, A path winding through the grove.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The grove illuminated by the soft light of early morning.
+    1. First Image: A Grove Of Cherry Trees Covered In Pink Blossoms.
+    2. Second Image: Transition From The First Image, Petals Gently Falling To The Ground.
+    3. Third Image: Transition From The Second Image, A Path Winding Through The Grove.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Grove Illuminated By The Soft Light Of Early Morning.
 ================================================================ X ================================================================
 45. Category Name: Peaceful Ponds
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lily Pond:
-    1. First Image: A serene pond covered in water lilies.
-    2. Second Image: Transition From The First Image, Dragonflies flitting over the water.
-    3. Third Image: Transition From The Second Image, A frog sitting on a lily pad.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The pond reflecting the colors of the setting sun.
+    1. First Image: A Serene Pond Covered In Water Lilies.
+    2. Second Image: Transition From The First Image, Dragonflies Flitting Over The Water.
+    3. Third Image: Transition From The Second Image, A Frog Sitting On A Lily Pad.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Reflecting The Colors Of The Setting Sun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Koi Pond:
-    1. First Image: A tranquil pond filled with colorful koi fish.
-    2. Second Image: Transition From The First Image, The fish swimming gracefully among the plants.
-    3. Third Image: Transition From The Second Image, A small wooden bridge crossing the pond.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The pond glowing softly in the light of dusk.
+    1. First Image: A Tranquil Pond Filled With Colorful Koi Fish.
+    2. Second Image: Transition From The First Image, The Fish Swimming Gracefully Among The Plants.
+    3. Third Image: Transition From The Second Image, A Small Wooden Bridge Crossing The Pond.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Pond Glowing Softly In The Light Of Dusk.
 ================================================================ X ================================================================
 46. Category Name: Majestic Canyons
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Bryce Canyon:
-    1. First Image: The unique rock formations of Bryce Canyon.
-    2. Second Image: Transition From The First Image, Sunlight casting dramatic shadows in the canyon.
-    3. Third Image: Transition From The Second Image, A hiker standing at the edge, looking out over the landscape.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canyon glowing in the warm light of sunset.
+    1. First Image: The Unique Rock Formations Of Bryce Canyon.
+    2. Second Image: Transition From The First Image, Sunlight Casting Dramatic Shadows In The Canyon.
+    3. Third Image: Transition From The Second Image, A Hiker Standing At The Edge, Looking Out Over The Landscape.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Antelope Canyon:
-    1. First Image: The narrow, winding passages of Antelope Canyon.
-    2. Second Image: Transition From The First Image, Sunbeams filtering through the openings above.
-    3. Third Image: Transition From The Second Image, The swirling, colorful patterns in the rock walls.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The canyon bathed in the soft light of late afternoon.
+    1. First Image: The Narrow, Winding Passages Of Antelope Canyon.
+    2. Second Image: Transition From The First Image, Sunbeams Filtering Through The Openings Above.
+    3. Third Image: Transition From The Second Image, The Swirling, Colorful Patterns In The Rock Walls.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Canyon Bathed In The Soft Light Of Late Afternoon.
 ================================================================ X ================================================================
 47. Category Name: Idyllic Meadows
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Spring Meadow:
-    1. First Image: A vibrant meadow filled with blooming wildflowers.
-    2. Second Image: Transition From The First Image, Butterflies fluttering among the flowers.
-    3. Third Image: Transition From The Second Image, A small stream winding through the meadow.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The meadow bathed in the golden light of late afternoon.
+    1. First Image: A Vibrant Meadow Filled With Blooming Wildflowers.
+    2. Second Image: Transition From The First Image, Butterflies Fluttering Among The Flowers.
+    3. Third Image: Transition From The Second Image, A Small Stream Winding Through The Meadow.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Meadow Bathed In The Golden Light Of Late Afternoon.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Summer Field:
-    1. First Image: A sunny field with tall, swaying grasses.
-    2. Second Image: Transition From The First Image, Birds singing in the trees at the edge of the field.
-    3. Third Image: Transition From The Second Image, A wooden fence dividing the field.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The field glowing in the warm light of sunset.
+    1. First Image: A Sunny Field With Tall, Swaying Grasses.
+    2. Second Image: Transition From The First Image, Birds Singing In The Trees At The Edge Of The Field.
+    3. Third Image: Transition From The Second Image, A Wooden Fence Dividing The Field.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Field Glowing In The Warm Light Of Sunset.
 ================================================================ X ================================================================
 48. Category Name: Enchanting Forests
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Birch Forest:
-    1. First Image: A dense forest of tall birch trees.
-    2. Second Image: Transition From The First Image, Sunlight filtering through the white trunks.
-    3. Third Image: Transition From The Second Image, A carpet of fallen leaves covering the forest floor.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest bathed in the soft light of early morning.
+    1. First Image: A Dense Forest Of Tall Birch Trees.
+    2. Second Image: Transition From The First Image, Sunlight Filtering Through The White Trunks.
+    3. Third Image: Transition From The Second Image, A Carpet Of Fallen Leaves Covering The Forest Floor.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Bathed In The Soft Light Of Early Morning.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pine Woods:
-    1. First Image: A tranquil pine forest with tall, straight trees.
-    2. Second Image: Transition From The First Image, The scent of pine needles filling the air.
-    3. Third Image: Transition From The Second Image, A path winding through the trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The forest glowing in the light of late afternoon.
+    1. First Image: A Tranquil Pine Forest With Tall, Straight Trees.
+    2. Second Image: Transition From The First Image, The Scent Of Pine Needles Filling The Air.
+    3. Third Image: Transition From The Second Image, A Path Winding Through The Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Forest Glowing In The Light Of Late Afternoon.
 ================================================================ X ================================================================
 49. Category Name: Colorful Landscapes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Lavender Fields:
-    1. First Image: Endless rows of lavender in full bloom.
-    2. Second Image: Transition From The First Image, Bees buzzing among the purple flowers.
-    3. Third Image: Transition From The Second Image, A farmhouse nestled in the middle of the fields.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fields glowing in the warm light of sunset.
+    1. First Image: Endless Rows Of Lavender In Full Bloom.
+    2. Second Image: Transition From The First Image, Bees Buzzing Among The Purple Flowers.
+    3. Third Image: Transition From The Second Image, A Farmhouse Nestled In The Middle Of The Fields.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Tulip Fields:
-    1. First Image: Vibrant tulip fields stretching out to the horizon.
-    2. Second Image: Transition From The First Image, A windmill standing tall among the flowers.
-    3. Third Image: Transition From The Second Image, Families walking through the colorful rows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The fields illuminated by the soft light of early evening.
+    1. First Image: Vibrant Tulip Fields Stretching Out To The Horizon.
+    2. Second Image: Transition From The First Image, A Windmill Standing Tall Among The Flowers.
+    3. Third Image: Transition From The Second Image, Families Walking Through The Colorful Rows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Fields Illuminated By The Soft Light Of Early Evening.
 ================================================================ X ================================================================
 50. Category Name: Serene Beaches
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Secluded Cove:
-    1. First Image: A hidden cove with clear, turquoise waters.
-    2. Second Image: Transition From The First Image, Palm trees swaying gently in the breeze.
-    3. Third Image: Transition From The Second Image, A hammock strung between two trees.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cove glowing in the warm light of sunset.
+    1. First Image: A Hidden Cove With Clear, Turquoise Waters.
+    2. Second Image: Transition From The First Image, Palm Trees Swaying Gently In The Breeze.
+    3. Third Image: Transition From The Second Image, A Hammock Strung Between Two Trees.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cove Glowing In The Warm Light Of Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a WaterColor art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Watercolor Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rocky Shore:
-    1. First Image: A rugged shore with waves crashing against the rocks.
-    2. Second Image: Transition From The First Image, Tide pools forming in the rocky crevices.
-    3. Third Image: Transition From The Second Image, Seagulls flying above the water.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The shore bathed in the soft light of early evening.
+    1. First Image: A Rugged Shore With Waves Crashing Against The Rocks.
+    2. Second Image: Transition From The First Image, Tide Pools Forming In The Rocky Crevices.
+    3. Third Image: Transition From The Second Image, Seagulls Flying Above The Water.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Shore Bathed In The Soft Light Of Early Evening.

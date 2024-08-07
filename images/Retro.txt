@@ -29,800 +29,800 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Retro Gaming
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Arcade Nights:
-    1. First Image: A vibrant 80s arcade with neon lights and rows of arcade machines.
-    2. Second Image: Transition From The First Image, Players intensely focused on a competitive game.
-    3. Third Image: Transition From The Second Image, A dramatic moment of a high score being beaten.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The arcade quieting down as closing time approaches.
+    1. First Image: A Vibrant 80s Arcade With Neon Lights And Rows Of Arcade Machines.
+    2. Second Image: Transition From The First Image, Players Intensely Focused On A Competitive Game.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment Of A High Score Being Beaten.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As Closing Time Approaches.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Console:
-    1. First Image: A living room setup with an old CRT TV and a retro gaming console.
-    2. Second Image: Transition From The First Image, Kids gathered around, playing a classic 8-bit game.
-    3. Third Image: Transition From The Second Image, An intense gaming moment with everyone cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The game paused, with snacks and drinks scattered around.
+    1. First Image: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
+    2. Second Image: Transition From The First Image, Kids Gathered Around, Playing A Classic 8-Bit Game.
+    3. Third Image: Transition From The Second Image, An Intense Gaming Moment With Everyone Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
 ================================================================ X ================================================================
 2. Category Name: Retro Fashion
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 70s Disco:
-    1. First Image: A bustling disco with a light-up dance floor and disco ball.
-    2. Second Image: Transition From The First Image, Dancers in colorful 70s attire grooving to the music.
-    3. Third Image: Transition From The Second Image, A dance-off moment with everyone cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The disco floor emptying as the night ends.
+    1. First Image: A Bustling Disco With A Light-Up Dance Floor And Disco Ball.
+    2. Second Image: Transition From The First Image, Dancers In Colorful 70s Attire Grooving To The Music.
+    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Disco Floor Emptying As The Night Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 80s Workout:
-    1. First Image: A group in a retro aerobics class with bright leotards and leg warmers.
-    2. Second Image: Transition From The First Image, The instructor leading high-energy exercises.
-    3. Third Image: Transition From The Second Image, Everyone in sync, following the workout moves.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The class winding down with stretches and cool-down.
+    1. First Image: A Group In A Retro Aerobics Class With Bright Leotards And Leg Warmers.
+    2. Second Image: Transition From The First Image, The Instructor Leading High-Energy Exercises.
+    3. Third Image: Transition From The Second Image, Everyone In Sync, Following The Workout Moves.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Class Winding Down With Stretches And Cool-Down.
 ================================================================ X ================================================================
 3. Category Name: Retro Music
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vinyl Revival:
-    1. First Image: A cozy room with a turntable and a collection of vinyl records.
-    2. Second Image: Transition From The First Image, A person carefully selecting a record and placing it on the turntable.
-    3. Third Image: Transition From The Second Image, The record spinning, filling the room with music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The person relaxing, lost in the music.
+    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Rock Concert:
-    1. First Image: A crowded concert hall with a rock band on stage.
-    2. Second Image: Transition From The First Image, The lead singer belting out a powerful song.
-    3. Third Image: Transition From The Second Image, The audience waving lighters and singing along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The band taking a bow, the crowd roaring with applause.
+    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
+    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 4. Category Name: Retro Technology
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Office:
-    1. First Image: An office setup with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Computers:
-    1. First Image: A room filled with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 5. Category Name: Retro Travel
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Road Trip:
-    1. First Image: A retro car packed with luggage, ready for a road trip.
-    2. Second Image: Transition From The First Image, The car driving along a scenic route with open windows.
-    3. Third Image: Transition From The Second Image, A pit stop at a classic diner for food and fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car parked at a campsite, with a sunset in the background.
+    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Train Journey:
-    1. First Image: A classic steam train at a station, passengers boarding.
-    2. Second Image: Transition From The First Image, The train moving through picturesque landscapes.
-    3. Third Image: Transition From The Second Image, Passengers enjoying the ride, looking out the windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The train arriving at its destination, steam billowing.
+    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
+    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 6. Category Name: Retro Sports
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Basketball:
-    1. First Image: A 70s basketball game with players in short shorts and high socks.
-    2. Second Image: Transition From The First Image, An intense moment with a player going for a slam dunk.
-    3. Third Image: Transition From The Second Image, The crowd cheering wildly as the ball goes in.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory on the court.
+    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Boxing:
-    1. First Image: A smoky boxing gym with vintage posters on the walls.
-    2. Second Image: Transition From The First Image, Two boxers sparring in the ring, intense focus on their faces.
-    3. Third Image: Transition From The Second Image, A knockout punch landing, the crowd gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The victorious boxer raising their gloves in triumph.
+    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 7. Category Name: Retro Lifestyle
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Diner:
-    1. First Image: A classic 50s diner with checkered floors and neon signs.
-    2. Second Image: Transition From The First Image, Patrons enjoying burgers, shakes, and fries.
-    3. Third Image: Transition From The Second Image, A jukebox playing hits, couples dancing in the aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The diner winding down, with waitstaff cleaning tables.
+    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Living Room:
-    1. First Image: A cozy living room with mid-century modern furniture and a black-and-white TV.
-    2. Second Image: Transition From The First Image, A family gathered around the TV, watching a popular show.
-    3. Third Image: Transition From The Second Image, Kids playing with retro toys on the carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family relaxing as the night progresses, the TV still on.
+    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 8. Category Name: Retro Toys
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Toy Store:
-    1. First Image: A vintage toy store with shelves filled with retro toys.
-    2. Second Image: Transition From The First Image, Kids excitedly exploring the toy aisles.
-    3. Third Image: Transition From The Second Image, A child finding their favorite toy and showing it to their parents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The store closing for the day, toys neatly displayed.
+    1. First Image: A Vintage Toy Store With Shelves Filled With Retro Toys.
+    2. Second Image: Transition From The First Image, Kids Excitedly Exploring The Toy Aisles.
+    3. Third Image: Transition From The Second Image, A Child Finding Their Favorite Toy And Showing It To Their Parents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Arcade:
-    1. First Image: A bustling arcade with pinball machines and classic arcade games.
-    2. Second Image: Transition From The First Image, Kids playing games, with high scores flashing on screens.
-    3. Third Image: Transition From The Second Image, A dramatic moment with a player about to beat a high score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The arcade quieting down as the night ends, lights dimming.
+    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 ================================================================ X ================================================================
 9. Category Name: Retro Celebrations
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Sock Hop:
-    1. First Image: A high school gym decorated for a 50s-style dance.
-    2. Second Image: Transition From The First Image, Teens dancing to rock n roll music, wearing poodle skirts and leather jackets.
-    3. Third Image: Transition From The Second Image, A dance competition with everyone gathered around cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The dance ending with everyone happily chatting and heading home.
+    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 70s Disco Party:
-    1. First Image: A living room transformed into a disco with a light-up floor and disco ball.
-    2. Second Image: Transition From The First Image, Guests in colorful 70s outfits dancing to disco hits.
-    3. Third Image: Transition From The Second Image, A dance-off moment with everyone cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The party winding down, with the disco ball still spinning.
+    1. First Image: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
+    2. Second Image: Transition From The First Image, Guests In Colorful 70s Outfits Dancing To Disco Hits.
+    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
 ================================================================ X ================================================================
-10. Category Name: Retro TV Shows
+10. Category Name: Retro Tv Shows
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Sitcom:
-    1. First Image: A 60s living room with a black-and-white TV playing a classic sitcom.
-    2. Second Image: Transition From The First Image, The family laughing together at a funny scene.
-    3. Third Image: Transition From The Second Image, The show’s iconic moment with the audience clapping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The TV turned off, the family reminiscing about the episode.
+    1. First Image: A 60s Living Room With A Black-And-White Tv Playing A Classic Sitcom.
+    2. Second Image: Transition From The First Image, The Family Laughing Together At A Funny Scene.
+    3. Third Image: Transition From The Second Image, The Show’S Iconic Moment With The Audience Clapping.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Tv Turned Off, The Family Reminiscing About The Episode.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Saturday Morning Cartoons:
-    1. First Image: Kids in pajamas gathered around the TV, eagerly waiting for cartoons.
-    2. Second Image: Transition From The First Image, Iconic cartoon characters on the screen, vibrant and animated.
-    3. Third Image: Transition From The Second Image, Kids laughing and enjoying the shows with cereal bowls in hand.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The cartoons ending, kids still talking about their favorite moments.
+    1. First Image: Kids In Pajamas Gathered Around The Tv, Eagerly Waiting For Cartoons.
+    2. Second Image: Transition From The First Image, Iconic Cartoon Characters On The Screen, Vibrant And Animated.
+    3. Third Image: Transition From The Second Image, Kids Laughing And Enjoying The Shows With Cereal Bowls In Hand.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Cartoons Ending, Kids Still Talking About Their Favorite Moments.
 ================================================================ X ================================================================
 11. Category Name: Retro Road Trips
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Route 66 Adventure:
-    1. First Image: A classic car driving down the iconic Route 66.
-    2. Second Image: Transition From The First Image, Roadside attractions like vintage motels and diners.
-    3. Third Image: Transition From The Second Image, A stop at a famous landmark for photos.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car parked at a scenic overlook, the sun setting in the distance.
+    1. First Image: A Classic Car Driving Down The Iconic Route 66.
+    2. Second Image: Transition From The First Image, Roadside Attractions Like Vintage Motels And Diners.
+    3. Third Image: Transition From The Second Image, A Stop At A Famous Landmark For Photos.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Scenic Overlook, The Sun Setting In The Distance.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Coastal Cruise:
-    1. First Image: A convertible cruising along a scenic coastal highway.
-    2. Second Image: Transition From The First Image, The ocean waves crashing against the rocks below.
-    3. Third Image: Transition From The Second Image, A stop at a beach for a picnic.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car driving off into the sunset, the sky painted with vibrant colors.
+    1. First Image: A Convertible Cruising Along A Scenic Coastal Highway.
+    2. Second Image: Transition From The First Image, The Ocean Waves Crashing Against The Rocks Below.
+    3. Third Image: Transition From The Second Image, A Stop At A Beach For A Picnic.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Driving Off Into The Sunset, The Sky Painted With Vibrant Colors.
 ================================================================ X ================================================================
 12. Category Name: Retro Education
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Classroom:
-    1. First Image: A classroom with wooden desks, a chalkboard, and a globe.
-    2. Second Image: Transition From The First Image, Students raising their hands to answer questions.
-    3. Third Image: Transition From The Second Image, A teacher writing on the chalkboard.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The school bell ringing, students packing up to leave.
+    1. First Image: A Classroom With Wooden Desks, A Chalkboard, And A Globe.
+    2. Second Image: Transition From The First Image, Students Raising Their Hands To Answer Questions.
+    3. Third Image: Transition From The Second Image, A Teacher Writing On The Chalkboard.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The School Bell Ringing, Students Packing Up To Leave.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Science Fair:
-    1. First Image: A gymnasium filled with science fair projects and displays.
-    2. Second Image: Transition From The First Image, Students presenting their projects to judges.
-    3. Third Image: Transition From The Second Image, A tense moment as the winners are announced.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The winners celebrating with their trophies.
+    1. First Image: A Gymnasium Filled With Science Fair Projects And Displays.
+    2. Second Image: Transition From The First Image, Students Presenting Their Projects To Judges.
+    3. Third Image: Transition From The Second Image, A Tense Moment As The Winners Are Announced.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Winners Celebrating With Their Trophies.
 ================================================================ X ================================================================
 13. Category Name: Retro Communication
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rotary Phones:
-    1. First Image: A vintage home with a rotary phone on a small table.
-    2. Second Image: Transition From The First Image, A person dialing a number on the rotary phone.
-    3. Third Image: Transition From The Second Image, A conversation taking place, with animated gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The phone hanging up, the person jotting down notes.
+    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
+    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pen Pals:
-    1. First Image: A person writing a letter by hand at a vintage desk.
-    2. Second Image: Transition From The First Image, The letter being placed into an envelope with a stamp.
-    3. Third Image: Transition From The Second Image, The letter being dropped into a mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The recipient opening the letter and reading it with a smile.
+    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 14. Category Name: Retro Automobiles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Car Show:
-    1. First Image: A lineup of vintage cars at a car show.
-    2. Second Image: Transition From The First Image, Enthusiasts admiring and discussing the cars.
-    3. Third Image: Transition From The Second Image, A car being awarded a trophy for best in show.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The sun setting, cars driving away.
+    1. First Image: A Lineup Of Vintage Cars At A Car Show.
+    2. Second Image: Transition From The First Image, Enthusiasts Admiring And Discussing The Cars.
+    3. Third Image: Transition From The Second Image, A Car Being Awarded A Trophy For Best In Show.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting, Cars Driving Away.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Drive-In Theater:
-    1. First Image: A drive-in theater with classic cars parked in rows.
-    2. Second Image: Transition From The First Image, A movie playing on the big screen, everyone watching from their cars.
-    3. Third Image: Transition From The Second Image, Kids sitting on car hoods, enjoying the movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The movie ending, cars slowly driving away.
+    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 ================================================================ X ================================================================
 15. Category Name: Retro Vacations
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Beach Day:
-    1. First Image: A 60s beach scene with colorful umbrellas and retro swimsuits.
-    2. Second Image: Transition From The First Image, Families playing beach games and building sandcastles.
-    3. Third Image: Transition From The Second Image, A surfboard lying on the sand, ready for action.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The sun setting over the ocean, casting a golden glow.
+    1. First Image: A 60s Beach Scene With Colorful Umbrellas And Retro Swimsuits.
+    2. Second Image: Transition From The First Image, Families Playing Beach Games And Building Sandcastles.
+    3. Third Image: Transition From The Second Image, A Surfboard Lying On The Sand, Ready For Action.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting Over The Ocean, Casting A Golden Glow.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Ski Trip:
-    1. First Image: A snowy mountain with skiers in retro ski gear.
-    2. Second Image: Transition From The First Image, Skiers navigating down the slopes with ease.
-    3. Third Image: Transition From The Second Image, A cozy cabin with a roaring fire and hot cocoa.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The group relaxing after a day of skiing, reminiscing about the fun.
+    1. First Image: A Snowy Mountain With Skiers In Retro Ski Gear.
+    2. Second Image: Transition From The First Image, Skiers Navigating Down The Slopes With Ease.
+    3. Third Image: Transition From The Second Image, A Cozy Cabin With A Roaring Fire And Hot Cocoa.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Group Relaxing After A Day Of Skiing, Reminiscing About The Fun.
 ================================================================ X ================================================================
 16. Category Name: Retro Dining
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Diner:
-    1. First Image: A classic diner with checkered floors, neon signs, and red booths.
-    2. Second Image: Transition From The First Image, Patrons enjoying burgers, milkshakes, and fries.
-    3. Third Image: Transition From The Second Image, A jukebox playing hits from the 50s.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The diner staff serving food with a smile.
+    1. First Image: A Classic Diner With Checkered Floors, Neon Signs, And Red Booths.
+    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Milkshakes, And Fries.
+    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits From The 50s.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Staff Serving Food With A Smile.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Picnic:
-    1. First Image: A vintage picnic setup with a checkered blanket and wicker basket.
-    2. Second Image: Transition From The First Image, A family enjoying sandwiches, lemonade, and pie.
-    3. Third Image: Transition From The Second Image, Kids playing catch and flying kites.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family packing up as the sun sets, leaving the park.
+    1. First Image: A Vintage Picnic Setup With A Checkered Blanket And Wicker Basket.
+    2. Second Image: Transition From The First Image, A Family Enjoying Sandwiches, Lemonade, And Pie.
+    3. Third Image: Transition From The Second Image, Kids Playing Catch And Flying Kites.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Packing Up As The Sun Sets, Leaving The Park.
 ================================================================ X ================================================================
 17. Category Name: Retro Communication
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rotary Phones:
-    1. First Image: A vintage home with a rotary phone on a small table.
-    2. Second Image: Transition From The First Image, A person dialing a number on the rotary phone.
-    3. Third Image: Transition From The Second Image, A conversation taking place, with animated gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The phone hanging up, the person jotting down notes.
+    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
+    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pen Pals:
-    1. First Image: A person writing a letter by hand at a vintage desk.
-    2. Second Image: Transition From The First Image, The letter being placed into an envelope with a stamp.
-    3. Third Image: Transition From The Second Image, The letter being dropped into a mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The recipient opening the letter and reading it with a smile.
+    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 18. Category Name: Retro Architecture
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mid-Century Modern Home:
-    1. First Image: A mid-century modern home with clean lines and large windows.
-    2. Second Image: Transition From The First Image, The interior with minimalist furniture and a sunken living room.
-    3. Third Image: Transition From The Second Image, A family enjoying time together in the living room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The home illuminated at night, showcasing its design.
+    1. First Image: A Mid-Century Modern Home With Clean Lines And Large Windows.
+    2. Second Image: Transition From The First Image, The Interior With Minimalist Furniture And A Sunken Living Room.
+    3. Third Image: Transition From The Second Image, A Family Enjoying Time Together In The Living Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Art Deco Building:
-    1. First Image: An iconic Art Deco skyscraper in a city skyline.
-    2. Second Image: Transition From The First Image, The buildings ornate lobby with geometric patterns and rich colors.
-    3. Third Image: Transition From The Second Image, Visitors admiring the architectural details.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The building lit up at night, highlighting its grandeur.
+    1. First Image: An Iconic Art Deco Skyscraper In A City Skyline.
+    2. Second Image: Transition From The First Image, The Buildings Ornate Lobby With Geometric Patterns And Rich Colors.
+    3. Third Image: Transition From The Second Image, Visitors Admiring The Architectural Details.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Building Lit Up At Night, Highlighting Its Grandeur.
 ================================================================ X ================================================================
 19. Category Name: Retro Nightlife
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Speakeasy:
-    1. First Image: A hidden entrance to a 1920s speakeasy.
-    2. Second Image: Transition From The First Image, Patrons enjoying jazz music and cocktails in a dimly lit room.
-    3. Third Image: Transition From The Second Image, A jazz band playing on a small stage.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The speakeasy closing for the night, with patrons leaving quietly.
+    1. First Image: A Hidden Entrance To A 1920s Speakeasy.
+    2. Second Image: Transition From The First Image, Patrons Enjoying Jazz Music And Cocktails In A Dimly Lit Room.
+    3. Third Image: Transition From The Second Image, A Jazz Band Playing On A Small Stage.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Speakeasy Closing For The Night, With Patrons Leaving Quietly.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 70s Nightclub:
-    1. First Image: A packed nightclub with a light-up dance floor and disco ball.
-    2. Second Image: Transition From The First Image, People dancing in colorful 70s attire.
-    3. Third Image: Transition From The Second Image, A DJ spinning records, keeping the energy high.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The club winding down as the night ends.
+    1. First Image: A Packed Nightclub With A Light-Up Dance Floor And Disco Ball.
+    2. Second Image: Transition From The First Image, People Dancing In Colorful 70s Attire.
+    3. Third Image: Transition From The Second Image, A Dj Spinning Records, Keeping The Energy High.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Club Winding Down As The Night Ends.
 ================================================================ X ================================================================
 20. Category Name: Retro Transportation
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Roadster:
-    1. First Image: A vintage roadster driving along a scenic highway.
-    2. Second Image: Transition From The First Image, The car parked at a lookout point, the driver admiring the view.
-    3. Third Image: Transition From The Second Image, A roadside picnic next to the roadster.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The roadster driving off into the sunset.
+    1. First Image: A Vintage Roadster Driving Along A Scenic Highway.
+    2. Second Image: Transition From The First Image, The Car Parked At A Lookout Point, The Driver Admiring The View.
+    3. Third Image: Transition From The Second Image, A Roadside Picnic Next To The Roadster.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Roadster Driving Off Into The Sunset.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Bicycle:
-    1. First Image: A retro bicycle leaning against a fence.
-    2. Second Image: Transition From The First Image, A person riding the bicycle through a countryside.
-    3. Third Image: Transition From The Second Image, The rider stopping at a small café for a break.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The bicycle parked outside a home, the rider walking in.
+    1. First Image: A Retro Bicycle Leaning Against A Fence.
+    2. Second Image: Transition From The First Image, A Person Riding The Bicycle Through A Countryside.
+    3. Third Image: Transition From The Second Image, The Rider Stopping At A Small Café For A Break.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Bicycle Parked Outside A Home, The Rider Walking In.
 ================================================================ X ================================================================
 21. Category Name: Retro Festivities
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Beach Party:
-    1. First Image: A beach scene with colorful umbrellas and retro swimsuits.
-    2. Second Image: Transition From The First Image, People playing beach volleyball and surfing.
-    3. Third Image: Transition From The Second Image, A beach bonfire with everyone gathered around.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The party continuing into the night with music and dancing.
+    1. First Image: A Beach Scene With Colorful Umbrellas And Retro Swimsuits.
+    2. Second Image: Transition From The First Image, People Playing Beach Volleyball And Surfing.
+    3. Third Image: Transition From The Second Image, A Beach Bonfire With Everyone Gathered Around.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Continuing Into The Night With Music And Dancing.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Sock Hop:
-    1. First Image: A high school gym decorated for a 50s-style dance.
-    2. Second Image: Transition From The First Image, Teens dancing to rock n roll music, wearing poodle skirts and leather jackets.
-    3. Third Image: Transition From The Second Image, A dance competition with everyone gathered around cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The dance ending with everyone happily chatting and heading home.
+    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 ================================================================ X ================================================================
 22. Category Name: Retro Shopping
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Market:
-    1. First Image: A bustling vintage market with stalls selling retro goods.
-    2. Second Image: Transition From The First Image, Shoppers browsing through vinyl records, antiques, and clothing.
-    3. Third Image: Transition From The Second Image, A buyer haggling over a prized item.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The market winding down, with vendors packing up.
+    1. First Image: A Bustling Vintage Market With Stalls Selling Retro Goods.
+    2. Second Image: Transition From The First Image, Shoppers Browsing Through Vinyl Records, Antiques, And Clothing.
+    3. Third Image: Transition From The Second Image, A Buyer Haggling Over A Prized Item.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Market Winding Down, With Vendors Packing Up.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Department Store:
-    1. First Image: A department store with nostalgic window displays.
-    2. Second Image: Transition From The First Image, Shoppers exploring different departments.
-    3. Third Image: Transition From The Second Image, A busy checkout line with a classic cash register.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The store closing for the evening, lights dimming.
+    1. First Image: A Department Store With Nostalgic Window Displays.
+    2. Second Image: Transition From The First Image, Shoppers Exploring Different Departments.
+    3. Third Image: Transition From The Second Image, A Busy Checkout Line With A Classic Cash Register.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Evening, Lights Dimming.
 ================================================================ X ================================================================
 23. Category Name: Retro Offices
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Office:
-    1. First Image: A corporate office with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 80s Startup:
-    1. First Image: A startup office with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Startup Office With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 24. Category Name: Retro Broadcasting
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old Time Radio:
-    1. First Image: A radio studio with vintage microphones and equipment.
-    2. Second Image: Transition From The First Image, A radio host broadcasting live.
-    3. Third Image: Transition From The Second Image, Guests being interviewed on air.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The show ending, with the host signing off.
+    1. First Image: A Radio Studio With Vintage Microphones And Equipment.
+    2. Second Image: Transition From The First Image, A Radio Host Broadcasting Live.
+    3. Third Image: Transition From The Second Image, Guests Being Interviewed On Air.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Show Ending, With The Host Signing Off.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
-Title: Black-and-White TV:
-    1. First Image: A living room setup with a black-and-white TV.
-    2. Second Image: Transition From The First Image, A family gathered around, watching a classic show.
-    3. Third Image: Transition From The Second Image, An intense moment on the TV screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family relaxing as the show ends.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Title: Black-And-White Tv:
+    1. First Image: A Living Room Setup With A Black-And-White Tv.
+    2. Second Image: Transition From The First Image, A Family Gathered Around, Watching A Classic Show.
+    3. Third Image: Transition From The Second Image, An Intense Moment On The Tv Screen.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Show Ends.
 ================================================================ X ================================================================
 25. Category Name: Retro Entertainments
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Drive-In Movies:
-    1. First Image: A drive-in theater with classic cars parked in rows.
-    2. Second Image: Transition From The First Image, A movie playing on the big screen, everyone watching from their cars.
-    3. Third Image: Transition From The Second Image, Kids sitting on car hoods, enjoying the movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The movie ending, cars slowly driving away.
+    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Movie Theater:
-    1. First Image: A retro theater marquee advertising a classic film.
-    2. Second Image: Transition From The First Image, The audience seated, waiting for the movie to start.
-    3. Third Image: Transition From The Second Image, An iconic scene from the film playing on the big screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The crowd applauding as the credits roll.
+    1. First Image: A Retro Theater Marquee Advertising A Classic Film.
+    2. Second Image: Transition From The First Image, The Audience Seated, Waiting For The Movie To Start.
+    3. Third Image: Transition From The Second Image, An Iconic Scene From The Film Playing On The Big Screen.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crowd Applauding As The Credits Roll.
 ================================================================ X ================================================================
 26. Category Name: Retro Socials
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Sock Hop:
-    1. First Image: A high school gym decorated for a 50s-style dance.
-    2. Second Image: Transition From The First Image, Teens dancing to rock n roll music, wearing poodle skirts and leather jackets.
-    3. Third Image: Transition From The Second Image, A dance competition with everyone gathered around cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The dance ending with everyone happily chatting and heading home.
+    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Love-In:
-    1. First Image: A park filled with people in colorful 60s attire.
-    2. Second Image: Transition From The First Image, Participants sitting on blankets, playing guitars and singing.
-    3. Third Image: Transition From The Second Image, A moment of peace and love, with everyone joining hands.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The event winding down as the sun sets, people leaving with smiles.
+    1. First Image: A Park Filled With People In Colorful 60s Attire.
+    2. Second Image: Transition From The First Image, Participants Sitting On Blankets, Playing Guitars And Singing.
+    3. Third Image: Transition From The Second Image, A Moment Of Peace And Love, With Everyone Joining Hands.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Event Winding Down As The Sun Sets, People Leaving With Smiles.
 ================================================================ X ================================================================
 27. Category Name: Retro Sports
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Basketball:
-    1. First Image: A 70s basketball game with players in short shorts and high socks.
-    2. Second Image: Transition From The First Image, An intense moment with a player going for a slam dunk.
-    3. Third Image: Transition From The Second Image, The crowd cheering wildly as the ball goes in.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory on the court.
+    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Boxing:
-    1. First Image: A smoky boxing gym with vintage posters on the walls.
-    2. Second Image: Transition From The First Image, Two boxers sparring in the ring, intense focus on their faces.
-    3. Third Image: Transition From The Second Image, A knockout punch landing, the crowd gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The victorious boxer raising their gloves in triumph.
+    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 28. Category Name: Retro Automobiles
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Car Show:
-    1. First Image: A lineup of vintage cars at a car show.
-    2. Second Image: Transition From The First Image, Enthusiasts admiring and discussing the cars.
-    3. Third Image: Transition From The Second Image, A car being awarded a trophy for best in show.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The sun setting, cars driving away.
+    1. First Image: A Lineup Of Vintage Cars At A Car Show.
+    2. Second Image: Transition From The First Image, Enthusiasts Admiring And Discussing The Cars.
+    3. Third Image: Transition From The Second Image, A Car Being Awarded A Trophy For Best In Show.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Sun Setting, Cars Driving Away.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Drive-In Theater:
-    1. First Image: A drive-in theater with classic cars parked in rows.
-    2. Second Image: Transition From The First Image, A movie playing on the big screen, everyone watching from their cars.
-    3. Third Image: Transition From The Second Image, Kids sitting on car hoods, enjoying the movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The movie ending, cars slowly driving away.
+    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 ================================================================ X ================================================================
 29. Category Name: Retro Workplaces
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Office:
-    1. First Image: A corporate office with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: A Corporate Office With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 80s Startup:
-    1. First Image: A startup office with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Startup Office With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 30. Category Name: Retro Technology
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Office:
-    1. First Image: An office setup with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Computers:
-    1. First Image: A room filled with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 31. Category Name: Retro Toys
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Toy Store:
-    1. First Image: A vintage toy store with shelves filled with retro toys.
-    2. Second Image: Transition From The First Image, Kids excitedly exploring the toy aisles.
-    3. Third Image: Transition From The Second Image, A child finding their favorite toy and showing it to their parents.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The store closing for the day, toys neatly displayed.
+    1. First Image: A Vintage Toy Store With Shelves Filled With Retro Toys.
+    2. Second Image: Transition From The First Image, Kids Excitedly Exploring The Toy Aisles.
+    3. Third Image: Transition From The Second Image, A Child Finding Their Favorite Toy And Showing It To Their Parents.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Store Closing For The Day, Toys Neatly Displayed.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Arcade:
-    1. First Image: A bustling arcade with pinball machines and classic arcade games.
-    2. Second Image: Transition From The First Image, Kids playing games, with high scores flashing on screens.
-    3. Third Image: Transition From The Second Image, A dramatic moment with a player about to beat a high score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The arcade quieting down as the night ends, lights dimming.
+    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 ================================================================ X ================================================================
 32. Category Name: Retro Lifestyle
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Diner:
-    1. First Image: A classic 50s diner with checkered floors and neon signs.
-    2. Second Image: Transition From The First Image, Patrons enjoying burgers, shakes, and fries.
-    3. Third Image: Transition From The Second Image, A jukebox playing hits, couples dancing in the aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The diner winding down, with waitstaff cleaning tables.
+    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Living Room:
-    1. First Image: A cozy living room with mid-century modern furniture and a black-and-white TV.
-    2. Second Image: Transition From The First Image, A family gathered around the TV, watching a popular show.
-    3. Third Image: Transition From The Second Image, Kids playing with retro toys on the carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family relaxing as the night progresses, the TV still on.
+    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 33. Category Name: Retro Communication
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rotary Phones:
-    1. First Image: A vintage home with a rotary phone on a small table.
-    2. Second Image: Transition From The First Image, A person dialing a number on the rotary phone.
-    3. Third Image: Transition From The Second Image, A conversation taking place, with animated gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The phone hanging up, the person jotting down notes.
+    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
+    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pen Pals:
-    1. First Image: A person writing a letter by hand at a vintage desk.
-    2. Second Image: Transition From The First Image, The letter being placed into an envelope with a stamp.
-    3. Third Image: Transition From The Second Image, The letter being dropped into a mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The recipient opening the letter and reading it with a smile.
+    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 34. Category Name: Retro Music
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vinyl Revival:
-    1. First Image: A cozy room with a turntable and a collection of vinyl records.
-    2. Second Image: Transition From The First Image, A person carefully selecting a record and placing it on the turntable.
-    3. Third Image: Transition From The Second Image, The record spinning, filling the room with music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The person relaxing, lost in the music.
+    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Rock Concert:
-    1. First Image: A crowded concert hall with a rock band on stage.
-    2. Second Image: Transition From The First Image, The lead singer belting out a powerful song.
-    3. Third Image: Transition From The Second Image, The audience waving lighters and singing along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The band taking a bow, the crowd roaring with applause.
+    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
+    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 35. Category Name: Retro Travel
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Road Trip:
-    1. First Image: A retro car packed with luggage, ready for a road trip.
-    2. Second Image: Transition From The First Image, The car driving along a scenic route with open windows.
-    3. Third Image: Transition From The Second Image, A pit stop at a classic diner for food and fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car parked at a campsite, with a sunset in the background.
+    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Train Journey:
-    1. First Image: A classic steam train at a station, passengers boarding.
-    2. Second Image: Transition From The First Image, The train moving through picturesque landscapes.
-    3. Third Image: Transition From The Second Image, Passengers enjoying the ride, looking out the windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The train arriving at its destination, steam billowing.
+    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
+    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 36. Category Name: Retro Sports
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Basketball:
-    1. First Image: A 70s basketball game with players in short shorts and high socks.
-    2. Second Image: Transition From The First Image, An intense moment with a player going for a slam dunk.
-    3. Third Image: Transition From The Second Image, The crowd cheering wildly as the ball goes in.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory on the court.
+    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Boxing:
-    1. First Image: A smoky boxing gym with vintage posters on the walls.
-    2. Second Image: Transition From The First Image, Two boxers sparring in the ring, intense focus on their faces.
-    3. Third Image: Transition From The Second Image, A knockout punch landing, the crowd gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The victorious boxer raising their gloves in triumph.
+    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 37. Category Name: Retro Lifestyle
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Diner:
-    1. First Image: A classic 50s diner with checkered floors and neon signs.
-    2. Second Image: Transition From The First Image, Patrons enjoying burgers, shakes, and fries.
-    3. Third Image: Transition From The Second Image, A jukebox playing hits, couples dancing in the aisle.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The diner winding down, with waitstaff cleaning tables.
+    1. First Image: A Classic 50s Diner With Checkered Floors And Neon Signs.
+    2. Second Image: Transition From The First Image, Patrons Enjoying Burgers, Shakes, And Fries.
+    3. Third Image: Transition From The Second Image, A Jukebox Playing Hits, Couples Dancing In The Aisle.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Diner Winding Down, With Waitstaff Cleaning Tables.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 60s Living Room:
-    1. First Image: A cozy living room with mid-century modern furniture and a black-and-white TV.
-    2. Second Image: Transition From The First Image, A family gathered around the TV, watching a popular show.
-    3. Third Image: Transition From The Second Image, Kids playing with retro toys on the carpet.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The family relaxing as the night progresses, the TV still on.
+    1. First Image: A Cozy Living Room With Mid-Century Modern Furniture And A Black-And-White Tv.
+    2. Second Image: Transition From The First Image, A Family Gathered Around The Tv, Watching A Popular Show.
+    3. Third Image: Transition From The Second Image, Kids Playing With Retro Toys On The Carpet.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Family Relaxing As The Night Progresses, The Tv Still On.
 ================================================================ X ================================================================
 38. Category Name: Retro Music
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vinyl Revival:
-    1. First Image: A cozy room with a turntable and a collection of vinyl records.
-    2. Second Image: Transition From The First Image, A person carefully selecting a record and placing it on the turntable.
-    3. Third Image: Transition From The Second Image, The record spinning, filling the room with music.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The person relaxing, lost in the music.
+    1. First Image: A Cozy Room With A Turntable And A Collection Of Vinyl Records.
+    2. Second Image: Transition From The First Image, A Person Carefully Selecting A Record And Placing It On The Turntable.
+    3. Third Image: Transition From The Second Image, The Record Spinning, Filling The Room With Music.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Person Relaxing, Lost In The Music.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Rock Concert:
-    1. First Image: A crowded concert hall with a rock band on stage.
-    2. Second Image: Transition From The First Image, The lead singer belting out a powerful song.
-    3. Third Image: Transition From The Second Image, The audience waving lighters and singing along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The band taking a bow, the crowd roaring with applause.
+    1. First Image: A Crowded Concert Hall With A Rock Band On Stage.
+    2. Second Image: Transition From The First Image, The Lead Singer Belting Out A Powerful Song.
+    3. Third Image: Transition From The Second Image, The Audience Waving Lighters And Singing Along.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Band Taking A Bow, The Crowd Roaring With Applause.
 ================================================================ X ================================================================
 39. Category Name: Retro Technology
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Office:
-    1. First Image: An office setup with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Computers:
-    1. First Image: A room filled with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 40. Category Name: Retro Communication
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rotary Phones:
-    1. First Image: A vintage home with a rotary phone on a small table.
-    2. Second Image: Transition From The First Image, A person dialing a number on the rotary phone.
-    3. Third Image: Transition From The Second Image, A conversation taking place, with animated gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The phone hanging up, the person jotting down notes.
+    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
+    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pen Pals:
-    1. First Image: A person writing a letter by hand at a vintage desk.
-    2. Second Image: Transition From The First Image, The letter being placed into an envelope with a stamp.
-    3. Third Image: Transition From The Second Image, The letter being dropped into a mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The recipient opening the letter and reading it with a smile.
+    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 41. Category Name: Retro Games
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Arcade:
-    1. First Image: A bustling arcade with pinball machines and classic arcade games.
-    2. Second Image: Transition From The First Image, Kids playing games, with high scores flashing on screens.
-    3. Third Image: Transition From The Second Image, A dramatic moment with a player about to beat a high score.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The arcade quieting down as the night ends, lights dimming.
+    1. First Image: A Bustling Arcade With Pinball Machines And Classic Arcade Games.
+    2. Second Image: Transition From The First Image, Kids Playing Games, With High Scores Flashing On Screens.
+    3. Third Image: Transition From The Second Image, A Dramatic Moment With A Player About To Beat A High Score.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Arcade Quieting Down As The Night Ends, Lights Dimming.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Console:
-    1. First Image: A living room setup with an old CRT TV and a retro gaming console.
-    2. Second Image: Transition From The First Image, Kids gathered around, playing a classic 8-bit game.
-    3. Third Image: Transition From The Second Image, An intense gaming moment with everyone cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The game paused, with snacks and drinks scattered around.
+    1. First Image: A Living Room Setup With An Old Crt Tv And A Retro Gaming Console.
+    2. Second Image: Transition From The First Image, Kids Gathered Around, Playing A Classic 8-Bit Game.
+    3. Third Image: Transition From The Second Image, An Intense Gaming Moment With Everyone Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Game Paused, With Snacks And Drinks Scattered Around.
 ================================================================ X ================================================================
 42. Category Name: Retro Celebrations
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Sock Hop:
-    1. First Image: A high school gym decorated for a 50s-style dance.
-    2. Second Image: Transition From The First Image, Teens dancing to rock n roll music, wearing poodle skirts and leather jackets.
-    3. Third Image: Transition From The Second Image, A dance competition with everyone gathered around cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The dance ending with everyone happily chatting and heading home.
+    1. First Image: A High School Gym Decorated For A 50s-Style Dance.
+    2. Second Image: Transition From The First Image, Teens Dancing To Rock N Roll Music, Wearing Poodle Skirts And Leather Jackets.
+    3. Third Image: Transition From The Second Image, A Dance Competition With Everyone Gathered Around Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Dance Ending With Everyone Happily Chatting And Heading Home.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 70s Disco Party:
-    1. First Image: A living room transformed into a disco with a light-up floor and disco ball.
-    2. Second Image: Transition From The First Image, Guests in colorful 70s outfits dancing to disco hits.
-    3. Third Image: Transition From The Second Image, A dance-off moment with everyone cheering.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The party winding down, with the disco ball still spinning.
+    1. First Image: A Living Room Transformed Into A Disco With A Light-Up Floor And Disco Ball.
+    2. Second Image: Transition From The First Image, Guests In Colorful 70s Outfits Dancing To Disco Hits.
+    3. Third Image: Transition From The Second Image, A Dance-Off Moment With Everyone Cheering.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Party Winding Down, With The Disco Ball Still Spinning.
 ================================================================ X ================================================================
 43. Category Name: Retro Sports
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Basketball:
-    1. First Image: A 70s basketball game with players in short shorts and high socks.
-    2. Second Image: Transition From The First Image, An intense moment with a player going for a slam dunk.
-    3. Third Image: Transition From The Second Image, The crowd cheering wildly as the ball goes in.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The team celebrating their victory on the court.
+    1. First Image: A 70s Basketball Game With Players In Short Shorts And High Socks.
+    2. Second Image: Transition From The First Image, An Intense Moment With A Player Going For A Slam Dunk.
+    3. Third Image: Transition From The Second Image, The Crowd Cheering Wildly As The Ball Goes In.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Team Celebrating Their Victory On The Court.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Boxing:
-    1. First Image: A smoky boxing gym with vintage posters on the walls.
-    2. Second Image: Transition From The First Image, Two boxers sparring in the ring, intense focus on their faces.
-    3. Third Image: Transition From The Second Image, A knockout punch landing, the crowd gasping.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The victorious boxer raising their gloves in triumph.
+    1. First Image: A Smoky Boxing Gym With Vintage Posters On The Walls.
+    2. Second Image: Transition From The First Image, Two Boxers Sparring In The Ring, Intense Focus On Their Faces.
+    3. Third Image: Transition From The Second Image, A Knockout Punch Landing, The Crowd Gasping.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Victorious Boxer Raising Their Gloves In Triumph.
 ================================================================ X ================================================================
 44. Category Name: Retro Travel
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Road Trip:
-    1. First Image: A retro car packed with luggage, ready for a road trip.
-    2. Second Image: Transition From The First Image, The car driving along a scenic route with open windows.
-    3. Third Image: Transition From The Second Image, A pit stop at a classic diner for food and fuel.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The car parked at a campsite, with a sunset in the background.
+    1. First Image: A Retro Car Packed With Luggage, Ready For A Road Trip.
+    2. Second Image: Transition From The First Image, The Car Driving Along A Scenic Route With Open Windows.
+    3. Third Image: Transition From The Second Image, A Pit Stop At A Classic Diner For Food And Fuel.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Car Parked At A Campsite, With A Sunset In The Background.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Retro Train Journey:
-    1. First Image: A classic steam train at a station, passengers boarding.
-    2. Second Image: Transition From The First Image, The train moving through picturesque landscapes.
-    3. Third Image: Transition From The Second Image, Passengers enjoying the ride, looking out the windows.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The train arriving at its destination, steam billowing.
+    1. First Image: A Classic Steam Train At A Station, Passengers Boarding.
+    2. Second Image: Transition From The First Image, The Train Moving Through Picturesque Landscapes.
+    3. Third Image: Transition From The Second Image, Passengers Enjoying The Ride, Looking Out The Windows.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Train Arriving At Its Destination, Steam Billowing.
 ================================================================ X ================================================================
 45. Category Name: Retro Technology
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Old School Office:
-    1. First Image: An office setup with typewriters, rotary phones, and paper files.
-    2. Second Image: Transition From The First Image, Employees busy typing and making phone calls.
-    3. Third Image: Transition From The Second Image, A tense moment during a business meeting.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The office emptying as the workday ends.
+    1. First Image: An Office Setup With Typewriters, Rotary Phones, And Paper Files.
+    2. Second Image: Transition From The First Image, Employees Busy Typing And Making Phone Calls.
+    3. Third Image: Transition From The Second Image, A Tense Moment During A Business Meeting.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Office Emptying As The Workday Ends.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Vintage Computers:
-    1. First Image: A room filled with early personal computers and bulky monitors.
-    2. Second Image: Transition From The First Image, Enthusiasts programming and playing early computer games.
-    3. Third Image: Transition From The Second Image, A breakthrough moment with a successful program run.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The room emptying as night falls, monitors glowing softly.
+    1. First Image: A Room Filled With Early Personal Computers And Bulky Monitors.
+    2. Second Image: Transition From The First Image, Enthusiasts Programming And Playing Early Computer Games.
+    3. Third Image: Transition From The Second Image, A Breakthrough Moment With A Successful Program Run.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Room Emptying As Night Falls, Monitors Glowing Softly.
 ================================================================ X ================================================================
 46. Category Name: Retro Communication
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Rotary Phones:
-    1. First Image: A vintage home with a rotary phone on a small table.
-    2. Second Image: Transition From The First Image, A person dialing a number on the rotary phone.
-    3. Third Image: Transition From The Second Image, A conversation taking place, with animated gestures.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The phone hanging up, the person jotting down notes.
+    1. First Image: A Vintage Home With A Rotary Phone On A Small Table.
+    2. Second Image: Transition From The First Image, A Person Dialing A Number On The Rotary Phone.
+    3. Third Image: Transition From The Second Image, A Conversation Taking Place, With Animated Gestures.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Phone Hanging Up, The Person Jotting Down Notes.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Pen Pals:
-    1. First Image: A person writing a letter by hand at a vintage desk.
-    2. Second Image: Transition From The First Image, The letter being placed into an envelope with a stamp.
-    3. Third Image: Transition From The Second Image, The letter being dropped into a mailbox.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The recipient opening the letter and reading it with a smile.
+    1. First Image: A Person Writing A Letter By Hand At A Vintage Desk.
+    2. Second Image: Transition From The First Image, The Letter Being Placed Into An Envelope With A Stamp.
+    3. Third Image: Transition From The Second Image, The Letter Being Dropped Into A Mailbox.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Recipient Opening The Letter And Reading It With A Smile.
 ================================================================ X ================================================================
 47. Category Name: Retro Entertainment
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Drive-In Movies:
-    1. First Image: A drive-in theater with classic cars parked in rows.
-    2. Second Image: Transition From The First Image, A movie playing on the big screen, everyone watching from their cars.
-    3. Third Image: Transition From The Second Image, Kids sitting on car hoods, enjoying the movie.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The movie ending, cars slowly driving away.
+    1. First Image: A Drive-In Theater With Classic Cars Parked In Rows.
+    2. Second Image: Transition From The First Image, A Movie Playing On The Big Screen, Everyone Watching From Their Cars.
+    3. Third Image: Transition From The Second Image, Kids Sitting On Car Hoods, Enjoying The Movie.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Movie Ending, Cars Slowly Driving Away.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Classic Movie Theater:
-    1. First Image: A retro theater marquee advertising a classic film.
-    2. Second Image: Transition From The First Image, The audience seated, waiting for the movie to start.
-    3. Third Image: Transition From The Second Image, An iconic scene from the film playing on the big screen.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The crowd applauding as the credits roll.
+    1. First Image: A Retro Theater Marquee Advertising A Classic Film.
+    2. Second Image: Transition From The First Image, The Audience Seated, Waiting For The Movie To Start.
+    3. Third Image: Transition From The Second Image, An Iconic Scene From The Film Playing On The Big Screen.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Crowd Applauding As The Credits Roll.
 ================================================================ X ================================================================
 48. Category Name: Retro Festivals
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 50s Carnival:
-    1. First Image: A vintage carnival with classic rides and game booths.
-    2. Second Image: Transition From The First Image, Families enjoying the Ferris wheel and carousel.
-    3. Third Image: Transition From The Second Image, Kids playing games and winning prizes.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The carnival lit up at night, with people still having fun.
+    1. First Image: A Vintage Carnival With Classic Rides And Game Booths.
+    2. Second Image: Transition From The First Image, Families Enjoying The Ferris Wheel And Carousel.
+    3. Third Image: Transition From The Second Image, Kids Playing Games And Winning Prizes.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Carnival Lit Up At Night, With People Still Having Fun.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: 70s Music Festival:
-    1. First Image: A large outdoor stage with a band performing.
-    2. Second Image: Transition From The First Image, The crowd dancing and enjoying the music.
-    3. Third Image: Transition From The Second Image, A memorable performance with everyone singing along.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The festival grounds emptying as the night ends.
+    1. First Image: A Large Outdoor Stage With A Band Performing.
+    2. Second Image: Transition From The First Image, The Crowd Dancing And Enjoying The Music.
+    3. Third Image: Transition From The Second Image, A Memorable Performance With Everyone Singing Along.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Festival Grounds Emptying As The Night Ends.
 ================================================================ X ================================================================
 49. Category Name: Retro Homes
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Mid-Century Modern House:
-    1. First Image: A stylish mid-century modern home with clean lines and large windows.
-    2. Second Image: Transition From The First Image, The interior with minimalist furniture and vintage décor.
-    3. Third Image: Transition From The Second Image, A family enjoying time together in the living room.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The home illuminated at night, showcasing its design.
+    1. First Image: A Stylish Mid-Century Modern Home With Clean Lines And Large Windows.
+    2. Second Image: Transition From The First Image, The Interior With Minimalist Furniture And Vintage Décor.
+    3. Third Image: Transition From The Second Image, A Family Enjoying Time Together In The Living Room.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Home Illuminated At Night, Showcasing Its Design.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Victorian House:
-    1. First Image: A beautiful Victorian house with ornate details and a wrap-around porch.
-    2. Second Image: Transition From The First Image, The interior with antique furniture and classic wallpaper.
-    3. Third Image: Transition From The Second Image, A family gathered for a traditional dinner.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The house lit up with candles, creating a cozy atmosphere.
+    1. First Image: A Beautiful Victorian House With Ornate Details And A Wrap-Around Porch.
+    2. Second Image: Transition From The First Image, The Interior With Antique Furniture And Classic Wallpaper.
+    3. Third Image: Transition From The Second Image, A Family Gathered For A Traditional Dinner.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The House Lit Up With Candles, Creating A Cozy Atmosphere.
 ================================================================ X ================================================================
 50. Category Name: Retro Adventures
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Time Traveler:
-    1. First Image: A person discovering an old, mysterious device in an attic.
-    2. Second Image: Transition From The First Image, The device activating, showing a portal to the past.
-    3. Third Image: Transition From The Second Image, The person stepping through the portal, arriving in a different era.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, The time traveler exploring the new time period, blending in.
+    1. First Image: A Person Discovering An Old, Mysterious Device In An Attic.
+    2. Second Image: Transition From The First Image, The Device Activating, Showing A Portal To The Past.
+    3. Third Image: Transition From The Second Image, The Person Stepping Through The Portal, Arriving In A Different Era.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, The Time Traveler Exploring The New Time Period, Blending In.
 
-Prompt: Create four widescreen aspect ratio images in a storybook style with a Retro art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
+Prompt: Create Four Widescreen Aspect Ratio Images In A Storybook Style With A Retro Art Style. All Images Should Maintain A Cohesive Design, Resembling A Storybook. Each Image Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Title: Treasure Hunter:
-    1. First Image: A map leading to hidden treasure in an old, dusty book.
-    2. Second Image: Transition From The First Image, The adventurer deciphering clues and setting off on the journey.
-    3. Third Image: Transition From The Second Image, Facing challenges and traps along the way.
-    4. Fourth Image: Transition From The Third Image, Ending The Story, Discovering the treasure, with a triumphant smile.
+    1. First Image: A Map Leading To Hidden Treasure In An Old, Dusty Book.
+    2. Second Image: Transition From The First Image, The Adventurer Deciphering Clues And Setting Off On The Journey.
+    3. Third Image: Transition From The Second Image, Facing Challenges And Traps Along The Way.
+    4. Fourth Image: Transition From The Third Image, Ending The Story, Discovering The Treasure, With A Triumphant Smile.
