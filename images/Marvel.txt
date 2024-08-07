@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Superhero Teams
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Avengers Assemble:
         1. First Image: The Avengers assembling in New York City, ready for action.
         2. Second Image: Facing a powerful enemy together, showcasing their teamwork.
         3. Third Image: An intense battle where the Avengers use their unique abilities.
         4. Fourth Image: The Avengers standing victorious, with the city cheering them on.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Guardians of the Galaxy:
         1. First Image: The Guardians aboard their spaceship, preparing for a new mission.
         2. Second Image: Exploring a colorful alien planet filled with strange creatures.
@@ -45,14 +45,14 @@ Title: Guardians of the Galaxy:
 ================================================================ X ================================================================
 2. Category Name: Iconic Battles
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of New York:
         1. First Image: The Chitauri invading New York City, causing chaos.
         2. Second Image: The Avengers assembling to defend the city.
         3. Third Image: An epic showdown between the Avengers and the Chitauri.
         4. Fourth Image: The city safe, with the Avengers standing triumphantly.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Civil War:
         1. First Image: Captain America and Iron Man facing off at the airport.
         2. Second Image: The two factions of heroes preparing for battle.
@@ -61,14 +61,14 @@ Title: Civil War:
 ================================================================ X ================================================================
 3. Category Name: Legendary Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man:
         1. First Image: Peter Parker swinging through the streets of New York City.
         2. Second Image: Spider-Man fighting against the Green Goblin.
         3. Third Image: A tense moment where Spider-Man saves civilians from danger.
         4. Fourth Image: Spider-Man standing on a rooftop, looking out over the city.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Black Panther:
         1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
         2. Second Image: Black Panther fighting against Erik Killmonger.
@@ -77,14 +77,14 @@ Title: Black Panther:
 ================================================================ X ================================================================
 4. Category Name: Cosmic Adventures
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Thor:
         1. First Image: Thor in Asgard, holding Mjolnir.
         2. Second Image: Thor battling Loki in the Bifrost Bridge.
         3. Third Image: An epic fight against the forces of Hela.
         4. Fourth Image: Thor reigning as the king of Asgard, with the realm at peace.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain Marvel:
         1. First Image: Carol Danvers discovering her powers as Captain Marvel.
         2. Second Image: Captain Marvel soaring through space, ready for battle.
@@ -93,14 +93,14 @@ Title: Captain Marvel:
 ================================================================ X ================================================================
 5. Category Name: Legendary Villains
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Thanos:
         1. First Image: Thanos sitting on his throne, plotting his next move.
         2. Second Image: The Mad Titan collecting the Infinity Stones.
         3. Third Image: A climactic battle where the heroes confront Thanos.
         4. Fourth Image: The aftermath, with Thanos defeated and balance restored.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Loki:
         1. First Image: Loki scheming in Asgard, with a mischievous smile.
         2. Second Image: Loki facing off against Thor in a dramatic battle.
@@ -109,14 +109,14 @@ Title: Loki:
 ================================================================ X ================================================================
 6. Category Name: Heroic Origins
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man:
         1. First Image: Tony Stark building his first Iron Man suit in a cave.
         2. Second Image: Tony perfecting his suit and taking flight for the first time.
         3. Third Image: Iron Man battling against Obadiah Stane.
         4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain America:
         1. First Image: Steve Rogers volunteering for the super-soldier program.
         2. Second Image: Captain America fighting Hydra forces in World War II.
@@ -125,14 +125,14 @@ Title: Captain America:
 ================================================================ X ================================================================
 7. Category Name: Mystical Realms
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Doctor Strange:
         1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
         2. Second Image: Doctor Strange using the Eye of Agamotto in battle.
         3. Third Image: A mind-bending fight in the Mirror Dimension.
         4. Fourth Image: Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Scarlet Witch:
         1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
         2. Second Image: Scarlet Witch fighting alongside the Avengers.
@@ -141,14 +141,14 @@ Title: Scarlet Witch:
 ================================================================ X ================================================================
 8. Category Name: High-Tech Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ant-Man:
         1. First Image: Scott Lang discovering the Ant-Man suit.
         2. Second Image: Ant-Man shrinking down and exploring the Quantum Realm.
         3. Third Image: A thrilling heist where Ant-Man must retrieve a crucial item.
         4. Fourth Image: Ant-Man standing tall with his allies, mission accomplished.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: War Machine:
         1. First Image: James Rhodes suiting up as War Machine.
         2. Second Image: War Machine fighting alongside Iron Man.
@@ -157,14 +157,14 @@ Title: War Machine:
 ================================================================ X ================================================================
 9. Category Name: Underworld Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Daredevil:
         1. First Image: Matt Murdock training to become Daredevil in Hell’s Kitchen.
         2. Second Image: Daredevil fighting against Kingpin’s thugs.
         3. Third Image: A tense rooftop battle with Elektra by his side.
         4. Fourth Image: Daredevil standing watch over the city, vigilant and determined.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: The Punisher:
         1. First Image: Frank Castle gearing up as The Punisher.
         2. Second Image: The Punisher taking on a gang in a brutal fight.
@@ -173,14 +173,14 @@ Title: The Punisher:
 ================================================================ X ================================================================
 10. Category Name: Alien Worlds
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Asgard:
         1. First Image: The majestic city of Asgard, with its golden spires.
         2. Second Image: Thor and Loki standing on the Bifrost Bridge.
         3. Third Image: An epic battle against the Frost Giants.
         4. Fourth Image: Asgard celebrating, with Thor as the hero.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Xandar:
         1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
         2. Second Image: The Guardians of the Galaxy arriving on Xandar.
@@ -189,14 +189,14 @@ Title: Xandar:
 ================================================================ X ================================================================
 11. Category Name: Legendary Battles
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of Wakanda:
         1. First Image: The Avengers and Wakandan forces preparing for battle.
         2. Second Image: Thanos’ army attacking Wakanda’s shield.
         3. Third Image: A fierce battle with the Avengers and Wakandans fighting side by side.
         4. Fourth Image: The battlefield calm, with the heroes standing victorious.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of Titan:
         1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
         2. Second Image: A strategic fight against Thanos, with heroes using their unique abilities.
@@ -205,14 +205,14 @@ Title: Battle of Titan:
 ================================================================ X ================================================================
 12. Category Name: Enigmatic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Black Widow:
         1. First Image: Natasha Romanoff on a covert mission.
         2. Second Image: Black Widow fighting off attackers with her acrobatic skills.
         3. Third Image: A tense confrontation with an enemy spy.
         4. Fourth Image: Black Widow standing strong, having completed her mission.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hawkeye:
         1. First Image: Clint Barton preparing his bow and arrows.
         2. Second Image: Hawkeye taking down enemies with precise shots.
@@ -221,14 +221,14 @@ Title: Hawkeye:
 ================================================================ X ================================================================
 13. Category Name: Heroes of the Multiverse
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Verse:
         1. First Image: Different versions of Spider-Man from various universes meeting.
         2. Second Image: The Spider-People working together to stop a multiversal threat.
         3. Third Image: A climactic battle where the Spider-Verse heroes showcase their unique abilities.
         4. Fourth Image: The multiverse safe, with the Spider-People returning to their respective worlds.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Doctor Strange in the Multiverse:
         1. First Image: Doctor Strange discovering portals to alternate realities.
         2. Second Image: Strange encountering alternate versions of himself.
@@ -237,14 +237,14 @@ Title: Doctor Strange in the Multiverse:
 ================================================================ X ================================================================
 14. Category Name: Futuristic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man 2020:
         1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
         2. Second Image: Battling against futuristic villains with advanced technology.
         3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
         4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man 2099:
         1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
         2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
@@ -253,14 +253,14 @@ Title: Spider-Man 2099:
 ================================================================ X ================================================================
 15. Category Name: Street-Level Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Luke Cage:
         1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
         2. Second Image: Cage fighting off gang members with his super strength.
         3. Third Image: A showdown with a powerful crime lord.
         4. Fourth Image: Harlem safe, with Luke Cage celebrated as a hero.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Jessica Jones:
         1. First Image: Jessica Jones in her detective office, contemplating her next case.
         2. Second Image: Investigating a crime scene with her keen intuition.
@@ -269,14 +269,14 @@ Title: Jessica Jones:
 ================================================================ X ================================================================
 16. Category Name: Guardians of the Multiverse
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain Britain:
         1. First Image: Brian Braddock discovering the mystical amulet that transforms him into Captain Britain.
         2. Second Image: Fighting supernatural threats with his new powers.
         3. Third Image: A battle where Captain Britain defends his homeland.
         4. Fourth Image: The land safe, with Captain Britain standing as a symbol of hope.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Defenders of the Multiverse:
         1. First Image: Various heroes from different universes meeting to protect the multiverse.
         2. Second Image: Coordinating strategies to fend off a multiversal threat.
@@ -285,14 +285,14 @@ Title: Defenders of the Multiverse:
 ================================================================ X ================================================================
 17. Category Name: Legendary Beasts
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Fin Fang Foom:
         1. First Image: The ancient dragon Fin Fang Foom awakening from his slumber.
         2. Second Image: Heroes like Iron Man and Hulk preparing to confront the beast.
         3. Third Image: A battle where the heroes must combine their strengths to defeat the dragon.
         4. Fourth Image: The dragon subdued, with the heroes standing victorious.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: The Phoenix:
         1. First Image: Jean Grey transforming into the Phoenix.
         2. Second Image: The X-Men trying to reach Jean and control the Phoenix’s power.
@@ -301,14 +301,14 @@ Title: The Phoenix:
 ================================================================ X ================================================================
 18. Category Name: Mystical Artifacts
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Infinity Gauntlet:
         1. First Image: Thanos wielding the Infinity Gauntlet with all the stones.
         2. Second Image: Heroes strategizing to remove the Gauntlet from Thanos.
         3. Third Image: A battle where the Gauntlet’s power is showcased.
         4. Fourth Image: The Gauntlet destroyed, with the universe safe once again.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Eye of Agamotto:
         1. First Image: Doctor Strange using the Eye of Agamotto to manipulate time.
         2. Second Image: A moment where Strange must use the Eye to prevent a catastrophe.
@@ -317,14 +317,14 @@ Title: Eye of Agamotto:
 ================================================================ X ================================================================
 19. Category Name: Heroes Reborn
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Old Man Logan:
         1. First Image: An older Wolverine in a post-apocalyptic world.
         2. Second Image: Logan fighting off enemies despite his age.
         3. Third Image: A dramatic moment where Logan’s past haunts him.
         4. Fourth Image: Logan standing as a lone hero, ready to protect the innocent.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Gwen:
         1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
         2. Second Image: Spider-Gwen fighting crime in her universe.
@@ -333,14 +333,14 @@ Title: Spider-Gwen:
 ================================================================ X ================================================================
 20. Category Name: Time-Travel Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Kang the Conqueror:
         1. First Image: Kang arriving in the present day with plans to conquer time.
         2. Second Image: Heroes from different eras teaming up to stop Kang.
         3. Third Image: A battle across multiple time periods.
         4. Fourth Image: Kang defeated, with the timeline restored.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cable:
         1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
         2. Second Image: Cable teaming up with modern-day heroes.
@@ -349,14 +349,14 @@ Title: Cable:
 ================================================================ X ================================================================
 21. Category Name: Legendary Allies
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Falcon:
         1. First Image: Sam Wilson soaring through the sky with his Falcon suit.
         2. Second Image: Falcon fighting alongside Captain America.
         3. Third Image: A dramatic moment where Falcon’s aerial skills save the day.
         4. Fourth Image: Falcon standing tall, ready for the next mission.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Winter Soldier:
         1. First Image: Bucky Barnes as the Winter Soldier, battling his inner demons.
         2. Second Image: Winter Soldier fighting alongside the Avengers.
@@ -365,14 +365,14 @@ Title: Winter Soldier:
 ================================================================ X ================================================================
 22. Category Name: Cosmic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Silver Surfer:
         1. First Image: Silver Surfer gliding through space on his cosmic board.
         2. Second Image: Encountering Galactus and other cosmic beings.
         3. Third Image: A battle where the Surfer’s cosmic powers are crucial.
         4. Fourth Image: The cosmos safe, with Silver Surfer continuing his journey.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Adam Warlock:
         1. First Image: Adam Warlock emerging from his cocoon.
         2. Second Image: Warlock facing off against Thanos.
@@ -381,14 +381,14 @@ Title: Adam Warlock:
 ================================================================ X ================================================================
 23. Category Name: Elemental Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Storm:
         1. First Image: Ororo Munroe discovering her powers over the weather.
         2. Second Image: Storm using her abilities to protect her village.
         3. Third Image: A dramatic battle where Storm’s powers turn the tide.
         4. Fourth Image: Storm joining the X-Men, ready to fight for mutantkind.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iceman:
         1. First Image: Bobby Drake discovering his ability to control ice.
         2. Second Image: Iceman creating ice structures to protect civilians.
@@ -397,14 +397,14 @@ Title: Iceman:
 ================================================================ X ================================================================
 24. Category Name: Heroic Duos
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ant-Man and the Wasp:
         1. First Image: Scott Lang and Hope van Dyne suiting up as Ant-Man and the Wasp.
         2. Second Image: The duo shrinking and flying to infiltrate a high-security facility.
         3. Third Image: A battle where their combined skills are key to success.
         4. Fourth Image: Ant-Man and the Wasp standing victorious, ready for their next mission.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Rocket and Groot:
         1. First Image: Rocket and Groot on a new adventure in space.
         2. Second Image: Rocket using his gadgets while Groot provides backup.
@@ -413,14 +413,14 @@ Title: Rocket and Groot:
 ================================================================ X ================================================================
 25. Category Name: Legendary Teachers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Professor X:
         1. First Image: Charles Xavier founding the Xavier Institute for Gifted Youngsters.
         2. Second Image: Teaching young mutants to control their powers.
         3. Third Image: A conflict where Professor X must use his powers to protect his students.
         4. Fourth Image: The institute thriving, with Professor X as its wise leader.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Nick Fury:
         1. First Image: Nick Fury assembling a team of heroes for a top-secret mission.
         2. Second Image: Coordinating strategies and guiding the team.
@@ -429,14 +429,14 @@ Title: Nick Fury:
 ================================================================ X ================================================================
 26. Category Name: Anti-Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Deadpool:
         1. First Image: Wade Wilson becoming Deadpool.
         2. Second Image: Deadpool taking on mercenary missions with his unique style.
         3. Third Image: A battle where Deadpool’s unorthodox methods save the day.
         4. Fourth Image: Deadpool standing triumphant, with a witty comment.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Venom:
         1. First Image: Eddie Brock bonding with the symbiote to become Venom.
         2. Second Image: Venom fighting against other symbiotes and criminals.
@@ -445,14 +445,14 @@ Title: Venom:
 ================================================================ X ================================================================
 27. Category Name: Mystical Realms
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Doctor Strange:
         1. First Image: Stephen Strange discovering the mystical arts at Kamar-Taj.
         2. Second Image: Doctor Strange using the Eye of Agamotto in battle.
         3. Third Image: A mind-bending fight in the Mirror Dimension.
         4. Fourth Image: Doctor Strange standing as the Sorcerer Supreme, protecting Earth from mystical threats.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Scarlet Witch:
         1. First Image: Wanda Maximoff discovering her powers as Scarlet Witch.
         2. Second Image: Scarlet Witch fighting alongside the Avengers.
@@ -461,14 +461,14 @@ Title: Scarlet Witch:
 ================================================================ X ================================================================
 28. Category Name: Heroes of Wakanda
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Shuri:
         1. First Image: Shuri in her lab, working on advanced technology.
         2. Second Image: Shuri using her inventions to aid Black Panther in battle.
         3. Third Image: A conflict where Shuri’s tech expertise saves the day.
         4. Fourth Image: Shuri standing as a respected leader in Wakanda.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Okoye:
         1. First Image: Okoye leading the Dora Milaje in Wakanda.
         2. Second Image: Okoye fighting alongside Black Panther against enemies.
@@ -477,14 +477,14 @@ Title: Okoye:
 ================================================================ X ================================================================
 29. Category Name: Multiverse Guardians
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Loki:
         1. First Image: Loki discovering the existence of the multiverse.
         2. Second Image: Loki navigating through different realities.
         3. Third Image: A conflict where Loki must save the multiverse from a looming threat.
         4. Fourth Image: Loki standing as a protector of the multiverse, embracing his destiny.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man (Miles Morales):
         1. First Image: Miles Morales discovering his Spider-Man powers.
         2. Second Image: Miles learning to control his abilities with the help of Peter Parker.
@@ -493,14 +493,14 @@ Title: Spider-Man (Miles Morales):
 ================================================================ X ================================================================
 30. Category Name: Cosmic Enforcers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Nova:
         1. First Image: Richard Rider receiving the Nova Force.
         2. Second Image: Nova patrolling the galaxy as a member of the Nova Corps.
         3. Third Image: A battle against cosmic threats where Nova’s powers are crucial.
         4. Fourth Image: Nova standing as a protector of the galaxy.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Quasar:
         1. First Image: Wendell Vaughn becoming Quasar and wielding the Quantum Bands.
         2. Second Image: Quasar exploring the far reaches of space.
@@ -509,14 +509,14 @@ Title: Quasar:
 ================================================================ X ================================================================
 31. Category Name: Legendary Warriors
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hercules:
         1. First Image: Hercules arriving on Earth from Olympus.
         2. Second Image: Hercules fighting alongside the Avengers.
         3. Third Image: A battle where Hercules’ strength is key to victory.
         4. Fourth Image: Hercules celebrated as a hero both on Earth and Olympus.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Ares:
         1. First Image: Ares, the god of war, arriving in the modern world.
         2. Second Image: Ares joining forces with heroes to combat a greater threat.
@@ -525,14 +525,14 @@ Title: Ares:
 ================================================================ X ================================================================
 32. Category Name: Legendary Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man:
         1. First Image: Peter Parker swinging through the streets of New York City.
         2. Second Image: Spider-Man fighting against the Green Goblin.
         3. Third Image: A tense moment where Spider-Man saves civilians from danger.
         4. Fourth Image: Spider-Man standing on a rooftop, looking out over the city.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Black Panther:
         1. First Image: T’Challa in his Black Panther suit, standing in the Wakandan throne room.
         2. Second Image: Black Panther fighting against Erik Killmonger.
@@ -541,14 +541,14 @@ Title: Black Panther:
 ================================================================ X ================================================================
 33. Category Name: Heroes of the Night
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Moon Knight:
         1. First Image: Marc Spector embracing his identity as Moon Knight.
         2. Second Image: Moon Knight fighting criminals under the moonlight.
         3. Third Image: A battle where Moon Knight’s multiple identities play a crucial role.
         4. Fourth Image: Moon Knight standing vigilant as a protector of the night.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Blade:
         1. First Image: Blade preparing his weapons to hunt vampires.
         2. Second Image: Blade fighting against a horde of vampires.
@@ -557,14 +557,14 @@ Title: Blade:
 ================================================================ X ================================================================
 34. Category Name: Legendary Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man:
         1. First Image: Tony Stark building his first Iron Man suit in a cave.
         2. Second Image: Tony perfecting his suit and taking flight for the first time.
         3. Third Image: Iron Man battling against Obadiah Stane.
         4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain America:
         1. First Image: Steve Rogers volunteering for the super-soldier program.
         2. Second Image: Captain America fighting Hydra forces in World War II.
@@ -573,14 +573,14 @@ Title: Captain America:
 ================================================================ X ================================================================
 35. Category Name: Futuristic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man 2020:
         1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
         2. Second Image: Battling against futuristic villains with advanced technology.
         3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
         4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man 2099:
         1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
         2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
@@ -589,14 +589,14 @@ Title: Spider-Man 2099:
 ================================================================ X ================================================================
 36. Category Name: Cosmic Adventures
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Thor:
         1. First Image: Thor in Asgard, holding Mjolnir.
         2. Second Image: Thor battling Loki in the Bifrost Bridge.
         3. Third Image: An epic fight against the forces of Hela.
         4. Fourth Image: Thor reigning as the king of Asgard, with the realm at peace.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain Marvel:
         1. First Image: Carol Danvers discovering her powers as Captain Marvel.
         2. Second Image: Captain Marvel soaring through space, ready for battle.
@@ -605,14 +605,14 @@ Title: Captain Marvel:
 ================================================================ X ================================================================
 37. Category Name: Multiverse Guardians
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man (Miles Morales):
         1. First Image: Miles Morales discovering his Spider-Man powers.
         2. Second Image: Miles learning to control his abilities with the help of Peter Parker.
         3. Third Image: A battle where Miles proves himself as a true Spider-Man.
         4. Fourth Image: Miles swinging through the city, ready to protect his world.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Doctor Strange in the Multiverse:
         1. First Image: Doctor Strange discovering portals to alternate realities.
         2. Second Image: Strange encountering alternate versions of himself.
@@ -621,14 +621,14 @@ Title: Doctor Strange in the Multiverse:
 ================================================================ X ================================================================
 38. Category Name: Legendary Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man:
         1. First Image: Tony Stark building his first Iron Man suit in a cave.
         2. Second Image: Tony perfecting his suit and taking flight for the first time.
         3. Third Image: Iron Man battling against Obadiah Stane.
         4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain America:
         1. First Image: Steve Rogers volunteering for the super-soldier program.
         2. Second Image: Captain America fighting Hydra forces in World War II.
@@ -637,14 +637,14 @@ Title: Captain America:
 ================================================================ X ================================================================
 39. Category Name: Legendary Villains
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Thanos:
         1. First Image: Thanos sitting on his throne, plotting his next move.
         2. Second Image: The Mad Titan collecting the Infinity Stones.
         3. Third Image: A climactic battle where the heroes confront Thanos.
         4. Fourth Image: The aftermath, with Thanos defeated and balance restored.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Loki:
         1. First Image: Loki scheming in Asgard, with a mischievous smile.
         2. Second Image: Loki facing off against Thor in a dramatic battle.
@@ -653,14 +653,14 @@ Title: Loki:
 ================================================================ X ================================================================
 40. Category Name: Time-Travel Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Kang the Conqueror:
         1. First Image: Kang arriving in the present day with plans to conquer time.
         2. Second Image: Heroes from different eras teaming up to stop Kang.
         3. Third Image: A battle across multiple time periods.
         4. Fourth Image: Kang defeated, with the timeline restored.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cable:
         1. First Image: Cable arriving from the future with a mission to prevent a catastrophe.
         2. Second Image: Cable teaming up with modern-day heroes.
@@ -669,14 +669,14 @@ Title: Cable:
 ================================================================ X ================================================================
 41. Category Name: Heroic Origins
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man:
         1. First Image: Tony Stark building his first Iron Man suit in a cave.
         2. Second Image: Tony perfecting his suit and taking flight for the first time.
         3. Third Image: Iron Man battling against Obadiah Stane.
         4. Fourth Image: Tony declaring “I am Iron Man” at a press conference.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Captain America:
         1. First Image: Steve Rogers volunteering for the super-soldier program.
         2. Second Image: Captain America fighting Hydra forces in World War II.
@@ -685,14 +685,14 @@ Title: Captain America:
 ================================================================ X ================================================================
 42. Category Name: Iconic Battles
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of New York:
         1. First Image: The Chitauri invading New York City, causing chaos.
         2. Second Image: The Avengers assembling to defend the city.
         3. Third Image: An epic showdown between the Avengers and the Chitauri.
         4. Fourth Image: The city safe, with the Avengers standing triumphantly.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Civil War:
         1. First Image: Captain America and Iron Man facing off at the airport.
         2. Second Image: The two factions of heroes preparing for battle.
@@ -701,14 +701,14 @@ Title: Civil War:
 ================================================================ X ================================================================
 43. Category Name: Enigmatic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Black Widow:
         1. First Image: Natasha Romanoff on a covert mission.
         2. Second Image: Black Widow fighting off attackers with her acrobatic skills.
         3. Third Image: A tense confrontation with an enemy spy.
         4. Fourth Image: Black Widow standing strong, having completed her mission.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hawkeye:
         1. First Image: Clint Barton preparing his bow and arrows.
         2. Second Image: Hawkeye taking down enemies with precise shots.
@@ -717,14 +717,14 @@ Title: Hawkeye:
 ================================================================ X ================================================================
 44. Category Name: Alien Worlds
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Asgard:
         1. First Image: The majestic city of Asgard, with its golden spires.
         2. Second Image: Thor and Loki standing on the Bifrost Bridge.
         3. Third Image: An epic battle against the Frost Giants.
         4. Fourth Image: Asgard celebrating, with Thor as the hero.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Xandar:
         1. First Image: The vibrant city of Xandar, capital of the Nova Corps.
         2. Second Image: The Guardians of the Galaxy arriving on Xandar.
@@ -733,14 +733,14 @@ Title: Xandar:
 ================================================================ X ================================================================
 45. Category Name: Legendary Battles
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of Wakanda:
         1. First Image: The Avengers and Wakandan forces preparing for battle.
         2. Second Image: Thanos’ army attacking Wakanda’s shield.
         3. Third Image: A fierce battle with the Avengers and Wakandans fighting side by side.
         4. Fourth Image: The battlefield calm, with the heroes standing victorious.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Battle of Titan:
         1. First Image: The Avengers and Guardians arriving on Titan to confront Thanos.
         2. Second Image: A strategic fight against Thanos, with heroes using their unique abilities.
@@ -749,14 +749,14 @@ Title: Battle of Titan:
 ================================================================ X ================================================================
 46. Category Name: Heroes of the Multiverse
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Verse:
         1. First Image: Different versions of Spider-Man from various universes meeting.
         2. Second Image: The Spider-People working together to stop a multiversal threat.
         3. Third Image: A climactic battle where the Spider-Verse heroes showcase their unique abilities.
         4. Fourth Image: The multiverse safe, with the Spider-People returning to their respective worlds.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Doctor Strange in the Multiverse:
         1. First Image: Doctor Strange discovering portals to alternate realities.
         2. Second Image: Strange encountering alternate versions of himself.
@@ -765,14 +765,14 @@ Title: Doctor Strange in the Multiverse:
 ================================================================ X ================================================================
 47. Category Name: Futuristic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Iron Man 2020:
         1. First Image: Tony Stark in a highly advanced Iron Man suit in a futuristic city.
         2. Second Image: Battling against futuristic villains with advanced technology.
         3. Third Image: A tense moment where Iron Man uses his intelligence to outsmart an enemy.
         4. Fourth Image: The city safe, with Iron Man flying off into the sunset.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Man 2099:
         1. First Image: Miguel O’Hara, the Spider-Man of the future, swinging through a neon-lit city.
         2. Second Image: Fighting against futuristic criminals with high-tech gadgets.
@@ -781,14 +781,14 @@ Title: Spider-Man 2099:
 ================================================================ X ================================================================
 48. Category Name: Street-Level Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Luke Cage:
         1. First Image: Luke Cage walking through the streets of Harlem, determined to protect his community.
         2. Second Image: Cage fighting off gang members with his super strength.
         3. Third Image: A showdown with a powerful crime lord.
         4. Fourth Image: Harlem safe, with Luke Cage celebrated as a hero.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Jessica Jones:
         1. First Image: Jessica Jones in her detective office, contemplating her next case.
         2. Second Image: Investigating a crime scene with her keen intuition.
@@ -797,14 +797,14 @@ Title: Jessica Jones:
 ================================================================ X ================================================================
 49. Category Name: Heroes Reborn
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Old Man Logan:
         1. First Image: An older Wolverine in a post-apocalyptic world.
         2. Second Image: Logan fighting off enemies despite his age.
         3. Third Image: A dramatic moment where Logan’s past haunts him.
         4. Fourth Image: Logan standing as a lone hero, ready to protect the innocent.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Spider-Gwen:
         1. First Image: Gwen Stacy discovering her powers as Spider-Woman.
         2. Second Image: Spider-Gwen fighting crime in her universe.
@@ -813,14 +813,14 @@ Title: Spider-Gwen:
 ================================================================ X ================================================================
 50. Category Name: Cosmic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Silver Surfer:
         1. First Image: Silver Surfer gliding through space on his cosmic board.
         2. Second Image: Encountering Galactus and other cosmic beings.
         3. Third Image: A battle where the Surfer’s cosmic powers are crucial.
         4. Fourth Image: The cosmos safe, with Silver Surfer continuing his journey.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Marvel' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Marvel' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Adam Warlock:
         1. First Image: Adam Warlock emerging from his cocoon.
         2. Second Image: Warlock facing off against Thanos.

@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Neon Noir
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: City Shadows:
     1. First Image: The protagonist, a detective, walking through a rain-soaked city street at night, illuminated by neon lights.
     2. Second Image: Transition From The First Image, The detective investigating a crime scene in a dark alley, surrounded by futuristic technology.
     3. Third Image: Transition From The Second Image, A tense confrontation with a mysterious figure in a high-tech hideout.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The detective solving the case, standing on a rooftop overlooking the neon-lit city.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Cyber Heist:
     1. First Image: A team of hackers planning a heist in a dimly lit, tech-filled room.
     2. Second Image: Transition From The First Image, The team infiltrating a high-security building, using advanced gadgets and hacking skills.
@@ -45,14 +45,14 @@ Title: Cyber Heist:
 ================================================================ X ================================================================
 2. Category Name: Street Warriors
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Rogue Runner:
     1. First Image: The protagonist, a street runner, navigating through crowded, neon-lit streets.
     2. Second Image: Transition From The First Image, A dynamic chase scene, with the protagonist evading cybernetic enforcers.
     3. Third Image: Transition From The Second Image, The protagonist confronting a powerful gang leader in an underground club.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing victorious, with the city’s lights reflecting in their cybernetic eyes.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Gang Wars:
     1. First Image: Rival gangs facing off in an abandoned warehouse, with neon graffiti on the walls.
     2. Second Image: Transition From The First Image, A fierce battle between gang members, showcasing cybernetic enhancements and futuristic weapons.
@@ -61,14 +61,14 @@ Title: Gang Wars:
 ================================================================ X ================================================================
 3. Category Name: Corporate Espionage
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Boardroom Betrayal:
     1. First Image: A sleek corporate office with the protagonist, a corporate spy, blending in.
     2. Second Image: Transition From The First Image, The protagonist hacking into a secure server, surrounded by high-tech security.
     3. Third Image: Transition From The Second Image, A dramatic escape as the protagonist is discovered, with intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist delivering the stolen data to a rival corporation, with a smug smile.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Silent Infiltration:
     1. First Image: The protagonist, clad in stealth gear, infiltrating a heavily guarded corporate building.
     2. Second Image: Transition From The First Image, The protagonist avoiding security measures and navigating through high-tech corridors.
@@ -77,14 +77,14 @@ Title: Silent Infiltration:
 ================================================================ X ================================================================
 4. Category Name: Digital Revolution
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hacktivist Uprising:
     1. First Image: The protagonist leading a group of hacktivists, planning their next move in a hidden base.
     2. Second Image: Transition From The First Image, The group launching a cyber attack on a corrupt corporation, with intense visuals.
     3. Third Image: Transition From The Second Image, A confrontation with corporate security forces, showcasing high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hacktivists celebrating their victory, with the city’s skyline symbolizing change.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Rebel Code:
     1. First Image: The protagonist writing revolutionary code in a dimly lit apartment, surrounded by monitors.
     2. Second Image: Transition From The First Image, The protagonist and their allies launching a digital assault, facing heavy resistance.
@@ -93,14 +93,14 @@ Title: Rebel Code:
 ================================================================ X ================================================================
 5. Category Name: Cybernetic Enhancement
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Body Mod:
     1. First Image: The protagonist in a cybernetic modification shop, undergoing enhancements.
     2. Second Image: Transition From The First Image, The protagonist testing their new abilities in a training area.
     3. Third Image: Transition From The Second Image, A dramatic battle showcasing the protagonist’s cybernetic powers.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist standing tall, fully embracing their enhanced identity.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enhanced Combat:
     1. First Image: The protagonist, a cybernetic soldier, preparing for a mission in a high-tech facility.
     2. Second Image: Transition From The First Image, The protagonist engaging in intense combat, using their enhancements to gain an edge.
@@ -109,14 +109,14 @@ Title: Enhanced Combat:
 ================================================================ X ================================================================
 6. Category Name: Virtual Reality
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: VR Escape:
     1. First Image: The protagonist entering a virtual reality world, surrounded by digital landscapes.
     2. Second Image: Transition From The First Image, The protagonist exploring the VR world, encountering strange and beautiful environments.
     3. Third Image: Transition From The Second Image, A battle against a rogue AI within the virtual world, with intense visual effects.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist successfully escaping the VR world, with a sense of relief.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Dreams:
     1. First Image: The protagonist donning a VR headset, entering a fantastical digital realm.
     2. Second Image: Transition From The First Image, The protagonist embarking on quests and adventures within the VR world.
@@ -125,11 +125,11 @@ Title: Digital Dreams:
 ================================================================ X ================================================================
 7. Category Name: Dystopian Society
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Oppressed Future:
     1. First Image: The protagonist navigating a bleak, dystopian city controlled by an oppressive regime.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Second Image: Transition From The First Image, The protagonist witnessing the harsh realities of the society, with tense moments.
     3. Third Image: Transition From The Second Image, The protagonist joining a rebellion, planning to overthrow the regime.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist leading a successful revolt, with the city beginning to change.
@@ -141,14 +141,14 @@ Title: Second Image: Transition From The First Image, The protagonist witnessing
 ================================================================ X ================================================================
 8. Category Name: Cybernetic Detective
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Clues:
     1. First Image: The protagonist, a cybernetic detective, examining a crime scene with advanced tech.
     2. Second Image: Transition From The First Image, The detective following digital clues through the city’s neon-lit underworld.
     3. Third Image: Transition From The Second Image, A confrontation with a cybercriminal, showcasing intense detective work and combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The detective solving the case, with the city’s skyline in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Sleuth:
     1. First Image: The protagonist analyzing data streams in a high-tech lab.
     2. Second Image: Transition From The First Image, The detective navigating through cybernetic networks to track down a criminal.
@@ -157,14 +157,14 @@ Title: Tech Sleuth:
 ================================================================ X ================================================================
 9. Category Name: AI Revolution
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Synthetic Uprising:
     1. First Image: The protagonist witnessing the rise of sentient AIs in a high-tech city.
     2. Second Image: Transition From The First Image, The protagonist forming an alliance with AIs, planning their rebellion.
     3. Third Image: Transition From The Second Image, A battle between AI forces and human enforcers, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The city embracing coexistence between humans and AIs, with a hopeful future.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Machine Rebellion:
     1. First Image: The protagonist discovering an underground AI resistance.
     2. Second Image: Transition From The First Image, The protagonist aiding the AIs in their fight for freedom.
@@ -173,14 +173,14 @@ Title: Machine Rebellion:
 ================================================================ X ================================================================
 10. Category Name: Cybernetic Outlaws
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Bandits:
     1. First Image: The protagonist leading a group of cybernetic outlaws in a neon-lit city.
     2. Second Image: Transition From The First Image, The outlaws planning a heist against a corrupt corporation.
     3. Third Image: Transition From The Second Image, A high-energy battle with corporate security forces, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The outlaws celebrating their successful heist, with the city’s neon lights in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Rebels:
     1. First Image: The protagonist, a tech-savvy rebel, planning a mission in an underground hideout.
     2. Second Image: Transition From The First Image, The rebels infiltrating a high-security facility, using advanced gadgets and stealth.
@@ -189,14 +189,14 @@ Title: Tech Rebels:
 ================================================================ X ================================================================
 11. Category Name: Cybernetic Bounty Hunters
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Hunt:
     1. First Image: The protagonist, a bounty hunter, receiving a high-profile target in a neon-lit city.
     2. Second Image: Transition From The First Image, The bounty hunter tracking their target through dark alleys and high-tech districts.
     3. Third Image: Transition From The Second Image, A tense confrontation with the target, showcasing intense combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bounty hunter capturing the target, with the city’s neon lights reflecting in their visor.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Pursuit:
     1. First Image: The protagonist analyzing data in a high-tech bounty hunter headquarters.
     2. Second Image: Transition From The First Image, The bounty hunter engaging in a high-speed chase through the city’s neon-lit streets.
@@ -205,14 +205,14 @@ Title: Tech Pursuit:
 ================================================================ X ================================================================
 12. Category Name: Underground Resistance
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Rebel Underground:
     1. First Image: The protagonist entering a hidden underground base, filled with resistance fighters.
     2. Second Image: Transition From The First Image, The rebels planning their next move against the oppressive government.
     3. Third Image: Transition From The Second Image, A dramatic battle with government forces, showcasing high-energy action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebels emerging victorious, with the city starting to recover.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Secret Hideout:
     1. First Image: The protagonist discovering a secret hideout beneath the city.
     2. Second Image: Transition From The First Image, The hideout filled with advanced technology and resistance fighters.
@@ -221,14 +221,14 @@ Title: Secret Hideout:
 ================================================================ X ================================================================
 13. Category Name: Cybernetic Gladiators
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Arena Battles:
     1. First Image: The protagonist, a cybernetic gladiator, preparing for battle in a high-tech arena.
     2. Second Image: Transition From The First Image, The gladiator facing off against powerful opponents, showcasing intense combat.
     3. Third Image: Transition From The Second Image, A dramatic moment as the gladiator overcomes a formidable foe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The gladiator standing victorious, with the crowd cheering wildly.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Combat Cyborgs:
     1. First Image: The protagonist entering a high-tech combat arena, surrounded by spectators.
     2. Second Image: Transition From The First Image, Intense battles with other cyborgs, showcasing advanced weapons and tactics.
@@ -237,14 +237,14 @@ Title: Combat Cyborgs:
 ================================================================ X ================================================================
 14. Category Name: Cybernetic Police
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Patrol:
     1. First Image: The protagonist, a cybernetic police officer, patrolling the neon-lit city streets.
     2. Second Image: Transition From The First Image, The officer responding to a high-tech crime, using advanced gadgets.
     3. Third Image: Transition From The Second Image, A confrontation with a cybernetic criminal, showcasing intense combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The officer successfully apprehending the criminal, with the city safe once more.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Enforcer's Duty:
     1. First Image: The protagonist receiving a briefing in a high-tech police headquarters.
     2. Second Image: Transition From The First Image, The officer tracking a cybercriminal through the city’s neon-lit underworld.
@@ -253,14 +253,14 @@ Title: Enforcer's Duty:
 ================================================================ X ================================================================
 15. Category Name: Cybernetic Heroes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Knights:
     1. First Image: The protagonist, a cybernetic hero, standing atop a skyscraper, overlooking the city.
     2. Second Image: Transition From The First Image, The hero rescuing citizens from a high-tech disaster, showcasing their abilities.
     3. Third Image: Transition From The Second Image, A battle with a powerful villain, showcasing intense action and heroism.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hero standing victorious, with the city safe and grateful.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Guardians:
     1. First Image: The protagonist and their team of cybernetic heroes, posing heroically.
     2. Second Image: Transition From The First Image, The team responding to a city-wide crisis, using their unique abilities.
@@ -269,14 +269,14 @@ Title: Tech Guardians:
 ================================================================ X ================================================================
 16. Category Name: Corporate Warfare
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Hostile Takeover:
     1. First Image: The protagonist, a corporate operative, preparing for a mission in a high-tech boardroom.
     2. Second Image: Transition From The First Image, The operative infiltrating a rival corporation, using advanced technology.
     3. Third Image: Transition From The Second Image, A high-stakes battle with corporate security, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The operative achieving their mission, with the city skyline in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Boardroom Battle:
     1. First Image: The protagonist attending a tense corporate meeting in a sleek, high-tech office.
     2. Second Image: Transition From The First Image, The protagonist discovering a corporate conspiracy, with dramatic visuals.
@@ -285,14 +285,14 @@ Title: Boardroom Battle:
 ================================================================ X ================================================================
 17. Category Name: Tech Nomads
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Drifters:
     1. First Image: The protagonist, a tech nomad, traveling through the neon-lit city on a futuristic motorcycle.
     2. Second Image: Transition From The First Image, The nomad exploring different districts, encountering diverse characters.
     3. Third Image: Transition From The Second Image, A conflict with a powerful gang, showcasing intense action and resourcefulness.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The nomad riding into the sunset, with the city behind them.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Wanderers of Neon:
     1. First Image: The protagonist and their group of nomads setting up camp in a neon-lit wasteland.
     2. Second Image: Transition From The First Image, The nomads navigating through the city, using their skills to survive.
@@ -301,14 +301,14 @@ Title: Wanderers of Neon:
 ================================================================ X ================================================================
 18. Category Name: Cybernetic Outcasts
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Refugees:
     1. First Image: The protagonist, an outcast, seeking refuge in a neon-lit underground community.
     2. Second Image: Transition From The First Image, The outcast forming alliances with other marginalized individuals.
     3. Third Image: Transition From The Second Image, A conflict with the city’s enforcers, showcasing intense action and resilience.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The outcast community standing strong, with the city above starting to change.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Exiles:
     1. First Image: The protagonist discovering a hidden enclave of tech exiles in the city.
     2. Second Image: Transition From The First Image, The exiles working together to survive, using their unique skills.
@@ -317,14 +317,14 @@ Title: Tech Exiles:
 ================================================================ X ================================================================
 19. Category Name: Cybernetic Revolution
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Rebellion:
     1. First Image: The protagonist leading a group of rebels in a neon-lit city, planning their next move.
     2. Second Image: Transition From The First Image, The rebels launching an assault on a government facility, showcasing intense action.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with the city’s oppressive leaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebellion triumphant, with the city starting to transform.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Insurrection:
     1. First Image: The protagonist inspiring a group of citizens to rise against the regime.
     2. Second Image: Transition From The First Image, The insurrectionists planning their strategy in a high-tech hideout.
@@ -333,14 +333,14 @@ Title: Tech Insurrection:
 ================================================================ X ================================================================
 20. Category Name: Cybernetic Healers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Medics:
     1. First Image: The protagonist, a cybernetic medic, treating patients in a high-tech clinic.
     2. Second Image: Transition From The First Image, The medic navigating through the city to deliver critical supplies.
     3. Third Image: Transition From The Second Image, A tense moment as the medic performs a high-stakes surgery with advanced technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The medic saving lives, with the city’s neon lights symbolizing hope.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Doctors:
     1. First Image: The protagonist setting up a makeshift clinic in a neon-lit alley.
     2. Second Image: Transition From The First Image, The doctor treating various patients, showcasing their skills and compassion.
@@ -349,14 +349,14 @@ Title: Neon Doctors:
 ================================================================ X ================================================================
 21. Category Name: Cybernetic Musicians
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Beats:
     1. First Image: The protagonist, a cybernetic musician, performing in a neon-lit club.
     2. Second Image: Transition From The First Image, The musician composing new tracks in a high-tech studio.
     3. Third Image: Transition From The Second Image, A dramatic concert with intense visuals and powerful music.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The musician becoming a sensation, with the city embracing their sound.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Rhythms:
     1. First Image: The protagonist experimenting with futuristic instruments in a neon-lit studio.
     2. Second Image: Transition From The First Image, The musician performing at a high-energy cyberpunk festival.
@@ -365,14 +365,14 @@ Title: Tech Rhythms:
 ================================================================ X ================================================================
 22. Category Name: Cybernetic Vigilantes
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Justice:
     1. First Image: The protagonist, a cybernetic vigilante, standing on a rooftop overlooking the city.
     2. Second Image: Transition From The First Image, The vigilante stopping a high-tech crime, showcasing their abilities.
     3. Third Image: Transition From The Second Image, A confrontation with a powerful villain, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The vigilante standing victorious, with the city safe once more.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Avenger:
     1. First Image: The protagonist receiving a call for help in their high-tech hideout.
     2. Second Image: Transition From The First Image, The avenger navigating through the city to stop a crime in progress.
@@ -381,14 +381,14 @@ Title: Tech Avenger:
 ================================================================ X ================================================================
 23. Category Name: Cybernetic Hackers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Digital Warriors:
     1. First Image: The protagonist hacking into a high-security system, surrounded by monitors.
     2. Second Image: Transition From The First Image, The hacker navigating through virtual landscapes, facing digital threats.
     3. Third Image: Transition From The Second Image, A confrontation with a rogue AI within the digital realm.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hacker emerging victorious, with the city’s neon lights in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Code Breakers:
     1. First Image: The protagonist cracking codes in a neon-lit apartment.
     2. Second Image: Transition From The First Image, The hacker infiltrating a corporate network, facing digital defenses.
@@ -397,14 +397,14 @@ Title: Code Breakers:
 ================================================================ X ================================================================
 24. Category Name: Cybernetic Resistance
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Rebellion:
     1. First Image: The protagonist leading a group of rebels in a neon-lit city, planning their next move.
     2. Second Image: Transition From The First Image, The rebels launching an assault on a government facility, showcasing intense action.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with the city’s oppressive leaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The rebellion triumphant, with the city starting to transform.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Insurrection:
     1. First Image: The protagonist inspiring a group of citizens to rise against the regime.
     2. Second Image: Transition From The First Image, The insurrectionists planning their strategy in a high-tech hideout.
@@ -413,14 +413,14 @@ Title: Tech Insurrection:
 ================================================================ X ================================================================
 25. Category Name: Cybernetic Nomads
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Drifters:
     1. First Image: The protagonist, a cybernetic drifter, traveling through the neon-lit city on a futuristic motorcycle.
     2. Second Image: Transition From The First Image, The drifter exploring different districts, encountering diverse characters.
     3. Third Image: Transition From The Second Image, A conflict with a powerful gang, showcasing intense action and resourcefulness.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The drifter riding into the sunset, with the city behind them.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Wanderers:
     1. First Image: The protagonist and their group of nomads setting up camp in a neon-lit wasteland.
     2. Second Image: Transition From The First Image, The nomads navigating through the city, using their skills to survive.
@@ -429,14 +429,14 @@ Title: Tech Wanderers:
 ================================================================ X ================================================================
 26. Category Name: Cybernetic Mercenaries
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Mercs:
     1. First Image: The protagonist, a cybernetic mercenary, receiving a high-profile mission in a neon-lit city.
     2. Second Image: Transition From The First Image, The mercenary infiltrating a high-security facility, using advanced gadgets and combat skills.
     3. Third Image: Transition From The Second Image, A dramatic battle with powerful enemies, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mercenary completing the mission, with a sense of satisfaction and reward.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Soldiers:
     1. First Image: The protagonist and their team of mercenaries preparing for a mission in a high-tech hideout.
     2. Second Image: Transition From The First Image, The team engaging in a high-stakes operation, facing heavy resistance.
@@ -445,14 +445,14 @@ Title: Tech Soldiers:
 ================================================================ X ================================================================
 27. Category Name: Cybernetic Bounty Hunters
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Bounty:
     1. First Image: The protagonist, a cybernetic bounty hunter, receiving a high-profile target in a neon-lit city.
     2. Second Image: Transition From The First Image, The bounty hunter tracking their target through dark alleys and high-tech districts.
     3. Third Image: Transition From The Second Image, A tense confrontation with the target, showcasing intense combat.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The bounty hunter capturing the target, with the city’s neon lights reflecting in their visor.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Pursuit:
     1. First Image: The protagonist analyzing data in a high-tech bounty hunter headquarters.
     2. Second Image: Transition From The First Image, The bounty hunter engaging in a high-speed chase through the city’s neon-lit streets.
@@ -461,14 +461,14 @@ Title: Tech Pursuit:
 ================================================================ X ================================================================
 28. Category Name: Cybernetic Outlaws
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Bandits:
     1. First Image: The protagonist leading a group of cybernetic outlaws in a neon-lit city.
     2. Second Image: Transition From The First Image, The outlaws planning a heist against a corrupt corporation.
     3. Third Image: Transition From The Second Image, A high-energy battle with corporate security forces, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The outlaws celebrating their successful heist, with the city’s neon lights in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Rebels:
     1. First Image: The protagonist, a tech-savvy rebel, planning a mission in an underground hideout.
     2. Second Image: Transition From The First Image, The rebels infiltrating a high-security facility, using advanced gadgets and stealth.
@@ -477,14 +477,14 @@ Title: Tech Rebels:
 ================================================================ X ================================================================
 29. Category Name: Cybernetic Cults
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Prophets:
     1. First Image: The protagonist, a member of a cybernetic cult, attending a ritual in a neon-lit temple.
     2. Second Image: Transition From The First Image, The cultists performing rituals, surrounded by high-tech symbols and artifacts.
     3. Third Image: Transition From The Second Image, A confrontation with an outsider, showcasing intense action and mystery.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The cult embracing new knowledge, with the city’s neon lights reflecting their beliefs.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Zealots:
     1. First Image: The protagonist discovering a hidden cult in a neon-lit underground chamber.
     2. Second Image: Transition From The First Image, The cultists engaging in rituals, with advanced technology enhancing the atmosphere.
@@ -493,14 +493,14 @@ Title: Tech Zealots:
 ================================================================ X ================================================================
 30. Category Name: Cybernetic Gladiators
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Arena Battles:
     1. First Image: The protagonist, a cybernetic gladiator, preparing for battle in a high-tech arena.
     2. Second Image: Transition From The First Image, The gladiator facing off against powerful opponents, showcasing intense combat.
     3. Third Image: Transition From The Second Image, A dramatic moment as the gladiator overcomes a formidable foe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The gladiator standing victorious, with the crowd cheering wildly.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Combat Cyborgs:
     1. First Image: The protagonist entering a high-tech combat arena, surrounded by spectators.
     2. Second Image: Transition From The First Image, Intense battles with other cyborgs, showcasing advanced weapons and tactics.
@@ -509,14 +509,14 @@ Title: Combat Cyborgs:
 ================================================================ X ================================================================
 31. Category Name: Cybernetic Mercenaries
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Mercs:
     1. First Image: The protagonist, a cybernetic mercenary, receiving a high-profile mission in a neon-lit city.
     2. Second Image: Transition From The First Image, The mercenary infiltrating a high-security facility, using advanced gadgets and combat skills.
     3. Third Image: Transition From The Second Image, A dramatic battle with powerful enemies, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mercenary completing the mission, with a sense of satisfaction and reward.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Soldiers:
     1. First Image: The protagonist and their team of mercenaries preparing for a mission in a high-tech hideout.
     2. Second Image: Transition From The First Image, The team engaging in a high-stakes operation, facing heavy resistance.
@@ -525,14 +525,14 @@ Title: Tech Soldiers:
 ================================================================ X ================================================================
 32. Category Name: Cybernetic Street Racers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Racers:
     1. First Image: The protagonist, a cybernetic street racer, revving their engine at the starting line.
     2. Second Image: Transition From The First Image, The race begins, with neon lights blurring as the cars speed through the city.
     3. Third Image: Transition From The Second Image, A tense moment as the protagonist navigates a sharp turn, narrowly avoiding a crash.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The protagonist crossing the finish line first, with the crowd cheering wildly.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Speedsters:
     1. First Image: The protagonist tuning their high-tech car in a neon-lit garage.
     2. Second Image: Transition From The First Image, The street race begins, with competitors speeding through the city’s neon-lit streets.
@@ -541,14 +541,14 @@ Title: Tech Speedsters:
 ================================================================ X ================================================================
 33. Category Name: Cybernetic Revolutionaries
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Uprising:
     1. First Image: The protagonist leading a group of revolutionaries in a neon-lit city, planning their next move.
     2. Second Image: Transition From The First Image, The revolutionaries launching an assault on a government facility, showcasing intense action.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with the city’s oppressive leaders.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The revolutionaries triumphant, with the city starting to transform.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Insurgents:
     1. First Image: The protagonist inspiring a group of citizens to rise against the regime.
     2. Second Image: Transition From The First Image, The insurgents planning their strategy in a high-tech hideout.
@@ -557,14 +557,14 @@ Title: Tech Insurgents:
 ================================================================ X ================================================================
 34. Category Name: Cybernetic Bodyguards
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Protectors:
     1. First Image: The protagonist, a cybernetic bodyguard, protecting a high-profile client in a neon-lit city.
     2. Second Image: Transition From The First Image, The bodyguard engaging in a high-stakes battle with would-be assassins.
     3. Third Image: Transition From The Second Image, A tense moment as the bodyguard fends off an attack, showcasing their skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The client safe and sound, with the bodyguard standing vigilant.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Guardians:
     1. First Image: The protagonist receiving a mission to protect a VIP in a high-tech headquarters.
     2. Second Image: Transition From The First Image, The bodyguard navigating through the city, ensuring the client’s safety.
@@ -573,14 +573,14 @@ Title: Tech Guardians:
 ================================================================ X ================================================================
 35. Category Name: Cybernetic Assassins
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Killers:
     1. First Image: The protagonist, a cybernetic assassin, receiving a high-profile target in a neon-lit city.
     2. Second Image: Transition From The First Image, The assassin infiltrating a high-security building, using advanced gadgets and stealth.
     3. Third Image: Transition From The Second Image, A tense moment as the assassin takes out the target, showcasing their skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The assassin disappearing into the neon-lit night, mission accomplished.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Hitmen:
     1. First Image: The protagonist receiving an assassination mission in a high-tech hideout.
     2. Second Image: Transition From The First Image, The hitman tracking the target through the city’s neon-lit streets.
@@ -589,14 +589,14 @@ Title: Tech Hitmen:
 ================================================================ X ================================================================
 36. Category Name: Cybernetic Scientists
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Innovators:
     1. First Image: The protagonist, a cybernetic scientist, working in a high-tech lab.
     2. Second Image: Transition From The First Image, The scientist making a breakthrough discovery, with dramatic visuals.
     3. Third Image: Transition From The Second Image, A tense moment as the scientist faces opposition from corporate forces.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The scientist’s innovation changing the city, with a sense of triumph.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Researchers:
     1. First Image: The protagonist conducting experiments in a neon-lit laboratory.
     2. Second Image: Transition From The First Image, The researcher discovering a revolutionary technology.
@@ -605,14 +605,14 @@ Title: Tech Researchers:
 ================================================================ X ================================================================
 37. Category Name: Cybernetic Smugglers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Runners:
     1. First Image: The protagonist, a cybernetic smuggler, transporting contraband through a neon-lit city.
     2. Second Image: Transition From The First Image, The smuggler evading security forces, using advanced gadgets and stealth.
     3. Third Image: Transition From The Second Image, A tense moment as the smuggler faces a rival gang, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The smuggler successfully delivering the contraband, with a sense of triumph.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Traffickers:
     1. First Image: The protagonist planning a smuggling operation in a high-tech hideout.
     2. Second Image: Transition From The First Image, The smugglers navigating through the city’s neon-lit streets, evading detection.
@@ -621,14 +621,14 @@ Title: Tech Traffickers:
 ================================================================ X ================================================================
 38. Category Name: Cybernetic Enforcers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Enforcers:
     1. First Image: The protagonist, a cybernetic enforcer, patrolling the neon-lit city streets.
     2. Second Image: Transition From The First Image, The enforcer responding to a high-tech crime, showcasing their skills.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with a powerful criminal, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The enforcer successfully apprehending the criminal, with the city safe once more.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Guardians:
     1. First Image: The protagonist receiving a briefing in a high-tech police headquarters.
     2. Second Image: Transition From The First Image, The enforcer tracking a cybercriminal through the city’s neon-lit underworld.
@@ -637,14 +637,14 @@ Title: Tech Guardians:
 ================================================================ X ================================================================
 39. Category Name: Cybernetic Healers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Medics:
     1. First Image: The protagonist, a cybernetic medic, treating patients in a high-tech clinic.
     2. Second Image: Transition From The First Image, The medic navigating through the city to deliver critical supplies.
     3. Third Image: Transition From The Second Image, A tense moment as the medic performs a high-stakes surgery with advanced technology.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The medic saving lives, with the city’s neon lights symbolizing hope.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Doctors:
     1. First Image: The protagonist setting up a makeshift clinic in a neon-lit alley.
     2. Second Image: Transition From The First Image, The doctor treating various patients, showcasing their skills and compassion.
@@ -653,14 +653,14 @@ Title: Neon Doctors:
 ================================================================ X ================================================================
 40. Category Name: Cybernetic Musicians
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Beats:
     1. First Image: The protagonist, a cybernetic musician, performing in a neon-lit club.
     2. Second Image: Transition From The First Image, The musician composing new tracks in a high-tech studio.
     3. Third Image: Transition From The Second Image, A dramatic concert with intense visuals and powerful music.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The musician becoming a sensation, with the city embracing their sound.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Rhythms:
     1. First Image: The protagonist experimenting with futuristic instruments in a neon-lit studio.
     2. Second Image: Transition From The First Image, The musician performing at a high-energy cyberpunk festival.
@@ -669,14 +669,14 @@ Title: Tech Rhythms:
 ================================================================ X ================================================================
 41. Category Name: Cybernetic Artists
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Creators:
     1. First Image: The protagonist, a cybernetic artist, creating a masterpiece in a neon-lit studio.
     2. Second Image: Transition From The First Image, The artist showcasing their work in a high-tech gallery, with dramatic visuals.
     3. Third Image: Transition From The Second Image, A tense moment as the artist faces criticism and opposition.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The artist’s work gaining recognition, with the city celebrating their talent.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Visionaries:
     1. First Image: The protagonist experimenting with futuristic art techniques in a neon-lit workshop.
     2. Second Image: Transition From The First Image, The artist’s work gaining popularity in a high-energy cyberpunk community.        
@@ -685,14 +685,14 @@ Title: Tech Visionaries:
 ================================================================ X ================================================================
 42. Category Name: Cybernetic Mechanics
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Engineers:
     1. First Image: The protagonist, a cybernetic mechanic, repairing advanced tech in a neon-lit workshop.
     2. Second Image: Transition From The First Image, The mechanic creating innovative devices, showcasing their skills and creativity.
     3. Third Image: Transition From The Second Image, A dramatic moment as the mechanic faces a critical malfunction.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The mechanic’s innovations benefiting the city, with the neon lights reflecting progress.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Fixers:
     1. First Image: The protagonist tinkering with futuristic gadgets in a neon-lit garage.
     2. Second Image: Transition From The First Image, The mechanic’s work gaining recognition in a high-tech community.
@@ -701,14 +701,14 @@ Title: Tech Fixers:
 ================================================================ X ================================================================
 43. Category Name: Cybernetic Outcasts
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Refugees:
     1. First Image: The protagonist, an outcast, seeking refuge in a neon-lit underground community.
     2. Second Image: Transition From The First Image, The outcast forming alliances with other marginalized individuals.
     3. Third Image: Transition From The Second Image, A conflict with the city’s enforcers, showcasing intense action and resilience.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The outcast community standing strong, with the city above starting to change.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Exiles:
     1. First Image: The protagonist discovering a hidden enclave of tech exiles in the city.
     2. Second Image: Transition From The First Image, The exiles working together to survive, using their unique skills.
@@ -717,14 +717,14 @@ Title: Tech Exiles:
 ================================================================ X ================================================================
 44. Category Name: Cybernetic Gamers
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Gamers:
     1. First Image: The protagonist, a cybernetic gamer, entering a high-tech gaming arena.
     2. Second Image: Transition From The First Image, The gamer competing in a high-stakes virtual reality tournament.
     3. Third Image: Transition From The Second Image, A dramatic moment as the gamer faces a powerful opponent.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The gamer emerging victorious, with the city celebrating their win.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Champions:
     1. First Image: The protagonist preparing for a gaming competition in a neon-lit studio.
     2. Second Image: Transition From The First Image, The gamer’s skills gaining recognition in a high-energy cyberpunk community.
@@ -733,14 +733,14 @@ Title: Tech Champions:
 ================================================================ X ================================================================
 45. Category Name: Cybernetic Ghosts
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Phantoms:
     1. First Image: The protagonist, a cybernetic ghost, haunting the neon-lit city.
     2. Second Image: Transition From The First Image, The ghost interacting with the living, creating eerie and mysterious scenes.
     3. Third Image: Transition From The Second Image, A dramatic moment as the ghost faces a powerful exorcist.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The ghost finding peace, with the city’s neon lights reflecting their presence.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Spirits:
     1. First Image: The protagonist discovering a hidden enclave of tech spirits in the city.
     2. Second Image: Transition From The First Image, The spirits working together to haunt and protect the city.
@@ -749,14 +749,14 @@ Title: Tech Spirits:
 ================================================================ X ================================================================
 46. Category Name: Cybernetic Shadows
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Assassins:
     1. First Image: The protagonist, a cybernetic assassin, receiving a high-profile target in a neon-lit city.
     2. Second Image: Transition From The First Image, The assassin infiltrating a high-security building, using advanced gadgets and stealth.
     3. Third Image: Transition From The Second Image, A tense moment as the assassin takes out the target, showcasing their skills.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The assassin disappearing into the neon-lit night, mission accomplished.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Ninjas:
     1. First Image: The protagonist receiving an assassination mission in a high-tech hideout.
     2. Second Image: Transition From The First Image, The ninja tracking the target through the city’s neon-lit streets.
@@ -765,14 +765,14 @@ Title: Tech Ninjas:
 ================================================================ X ================================================================
 47. Category Name: Cybernetic Hunters
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Predators:
     1. First Image: The protagonist, a cybernetic hunter, tracking their prey in a neon-lit city.
     2. Second Image: Transition From The First Image, The hunter navigating through the city’s neon-lit underworld, facing challenges.
     3. Third Image: Transition From The Second Image, A dramatic confrontation with a powerful target, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The hunter successfully capturing their prey, with the city’s neon lights in the background.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Stalkers:
     1. First Image: The protagonist receiving a hunting mission in a high-tech headquarters.
     2. Second Image: Transition From The First Image, The stalker tracking the target through the city’s neon-lit streets.
@@ -781,14 +781,14 @@ Title: Tech Stalkers:
 ================================================================ X ================================================================
 48. Category Name: Cybernetic Thieves
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Rogues:
     1. First Image: The protagonist, a cybernetic thief, planning a heist in a neon-lit city.
     2. Second Image: Transition From The First Image, The thief infiltrating a high-security building, using advanced gadgets and stealth.
     3. Third Image: Transition From The Second Image, A tense moment as the thief faces a powerful security system.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The thief successfully completing the heist, with a sense of triumph.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Bandits:
     1. First Image: The protagonist planning a heist in a high-tech hideout.
     2. Second Image: Transition From The First Image, The bandits navigating through the city’s neon-lit streets, evading detection.
@@ -797,14 +797,14 @@ Title: Tech Bandits:
 ================================================================ X ================================================================
 49. Category Name: Cybernetic Spies
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Agents:
     1. First Image: The protagonist, a cybernetic spy, infiltrating a high-security building in a neon-lit city.
     2. Second Image: Transition From The First Image, The spy gathering critical information, using advanced gadgets and stealth.
     3. Third Image: Transition From The Second Image, A tense moment as the spy is discovered, showcasing intense action.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The spy successfully escaping with the information, mission accomplished.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Operatives:
     1. First Image: The protagonist receiving a mission briefing in a high-tech headquarters.
     2. Second Image: Transition From The First Image, The operative navigating through the city’s neon-lit streets, gathering intel.
@@ -813,14 +813,14 @@ Title: Tech Operatives:
 ================================================================ X ================================================================
 50. Category Name: Cybernetic Warriors
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Neon Fighters:
     1. First Image: The protagonist, a cybernetic warrior, preparing for battle in a neon-lit city.
     2. Second Image: Transition From The First Image, The warrior engaging in a high-stakes battle with powerful enemies.
     3. Third Image: Transition From The Second Image, A dramatic moment as the warrior overcomes a formidable foe.
     4. Fourth Image: Transition From The Third Image, Ending The Story, The warrior standing victorious, with the city’s neon lights reflecting their triumph.
 
-Prompt: Using The Attached Content To Create 4 Separate 'Widescreen Aspect Ratio' Images In 'Story Style' With 'Cyberpunk' Art Style.
+Prompt: Create four 'widescreen aspect ratio' images in a 'storybook style' with a 'Cyberpunk' art style. All images should maintain a cohesive design, resembling a storybook. Each image should be edited from the previous one, showing a progression of time and atmosphere.
 Title: Tech Combatants:
     1. First Image: The protagonist entering a high-tech combat arena, surrounded by spectators.
     2. Second Image: Transition From The First Image, Intense battles with other cybernetic fighters, showcasing advanced weapons and tactics.
