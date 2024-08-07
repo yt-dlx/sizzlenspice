@@ -29,14 +29,14 @@ Prompt 2:
 ================================================================ X ================================================================
 1. Category Name: Magical Forests
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted Grove:
     1. First Wallpaper: The Protagonist Discovering A Hidden Grove Filled With Glowing Plants And Mystical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering A Wise, Ancient Tree That Speaks Of Old Legends.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist Facing A Dark Force Threatening The Grove, Showcasing A Magical Battle.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Grove Returning To Its Serene State, With The Protagonist Honored By The Forest Spirits.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fairy Realm:
     1. First Wallpaper: The Protagonist Stumbling Upon A Realm Of Fairies, With Tiny, Glowing Beings Flying Around.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Fairies Customs And Magic.
@@ -45,14 +45,14 @@ Story Title: Fairy Realm:
 ================================================================ X ================================================================
 2. Category Name: Dragon Adventures
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dragon’S Lair:
     1. First Wallpaper: The Protagonist Standing At The Entrance Of A Massive, Ancient Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering A Mighty Dragon, With A Tense Standoff.
     3. Third Wallpaper: Transition From The Second Wallpaper, The Protagonist And Dragon Forming An Alliance, Facing A Common Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Riding The Dragon, Soaring Above The Mountains.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sky Riders:
     1. First Wallpaper: The Protagonist Being Chosen By A Dragon To Become A Rider.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training With The Dragon, Learning To Fly And Fight.
@@ -61,14 +61,14 @@ Story Title: Sky Riders:
 ================================================================ X ================================================================
 3. Category Name: Epic Quests
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Hero’S Journey:
     1. First Wallpaper: The Protagonist Setting Out From A Humble Village, Equipped For A Grand Adventure.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Various Trials And Making Allies Along The Way.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Against A Dark Sorcerer, Showcasing Intense Magical Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Returning Home As A Celebrated Hero, With The Village In Awe.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sacred Relic:
     1. First Wallpaper: The Protagonist Discovering An Ancient Map Leading To A Powerful Relic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Traveling Through Diverse And Dangerous Landscapes.
@@ -77,14 +77,14 @@ Story Title: Sacred Relic:
 ================================================================ X ================================================================
 4. Category Name: Kingdom Conflicts
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Royal Betrayal:
     1. First Wallpaper: The Protagonist Discovering A Plot To Overthrow The King In A Grand Castle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gathering Allies And Uncovering Secrets Within The Court.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Showdown With The Traitors, Showcasing Intense Combat And Intrigue.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Being Honored By The King, With Peace Restored To The Kingdom.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Siege Of The Castle:
     1. First Wallpaper: The Protagonist Preparing For An Imminent Siege, Standing Atop The Castle Walls.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Leading The Defense Against Invading Forces, Showcasing Strategic Battles.
@@ -93,14 +93,14 @@ Story Title: Siege Of The Castle:
 ================================================================ X ================================================================
 5. Category Name: Mythical Creatures
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Unicorn Valley:
     1. First Wallpaper: The Protagonist Entering A Hidden Valley Filled With Majestic Unicorns.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of A Unicorn And Learning About Their Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Helps Protect The Valley From Intruders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Valley Flourishing With The Unicorns, And The Protagonist Leaving With A Blessed Token.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Phoenix Rebirth:
     1. First Wallpaper: The Protagonist Discovering A Sacred Phoenix Nest In An Ancient Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Witnessing The Rebirth Of The Phoenix, Engulfed In Flames.
@@ -109,14 +109,14 @@ Story Title: Phoenix Rebirth:
 ================================================================ X ================================================================
 6. Category Name: Dark Magic
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cursed Forest:
     1. First Wallpaper: The Protagonist Entering A Dark, Cursed Forest, With Twisted Trees And Eerie Shadows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Malevolent Spirits And Overcoming Them With Light Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Powerful Dark Sorcerer Deep Within The Forest.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Returning To Its Natural State, With The Protagonist Lifting The Curse.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Haunted Manor:
     1. First Wallpaper: The Protagonist Arriving At A Foreboding, Abandoned Manor On A Stormy Night.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Manor, Encountering Restless Spirits.
@@ -125,14 +125,14 @@ Story Title: Haunted Manor:
 ================================================================ X ================================================================
 7. Category Name: Elemental Forces
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fire And Ice:
     1. First Wallpaper: The Protagonist Discovering A Realm Divided Between Fiery Landscapes And Icy Tundras.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining Elemental Powers And Training With Ancient Guardians.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Balance Fire And Ice To Defeat A Common Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Harmonized, With The Protagonist Recognized As A Master Of Elements.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Storm Chasers:
     1. First Wallpaper: The Protagonist Embarking On A Quest To Tame Wild Storms Plaguing The Land.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Battling Elemental Creatures, Showcasing Their Command Over Weather.
@@ -141,14 +141,14 @@ Story Title: Storm Chasers:
 ================================================================ X ================================================================
 8. Category Name: Ancient Ruins
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lost City:
     1. First Wallpaper: The Protagonist Discovering The Entrance To An Ancient, Forgotten City Buried In The Jungle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The City’S Ruins, Uncovering Long-Lost Secrets And Treasures.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Ancient Guardians Protecting The Citys Secrets.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Leaving The City With Newfound Knowledge And Artifacts.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Temple Of The Sun:
     1. First Wallpaper: The Protagonist Approaching A Majestic, Sunlit Temple Atop A Mountain.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Solving Ancient Puzzles And Overcoming Traps Within The Temple.
@@ -157,14 +157,14 @@ Story Title: Temple Of The Sun:
 ================================================================ X ================================================================
 9. Category Name: Underwater Realms
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mermaid Kingdom:
     1. First Wallpaper: The Protagonist Diving Into An Underwater Realm, Surrounded By Mermaids And Sea Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Mermaid Kingdom And Learning Their Customs.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Helps Defend The Kingdom From Invaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Kingdom Celebrating Their Victory, With The Protagonist Leaving With A Mermaid’S Blessing.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sunken Treasure:
     1. First Wallpaper: The Protagonist Discovering A Sunken Shipwreck Filled With Treasures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Wreck And Facing Underwater Challenges.
@@ -173,14 +173,14 @@ Story Title: Sunken Treasure:
 ================================================================ X ================================================================
 10. Category Name: Time Travel
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Temporal Quest:
     1. First Wallpaper: The Protagonist Discovering A Magical Artifact That Allows Them To Travel Through Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Visiting Different Eras, Each With Its Unique Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Correct A Timeline Disrupted By A Malevolent Force.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Timeline Restored, With The Protagonist Returning To Their Own Time With Newfound Wisdom.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eternal Moment:
     1. First Wallpaper: The Protagonist Encountering A Mysterious Figure Who Offers Them The Power To Stop Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring Frozen Moments And Learning About The Consequences Of Their Power.
@@ -189,14 +189,14 @@ Story Title: Eternal Moment:
 ================================================================ X ================================================================
 11. Category Name: Celestial Beings
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Star Guardians:
     1. First Wallpaper: The Protagonist Meeting Celestial Beings In A Starry, Cosmic Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training With The Star Guardians, Learning Celestial Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Cosmic Forces Threatening The Universe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist And Star Guardians Celebrating Their Victory, With The Stars Shining Brightly.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Moonlit Path:
     1. First Wallpaper: The Protagonist Embarking On A Journey Guided By The Light Of The Full Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
@@ -205,14 +205,14 @@ Story Title: Moonlit Path:
 ================================================================ X ================================================================
 12. Category Name: Magical Schools
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Wizard Academy:
     1. First Wallpaper: The Protagonist Entering A Grand Academy Filled With Aspiring Wizards And Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Attending Classes And Learning Powerful Spells.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist And Their Friends Must Defend The Academy From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Academy Safe, With The Protagonist Recognized As A Top Student.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted University:
     1. First Wallpaper: The Protagonist Enrolling In An Enchanted University, With Mystical Buildings And Libraries.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Forming Bonds With Other Students And Mastering Complex Magic.
@@ -221,14 +221,14 @@ Story Title: Enchanted University:
 ================================================================ X ================================================================
 13. Category Name: Elemental Guardians
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fire Guardian:
     1. First Wallpaper: The Protagonist Discovering A Hidden Temple Dedicated To The Fire Element.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Mastering Fire Magic Under The Guidance Of A Fire Guardian.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Threatening To Extinguish The Flames Of The Temple.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Flames Burning Bright, With The Protagonist Becoming The New Fire Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Water Guardian:
     1. First Wallpaper: The Protagonist Finding A Serene Lake With A Hidden Underwater Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning Water Magic From An Ancient Water Guardian.
@@ -237,14 +237,14 @@ Story Title: Water Guardian:
 ================================================================ X ================================================================
 14. Category Name: Enchanted Objects
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Magic Sword:
     1. First Wallpaper: The Protagonist Discovering An Ancient, Enchanted Sword In A Forgotten Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The History And Powers Of The Sword.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Where The Protagonist Uses The Sword To Defeat A Powerful Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sword Glowing With Power, With The Protagonist Becoming A Legendary Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Amulet:
     1. First Wallpaper: The Protagonist Finding A Mysterious Amulet In An Old, Dusty Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Uncovering The Amulet’S Magical Abilities And Its Connection To An Ancient Prophecy.
@@ -253,14 +253,14 @@ Story Title: Mystic Amulet:
 ================================================================ X ================================================================
 15. Category Name: Royalty And Nobility
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Royal Heir:
     1. First Wallpaper: The Protagonist Discovering They Are The Lost Heir To A Powerful Kingdom.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Navigating The Politics And Intrigue Of The Royal Court.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Defend Their Claim To The Throne Against Usurpers.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Crowned As The Rightful Ruler, With The Kingdom Celebrating.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Noble Quest:
     1. First Wallpaper: The Protagonist, A Young Noble, Embarking On A Quest To Prove Their Worth.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Various Challenges And Making Allies Along The Way.
@@ -269,14 +269,14 @@ Story Title: Noble Quest:
 ================================================================ X ================================================================
 16. Category Name: Enchanted Forests
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whispering Woods:
     1. First Wallpaper: The Protagonist Entering A Mysterious Forest Where The Trees Seem To Whisper Secrets.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Magical Creatures And Learning About The Forest’S Enchantments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Forest From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Flourishing, With The Protagonist Becoming A Guardian Of The Woods.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Glade:
     1. First Wallpaper: The Protagonist Discovering A Hidden Glade Filled With Glowing Flowers And Mystical Beings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Ancient Magic Of The Glade From Its Guardians.
@@ -285,14 +285,14 @@ Story Title: Mystic Glade:
 ================================================================ X ================================================================
 17. Category Name: Ancient Prophecies
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chosen One:
     1. First Wallpaper: The Protagonist Discovering They Are Part Of An Ancient Prophecy.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training To Fulfill Their Destiny, Learning From Wise Mentors.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Where The Protagonist Must Face A Prophesied Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Prophecy Fulfilled, With The Protagonist Celebrated As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sacred Scrolls:
     1. First Wallpaper: The Protagonist Finding Ancient Scrolls That Speak Of A Coming Darkness.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Traveling To Gather Allies And Prepare For The Foretold Battle.
@@ -301,14 +301,14 @@ Story Title: Sacred Scrolls:
 ================================================================ X ================================================================
 18. Category Name: Mystical Journeys
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ethereal Path:
     1. First Wallpaper: The Protagonist Embarking On A Journey Through A Realm Of Ethereal Beauty And Magic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Challenges That Test Their Courage And Resolve.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Seeking To Corrupt The Ethereal Realm.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Restored To Its Glory, With The Protagonist Recognized As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Journey Of Light:
     1. First Wallpaper: The Protagonist Setting Out On A Journey Guided By A Mysterious Light.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Magical Beings And Learning Powerful Spells.
@@ -317,14 +317,14 @@ Story Title: Journey Of Light:
 ================================================================ X ================================================================
 19. Category Name: Elemental Wars
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: War Of Fire And Ice:
     1. First Wallpaper: The Protagonist Finding Themselves In The Middle Of A War Between Fire And Ice Elemental Factions.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Allying With One Faction And Learning Their Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Where The Protagonist Must Bring Balance To The Warring Elements.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Elements At Peace, With The Protagonist Hailed As A Hero By Both Factions.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Storm And Earth:
     1. First Wallpaper: The Protagonist Discovering A Conflict Between Storm And Earth Elementals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Earth Elementals And Learning Their Ways.
@@ -333,14 +333,14 @@ Story Title: Storm And Earth:
 ================================================================ X ================================================================
 20. Category Name: Enchanted Castles
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Fortress:
     1. First Wallpaper: The Protagonist Discovering An Ancient, Enchanted Fortress Hidden In The Mountains.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Fortress And Unlocking Its Secrets.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Seeking To Claim The Fortress’S Power.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Fortress Glowing With Renewed Magic, With The Protagonist As Its Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Castle Of Shadows:
     1. First Wallpaper: The Protagonist Entering A Dark, Foreboding Castle Shrouded In Mystery.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Shadowy Beings And Learning The Castle’S Dark History.
@@ -349,14 +349,14 @@ Story Title: Castle Of Shadows:
 ================================================================ X ================================================================
 21. Category Name: Legendary Artifacts
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sword Of Legends:
     1. First Wallpaper: The Protagonist Discovering An Ancient, Legendary Sword In A Forgotten Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning To Wield The Sword And Uncovering Its History.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Where The Protagonist Uses The Sword To Defeat A Powerful Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sword Glowing With Power, With The Protagonist Becoming A Legendary Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Shield Of Valor:
     1. First Wallpaper: The Protagonist Finding A Mythical Shield Said To Possess Great Power.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Mastering The Shield’S Abilities And Facing Various Trials.
@@ -365,14 +365,14 @@ Story Title: Shield Of Valor:
 ================================================================ X ================================================================
 22. Category Name: Celestial Realms
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Realm Of Stars:
     1. First Wallpaper: The Protagonist Discovering A Portal To A Realm Filled With Stars And Celestial Beings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning Celestial Magic And Exploring The Realm.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Realm From Dark Cosmic Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Safe, With The Protagonist Honored By Celestial Beings.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Moonlit Realm:
     1. First Wallpaper: The Protagonist Entering A Realm Illuminated By The Light Of The Full Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
@@ -381,14 +381,14 @@ Story Title: Moonlit Realm:
 ================================================================ X ================================================================
 23. Category Name: Elemental Creatures
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Phoenix Rebirth:
     1. First Wallpaper: The Protagonist Discovering A Sacred Phoenix Nest In An Ancient Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Witnessing The Rebirth Of The Phoenix, Engulfed In Flames.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Trying To Capture The Phoenix, Showcasing Intense Action.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Phoenix Flying Free, With The Protagonist Basking In Its Magical Aura.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Dragon’S Roar:
     1. First Wallpaper: The Protagonist Discovering An Ancient Dragon Egg In A Hidden Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Raising The Dragon And Forming A Strong Bond.
@@ -397,14 +397,14 @@ Story Title: Dragon’S Roar:
 ================================================================ X ================================================================
 24. Category Name: Mythical Realms
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Land Of Giants:
     1. First Wallpaper: The Protagonist Entering A Realm Inhabited By Towering Giants.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Forming An Alliance With The Giants And Learning Their Ways.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist And Giants Must Defend Their Realm From Invaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Thriving, With The Protagonist Honored By The Giants.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fairy Kingdom:
     1. First Wallpaper: The Protagonist Discovering A Hidden Fairy Kingdom In An Enchanted Forest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Fairies And Learning Their Magic.
@@ -413,14 +413,14 @@ Story Title: Fairy Kingdom:
 ================================================================ X ================================================================
 25. Category Name: Legendary Beasts
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Griffin’S Call:
     1. First Wallpaper: The Protagonist Discovering A Griffin’S Nest In A Hidden Valley.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training With The Griffin, Showing Their Growing Partnership.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Dramatic Battle Against Poachers Threatening The Griffins.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist And Griffin Protecting Their Home, With A Sense Of Harmony.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chimera Hunt:
     1. First Wallpaper: The Protagonist Tracking A Powerful Chimera In A Dark, Ancient Forest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Preparing Traps And Strategies To Capture The Chimera.
@@ -429,14 +429,14 @@ Story Title: Chimera Hunt:
 ================================================================ X ================================================================
 26. Category Name: Enchanted Items
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal Ball:
     1. First Wallpaper: The Protagonist Discovering An Ancient Crystal Ball In A Forgotten Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning To Use The Crystal Ball To See Visions Of The Future.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Uses The Crystal Ball To Avert A Great Disaster.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Crystal Ball Glowing With Power, With The Protagonist Revered As A Seer.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Magic Staff:
     1. First Wallpaper: The Protagonist Finding A Mystical Staff In An Old Wizard’S Tower.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Mastering The Staff’S Powerful Spells.
@@ -445,14 +445,14 @@ Story Title: Magic Staff:
 ================================================================ X ================================================================
 27. Category Name: Legendary Heroes
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Warrior’S Legacy:
     1. First Wallpaper: The Protagonist Discovering They Are The Descendant Of A Legendary Warrior.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training To Live Up To Their Ancestor’S Legacy.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Where The Protagonist Proves Their Worth In Combat.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Celebrated As A New Legend, With The Kingdom Honoring Their Name.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Champion’S Quest:
     1. First Wallpaper: The Protagonist Setting Out On A Quest To Retrieve A Legendary Artifact.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Various Trials And Challenges Along The Way.
@@ -461,14 +461,14 @@ Story Title: Champion’S Quest:
 ================================================================ X ================================================================
 28. Category Name: Ancient Spirits
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Spirit Of The Forest:
     1. First Wallpaper: The Protagonist Encountering An Ancient Spirit In A Mystical Forest.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Ways Of The Spirit And The Secrets Of The Forest.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Spirit From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Thriving, With The Protagonist Honored As A Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ghostly Guardian:
     1. First Wallpaper: The Protagonist Encountering A Ghostly Guardian In An Ancient Ruin.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Guardian’S History And Their Unfinished Task.
@@ -477,14 +477,14 @@ Story Title: Ghostly Guardian:
 ================================================================ X ================================================================
 29. Category Name: Hidden Villages
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Village:
     1. First Wallpaper: The Protagonist Discovering A Hidden Village Protected By Ancient Magic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Villagers And Learning Their Ways.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Village From Invaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Village Safe, With The Protagonist Becoming An Honorary Member.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Secret Sanctuary:
     1. First Wallpaper: The Protagonist Finding A Secret Sanctuary Hidden Deep Within The Mountains.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Sanctuary’S Ancient Secrets And Its Guardians.
@@ -493,14 +493,14 @@ Story Title: Secret Sanctuary:
 ================================================================ X ================================================================
 30. Category Name: Elemental Realms
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Realm Of Fire:
     1. First Wallpaper: The Protagonist Entering A Fiery Realm Filled With Lava And Fire Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Fire Beings And Learning Their Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Where The Protagonist Must Protect The Realm From Invaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Glowing With Power, With The Protagonist Honored As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Realm Of Water:
     1. First Wallpaper: The Protagonist Diving Into A Watery Realm Filled With Aquatic Creatures And Magic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Water Beings And Learning Their Ways.
@@ -509,14 +509,14 @@ Story Title: Realm Of Water:
 ================================================================ X ================================================================
 31. Category Name: Legendary Cities
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: City Of Gold:
     1. First Wallpaper: The Protagonist Discovering A Legendary City Made Entirely Of Gold.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The City And Uncovering Its Secrets.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Where The Protagonist Must Protect The City From Treasure Hunters.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The City Thriving, With The Protagonist Honored As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Crystal City:
     1. First Wallpaper: The Protagonist Entering A City Made Of Shimmering Crystals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The City’S Ancient Magic And Its Guardians.
@@ -525,14 +525,14 @@ Story Title: Crystal City:
 ================================================================ X ================================================================
 32. Category Name: Magical Portals
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Portal To Another World:
     1. First Wallpaper: The Protagonist Discovering A Magical Portal That Leads To Another World.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The New World And Its Wonders.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Portal From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Portal Safe, With The Protagonist Gaining The Trust Of Both Worlds.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Gateway To The Past:
     1. First Wallpaper: The Protagonist Finding A Gateway That Leads To A Different Time Period.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Past And Learning Its Secrets.
@@ -541,14 +541,14 @@ Story Title: Gateway To The Past:
 ================================================================ X ================================================================
 33. Category Name: Enchanted Gardens
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Garden Of Wonders:
     1. First Wallpaper: The Protagonist Discovering A Magical Garden Filled With Enchanted Plants And Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Secrets Of The Garden And Its Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Garden From Intruders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Garden Flourishing, With The Protagonist Becoming Its Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Orchard:
     1. First Wallpaper: The Protagonist Entering An Orchard Where The Trees Bear Magical Fruit.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Orchard’S Ancient Secrets And Its Caretakers.
@@ -557,14 +557,14 @@ Story Title: Mystic Orchard:
 ================================================================ X ================================================================
 34. Category Name: Celestial Beings
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Star Guardians:
     1. First Wallpaper: The Protagonist Meeting Celestial Beings In A Starry, Cosmic Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training With The Star Guardians, Learning Celestial Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Cosmic Forces Threatening The Universe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist And Star Guardians Celebrating Their Victory, With The Stars Shining Brightly.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Moonlit Path:
     1. First Wallpaper: The Protagonist Embarking On A Journey Guided By The Light Of The Full Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
@@ -573,14 +573,14 @@ Story Title: Moonlit Path:
 ================================================================ X ================================================================
 35. Category Name: Elemental Guardians
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fire Guardian:
     1. First Wallpaper: The Protagonist Discovering A Hidden Temple Dedicated To The Fire Element.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Mastering Fire Magic Under The Guidance Of A Fire Guardian.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Threatening To Extinguish The Flames Of The Temple.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Flames Burning Bright, With The Protagonist Becoming The New Fire Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Water Guardian:
     1. First Wallpaper: The Protagonist Finding A Serene Lake With A Hidden Underwater Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning Water Magic From An Ancient Water Guardian.
@@ -589,14 +589,14 @@ Story Title: Water Guardian:
 ================================================================ X ================================================================
 36. Category Name: Mythical Creatures
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Unicorn Valley:
     1. First Wallpaper: The Protagonist Entering A Hidden Valley Filled With Majestic Unicorns.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of A Unicorn And Learning About Their Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Helps Protect The Valley From Intruders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Valley Flourishing With The Unicorns, And The Protagonist Leaving With A Blessed Token.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Phoenix Rebirth:
     1. First Wallpaper: The Protagonist Discovering A Sacred Phoenix Nest In An Ancient Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Witnessing The Rebirth Of The Phoenix, Engulfed In Flames.
@@ -605,14 +605,14 @@ Story Title: Phoenix Rebirth:
 ================================================================ X ================================================================
 37. Category Name: Dark Magic
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Cursed Forest:
     1. First Wallpaper: The Protagonist Entering A Dark, Cursed Forest, With Twisted Trees And Eerie Shadows.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Malevolent Spirits And Overcoming Them With Light Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Confrontation With A Powerful Dark Sorcerer Deep Within The Forest.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Returning To Its Natural State, With The Protagonist Lifting The Curse.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Haunted Manor:
     1. First Wallpaper: The Protagonist Arriving At A Foreboding, Abandoned Manor On A Stormy Night.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Manor, Encountering Restless Spirits.
@@ -621,14 +621,14 @@ Story Title: Haunted Manor:
 ================================================================ X ================================================================
 38. Category Name: Elemental Forces
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fire And Ice:
     1. First Wallpaper: The Protagonist Discovering A Realm Divided Between Fiery Landscapes And Icy Tundras.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining Elemental Powers And Training With Ancient Guardians.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Balance Fire And Ice To Defeat A Common Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Harmonized, With The Protagonist Recognized As A Master Of Elements.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Storm Chasers:
     1. First Wallpaper: The Protagonist Embarking On A Quest To Tame Wild Storms Plaguing The Land.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Battling Elemental Creatures, Showcasing Their Command Over Weather.
@@ -637,14 +637,14 @@ Story Title: Storm Chasers:
 ================================================================ X ================================================================
 39. Category Name: Ancient Ruins
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Lost City:
     1. First Wallpaper: The Protagonist Discovering The Entrance To An Ancient, Forgotten City Buried In The Jungle.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The City’S Ruins, Uncovering Long-Lost Secrets And Treasures.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict With Ancient Guardians Protecting The Citys Secrets.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Leaving The City With Newfound Knowledge And Artifacts.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Temple Of The Sun:
     1. First Wallpaper: The Protagonist Approaching A Majestic, Sunlit Temple Atop A Mountain.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Solving Ancient Puzzles And Overcoming Traps Within The Temple.
@@ -653,14 +653,14 @@ Story Title: Temple Of The Sun:
 ================================================================ X ================================================================
 40. Category Name: Underwater Realms
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mermaid Kingdom:
     1. First Wallpaper: The Protagonist Diving Into An Underwater Realm, Surrounded By Mermaids And Sea Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Mermaid Kingdom And Learning Their Customs.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Helps Defend The Kingdom From Invaders.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Kingdom Celebrating Their Victory, With The Protagonist Leaving With A Mermaid’S Blessing.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sunken Treasure:
     1. First Wallpaper: The Protagonist Discovering A Sunken Shipwreck Filled With Treasures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring The Wreck And Facing Underwater Challenges.
@@ -669,14 +669,14 @@ Story Title: Sunken Treasure:
 ================================================================ X ================================================================
 41. Category Name: Time Travel
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Temporal Quest:
     1. First Wallpaper: The Protagonist Discovering A Magical Artifact That Allows Them To Travel Through Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Visiting Different Eras, Each With Its Unique Challenges.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Correct A Timeline Disrupted By A Malevolent Force.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Timeline Restored, With The Protagonist Returning To Their Own Time With Newfound Wisdom.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Eternal Moment:
     1. First Wallpaper: The Protagonist Encountering A Mysterious Figure Who Offers Them The Power To Stop Time.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Exploring Frozen Moments And Learning About The Consequences Of Their Power.
@@ -685,14 +685,14 @@ Story Title: Eternal Moment:
 ================================================================ X ================================================================
 42. Category Name: Celestial Beings
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Star Guardians:
     1. First Wallpaper: The Protagonist Meeting Celestial Beings In A Starry, Cosmic Landscape.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training With The Star Guardians, Learning Celestial Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Cosmic Forces Threatening The Universe.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist And Star Guardians Celebrating Their Victory, With The Stars Shining Brightly.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Moonlit Path:
     1. First Wallpaper: The Protagonist Embarking On A Journey Guided By The Light Of The Full Moon.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Moon Spirits And Learning Lunar Magic.
@@ -701,14 +701,14 @@ Story Title: Moonlit Path:
 ================================================================ X ================================================================
 43. Category Name: Magical Schools
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Wizard Academy:
     1. First Wallpaper: The Protagonist Entering A Grand Academy Filled With Aspiring Wizards And Magical Creatures.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Attending Classes And Learning Powerful Spells.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist And Their Friends Must Defend The Academy From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Academy Safe, With The Protagonist Recognized As A Top Student.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Enchanted University:
     1. First Wallpaper: The Protagonist Enrolling In An Enchanted University, With Mystical Buildings And Libraries.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Forming Bonds With Other Students And Mastering Complex Magic.
@@ -717,14 +717,14 @@ Story Title: Enchanted University:
 ================================================================ X ================================================================
 44. Category Name: Elemental Guardians
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Fire Guardian:
     1. First Wallpaper: The Protagonist Discovering A Hidden Temple Dedicated To The Fire Element.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Mastering Fire Magic Under The Guidance Of A Fire Guardian.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Threatening To Extinguish The Flames Of The Temple.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Flames Burning Bright, With The Protagonist Becoming The New Fire Guardian.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Water Guardian:
     1. First Wallpaper: The Protagonist Finding A Serene Lake With A Hidden Underwater Temple.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning Water Magic From An Ancient Water Guardian.
@@ -733,14 +733,14 @@ Story Title: Water Guardian:
 ================================================================ X ================================================================
 45. Category Name: Enchanted Objects
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Magic Sword:
     1. First Wallpaper: The Protagonist Discovering An Ancient, Enchanted Sword In A Forgotten Cave.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The History And Powers Of The Sword.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Where The Protagonist Uses The Sword To Defeat A Powerful Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Sword Glowing With Power, With The Protagonist Becoming A Legendary Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Amulet:
     1. First Wallpaper: The Protagonist Finding A Mysterious Amulet In An Old, Dusty Library.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Uncovering The Amulet’S Magical Abilities And Its Connection To An Ancient Prophecy.
@@ -749,14 +749,14 @@ Story Title: Mystic Amulet:
 ================================================================ X ================================================================
 46. Category Name: Royalty And Nobility
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Royal Heir:
     1. First Wallpaper: The Protagonist Discovering They Are The Lost Heir To A Powerful Kingdom.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Navigating The Politics And Intrigue Of The Royal Court.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Defend Their Claim To The Throne Against Usurpers.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Protagonist Crowned As The Rightful Ruler, With The Kingdom Celebrating.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Noble Quest:
     1. First Wallpaper: The Protagonist, A Young Noble, Embarking On A Quest To Prove Their Worth.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Various Challenges And Making Allies Along The Way.
@@ -765,14 +765,14 @@ Story Title: Noble Quest:
 ================================================================ X ================================================================
 47. Category Name: Enchanted Forests
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Whispering Woods:
     1. First Wallpaper: The Protagonist Entering A Mysterious Forest Where The Trees Seem To Whisper Secrets.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Magical Creatures And Learning About The Forest’S Enchantments.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Conflict Where The Protagonist Must Protect The Forest From Dark Forces.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Forest Flourishing, With The Protagonist Becoming A Guardian Of The Woods.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Mystic Glade:
     1. First Wallpaper: The Protagonist Discovering A Hidden Glade Filled With Glowing Flowers And Mystical Beings.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Learning The Ancient Magic Of The Glade From Its Guardians.
@@ -781,14 +781,14 @@ Story Title: Mystic Glade:
 ================================================================ X ================================================================
 48. Category Name: Ancient Prophecies
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Chosen One:
     1. First Wallpaper: The Protagonist Discovering They Are Part Of An Ancient Prophecy.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Training To Fulfill Their Destiny, Learning From Wise Mentors.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Where The Protagonist Must Face A Prophesied Enemy.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Prophecy Fulfilled, With The Protagonist Celebrated As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Sacred Scrolls:
     1. First Wallpaper: The Protagonist Finding Ancient Scrolls That Speak Of A Coming Darkness.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Traveling To Gather Allies And Prepare For The Foretold Battle.
@@ -797,14 +797,14 @@ Story Title: Sacred Scrolls:
 ================================================================ X ================================================================
 49. Category Name: Mystical Journeys
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Ethereal Path:
     1. First Wallpaper: The Protagonist Embarking On A Journey Through A Realm Of Ethereal Beauty And Magic.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Facing Challenges That Test Their Courage And Resolve.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Battle Against Dark Forces Seeking To Corrupt The Ethereal Realm.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Realm Restored To Its Glory, With The Protagonist Recognized As A Hero.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Journey Of Light:
     1. First Wallpaper: The Protagonist Setting Out On A Journey Guided By A Mysterious Light.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Encountering Magical Beings And Learning Powerful Spells.
@@ -813,14 +813,14 @@ Story Title: Journey Of Light:
 ================================================================ X ================================================================
 50. Category Name: Elemental Wars
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: War Of Fire And Ice:
     1. First Wallpaper: The Protagonist Finding Themselves In The Middle Of A War Between Fire And Ice Elemental Factions.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Allying With One Faction And Learning Their Magic.
     3. Third Wallpaper: Transition From The Second Wallpaper, A Climactic Battle Where The Protagonist Must Bring Balance To The Warring Elements.
     4. Fourth Wallpaper: Transition From The Third Wallpaper, Ending The Story, The Elements At Peace, With The Protagonist Hailed As A Hero By Both Factions.
 
-Prompt: Create Four Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
+Prompt: Create Four Separate Wallpapers In A Storybook Style With Fantasy Art Style. Wallpapers Should Maintain A Cohesive Design, Resembling A Storybook. Each Wallpaper Should Be Edited From The Previous One, Showing A Progression Of Time And Atmosphere.
 Story Title: Storm And Earth:
     1. First Wallpaper: The Protagonist Discovering A Conflict Between Storm And Earth Elementals.
     2. Second Wallpaper: Transition From The First Wallpaper, The Protagonist Gaining The Trust Of The Earth Elementals And Learning Their Ways.
