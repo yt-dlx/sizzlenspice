@@ -29,7 +29,3 @@ fetchAllData();
 // 734003
 // Shovit
 // Dutta
-
-
-
-

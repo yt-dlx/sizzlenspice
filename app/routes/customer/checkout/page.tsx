@@ -30,8 +30,7 @@ export default function CartPage() {
     customerEmail: "",
     locationData: { latitude: "", longitude: "", address: "", pincode: "" },
   });
-  const ToggleVisualize = (orderId: string) =>
-    setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
+  const ToggleVisualize = (orderId: string) => setVisualizedOrders((prev) => ({ ...prev, [orderId]: !prev[orderId] }));
 
   const {
     data: prevOrders,
@@ -93,13 +92,7 @@ export default function CartPage() {
         const channel = pusherClient.subscribe(`user-${session.user.email}`);
         setPusherChannel(channel);
         channel.bind("order-updated", (data: { orderId: string; status: string }) => {
-          queryClient.setQueryData<Order[]>(
-            ["orders", session?.user?.email],
-            (oldData) =>
-              oldData?.map((order) =>
-                order._id === data.orderId ? { ...order, status: data.status } : order
-              ) || []
-          );
+          queryClient.setQueryData<Order[]>(["orders", session?.user?.email], (oldData) => oldData?.map((order) => (order._id === data.orderId ? { ...order, status: data.status } : order)) || []);
         });
         fetch("/api/user", { method: "GET", headers: { "Content-Type": "application/json" } })
           .then((response) => response.json())
@@ -159,10 +152,7 @@ export default function CartPage() {
   return (
     <main className="max-w-full mx-auto overflow-hidden bg-primary p-4">
       {showGif && (
-        <section
-          id="ShowGif"
-          className="fixed inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50"
-        >
+        <section id="ShowGif" className="fixed inset-0 flex flex-col items-center justify-center bg-secondary/60 text-primary backdrop-blur-2xl z-50">
           <img src="/Moto.gif" alt="Moto" className="object-contain h-72 sm:h-80 lg:h-96" />
           <p className="mb-4 text-5xl md:text-9xl">Order Placed,</p>
           <ul className="text-lg md:xl p-8 list-disc">
@@ -180,16 +170,10 @@ export default function CartPage() {
         className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
       >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation
-            sequence={["Order Summary", 2000]}
-            repeat={Infinity}
-            wrapper="span"
-            speed={2}
-          />
+          <TypeAnimation sequence={["Order Summary", 2000]} repeat={Infinity} wrapper="span" speed={2} />
         </h1>
         <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
-          Here's a summary of your order, <span className="underline">{session?.user?.name}</span>!{" "}
-          <br />
+          Here's a summary of your order, <span className="underline">{session?.user?.name}</span>! <br />
           Review it and make changes if required!
         </h2>
         <img src="/checkout.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112" />
@@ -204,18 +188,9 @@ export default function CartPage() {
       )}
       <section id="cart-items" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-2 mb-8">
         {cart.map((item: any, index: number) => (
-          <div
-            key={index}
-            className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-xl"
-          >
+          <div key={index} className="flex items-center justify-between mb-4 bg-secondary/20 p-4 rounded-xl">
             <div className="flex items-center gap-2">
-              <Image
-                width={540}
-                height={540}
-                alt={item.title}
-                src={item.image}
-                className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary"
-              />
+              <Image width={540} height={540} alt={item.title} src={item.image} className="object-cover w-14 h-14 rounded-full shadow shadow-secondary border-2 border-secondary" />
               <div>
                 <h3 className="font-bold text-secondary">{item.title}</h3>
                 <p className="text-sm text-secondary/70">{item.selectedSize} plate</p>
@@ -224,12 +199,7 @@ export default function CartPage() {
             <div className="flex items-center">
               <button
                 onClick={() => {
-                  updateCartItemQuantity(
-                    item.title,
-                    item.selectedSize,
-                    item.restaurantId,
-                    item.quantity - 1
-                  );
+                  updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity - 1);
                 }}
                 className="text-secondary px-2"
               >
@@ -238,12 +208,7 @@ export default function CartPage() {
               <span className="mx-2 text-secondary">{item.quantity}</span>
               <button
                 onClick={() => {
-                  updateCartItemQuantity(
-                    item.title,
-                    item.selectedSize,
-                    item.restaurantId,
-                    item.quantity + 1
-                  );
+                  updateCartItemQuantity(item.title, item.selectedSize, item.restaurantId, item.quantity + 1);
                 }}
                 className="text-secondary px-2"
               >
@@ -266,29 +231,24 @@ export default function CartPage() {
           <section id="delivery-info" className="flex items-center justify-center">
             <section className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-2 rounded-xl text-primary shadow-md shadow-secondary">
               <div className="bg-primary/20 rounded-xl p-4">
-                <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">
-                  Delivery Information
-                </h4>
+                <h4 className="font-bold mb-3 text-3xl border-b border-primary pb-2">Delivery Information</h4>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div className="flex items-center">
                     <HiLocationMarker size={20} className="inline-flex mr-2" />
                     <p>
-                      <span className="font-semibold">Address:</span>{" "}
-                      {userData.locationData.address}
+                      <span className="font-semibold">Address:</span> {userData.locationData.address}
                     </p>
                   </div>
                   <div className="flex items-center">
                     <HiCreditCard size={20} className="inline-flex mr-2" />
                     <p>
-                      <span className="font-semibold">Pincode:</span>{" "}
-                      {userData.locationData.pincode}
+                      <span className="font-semibold">Pincode:</span> {userData.locationData.pincode}
                     </p>
                   </div>
                   <div className="flex items-center">
                     <HiGlobe size={20} className="inline-flex mr-2" />
                     <p>
-                      <span className="font-semibold">Coordinates:</span>{" "}
-                      {userData.locationData.latitude}, {userData.locationData.longitude}
+                      <span className="font-semibold">Coordinates:</span> {userData.locationData.latitude}, {userData.locationData.longitude}
                     </p>
                   </div>
                   <div className="flex items-center">
@@ -311,8 +271,7 @@ export default function CartPage() {
                   onClick={ConfirmOrder}
                   className="w-full p-2 transition duration-700 ease-in-out transform rounded-xl bg-primary hover:bg-tertiary text-secondary flex items-center justify-center gap-2"
                 >
-                  <LuBike size={25} />{" "}
-                  {isLoading ? "Processing..." : "Confirm Data and Place Order"}
+                  <LuBike size={25} /> {isLoading ? "Processing..." : "Confirm Data and Place Order"}
                 </button>
                 <Link
                   href={"/routes/customer/menu"}
@@ -345,17 +304,10 @@ export default function CartPage() {
         )
       ) : null}
       {prevOrders && prevOrders.length > 0 && (
-        <section
-          id="previous-orders"
-          className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary"
-        >
-          <h3 className="text-4xl bg-secondary text-primary px-3 py-2 rounded-xl flex items-center mb-2 shadow-md shadow-secondary">
-            My Orders
-          </h3>
+        <section id="previous-orders" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto mt-8 text-secondary">
+          <h3 className="text-4xl bg-secondary text-primary px-3 py-2 rounded-xl flex items-center mb-2 shadow-md shadow-secondary">My Orders</h3>
           {prevOrders
-            .sort(
-              (a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime()
-            )
+            .sort((a: any, b: any) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
             .map((order: any, index: number) => (
               <div key={index} className="bg-secondary/80 text-primary p-4 rounded-xl mb-4">
                 <div className="flex justify-between items-center">
@@ -379,28 +331,16 @@ export default function CartPage() {
                 </div>
                 <ul className="list-disc ml-8">
                   <li className="md:text-lg lg:text-xl">
-                    Date & Time:{" "}
-                    <span className="text-xs sm:text-sm md:text-lg">
-                      {order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}
-                    </span>
+                    Date & Time: <span className="text-xs sm:text-sm md:text-lg">{order.createdAt ? new Date(order.createdAt).toLocaleString() : "N/A"}</span>
                   </li>
                   <li className="md:text-lg lg:text-xl">
-                    Total:{" "}
-                    <span className="text-xs sm:text-sm md:text-lg">
-                      {typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}
-                    </span>
+                    Total: <span className="text-xs sm:text-sm md:text-lg">{typeof order.total === "number" ? order.total.toFixed(2) : "N/A"}</span>
                   </li>
                   <li className="md:text-lg lg:text-xl">
-                    Items:{" "}
-                    <span className="text-xs sm:text-sm md:text-lg">
-                      {order.items && order.items.length > 0 ? order.items.length : "No items"}
-                    </span>
+                    Items: <span className="text-xs sm:text-sm md:text-lg">{order.items && order.items.length > 0 ? order.items.length : "No items"}</span>
                   </li>
                   <li className="md:text-lg lg:text-xl">
-                    Status:{" "}
-                    <span className="text-xs sm:text-sm md:text-lg animate-pulse">
-                      {order.status}
-                    </span>
+                    Status: <span className="text-xs sm:text-sm md:text-lg animate-pulse">{order.status}</span>
                   </li>
                 </ul>
                 {visualizedOrders[order._id] && order.items && order.items.length > 0 && (
@@ -415,14 +355,8 @@ export default function CartPage() {
                       </thead>
                       <tbody className="text-xs">
                         {order.items.map((item: any, itemIndex: number) => {
-                          const price =
-                            typeof item.price === "number"
-                              ? item.price
-                              : parseFloat(item.price) || 0;
-                          const quantity =
-                            typeof item.quantity === "number"
-                              ? item.quantity
-                              : parseInt(item.quantity, 10) || 0;
+                          const price = typeof item.price === "number" ? item.price : parseFloat(item.price) || 0;
+                          const quantity = typeof item.quantity === "number" ? item.quantity : parseInt(item.quantity, 10) || 0;
                           return (
                             <tr key={itemIndex} className="border-b border-secondary/10">
                               <td className="p-2 font-light">{item.title}</td>

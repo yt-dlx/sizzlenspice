@@ -53,10 +53,5 @@ export interface StoreState {
   getCartTotal: () => number;
   addToCart: (item: FoodItem & { selectedSize: string; restaurantId: string }) => void;
   removeFromCart: (itemTitle: string, selectedSize: string, restaurantId: string) => void;
-  updateCartItemQuantity: (
-    itemTitle: string,
-    selectedSize: string,
-    restaurantId: string,
-    quantity: number
-  ) => void;
+  updateCartItemQuantity: (itemTitle: string, selectedSize: string, restaurantId: string, quantity: number) => void;
 }

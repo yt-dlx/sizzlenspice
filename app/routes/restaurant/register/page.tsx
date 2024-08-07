@@ -9,15 +9,7 @@ import { useMutation } from "@tanstack/react-query";
 import { TypeAnimation } from "react-type-animation";
 import React, { useState, useEffect, FormEvent } from "react";
 // import { restaurantRegisterSchema } from "@/app/api/restaurant/register/route";
-import {
-  FaEnvelope,
-  FaPhone,
-  FaMapMarkerAlt,
-  FaMapPin,
-  FaClock,
-  FaUser,
-  FaIdCard,
-} from "react-icons/fa";
+import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaMapPin, FaClock, FaUser, FaIdCard } from "react-icons/fa";
 
 const initialUserData = {
   name: "",
@@ -41,8 +33,7 @@ export default function RegisterPage() {
   const [errorMessage, setErrorMessage] = useState("");
   const [userData, setUserData] = useState(initialUserData);
   const [verificationMessage, setVerificationMessage] = useState("");
-  const handleInputChange = (field: UserDataKey, value: string | boolean) =>
-    setUserData((prev) => ({ ...prev, [field]: value }));
+  const handleInputChange = (field: UserDataKey, value: string | boolean) => setUserData((prev) => ({ ...prev, [field]: value }));
   useEffect(() => {
     if (session?.user?.email) {
       setUserData((prev) => ({ ...prev, email: session?.user?.email! }));
@@ -164,34 +155,18 @@ export default function RegisterPage() {
         className="flex flex-col md:justify-center md:items-center sm:text-center text-secondary"
       >
         <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-secondary">
-          <TypeAnimation
-            sequence={["Register Restaurant", 2000]}
-            repeat={Infinity}
-            wrapper="span"
-            speed={2}
-          />
+          <TypeAnimation sequence={["Register Restaurant", 2000]} repeat={Infinity} wrapper="span" speed={2} />
         </h1>
-        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">
-          Register your restaurant to start using our services!
-        </h2>
-        <img
-          src="/svg/register.gif"
-          className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180"
-        />
+        <h2 className="text-lg sm:text-2xl md:text-3xl py-2">Register your restaurant to start using our services!</h2>
+        <img src="/svg/register.gif" className="mx-auto object-cover h-80 sm:h-96 lg:h-112 hue-rotate-180" />
       </motion.section>
-      <section
-        id="register"
-        className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary"
-      >
+      <section id="register" className="max-w-2xl sm:max-w-4xl md:max-w-6xl mx-auto flex flex-col m-2 bg-secondary p-4 rounded-xl text-primary shadow-md shadow-secondary">
         {verificationMessage && (
           <div className="text-primary">
             <p>Your registration is currently pending verification.</p>
             <p>Please wait while our team reviews your information.</p>
             <p>This process can take up to 24-48 hours.</p>
-            <p>
-              Once your account has been verified, you will be able to visit your restaurant profile
-              page to start using our services.
-            </p>
+            <p>Once your account has been verified, you will be able to visit your restaurant profile page to start using our services.</p>
             <p>Thank you for your patience.</p>
           </div>
         )}

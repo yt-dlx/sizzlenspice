@@ -7,8 +7,7 @@ export async function POST(request: NextRequest) {
   const session = await auth();
   if (!session?.user?.email) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   const { restaurantId, verified } = await request.json();
-  if (!restaurantId)
-    return NextResponse.json({ error: "Restaurant ID is required" }, { status: 400 });
+  if (!restaurantId) return NextResponse.json({ error: "Restaurant ID is required" }, { status: 400 });
   try {
     const updatedRestaurant = await prisma.restaurant.update({
       where: { id: restaurantId },
