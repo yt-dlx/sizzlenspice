@@ -184,13 +184,13 @@ export default function RestaurantOrdersPage() {
           <div className="lg:col-span-1">
             <div className="bg-secondary/10 rounded-lg shadow-md p-4 text-secondary">
               <h2 className="text-4xl mb-4">Orders</h2>
-              <motion.input whileFocus={{ scale: 1.02 }} type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-[#1C2924] text-secondary" />
+              <motion.input whileFocus={{ scale: 1.02 }} type="text" placeholder="Search orders..." className="w-full p-2 mb-4 rounded-md bg-primary text-secondary" />
               <div className="space-y-4">
                 {Object.keys(groupedOrders).map((email) => (
                   <div key={email}>
                     <h3 className="font-bold text-lg mb-2">{email}</h3>
                     {groupedOrders[email].map((order) => (
-                      <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-[#1C2924]" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
+                      <div key={order._id} className={`p-4 rounded-lg cursor-pointer ${selectedOrder?._id === order._id ? "bg-primary" : "bg-secondary/10"}`} onClick={() => setSelectedOrder(order)}>
                         <div className="flex justify-between items-center">
                           <div className="font-bold">
                             <ul className="list-disc ml-4">
